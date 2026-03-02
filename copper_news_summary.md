@@ -1,13 +1,23 @@
 # 🏗️ Copper News & Market Analysis Summary (Sept 2025 – Feb 2026)
 
-Based on our previous discussion, here is a comprehensive summary of the copper market trends and key news articles from the last six months.
-
 ## 📊 Market Overview
 The copper market has been characterized by a **"Triple Threat"** of demand colliding with significant supply shocks, leading to record-breaking prices in early 2026.
 
 ### 📉 Key Themes
 | Theme | Description |
 | :---
+
+## 🔄 Latest Updates (as of 2026-03-02 00:12)
+
+- **[Africa should not pick sides in minerals race, says Zambia - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcGxpR1YxdC03d055WHQ3UXhjOGFvS1V0LTlFYVNtb05Bbm5rRW5IZk42aUg0TUNULUxva3VoTkhLZGhJSUkyRGI2WUJ4S0NEMzZqUjRHXzdCelJDT1hMRmN2NE40VE95bldGSDdCWlY?oc=5)**
+  - *Source: Financial Times | Date: 2026-03-02 05:00*
+- **[US copper mountain still growing after December import surge - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMG9KMms2ejBEbkZIWmhXN0hPWUNiVDZWelZsZTZYckFBaVpNRzhuYXdLRTc4am9aWmNzcWJ1RWxTcXNaT2c5MFQ4VzBuOVE0Z2o5QkVaVUs4SzJWRXdab0Y3NDhnSi15aF9NMTJ4T2hSMTJGMEg3akY1ZWlQMW5EMm0wSDdjR2xPT1RPelA3Rm9CdEFseU1IVGZ0dkVYakdqRlhQcDY2QTNqYWltV25kaDFNakUtTlk?oc=5)**
+  - *Source: Reuters | Date: 2026-02-27 14:18*
+- **[A $40 Billion Copper Boom in Argentina Hinges on Revamped Glacier Law - Bloomberg](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSm90aHRMRTdobGtYM2p2S20xeWIzMEt0cHVWdlA5QUZKU0hkN3ZHd3d0VWN3a0ZiY2dFakpPRVNPQ04yT0xuVVVYcC03YVBUbmY5TjR0SjhWTEFaTVlaTUl6eEtGM2x4SU13alhCZ2wxejQ1UnNraTJ0ZlYyU1ppOVhteEN1UFgtVnlTWWxyRnM5bGljVmJqMWN0cHUyYWVRY3ZLZmZlTVNMQm1iaDkzaE1rRTY0eXNaaHA0?oc=5)**
+  - *Source: Bloomberg | Date: 2026-02-27 13:08*
+
+---
+
 
 ## 🔄 Latest Updates (as of 2026-03-02 08:03)
 
@@ -279,15 +289,6 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 - **[Copper Jumps as China Traders Cheer Prospect of Lower US Levies](https://www.bloomberg.com/news/articles/2026-02-24/copper-jumps-as-china-traders-cheer-prospect-of-lower-us-levies)** (Bloomberg, Feb 2026).
 - **[Consensus 2026 copper price forecast boosted above $11,000](https://www.reuters.com/markets/commodities/analysts-lift-2026-copper-price-forecast-14-poll-2026-01-29/)** (Reuters, Jan 2026).
 
----
-
-## 👩‍💻 Key Journalists to Follow
-| Journalist | Outlet | Specialty |
-| :--- | :--- | :--- |
-| **Harry Dempsey** | Financial Times | Mining & Commodities |
-| **Javier Blas** | Bloomberg | Energy & Natural Resources |
-| **Jack Farchy** | Bloomberg | Industrial Metals |
-| **Andy Home** | Reuters | Metals Market Columnist |
 
 ---
 
