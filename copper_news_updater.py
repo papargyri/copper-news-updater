@@ -10,6 +10,13 @@ def fetch_copper_news():
     articles = []
     seen_urls = set()
 
+    # Target outlets specified by the user
+    target_outlets = {
+        "Financial Times", "The Economist", "The Guardian", 
+        "The New York Times", "The Wall Street Journal", 
+        "Reuters", "Bloomberg"
+    }
+
     # Time window: last 3 days
     three_days_ago = datetime.now() - timedelta(days=3)
 
@@ -21,12 +28,17 @@ def fetch_copper_news():
             published_parsed = entry.get('published_parsed')
             if published_parsed:
                 pub_date = datetime.fromtimestamp(time.mktime(published_parsed))
-                if pub_date > three_days_ago and entry.link not in seen_urls:
+                source_title = entry.get('source', {}).get('title', 'Unknown')
+                
+                # Check if the source matches our target outlets (case-insensitive partial match)
+                is_target_source = any(target.lower() in source_title.lower() for target in target_outlets)
+
+                if pub_date > three_days_ago and entry.link not in seen_urls and is_target_source:
                     articles.append({
                         'title': entry.title,
                         'link': entry.link,
                         'date': pub_date.strftime('%Y-%m-%d %H:%M'),
-                        'source': entry.get('source', {}).get('title', 'Unknown')
+                        'source': source_title
                     })
                     seen_urls.add(entry.link)
     
