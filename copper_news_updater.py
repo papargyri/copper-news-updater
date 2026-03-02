@@ -33,7 +33,8 @@ def fetch_copper_news():
     return sorted(articles, key=lambda x: x['date'], reverse=True)
 
 def update_summary_file(articles):
-    summary_path = "/Users/lamprini/.gemini/antigravity/brain/52e23196-5be4-4750-941a-c5bc44d65450/copper_news_summary.md"
+    # Use relative path for GitHub Actions
+    summary_path = "copper_news_summary.md"
     
     if not articles:
         print("No new articles found.")
