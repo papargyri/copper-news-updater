@@ -48,22 +48,28 @@ def update_summary_file(articles):
     # Use relative path for GitHub Actions
     summary_path = "copper_news_summary.md"
     
-    if not articles:
-        print("No new articles found.")
+    try:
+        with open(summary_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        content = ""
+
+    # Filter out articles that are already present in the summary file
+    new_articles = [art for art in articles if art['link'] not in content]
+
+    if not new_articles:
+        print("No new articles to add. All fetched articles are already in the summary.")
         return
 
     # Prepare the update content
     update_header = f"## 🔄 Latest Updates (as of {datetime.now().strftime('%Y-%m-%d %H:%M')})\n\n"
     article_list = ""
-    for art in articles:
+    for art in new_articles:
         article_list += f"- **[{art['title']}]({art['link']})**\n  - *Source: {art['source']} | Date: {art['date']}*\n"
     
     article_list += "\n---\n"
 
     try:
-        with open(summary_path, "r") as f:
-            content = f.read()
-        
         # Insert updates after the main market overview
         marker = "---"
         parts = content.split(marker, 1)
@@ -73,10 +79,10 @@ def update_summary_file(articles):
         else:
             new_content = content + "\n\n" + update_header + article_list
 
-        with open(summary_path, "w") as f:
+        with open(summary_path, "w", encoding="utf-8") as f:
             f.write(new_content)
         
-        print(f"Successfully updated {summary_path} with {len(articles)} new articles.")
+        print(f"Successfully updated {summary_path} with {len(new_articles)} new articles.")
     except Exception as e:
         print(f"Error updating file: {e}")
 
