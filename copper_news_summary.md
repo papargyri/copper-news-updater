@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-05 06:45)
+
+- **[Argentina Copper Venture Hires RBC on $630 Million Project - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxQX3VodEtjcGdybmdBcWhCVkpBbkxscURlNTA0aE1ocVc2Y1BZN0d0eG5XZm8yMEF6SDg3Sk1ZSkhqdEEyVzFCOVJCRW4zU0hrcnVFZk10WVFPSUljN09oRm8yLXhkZWpNVVgyb2JjY3BlZTFReTBSTmFucVN1WmgtQ1B1V0c5TUVHNklsY191cEpua1RmVnVIT1JWYkV3U3ZVb3M3VFpLcFFIaC1qZURFSWNqdw?oc=5)**
+  - *Source: Bloomberg | Date: 2026-03-05 01:40*
+- **['We've seen nickel supply being disrupted, we think copper supply could also be disrupted': Ghali - BNN Bloomberg](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcloteTRvNHJKaXNrM2tnTG1mcDNzX0RrNE5MTy1MNS13Nk43S2VYUlRuLTIxVmRaeGVQSG1BODVnYjUxekxsS2JMSjM5WGw3TENXblIzdHJucklIT3FfZV90ZDBKazN6RHhlRzJhQXZ3SmNCcDZCOUtJMXNGc1czLVZGSmd4OG9HcjFwY1ZnbWRqc2JubGFyNF9FN1BUVmo4MkxBQlQxSU9YZlRzcWNHdXBMUkJrenY3cGtONnlZZTBZWTU1STh4SGkxZUZHN0JQdzhncThZUWU4TkdhVjVlMXJXY3kzUG8tR0NRWQ?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-03-04 20:47*
+- **[MMG Profit More Than Triples on Copper Rally, Strong Mine Output - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0lkbTB4a0JJalBoMmJ4WEdKNGR1OUlQcHBQdGRuZm1xZDZ3SFZEb20xekszWUpHaC0yalJldmdSakNOcU1PMlhnN01zbnpOWDB6T0p4Mm54UGp5Q0JLbVpWVURpOGFCWGdDV191VVptajFvQ0xfUDRJYjRfQWJ6Q2RITWxUSXc5NnRKY05laHB1TXBMRTVXQllnZ00xRDJVUm9OVkNKbWRZNXlTLW41aHN6MVQ?oc=5)**
+  - *Source: Bloomberg | Date: 2026-03-04 06:24*
+- **[Chinese Copper Supplies Swell as Output Climbs to Record Levels - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzRfTW9qVE1ZMnl5Uy1yUzhLMWpTVWFPT1ZOTm53STJWLU9KYmVhOGJmNE1JS2RmYVhPQUhFY0NwcVh3M3ZIaURhaVVjNHVXcURZVnJGbjlQeExqb1ZyaExSU0Y1VXN6M1pmY2xwbUpwMFB4QnJSeHN1aXpNaUhSWVlxOXFsVWE3MjlsczhNMnhjcnpfQVFHNGZrRVJrU1J4S3piekZEb2N5WDBFLW5wQlNwTXY?oc=5)**
+  - *Source: Bloomberg | Date: 2026-03-03 04:42*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-04 06:41)
 
 - **[MMG Profit More Than Triples on Copper Rally, Strong Mine Output - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0lkbTB4a0JJalBoMmJ4WEdKNGR1OUlQcHBQdGRuZm1xZDZ3SFZEb20xekszWUpHaC0yalJldmdSakNOcU1PMlhnN01zbnpOWDB6T0p4Mm54UGp5Q0JLbVpWVURpOGFCWGdDV191VVptajFvQ0xfUDRJYjRfQWJ6Q2RITWxUSXc5NnRKY05laHB1TXBMRTVXQllnZ00xRDJVUm9OVkNKbWRZNXlTLW41aHN6MVQ?oc=5)**
