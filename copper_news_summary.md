@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-06 06:42)
+
+- **[Codelco, Microsoft sign AI deal for mining operations - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWJHT2M3dEEyQ3JmTTN2RmhiQlZBMUJpS1hBWFh1MEo5bllqX1dCNFU2T1NiOHRWNnA5bzhxdUJGc1NNV0dSc245UFkwTTM4Sk1Qem5lajFHM0dIc3RuSGpIS2ktQUVnTjJrdGFVcUU2SWswUWdBY3ZlY011Ti1jcGtMMnFxTjZ5Mmp0dy13MHpHNVlfVXNkYk5VeFJzVWQ3?oc=5)**
+  - *Source: Reuters | Date: 2026-03-05 14:26*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-05 06:45)
 
 - **[Argentina Copper Venture Hires RBC on $630 Million Project - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxQX3VodEtjcGdybmdBcWhCVkpBbkxscURlNTA0aE1ocVc2Y1BZN0d0eG5XZm8yMEF6SDg3Sk1ZSkhqdEEyVzFCOVJCRW4zU0hrcnVFZk10WVFPSUljN09oRm8yLXhkZWpNVVgyb2JjY3BlZTFReTBSTmFucVN1WmgtQ1B1V0c5TUVHNklsY191cEpua1RmVnVIT1JWYkV3U3ZVb3M3VFpLcFFIaC1qZURFSWNqdw?oc=5)**
