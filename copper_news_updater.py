@@ -5,6 +5,7 @@ import json
 import yfinance as yf
 from datetime import datetime, timedelta
 import time
+from generate_interactive_chart import generate_interactive_chart
 
 def fetch_copper_news():
     # Google News RSS feeds for copper-related terms
@@ -161,4 +162,11 @@ if __name__ == "__main__":
     print("Starting copper news update...")
     fetched_articles = fetch_copper_news()
     update_summary_file(fetched_articles)
+    
+    # Generate the updated interactive chart with the latest data
+    try:
+        generate_interactive_chart()
+    except Exception as e:
+        print(f"Error generating chart: {e}")
+        
     print("Update complete.")
