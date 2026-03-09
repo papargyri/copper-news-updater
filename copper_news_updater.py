@@ -2,6 +2,7 @@ import feedparser
 import requests
 import os
 import json
+import yfinance as yf
 from datetime import datetime, timedelta
 import time
 
@@ -45,6 +46,25 @@ def fetch_copper_news():
     
     return sorted(articles, key=lambda x: x['date'], reverse=True)
 
+def fetch_daily_copper_price():
+    """Fetches the latest closing price of Copper Futures (HG=F) using yfinance."""
+    print("Fetching today's copper futures price (HG=F)...")
+    try:
+        copper = yf.Ticker("HG=F")
+        # Get the last 5 days to ensure we get the most recent trading close (skips weekends/holidays)
+        hist = copper.history(period="5d")
+        if not hist.empty:
+            latest_close = float(hist['Close'].iloc[-1])
+            latest_date = hist.index[-1].strftime('%Y-%m-%d')
+            print(f"Latest Copper Price ({latest_date}): ${latest_close:.4f}")
+            return {"date": latest_date, "price_usd": round(latest_close, 4)}
+        else:
+            print("Warning: Could not fetch copper price data (empty result).")
+            return None
+    except Exception as e:
+        print(f"Error fetching copper price: {e}")
+        return None
+
 def update_summary_file(articles):
     # Use relative path for GitHub Actions
     summary_path = "copper_news_summary.md"
@@ -64,30 +84,11 @@ def update_summary_file(articles):
     print(f"Total articles fetched from RSS (last 3 days): {len(articles)}")
     print(f"Total new articles after filtering duplicates: {len(new_articles)}")
 
-    if not new_articles:
-        print("No new articles to add. All fetched articles are already in the summary.")
-        return
+    update_json_datastore(new_articles, json_path)
 
-    # Update structured JSON datastore
-    try:
-        if os.path.exists(json_path):
-            with open(json_path, 'r', encoding='utf-8') as f:
-                json_data = json.load(f)
-        else:
-            json_data = {}
-            
-        for art in new_articles:
-            # Extract just the date part (YYYY-MM-DD) for grouping
-            pub_date = art['date'].split(' ')[0]
-            if pub_date not in json_data:
-                json_data[pub_date] = []
-            json_data[pub_date].append(art)
-            
-        with open(json_path, 'w', encoding='utf-8') as f:
-            json.dump(json_data, f, indent=4)
-        print(f"Successfully appended to structured datastore: {json_path}")
-    except Exception as e:
-        print(f"Error updating JSON datastore: {e}")
+    if not new_articles:
+        print("No new articles to add to Markdown. All fetched articles are already in the summary.")
+        return
 
     # Prepare the update content for markdown
     update_header = f"## 🔄 Latest Updates (as of {datetime.now().strftime('%Y-%m-%d %H:%M')})\n\n"
@@ -114,8 +115,50 @@ def update_summary_file(articles):
     except Exception as e:
         print(f"Error updating file: {e}")
 
+def update_json_datastore(new_articles, json_path):
+    """Updates the JSON file with new articles and the latest copper price."""
+    # Fetch today's price
+    price_data = fetch_daily_copper_price()
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    price_date = price_data['date'] if price_data else today_str
+    
+    # We log data under the price's trading date to align markets with news
+    target_date = price_date
+
+    try:
+        if os.path.exists(json_path):
+            with open(json_path, 'r', encoding='utf-8') as f:
+                json_data = json.load(f)
+        else:
+            json_data = {}
+            
+        # Ensure the date entry exists
+        if target_date not in json_data:
+            json_data[target_date] = {"price_usd": None, "articles": []}
+            
+        # Update the price if we successfully fetched it
+        if price_data:
+             json_data[target_date]["price_usd"] = price_data["price_usd"]
+            
+        # Append any new articles
+        article_list = json_data[target_date].get("articles", [])
+        extracted_urls = [a['link'] for a in article_list]
+        for art in new_articles:
+            # Prevent duplicates inside the JSON array just in case
+            if art['link'] not in extracted_urls:
+                 article_list.append(art)
+                 extracted_urls.append(art['link'])
+                 
+        json_data[target_date]["articles"] = article_list
+            
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, indent=4)
+        print(f"Successfully updated structured datastore: {json_path}")
+    except Exception as e:
+        print(f"Error updating JSON datastore: {e}")
+
 if __name__ == "__main__":
     print("Starting copper news update...")
-    new_articles = fetch_copper_news()
-    update_summary_file(new_articles)
+    fetched_articles = fetch_copper_news()
+    update_summary_file(fetched_articles)
     print("Update complete.")
