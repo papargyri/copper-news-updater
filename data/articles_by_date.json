@@ -2,5 +2,3166 @@
     "2026-03-09": {
         "price_usd": 5.8995,
         "articles": []
+    },
+    "2025-01-01": {
+        "price_usd": 3.986,
+        "articles": []
+    },
+    "2025-01-02": {
+        "price_usd": 3.9885,
+        "articles": []
+    },
+    "2025-01-03": {
+        "price_usd": 4.0395,
+        "articles": []
+    },
+    "2025-01-04": {
+        "price_usd": 4.0395,
+        "articles": []
+    },
+    "2025-01-05": {
+        "price_usd": 4.0395,
+        "articles": [
+            {
+                "title": "Vancouver Resource Investment Conference highlights global battle for commodities - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFM2VDNKUjZ0TTJpRDhyLXR5SmJVN3pMYmlmYk5lRzhXTlNxTHdHbzdzbXgtSXo1RWI1dlpSTjUwSjl6SzRjTFpBWTZHVnRVMVA4NmlqVHJ3a1Z4Zlp1UkJLbkpERVZRS2k0azdxWEY1YkpSNnhYVVYtU29EQnlKS2wxRUZnb3RPS3pEcy1aMV9hbC1mWHNWM1lqeVJUcmU3QnRGRUs0NDE4ZTlBS3R6MzZDSjJ0b3l5ZWxjMDd0UmRTcGFNQlViM1VBNDJHOUpBWEE0bGNB?oc=5",
+                "date": "2025-01-06 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2025-01-06": {
+        "price_usd": 4.127,
+        "articles": [
+            {
+                "title": "Vancouver Resource Investment Conference highlights global battle for commodities - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFM2VDNKUjZ0TTJpRDhyLXR5SmJVN3pMYmlmYk5lRzhXTlNxTHdHbzdzbXgtSXo1RWI1dlpSTjUwSjl6SzRjTFpBWTZHVnRVMVA4NmlqVHJ3a1Z4Zlp1UkJLbkpERVZRS2k0azdxWEY1YkpSNnhYVVYtU29EQnlKS2wxRUZnb3RPS3pEcy1aMV9hbC1mWHNWM1lqeVJUcmU3QnRGRUs0NDE4ZTlBS3R6MzZDSjJ0b3l5ZWxjMDd0UmRTcGFNQlViM1VBNDJHOUpBWEE0bGNB?oc=5",
+                "date": "2025-01-06 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2025-01-07": {
+        "price_usd": 4.1605,
+        "articles": []
+    },
+    "2025-01-08": {
+        "price_usd": 4.2275,
+        "articles": []
+    },
+    "2025-01-09": {
+        "price_usd": 4.2795,
+        "articles": []
+    },
+    "2025-01-10": {
+        "price_usd": 4.2745,
+        "articles": []
+    },
+    "2025-01-11": {
+        "price_usd": 4.2745,
+        "articles": []
+    },
+    "2025-01-12": {
+        "price_usd": 4.2745,
+        "articles": []
+    },
+    "2025-01-13": {
+        "price_usd": 4.2955,
+        "articles": [
+            {
+                "title": "Copper's early-year rally leaves investors unimpressed - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHlSWlN3cXV1SjNqQjFIcThVaFBndE54S3FPYWFHQW9Qa2VyU0hkd0JjSDF3VHU3VmU2WUtPbVlrbTFfN2lBUHA1YzVLanRkV2lEUjNTdEJ0eHo5ZDFDc2dWVUFsRVlENlhqT3NDOVg0SXR4ZzVhVFNHR1JyYlFDbU5ZcVVSYkgzUWdMd1J0YUJJU0t4a0czTFRMUE1RcU8yMUw4N1lRMjAxWUo5ZUZJTnFNMk9HS2s2R21n?oc=5",
+                "date": "2025-01-14 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-01-14": {
+        "price_usd": 4.3105,
+        "articles": [
+            {
+                "title": "Copper's early-year rally leaves investors unimpressed - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHlSWlN3cXV1SjNqQjFIcThVaFBndE54S3FPYWFHQW9Qa2VyU0hkd0JjSDF3VHU3VmU2WUtPbVlrbTFfN2lBUHA1YzVLanRkV2lEUjNTdEJ0eHo5ZDFDc2dWVUFsRVlENlhqT3NDOVg0SXR4ZzVhVFNHR1JyYlFDbU5ZcVVSYkgzUWdMd1J0YUJJU0t4a0czTFRMUE1RcU8yMUw4N1lRMjAxWUo5ZUZJTnFNMk9HS2s2R21n?oc=5",
+                "date": "2025-01-14 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-01-15": {
+        "price_usd": 4.3595,
+        "articles": []
+    },
+    "2025-01-16": {
+        "price_usd": 4.4105,
+        "articles": []
+    },
+    "2025-01-17": {
+        "price_usd": 4.3375,
+        "articles": []
+    },
+    "2025-01-18": {
+        "price_usd": 4.3375,
+        "articles": [
+            {
+                "title": "Copper market sees half chance of 10% US tariff by first quarter-end, Goldman says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0RhaDAwYS1xVzNBTkNGb1FjOHh1blg0bjRETmQwQjhmblNLbWJvaWIyNlFWb3N1NmxLdkJ2VDZoa0d4VlVwUG91MWM5UW9vLXZpMUVVWjNSWkdHZ2g1RnRReUdGYkVxZTZRZ1hPaVlBLXJlaDk4bTNhM1pmV3otWFRxUUN4cEU5QXRJZ09rMjQ3S2N6U29SRVVaMExGaEdkX0h4ZmlvYWtNbHNTSHgzWkVzanBObDNfekU1TjJIWFJzN2xBSE52STRXbG93Zw?oc=5",
+                "date": "2025-01-19 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-01-19": {
+        "price_usd": 4.3375,
+        "articles": [
+            {
+                "title": "Copper market sees half chance of 10% US tariff by first quarter-end, Goldman says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0RhaDAwYS1xVzNBTkNGb1FjOHh1blg0bjRETmQwQjhmblNLbWJvaWIyNlFWb3N1NmxLdkJ2VDZoa0d4VlVwUG91MWM5UW9vLXZpMUVVWjNSWkdHZ2g1RnRReUdGYkVxZTZRZ1hPaVlBLXJlaDk4bTNhM1pmV3otWFRxUUN4cEU5QXRJZ09rMjQ3S2N6U29SRVVaMExGaEdkX0h4ZmlvYWtNbHNTSHgzWkVzanBObDNfekU1TjJIWFJzN2xBSE52STRXbG93Zw?oc=5",
+                "date": "2025-01-19 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-01-20": {
+        "price_usd": 4.3375,
+        "articles": []
+    },
+    "2025-01-21": {
+        "price_usd": 4.311,
+        "articles": []
+    },
+    "2025-01-22": {
+        "price_usd": 4.2715,
+        "articles": []
+    },
+    "2025-01-23": {
+        "price_usd": 4.2995,
+        "articles": []
+    },
+    "2025-01-24": {
+        "price_usd": 4.29,
+        "articles": []
+    },
+    "2025-01-25": {
+        "price_usd": 4.29,
+        "articles": []
+    },
+    "2025-01-26": {
+        "price_usd": 4.29,
+        "articles": [
+            {
+                "title": "India\u2019s JSW Enters Copper Business After Winning Mines Contract - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHhSQ1ptQTE0UVBwTjlxQ0pPN0xvRnBtTnRnNGZQN3NsNTBOUGlOMmhROXBfc1lpeDlMZ05MRWg5eVpwS0xwQmdTYnFXX1VsVHF6eWxVTVUzY0prLXNGblVwWm9fN2pocUZLS1RzMGZsblpLVXNuRTZIT0hpa0tPRUljVkZjTmFscEZWZngteXN2RW5iZGhOSU9rdzVIbVdLLTN0XzBpb183dlYzNXA5MVdZaVg?oc=5",
+                "date": "2025-01-27 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-01-27": {
+        "price_usd": 4.2035,
+        "articles": []
+    },
+    "2025-01-28": {
+        "price_usd": 4.2205,
+        "articles": []
+    },
+    "2025-01-29": {
+        "price_usd": 4.2575,
+        "articles": []
+    },
+    "2025-01-30": {
+        "price_usd": 4.288,
+        "articles": []
+    },
+    "2025-01-31": {
+        "price_usd": 4.262,
+        "articles": []
+    },
+    "2025-02-01": {
+        "price_usd": 4.262,
+        "articles": []
+    },
+    "2025-02-02": {
+        "price_usd": 4.262,
+        "articles": [
+            {
+                "title": "Energy Giant Vitol Targets Copper Market With Hire From Glencore - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlFISnBPeEQtZnFqaElmRmd0elhjOUVFUUZDdkNuQzFzZzB6YW1CcExqVHRqalVlbU5HSTdONzhmLThYanRLMUlTbThGZFpQbXFXT1ZhdXMxNEs1NWhKU2IycUFlTmtnUzMyVThoWlFzdVFFUk05empCTmNsRkJ2aGtOS0Z4anRqbXpKUGhsUnVVSDY0QnNzcW9rQkVOaWd1UHExUUhqR2RHUFlQZWhYTGxCdjB3UQ?oc=5",
+                "date": "2025-02-03 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-02-03": {
+        "price_usd": 4.294,
+        "articles": [
+            {
+                "title": "Energy Giant Vitol Targets Copper Market With Hire From Glencore - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlFISnBPeEQtZnFqaElmRmd0elhjOUVFUUZDdkNuQzFzZzB6YW1CcExqVHRqalVlbU5HSTdONzhmLThYanRLMUlTbThGZFpQbXFXT1ZhdXMxNEs1NWhKU2IycUFlTmtnUzMyVThoWlFzdVFFUk05empCTmNsRkJ2aGtOS0Z4anRqbXpKUGhsUnVVSDY0QnNzcW9rQkVOaWd1UHExUUhqR2RHUFlQZWhYTGxCdjB3UQ?oc=5",
+                "date": "2025-02-03 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-02-04": {
+        "price_usd": 4.3425,
+        "articles": []
+    },
+    "2025-02-05": {
+        "price_usd": 4.4345,
+        "articles": []
+    },
+    "2025-02-06": {
+        "price_usd": 4.4535,
+        "articles": []
+    },
+    "2025-02-07": {
+        "price_usd": 4.5815,
+        "articles": []
+    },
+    "2025-02-08": {
+        "price_usd": 4.5815,
+        "articles": []
+    },
+    "2025-02-09": {
+        "price_usd": 4.5815,
+        "articles": [
+            {
+                "title": "US copper price premium soars to record after Trump tariff moves - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlk4eTVIZlcxa3hRTF82aVIyS3JUMU5kd2gxVFNVTWVBSVFiQ1ZxQ0ZJdG40NUkwcUxkVGpFb0ZmZ1RWTUNHXzZHdi1pMHcxZDR3cVFXYVFCQm51bVV6U2ZmWEZYYW43UmUzUXhKaGFOeWNfT1o4SVFISTJXellESzJwREYxNVp2T0FCY25lMGdTazc3VkJwUnVTRWxDTzRJZnZSZloyWW04WFJKVkhMN2QtNHE0WE9z?oc=5",
+                "date": "2025-02-10 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-02-10": {
+        "price_usd": 4.7005,
+        "articles": [
+            {
+                "title": "US copper price premium soars to record after Trump tariff moves - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlk4eTVIZlcxa3hRTF82aVIyS3JUMU5kd2gxVFNVTWVBSVFiQ1ZxQ0ZJdG40NUkwcUxkVGpFb0ZmZ1RWTUNHXzZHdi1pMHcxZDR3cVFXYVFCQm51bVV6U2ZmWEZYYW43UmUzUXhKaGFOeWNfT1o4SVFISTJXellESzJwREYxNVp2T0FCY25lMGdTazc3VkJwUnVTRWxDTzRJZnZSZloyWW04WFJKVkhMN2QtNHE0WE9z?oc=5",
+                "date": "2025-02-10 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-02-11": {
+        "price_usd": 4.5945,
+        "articles": [
+            {
+                "title": "Tariff threat opens up transatlantic rift in copper pricing - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTJsT1FFOXVvMW1XalhiWHJxMC1IeE5xLUlIdUo5bW5ndmpoVXFuZzE1d1hvWC1ONWFZd21zc3dTd1ltLTNjbm5FRnpTMGpoUnhoeHNJaElYUm9BS1F4TEM0VTNYUzRjV1RyYTB0VGRpYUJ5SXFDVTVUNjAzM3lBWE1NQ1ZtbTREdDJSZXlGdFdzUmtEU0VSNkR5cmNtYjdxZUpzY3AtdXNVS0hYaW90SkhEZHpTdlZ1eXl0VmJ0SQ?oc=5",
+                "date": "2025-02-12 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Barrick Gold reports US$2.14B profit for 2024, up from $1.27B in 2023 - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnBUV1JmLUZ0MkRrQzdWYXlGbTNrbkpYN2FyZTNldjZGMTRtaVRvdWROLWEyN19LamF4OVhiVXNNVms3Uks2UVNfdTRzRld5Y1lYbGJpNE1JOGpTaERvTm5aWm1pVGxPNS1obzZVWFh3dWI0eEk4dlZYVUd0RTA2VmJWMkhoMmJSMFd0aXVVVHg4VzA0X2FUWFp1WGM5RzhYWUpSNnlNTmszS20zeUtKZ1RHZ1pmY0NkQVd3?oc=5",
+                "date": "2025-02-12 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2025-02-12": {
+        "price_usd": 4.698,
+        "articles": [
+            {
+                "title": "Tariff threat opens up transatlantic rift in copper pricing - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTJsT1FFOXVvMW1XalhiWHJxMC1IeE5xLUlIdUo5bW5ndmpoVXFuZzE1d1hvWC1ONWFZd21zc3dTd1ltLTNjbm5FRnpTMGpoUnhoeHNJaElYUm9BS1F4TEM0VTNYUzRjV1RyYTB0VGRpYUJ5SXFDVTVUNjAzM3lBWE1NQ1ZtbTREdDJSZXlGdFdzUmtEU0VSNkR5cmNtYjdxZUpzY3AtdXNVS0hYaW90SkhEZHpTdlZ1eXl0VmJ0SQ?oc=5",
+                "date": "2025-02-12 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Barrick Gold reports US$2.14B profit for 2024, up from $1.27B in 2023 - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnBUV1JmLUZ0MkRrQzdWYXlGbTNrbkpYN2FyZTNldjZGMTRtaVRvdWROLWEyN19LamF4OVhiVXNNVms3Uks2UVNfdTRzRld5Y1lYbGJpNE1JOGpTaERvTm5aWm1pVGxPNS1obzZVWFh3dWI0eEk4dlZYVUd0RTA2VmJWMkhoMmJSMFd0aXVVVHg4VzA0X2FUWFp1WGM5RzhYWUpSNnlNTmszS20zeUtKZ1RHZ1pmY0NkQVd3?oc=5",
+                "date": "2025-02-12 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2025-02-13": {
+        "price_usd": 4.769,
+        "articles": []
+    },
+    "2025-02-14": {
+        "price_usd": 4.6565,
+        "articles": []
+    },
+    "2025-02-15": {
+        "price_usd": 4.6565,
+        "articles": []
+    },
+    "2025-02-16": {
+        "price_usd": 4.6565,
+        "articles": [
+            {
+                "title": "Congo emerges as China\u2019s strategic copper supplier - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnJVMWpLZlB2OXR2OU9aRXFYV1RzVjlPLVd5LVI0Y1ZJNms4Rm5pUk82TnUwWlFVOE9OdDlVV3JNbHR4OGYxV1FFNFk1YVdqclNiN2NJUzdlMFBweWtHNGQ4LXI0T1BkR3E3SHlETnA5SjQ4VzRTSGhBdE9uRDk1Q01EX3k0S19SUlNTSml6MWxnRlhLczEzMV9tNllBbktfNW1UOXh5S25uTWZrWHNjZFVB?oc=5",
+                "date": "2025-02-17 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-02-17": {
+        "price_usd": 4.6565,
+        "articles": []
+    },
+    "2025-02-18": {
+        "price_usd": 4.585,
+        "articles": []
+    },
+    "2025-02-19": {
+        "price_usd": 4.557,
+        "articles": []
+    },
+    "2025-02-20": {
+        "price_usd": 4.608,
+        "articles": [
+            {
+                "title": "Stockpickers: Copper demand soars but volatility is never far away - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bb1FGbGI1cVFUWC1ZWU53dGMyaEFxcmJWMHRSaVB6Ym5MVzlTTlZiaVdaSEZ2dzVvdmJKTDA1ZjQzREkxdGkwUnNzVjFZQlRjbHF1aFFpNnJoRmoxRG1NRnQ2NDRJMWk2NWR3QUdVOE8?oc=5",
+                "date": "2025-02-21 08:00",
+                "source": "Financial Times"
+            }
+        ]
+    },
+    "2025-02-21": {
+        "price_usd": 4.56,
+        "articles": [
+            {
+                "title": "Stockpickers: Copper demand soars but volatility is never far away - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bb1FGbGI1cVFUWC1ZWU53dGMyaEFxcmJWMHRSaVB6Ym5MVzlTTlZiaVdaSEZ2dzVvdmJKTDA1ZjQzREkxdGkwUnNzVjFZQlRjbHF1aFFpNnJoRmoxRG1NRnQ2NDRJMWk2NWR3QUdVOE8?oc=5",
+                "date": "2025-02-21 08:00",
+                "source": "Financial Times"
+            }
+        ]
+    },
+    "2025-02-22": {
+        "price_usd": 4.56,
+        "articles": [
+            {
+                "title": "Niger launches copper mine to spur its mineral ambitions - The Guardian Nigeria News",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3pjYkZySjJjVG5qSmdlTXdoRnl6NUFNcXh2UElaeGNLb2l3YWQ3STVNakl2dUZGNUExQ3FHeFJvVUJWR09JWVhucmdVeDN0aXJnRjdValFYM3EtamFWaE1PYkkyRTRiZ1JlaWdUWW1KeG94QXI2RTA4RHpuVDhaYXZJMDJNQm5EWlE?oc=5",
+                "date": "2025-02-23 08:00",
+                "source": "The Guardian Nigeria News"
+            }
+        ]
+    },
+    "2025-02-23": {
+        "price_usd": 4.56,
+        "articles": []
+    },
+    "2025-02-24": {
+        "price_usd": 4.517,
+        "articles": [
+            {
+                "title": "Trump orders new tariff probe into US copper imports - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlZScXVmclZPZ3hOZ1doTDkyWVc1VUVpd2Ntem9OSlo2azRqdm11UnJvWHFkQzE1YlpVUFVqUEdZdl96NEdjYmw4SWRuNU9mMUtWdlRzRnFublZQX1JLamRzdTM4RTJ6cGZLYkFNWFNqMFNQU3FEUk9UZ2JnNXJVa3BnVTZIZzBCVWtBTnZMU3cxcXMybm1DNkkwalJjdw?oc=5",
+                "date": "2025-02-25 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Donald Trump orders new tariff investigation into US copper imports - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDV1WFM3YlZrMkxIcG12VnhQWkRlX3Fsb3Q0aXlVZWd6MVV0NnE1UlFNNk5FRElxaGYzMWd2bzJaSE1oYmE4S1ZTenJua1B3S0lYaVlTNUJScXk1OWFBZGNCWlJTTDh4VEV4VFZ5TWpWanRPZ25aYUNNbFcxR2RZcUx2NVAxOGtva3c?oc=5",
+                "date": "2025-02-25 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-02-25": {
+        "price_usd": 4.486,
+        "articles": [
+            {
+                "title": "Trump orders new tariff probe into US copper imports - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlZScXVmclZPZ3hOZ1doTDkyWVc1VUVpd2Ntem9OSlo2azRqdm11UnJvWHFkQzE1YlpVUFVqUEdZdl96NEdjYmw4SWRuNU9mMUtWdlRzRnFublZQX1JLamRzdTM4RTJ6cGZLYkFNWFNqMFNQU3FEUk9UZ2JnNXJVa3BnVTZIZzBCVWtBTnZMU3cxcXMybm1DNkkwalJjdw?oc=5",
+                "date": "2025-02-25 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Donald Trump orders new tariff investigation into US copper imports - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDV1WFM3YlZrMkxIcG12VnhQWkRlX3Fsb3Q0aXlVZWd6MVV0NnE1UlFNNk5FRElxaGYzMWd2bzJaSE1oYmE4S1ZTenJua1B3S0lYaVlTNUJScXk1OWFBZGNCWlJTTDh4VEV4VFZ5TWpWanRPZ25aYUNNbFcxR2RZcUx2NVAxOGtva3c?oc=5",
+                "date": "2025-02-25 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-02-26": {
+        "price_usd": 4.542,
+        "articles": []
+    },
+    "2025-02-27": {
+        "price_usd": 4.58,
+        "articles": []
+    },
+    "2025-02-28": {
+        "price_usd": 4.5145,
+        "articles": []
+    },
+    "2025-03-01": {
+        "price_usd": 4.5145,
+        "articles": []
+    },
+    "2025-03-02": {
+        "price_usd": 4.5145,
+        "articles": [
+            {
+                "title": "Mine copper without destroying the planet? London-based project gives scientists hope - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlo1ZVFoV1NQQjdxYlJVQTlrSEROOWdFMlRVS2g1ZXJ2eTZjbklUUldRVTFJeS1zcVhiMVVwcDByRjI3dWh3ZTh0LWJTR3Rad1dOTUVpRFBETXRoMWZtaDRIUXlCTEZHX3hkWjk5UzJQMkJEdllpLVdVM1ZRdWpudk82Vy1Fc0o5dUFCeEU2TTlUYmc?oc=5",
+                "date": "2025-03-03 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-03-03": {
+        "price_usd": 4.5765,
+        "articles": [
+            {
+                "title": "Mine copper without destroying the planet? London-based project gives scientists hope - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlo1ZVFoV1NQQjdxYlJVQTlrSEROOWdFMlRVS2g1ZXJ2eTZjbklUUldRVTFJeS1zcVhiMVVwcDByRjI3dWh3ZTh0LWJTR3Rad1dOTUVpRFBETXRoMWZtaDRIUXlCTEZHX3hkWjk5UzJQMkJEdllpLVdVM1ZRdWpudk82Vy1Fc0o5dUFCeEU2TTlUYmc?oc=5",
+                "date": "2025-03-03 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-03-04": {
+        "price_usd": 4.5275,
+        "articles": []
+    },
+    "2025-03-05": {
+        "price_usd": 4.7665,
+        "articles": []
+    },
+    "2025-03-06": {
+        "price_usd": 4.779,
+        "articles": []
+    },
+    "2025-03-07": {
+        "price_usd": 4.683,
+        "articles": []
+    },
+    "2025-03-08": {
+        "price_usd": 4.683,
+        "articles": []
+    },
+    "2025-03-09": {
+        "price_usd": 4.683,
+        "articles": [
+            {
+                "title": "US tariff threat brings boom time for physical copper traders - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazNSMDlvWWVWQV83WmpkSVhFeEhWOHV4MENuMDJ4ZjlmRXFNZlI1ZXJHTzZLcENiR0V0WGctZ3RLZzNuUHpLZ2hkU251ZHVGQVgyaDQ1QjJub3paNXVNVUtVd3BvXzc4WjlaLUVPSUVUb01aTThiMjBhVEFlTzRuYTR3WGIwNVRrWkVyT3VJMm5MQUlzRFlzREpPYjM2aFJwOHpNcTFEOW5rSG1lOHRmbWdnbw?oc=5",
+                "date": "2025-03-10 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-03-10": {
+        "price_usd": 4.6395,
+        "articles": [
+            {
+                "title": "Goldman Sachs anticipates surge in US copper net imports - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0g0R2lkTExLZ296S3Y1d2ZyTjQ0T1pON2wzNXRCWnRjMVRhdUJOMVFaWFFPcXlsWjVFc2owYU9lZXMwaHNael9uVUloU05LX0I5Uk1mZ2RZVTkySVBFTkJXUS1BcHdSV0ZGVjJJNzRzTE1nWllQRjg0bmRxVUxWVnZLQ3pqcDl3OEtrZ19LanVCVDhZV2tuaHhjZnI2LW5VT0kySVN2VEFrUGozeXc?oc=5",
+                "date": "2025-03-11 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "US tariff threat brings boom time for physical copper traders - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazNSMDlvWWVWQV83WmpkSVhFeEhWOHV4MENuMDJ4ZjlmRXFNZlI1ZXJHTzZLcENiR0V0WGctZ3RLZzNuUHpLZ2hkU251ZHVGQVgyaDQ1QjJub3paNXVNVUtVd3BvXzc4WjlaLUVPSUVUb01aTThiMjBhVEFlTzRuYTR3WGIwNVRrWkVyT3VJMm5MQUlzRFlzREpPYjM2aFJwOHpNcTFEOW5rSG1lOHRmbWdnbw?oc=5",
+                "date": "2025-03-10 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-03-11": {
+        "price_usd": 4.74,
+        "articles": [
+            {
+                "title": "Goldman Sachs anticipates surge in US copper net imports - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0g0R2lkTExLZ296S3Y1d2ZyTjQ0T1pON2wzNXRCWnRjMVRhdUJOMVFaWFFPcXlsWjVFc2owYU9lZXMwaHNael9uVUloU05LX0I5Uk1mZ2RZVTkySVBFTkJXUS1BcHdSV0ZGVjJJNzRzTE1nWllQRjg0bmRxVUxWVnZLQ3pqcDl3OEtrZ19LanVCVDhZV2tuaHhjZnI2LW5VT0kySVN2VEFrUGozeXc?oc=5",
+                "date": "2025-03-11 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "China Moves for Higher Copper Exports Amid Market Upheaval - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2lsZ2dpQ1REb3BCSnZQelBvVFllS0YyNE16ekc5Y1A5Z2EtS2JDa0VvWHZmNU1KbjlXa1N0ME1DRlJBbzNpOVl0WHpORWNCNWd1LWF4cnlfU1otS2RXT1ZKTjhyZHlBZEs2Wl9TekJVeFIzZzFId2FvQXJ6MFBzTi0yRXA5RmREcEoyUzhPUHpscFZ6alV4TE9vTlp3eEZSTFFsNU5nSjhFSU1xRU15d0h1RHU?oc=5",
+                "date": "2025-03-12 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-03-12": {
+        "price_usd": 4.821,
+        "articles": [
+            {
+                "title": "China Moves for Higher Copper Exports Amid Market Upheaval - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2lsZ2dpQ1REb3BCSnZQelBvVFllS0YyNE16ekc5Y1A5Z2EtS2JDa0VvWHZmNU1KbjlXa1N0ME1DRlJBbzNpOVl0WHpORWNCNWd1LWF4cnlfU1otS2RXT1ZKTjhyZHlBZEs2Wl9TekJVeFIzZzFId2FvQXJ6MFBzTi0yRXA5RmREcEoyUzhPUHpscFZ6alV4TE9vTlp3eEZSTFFsNU5nSjhFSU1xRU15d0h1RHU?oc=5",
+                "date": "2025-03-12 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-03-13": {
+        "price_usd": 4.8985,
+        "articles": []
+    },
+    "2025-03-14": {
+        "price_usd": 4.8695,
+        "articles": []
+    },
+    "2025-03-15": {
+        "price_usd": 4.8695,
+        "articles": []
+    },
+    "2025-03-16": {
+        "price_usd": 4.8695,
+        "articles": [
+            {
+                "title": "Copper Rises to Five-Month High After China Vows to Boost Demand - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSDVaSzNhWVBpejVWUUFuTU9GYjk1VW9TSXMteWNHR1MySTBzRi12RmpUcURsSUs4WXpOOVREaFBadXh4QUJ2cy1nUEdnRWs2UVNEbmdPdjltN2RBYzZoN0tqS3NuUW5oam12XzExNnRHbXNsQ0x6SlpSZVQyVXR3bU45ZFBSMm5yNnVZdXVQTEIzeDRIWENORWlORGZ5Uk5qYWY2VThZREE1VHFzWjkxSA?oc=5",
+                "date": "2025-03-17 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-03-17": {
+        "price_usd": 4.9335,
+        "articles": [
+            {
+                "title": "Copper Rises to Five-Month High After China Vows to Boost Demand - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSDVaSzNhWVBpejVWUUFuTU9GYjk1VW9TSXMteWNHR1MySTBzRi12RmpUcURsSUs4WXpOOVREaFBadXh4QUJ2cy1nUEdnRWs2UVNEbmdPdjltN2RBYzZoN0tqS3NuUW5oam12XzExNnRHbXNsQ0x6SlpSZVQyVXR3bU45ZFBSMm5yNnVZdXVQTEIzeDRIWENORWlORGZ5Uk5qYWY2VThZREE1VHFzWjkxSA?oc=5",
+                "date": "2025-03-17 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-03-18": {
+        "price_usd": 4.993,
+        "articles": []
+    },
+    "2025-03-19": {
+        "price_usd": 5.076,
+        "articles": []
+    },
+    "2025-03-20": {
+        "price_usd": 5.085,
+        "articles": []
+    },
+    "2025-03-21": {
+        "price_usd": 5.0875,
+        "articles": []
+    },
+    "2025-03-22": {
+        "price_usd": 5.0875,
+        "articles": []
+    },
+    "2025-03-23": {
+        "price_usd": 5.0875,
+        "articles": [
+            {
+                "title": "Copper Markets in Asia Tighten Up as Tariff Fears Spur Turmoil - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEZKMEhFSmhpQU9iek5LU1ltYjVtTzVkMTdWUGZHZGJ6RzRhQWNLb3UwQlJNZGd3UVZBQjVUTWVKeEFkOUc4OHg2azRNNV9lRU1XRk4xU0tQV2dfUkdRWlR5NlU0TDZON2RyMGpXd2o3djloYWJYNTZ3cFRBakd2YmU2NVBVUC1VQllwU3hqMENNaU9UcWxxaVhOUUtJdWF3T3BqWjdlbERLRjlQVE9vaG4wWQ?oc=5",
+                "date": "2025-03-24 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper\u2019s Uber-Bull Predicts New Record on Most-Profitable-Ever Trade - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1N1QUdoeTBBVkVVektRbkEweS1ENExyVlV0dzdINnRvVDdTQlgxX1hSNVh0bkljcVVfMlJ4MXB0WDh3a2V1OV9VVXFUV1c4Wm1VbTZyLTI0WjZTdUsxS1oxOVI2b0R4V3ZJbE9QckMtU2xCdkY4LVdDMV9BSXU0VEJUd0ZXeTNLazlha0Zab3N4YkVxd2VnVWhPWU03angxSV9IdVhHYl94Z3A4Z280cGRaeldKWDZwZ29F?oc=5",
+                "date": "2025-03-24 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-03-24": {
+        "price_usd": 5.064,
+        "articles": [
+            {
+                "title": "Copper\u2019s Uber-Bull Predicts New Record on Most-Profitable-Ever Trade - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1N1QUdoeTBBVkVVektRbkEweS1ENExyVlV0dzdINnRvVDdTQlgxX1hSNVh0bkljcVVfMlJ4MXB0WDh3a2V1OV9VVXFUV1c4Wm1VbTZyLTI0WjZTdUsxS1oxOVI2b0R4V3ZJbE9QckMtU2xCdkY4LVdDMV9BSXU0VEJUd0ZXeTNLazlha0Zab3N4YkVxd2VnVWhPWU03angxSV9IdVhHYl94Z3A4Z280cGRaeldKWDZwZ29F?oc=5",
+                "date": "2025-03-24 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-03-25": {
+        "price_usd": 5.183,
+        "articles": [
+            {
+                "title": "Goldman maintains copper price forecasts, says tariffs will avert US glut - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3pkdkVieVlUTmpxU2J1QmdKbVVyVnZYNkJQUnhna2puVXd1OU9LQi1RUTZsbG0xbzJjRE52TTlVcjZxLTVKVkJYSHRpYVhwWTU0el81NTFLUWlaN0RiVnVQS0R3cmkxZVBCNnE5aDF0dGROOFVjb2ItQ2l2NV9RXzNvMV9KTkpYNFdGNmUtM2g0c1FxaGZRLUlpQkVzZHNNQmdCZTdOVVg1eUlWSDVSMGlwMGdMNzB1RjFJeTZya1JaR2p0dWE4?oc=5",
+                "date": "2025-03-26 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-03-26": {
+        "price_usd": 5.216,
+        "articles": [
+            {
+                "title": "Goldman maintains copper price forecasts, says tariffs will avert US glut - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3pkdkVieVlUTmpxU2J1QmdKbVVyVnZYNkJQUnhna2puVXd1OU9LQi1RUTZsbG0xbzJjRE52TTlVcjZxLTVKVkJYSHRpYVhwWTU0el81NTFLUWlaN0RiVnVQS0R3cmkxZVBCNnE5aDF0dGROOFVjb2ItQ2l2NV9RXzNvMV9KTkpYNFdGNmUtM2g0c1FxaGZRLUlpQkVzZHNNQmdCZTdOVVg1eUlWSDVSMGlwMGdMNzB1RjFJeTZya1JaR2p0dWE4?oc=5",
+                "date": "2025-03-26 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-03-27": {
+        "price_usd": 5.0975,
+        "articles": []
+    },
+    "2025-03-28": {
+        "price_usd": 5.1125,
+        "articles": []
+    },
+    "2025-03-29": {
+        "price_usd": 5.1125,
+        "articles": []
+    },
+    "2025-03-30": {
+        "price_usd": 5.1125,
+        "articles": []
+    },
+    "2025-03-31": {
+        "price_usd": 5.02,
+        "articles": [
+            {
+                "title": "Copper market grows wary of what follows its US tariff rush: Andy Home - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3N0VldOX2tKWHFLWW9aem9CbFYwd3pacldvdXNaeTFwZnBrMUZ4WVFXWWJkTmVoOFBsMzk5UUVQWDJMcVJ4RnVKSnU5b1lPTWNOYkwxOE9MRnpBV2Y1Y0l6RU9pMXplRkxuck1jWkhiYlFyeXRrTnFNYktuaVhBNTJncXpIVzlobnFYNzZsSkVMRUUxVTFhZTlNZUpaVGZzdmZJeUZlalk4aEdQNEpjOHNJa25GbnNyVFhFamllVQ?oc=5",
+                "date": "2025-04-01 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-04-01": {
+        "price_usd": 5.019,
+        "articles": [
+            {
+                "title": "Copper market grows wary of what follows its US tariff rush: Andy Home - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3N0VldOX2tKWHFLWW9aem9CbFYwd3pacldvdXNaeTFwZnBrMUZ4WVFXWWJkTmVoOFBsMzk5UUVQWDJMcVJ4RnVKSnU5b1lPTWNOYkwxOE9MRnpBV2Y1Y0l6RU9pMXplRkxuck1jWkhiYlFyeXRrTnFNYktuaVhBNTJncXpIVzlobnFYNzZsSkVMRUUxVTFhZTlNZUpaVGZzdmZJeUZlalk4aEdQNEpjOHNJa25GbnNyVFhFamllVQ?oc=5",
+                "date": "2025-04-01 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-04-02": {
+        "price_usd": 5.0235,
+        "articles": []
+    },
+    "2025-04-03": {
+        "price_usd": 4.811,
+        "articles": []
+    },
+    "2025-04-04": {
+        "price_usd": 4.3845,
+        "articles": []
+    },
+    "2025-04-05": {
+        "price_usd": 4.3845,
+        "articles": [
+            {
+                "title": "Barrick Gold Proposes Name Change to Reflect Its Copper Push - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzlXYnBxZk9HX0lIV3ZWZ0E1aGRZYVZNRzJrT1V2NXdRNTZiZ3kyY0xMbUp4NVpibHMxLXRpd0pJdFhlS21hUjJEOVQ2dHFvdVg4LVIzdHNaRWV2MFdyNFNZcFZMSkxDSzVKLVVFUjJzaVdNRmRtUWlJakRvLU1NQW01eDY2blJ6LXk5TGRBN0EzWF91STFieV9QMkJ1UmNLNU5zbDlPM3c2Z0dNN2Z6ag?oc=5",
+                "date": "2025-04-06 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-04-06": {
+        "price_usd": 4.3845,
+        "articles": []
+    },
+    "2025-04-07": {
+        "price_usd": 4.169,
+        "articles": []
+    },
+    "2025-04-08": {
+        "price_usd": 4.1275,
+        "articles": [
+            {
+                "title": "Anglo American urges faster permits in Chile to close copper supply gap - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSU1fNzJOLS0xZ0RwXzNpeFoySV92b2xaWTY3TDJEbGVoU1hwTW9FVTFsb0ZUV3h5eXVlTVlXNy02bHpVWEZISGszbHBuR2llNnhnbVVVcUpISUJaR1BVcmgtbzhEUVZTeGI1RUVXSEU0WnZIV1d1eHUwSFNNQjg0SG9ic1RjUGw2c3hvb1VveEFZTG4zMHdXNVBkRmxqQXYtMGpZUTBCRWF1R3BjSDg2NjVIb21IbmpLQ0JnR3dn?oc=5",
+                "date": "2025-04-08 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-04-09": {
+        "price_usd": 4.1755,
+        "articles": []
+    },
+    "2025-04-10": {
+        "price_usd": 4.321,
+        "articles": []
+    },
+    "2025-04-11": {
+        "price_usd": 4.5075,
+        "articles": []
+    },
+    "2025-04-12": {
+        "price_usd": 4.5075,
+        "articles": []
+    },
+    "2025-04-13": {
+        "price_usd": 4.5075,
+        "articles": []
+    },
+    "2025-04-14": {
+        "price_usd": 4.6105,
+        "articles": [
+            {
+                "title": "Copper market caught between Trump's twin tariff threats - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFlpcWYtd2xDcGdNdlo4a3NsQWtlNUhyQUc1XzlEcjZrYWZpTDZKYlBsVWN3b2xIZHl1VGs1QnkyX0xqQWN0NmpJclRWblcxVDkza2pGd2R4ODlSYjF6QjQzMllEaTdScHRXenAwZUQ2NkhBeHBvZzdzUDhjQ2xHblUyVW5rVDE0WXRHZ2tUT1Y0N2hIN0dqNkk0b2wzZTVPWVVLTExJcUw4UC1pbjZyMUh3a3FlaWY1SzBiM093?oc=5",
+                "date": "2025-04-15 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Citi sees copper prices falling slower as U.S. tariffs ease - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3lEWnZ1RG9BUFNCckd6djdCbU11RUFkREpOWVpuaEE3NWxsZGJFT0ZUX25aZk9WZ0IwcnJnanAyM29TYW9DemE0Y0FUR0t2eVl4UmNPMWxzS0tJTy1mSE80dUhnaWVVX09IMUwxajRleHZJejQ5N0QySVh5V2oyakhlWDhzWDg3UlEzMzhXck1nLVZMdWdJTXJwbW1abUFuell0WTdnN3JubTI0TWhN?oc=5",
+                "date": "2025-04-15 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-04-15": {
+        "price_usd": 4.611,
+        "articles": [
+            {
+                "title": "Copper market caught between Trump's twin tariff threats - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFlpcWYtd2xDcGdNdlo4a3NsQWtlNUhyQUc1XzlEcjZrYWZpTDZKYlBsVWN3b2xIZHl1VGs1QnkyX0xqQWN0NmpJclRWblcxVDkza2pGd2R4ODlSYjF6QjQzMllEaTdScHRXenAwZUQ2NkhBeHBvZzdzUDhjQ2xHblUyVW5rVDE0WXRHZ2tUT1Y0N2hIN0dqNkk0b2wzZTVPWVVLTExJcUw4UC1pbjZyMUh3a3FlaWY1SzBiM093?oc=5",
+                "date": "2025-04-15 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Citi sees copper prices falling slower as U.S. tariffs ease - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3lEWnZ1RG9BUFNCckd6djdCbU11RUFkREpOWVpuaEE3NWxsZGJFT0ZUX25aZk9WZ0IwcnJnanAyM29TYW9DemE0Y0FUR0t2eVl4UmNPMWxzS0tJTy1mSE80dUhnaWVVX09IMUwxajRleHZJejQ5N0QySVh5V2oyakhlWDhzWDg3UlEzMzhXck1nLVZMdWdJTXJwbW1abUFuell0WTdnN3JubTI0TWhN?oc=5",
+                "date": "2025-04-15 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-04-16": {
+        "price_usd": 4.674,
+        "articles": []
+    },
+    "2025-04-17": {
+        "price_usd": 4.7315,
+        "articles": []
+    },
+    "2025-04-18": {
+        "price_usd": 4.7315,
+        "articles": [
+            {
+                "title": "Rio Tinto, BHP\u2019s Resolution Copper Wins Fast-Track Status in US - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDZzOWt0aFM1MF91YVAtTy12Y2xCX283aWdsd3FEVFE3RnZnS1k0ckIwWGxSQVl3UDEzNVhDZnV6UHVQMF9kVEQ5ZVM1OUVLeVpRaHkzbGU4R0h2ZnN3Uk9CaWVLWnJuMHpzWXNuNE9EQ2I1amJZLVIwM0dkVkRZS1d3TGJ3b2xZOTl5Yy1pbXhMZkhtdzg0SWZiQUJXWUxkc0h5TUl5R2JQaVdkTThsLUcyNA?oc=5",
+                "date": "2025-04-19 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-04-19": {
+        "price_usd": 4.7315,
+        "articles": [
+            {
+                "title": "Rio Tinto, BHP\u2019s Resolution Copper Wins Fast-Track Status in US - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDZzOWt0aFM1MF91YVAtTy12Y2xCX283aWdsd3FEVFE3RnZnS1k0ckIwWGxSQVl3UDEzNVhDZnV6UHVQMF9kVEQ5ZVM1OUVLeVpRaHkzbGU4R0h2ZnN3Uk9CaWVLWnJuMHpzWXNuNE9EQ2I1amJZLVIwM0dkVkRZS1d3TGJ3b2xZOTl5Yy1pbXhMZkhtdzg0SWZiQUJXWUxkc0h5TUl5R2JQaVdkTThsLUcyNA?oc=5",
+                "date": "2025-04-19 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-04-20": {
+        "price_usd": 4.7315,
+        "articles": []
+    },
+    "2025-04-21": {
+        "price_usd": 4.721,
+        "articles": []
+    },
+    "2025-04-22": {
+        "price_usd": 4.8705,
+        "articles": []
+    },
+    "2025-04-23": {
+        "price_usd": 4.8355,
+        "articles": []
+    },
+    "2025-04-24": {
+        "price_usd": 4.85,
+        "articles": [
+            {
+                "title": "Chinese Copper Inventories Post Record Weekly Drop - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXpHcjBvTUhSYmxyR0xVcTk2MnJscDA2N0Z0dXppLWd5OXY2YXhNblV4cU0zZzdTZjFEWjZFNWpnWG5xUnpSR1V6REh2TzdydU1JeHR6M2xWd01yWnoxUmlqWHUxNS16VmlDalFCc3djbWw5NFlsWmhqMmtDcWlfQ1FoSVZybjJWR183WjhvRWZFMksxM0U5SXhLWk90VDJkLWVwX3IxZ2FRWW9BQ1NibEFn?oc=5",
+                "date": "2025-04-25 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-04-25": {
+        "price_usd": 4.8355,
+        "articles": [
+            {
+                "title": "Chinese Copper Inventories Post Record Weekly Drop - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXpHcjBvTUhSYmxyR0xVcTk2MnJscDA2N0Z0dXppLWd5OXY2YXhNblV4cU0zZzdTZjFEWjZFNWpnWG5xUnpSR1V6REh2TzdydU1JeHR6M2xWd01yWnoxUmlqWHUxNS16VmlDalFCc3djbWw5NFlsWmhqMmtDcWlfQ1FoSVZybjJWR183WjhvRWZFMksxM0U5SXhLWk90VDJkLWVwX3IxZ2FRWW9BQ1NibEFn?oc=5",
+                "date": "2025-04-25 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-04-26": {
+        "price_usd": 4.8355,
+        "articles": []
+    },
+    "2025-04-27": {
+        "price_usd": 4.8355,
+        "articles": []
+    },
+    "2025-04-28": {
+        "price_usd": 4.838,
+        "articles": [
+            {
+                "title": "China Copper Market Gauge Hits 16-Month High on Demand Flurry - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0djeU5qUlZoZFBsb1FwdUR6bE5yT2hYQURvRHNHWjdGWklQTVdXbVE3TWZ6VGtpUmpmNFJ2WUp4ZjItUFNaY2k1cGprc2pPLVBOS3lBRWJ0bVd3azhjeE9hM0pxLU5zM3daYTZrbnl6bVhQSWxqaDNkYVR2S1NCeUQxWEZEZlZxSThPVFFCanFIRHFkd3JTUnJTQnN1WFVvaTB6WUFUVk9Ud19NNm14Tl9R?oc=5",
+                "date": "2025-04-29 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-04-29": {
+        "price_usd": 4.823,
+        "articles": [
+            {
+                "title": "Study Group expects weak demand to trump copper's supply stress - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFg0R3dmNHROX1BvRnJDcU9JTXdQVTdkdi1kZnExZFFFR0g3MWI1bzlxblZFU0o5WmdadnE2VGlwM0lxaTN5dWdrUXZEclY0Yk9HdEpPekdwckhud1FLUHVZY3hiWnFZRWYxSmJQTU9vUG9hN1FKWS11VkVJdFZ6XzF2WXJtZFpiZTZMLXBGc1FpM0wwYnNzM3MzVFEzdDVNXy1MMGR1cV9GcnRneWVXUVBPN1A0cFZIQ0NGSjhuN0JjcUE?oc=5",
+                "date": "2025-04-30 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "China Copper Market Gauge Hits 16-Month High on Demand Flurry - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0djeU5qUlZoZFBsb1FwdUR6bE5yT2hYQURvRHNHWjdGWklQTVdXbVE3TWZ6VGtpUmpmNFJ2WUp4ZjItUFNaY2k1cGprc2pPLVBOS3lBRWJ0bVd3azhjeE9hM0pxLU5zM3daYTZrbnl6bVhQSWxqaDNkYVR2S1NCeUQxWEZEZlZxSThPVFFCanFIRHFkd3JTUnJTQnN1WFVvaTB6WUFUVk9Ud19NNm14Tl9R?oc=5",
+                "date": "2025-04-29 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-04-30": {
+        "price_usd": 4.56,
+        "articles": [
+            {
+                "title": "Study Group expects weak demand to trump copper's supply stress - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFg0R3dmNHROX1BvRnJDcU9JTXdQVTdkdi1kZnExZFFFR0g3MWI1bzlxblZFU0o5WmdadnE2VGlwM0lxaTN5dWdrUXZEclY0Yk9HdEpPekdwckhud1FLUHVZY3hiWnFZRWYxSmJQTU9vUG9hN1FKWS11VkVJdFZ6XzF2WXJtZFpiZTZMLXBGc1FpM0wwYnNzM3MzVFEzdDVNXy1MMGR1cV9GcnRneWVXUVBPN1A0cFZIQ0NGSjhuN0JjcUE?oc=5",
+                "date": "2025-04-30 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-05-01": {
+        "price_usd": 4.581,
+        "articles": []
+    },
+    "2025-05-02": {
+        "price_usd": 4.6275,
+        "articles": []
+    },
+    "2025-05-03": {
+        "price_usd": 4.6275,
+        "articles": []
+    },
+    "2025-05-04": {
+        "price_usd": 4.6275,
+        "articles": []
+    },
+    "2025-05-05": {
+        "price_usd": 4.655,
+        "articles": [
+            {
+                "title": "Copper Shrugs Off Global Gloom as Chinese Buyers Squeeze Supply - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblVtVFl5bEF0LWVKTEMtOGhfYUhYMW5SVFlQNDhzdU9hTmhvOGRlWDBmODUyUklkb0RtczZZSVZGZVNWUGZfc2VoYmFsLU5NUlFwa0lRZTJQb3Vlel9sMDZkcmtxMzA0dEMtOHVCVG51TWZTUTVkNGREVUdKWmhXN1Vwdy1aYzhLQnJ4ampBTWh3R3lWTkhZWHJ6WWRNZURkUUVrbjBaN0tSY2hxaHNjQkRn?oc=5",
+                "date": "2025-05-06 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-05-06": {
+        "price_usd": 4.735,
+        "articles": [
+            {
+                "title": "Copper Shrugs Off Global Gloom as Chinese Buyers Squeeze Supply - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblVtVFl5bEF0LWVKTEMtOGhfYUhYMW5SVFlQNDhzdU9hTmhvOGRlWDBmODUyUklkb0RtczZZSVZGZVNWUGZfc2VoYmFsLU5NUlFwa0lRZTJQb3Vlel9sMDZkcmtxMzA0dEMtOHVCVG51TWZTUTVkNGREVUdKWmhXN1Vwdy1aYzhLQnJ4ampBTWh3R3lWTkhZWHJ6WWRNZURkUUVrbjBaN0tSY2hxaHNjQkRn?oc=5",
+                "date": "2025-05-06 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-05-07": {
+        "price_usd": 4.6165,
+        "articles": [
+            {
+                "title": "BHP-Backed SolGold Turns to Speedier Mine Plan to Woo Investors - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDRFb01Bc3NBX3l1bzJkTDVBQVJOblM2Ynl5MENEdHBDeWN1eTlvZVRFNmwzOUxFbndad2JOeDFXUHVJSGc5N2FoVkVqVGVRcHMycW9obHpMREdVUFNidURvUG1zaVNHYUczMHJPc192QmdsVk5GV3NkNDJSQlpXTHlHeHZVeGRZTXlyQUVpMUt2OGtoODJLUHBxOGpkMk1rOG44X29WUWtLSWREdUdKb202c1Q?oc=5",
+                "date": "2025-05-08 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-05-08": {
+        "price_usd": 4.561,
+        "articles": []
+    },
+    "2025-05-09": {
+        "price_usd": 4.611,
+        "articles": [
+            {
+                "title": "Vedanta\u2019s Copper Operation in Zambia Taps RMB to Help Raise Debt - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEZsRkNEYlBEUmVOVzFiZGhzX1h5QWJqX01xeTh4M3R6Ri1HN3RQTDNkbFZnZWMtODRQa3Z2MWlrT1NucDFObzF0WEdBWkhvanhWX29XeHRhejJCR1dKdjY2RFBJWGtDMDE3ZkVaSmh1SkwweC1ycW9xeVoxOFhCVlhFSTJKSnE2TS16bi1uS05qck04ekdJNEFIcUNCclRudlRTVkpWcmpqRTZKZ0xRS2NURWYxQQ?oc=5",
+                "date": "2025-05-09 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-05-10": {
+        "price_usd": 4.611,
+        "articles": []
+    },
+    "2025-05-11": {
+        "price_usd": 4.611,
+        "articles": [
+            {
+                "title": "Codelco and Rio Tinto ramp up efforts for Chile copper 'mining district' - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV056cW5UWTdHNGdMcGlndzNkTVJhcW5pd3QwbjVVS0VNMFB1clRWRHRCUVF6dFN5YVhnUldibWR4SlkyWVBKT1F6Ni1zcVBMeDN3dGdrT0xVVVRvdUZ6RXJkemd2ZmVvcC1GMEpZczJTenpUZ3lycTVGNXlLS0I5MGhXb3FSVXhBYXRMRktlTVJUY3RxZklHd1JydloydFBtOU50TFNnN1B3NEhzSXdtZmJraThoNkltdHZ1Yg?oc=5",
+                "date": "2025-05-12 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "JOHN D. RYAN DIES UNEXPECTEDLY AT 69; Head of Anaconda a Pioneer in Copper Industry -- Banker and Utilities Leader. HAD SMALL SALARY AT 32 Quit Direction of $700,000,000 Concern to Manage Nation's Airplane Output in War. JOHN D.RYAN DI - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnB1dnlDSC0zTF96QTRUMHNNQklVblVOMVdJTVBGTkZQaURHR0xZWmVvVDl5TkJnM0pyX3R0QUROSERoM0Y0S3BZQjFuSDFsMkkwa3N0Nmd2TTRtaHBrUHRoOE5sUkw0NzVkTWVKREdDbVVQekFSNzdCMzZQWmF1aEpNRk45a3gzNTRtR2RPY3R0SjM2UktsQzZzUTZyNEN6Q1daTXNMVnY3ZmhNdWJaN2lRTWE?oc=5",
+                "date": "2025-05-12 01:53",
+                "source": "The New York Times"
+            }
+        ]
+    },
+    "2025-05-12": {
+        "price_usd": 4.5785,
+        "articles": [
+            {
+                "title": "Codelco and Rio Tinto ramp up efforts for Chile copper 'mining district' - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV056cW5UWTdHNGdMcGlndzNkTVJhcW5pd3QwbjVVS0VNMFB1clRWRHRCUVF6dFN5YVhnUldibWR4SlkyWVBKT1F6Ni1zcVBMeDN3dGdrT0xVVVRvdUZ6RXJkemd2ZmVvcC1GMEpZczJTenpUZ3lycTVGNXlLS0I5MGhXb3FSVXhBYXRMRktlTVJUY3RxZklHd1JydloydFBtOU50TFNnN1B3NEhzSXdtZmJraThoNkltdHZ1Yg?oc=5",
+                "date": "2025-05-12 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-05-13": {
+        "price_usd": 4.6815,
+        "articles": [
+            {
+                "title": "Cornelius F. Kelley Is Dead at 82; Ex-Board Chairman of Anaconda; Leader in Copper Industry Began as Miner--Held Top Posts From 1918 to 1955 Many Other Directorships Fought Legal Battles (Published 1957) - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlRDNERpeVFkb1UtemQxVHVsQ3oyV2F0UDlNOWlnOXBKWkR1NHVlbk1VemhyaG40WllNN2RvQ0RlNDJhM2ZJQTBvTndvTV85Z3U1cWtqWjQxLXhqaXRrNHVaUVljVGlMaHBHMnpucmZrdzdmQUg0QTRsRy0xUjhxUzZNZnV2dk1jcVJWcjVQeW9EanY1NU5aOTdhbzVxZ3lPZUtya0RQSTdleGVQTDRF?oc=5",
+                "date": "2025-05-13 14:51",
+                "source": "The New York Times"
+            }
+        ]
+    },
+    "2025-05-14": {
+        "price_usd": 4.611,
+        "articles": []
+    },
+    "2025-05-15": {
+        "price_usd": 4.6445,
+        "articles": []
+    },
+    "2025-05-16": {
+        "price_usd": 4.5555,
+        "articles": []
+    },
+    "2025-05-17": {
+        "price_usd": 4.5555,
+        "articles": [
+            {
+                "title": "Copper's US tariff premium crushed by wave of imports - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMElSOXZCVERUYzhTZFREVmNmMHJDQjFzVnpXUkFWdHJHcWZLdDV2V2pWeGxtUzlHaUdmV1JRQVFRdkpYR1pFZ0M3N1U0elpYQUIxRFUwQXE4RHdxV0JQcnRBNkZkdFVpRU5kZlpvdFpvY3RYV0tIYTFyamxXUHlBN1hCWlVIeEE4elFlQmxyUWlfaUo5UjlNbGxNWGQ1Rk1zWEU4YUlmNlhGSkFYQUEyN1FsaFZMUQ?oc=5",
+                "date": "2025-05-18 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-05-18": {
+        "price_usd": 4.5555,
+        "articles": [
+            {
+                "title": "Copper's US tariff premium crushed by wave of imports - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMElSOXZCVERUYzhTZFREVmNmMHJDQjFzVnpXUkFWdHJHcWZLdDV2V2pWeGxtUzlHaUdmV1JRQVFRdkpYR1pFZ0M3N1U0elpYQUIxRFUwQXE4RHdxV0JQcnRBNkZkdFVpRU5kZlpvdFpvY3RYV0tIYTFyamxXUHlBN1hCWlVIeEE4elFlQmxyUWlfaUo5UjlNbGxNWGQ1Rk1zWEU4YUlmNlhGSkFYQUEyN1FsaFZMUQ?oc=5",
+                "date": "2025-05-18 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-05-19": {
+        "price_usd": 4.6335,
+        "articles": []
+    },
+    "2025-05-20": {
+        "price_usd": 4.6195,
+        "articles": [
+            {
+                "title": "Demand for copper to dramatically outstrip supply within decade - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWtjVVRyRkE4TG9LZC02eENBQ19yWTJfeWxEZlpMblM5aGpWRHpwdXI5ZXNJdWREcUl4T0NnZ19wVVgxazJFSm1XdHBMaVdJX2tHZUQydFBHU28weDZNbDg5X1BETEVlNlJNR0E5d25mRkRYYnBYMXBjdmNqSGNBelh3OF9PM0xGU2lrNmR2c3NoNFR0T3BVR1V6UjVCeWthcEEyQjRibG52Q1pBNnc?oc=5",
+                "date": "2025-05-21 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-05-21": {
+        "price_usd": 4.638,
+        "articles": [
+            {
+                "title": "Demand for copper to dramatically outstrip supply within decade - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWtjVVRyRkE4TG9LZC02eENBQ19yWTJfeWxEZlpMblM5aGpWRHpwdXI5ZXNJdWREcUl4T0NnZ19wVVgxazJFSm1XdHBMaVdJX2tHZUQydFBHU28weDZNbDg5X1BETEVlNlJNR0E5d25mRkRYYnBYMXBjdmNqSGNBelh3OF9PM0xGU2lrNmR2c3NoNFR0T3BVR1V6UjVCeWthcEEyQjRibG52Q1pBNnc?oc=5",
+                "date": "2025-05-21 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-05-22": {
+        "price_usd": 4.6485,
+        "articles": [
+            {
+                "title": "Poland to cut copper mining tax from 2026, finance minister says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnQtMV8tMk44OFRoV0FHZ1haaVplV0RNaVFpOUVKdXl0b3hpcmt0UkpvRXE0WkstVkRKLXR2TjM2T0VuRU1jUFI4TlpFdHd6am96Rm5yWGI5QV9LbTN5Ml9Bb2dXQk9HYlJnT2I5RWNFdnBxZjBiUkQ3U0ZvQUxaMzh4LXBuZjI0OVk4V2JlYkFfX09YWVp3QU5QZjJUSVR2bnd5cllobHJDdw?oc=5",
+                "date": "2025-05-23 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-05-23": {
+        "price_usd": 4.8065,
+        "articles": [
+            {
+                "title": "Poland to cut copper mining tax from 2026, finance minister says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnQtMV8tMk44OFRoV0FHZ1haaVplV0RNaVFpOUVKdXl0b3hpcmt0UkpvRXE0WkstVkRKLXR2TjM2T0VuRU1jUFI4TlpFdHd6am96Rm5yWGI5QV9LbTN5Ml9Bb2dXQk9HYlJnT2I5RWNFdnBxZjBiUkQ3U0ZvQUxaMzh4LXBuZjI0OVk4V2JlYkFfX09YWVp3QU5QZjJUSVR2bnd5cllobHJDdw?oc=5",
+                "date": "2025-05-23 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-05-24": {
+        "price_usd": 4.8065,
+        "articles": []
+    },
+    "2025-05-25": {
+        "price_usd": 4.8065,
+        "articles": []
+    },
+    "2025-05-26": {
+        "price_usd": 4.8065,
+        "articles": []
+    },
+    "2025-05-27": {
+        "price_usd": 4.71,
+        "articles": []
+    },
+    "2025-05-28": {
+        "price_usd": 4.644,
+        "articles": []
+    },
+    "2025-05-29": {
+        "price_usd": 4.6535,
+        "articles": []
+    },
+    "2025-05-30": {
+        "price_usd": 4.6525,
+        "articles": []
+    },
+    "2025-05-31": {
+        "price_usd": 4.6525,
+        "articles": []
+    },
+    "2025-06-01": {
+        "price_usd": 4.6525,
+        "articles": []
+    },
+    "2025-06-02": {
+        "price_usd": 4.8345,
+        "articles": [
+            {
+                "title": "Peru expects small rise in 2025 copper output, long battle versus illegal gold mining - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemRiZ01uNzhWSGoyOHRKYUtxSnBSY0QyNmxndm1KVVNNSVFLM0pFcUpubWtHSzI1QjBLWEY2SDFvOW5Mem1JNXJhNW01bGx0ODUwRm1idndoWFVEd2JKOGFBWGJYY2szeXZ6ZHU1ZGV2SUUzcGpIck5LNDZNRG9UTC1VaTZEV3doaFo2bV91YjkzVDZabFRWcHNSREdqOXFZMVlJMFNyaW14VTk2Y1F5c0pzVnVYZXlMOVcyd3ZubDVuck5fWE5r?oc=5",
+                "date": "2025-06-03 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-06-03": {
+        "price_usd": 4.8095,
+        "articles": [
+            {
+                "title": "Peru expects small rise in 2025 copper output, long battle versus illegal gold mining - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemRiZ01uNzhWSGoyOHRKYUtxSnBSY0QyNmxndm1KVVNNSVFLM0pFcUpubWtHSzI1QjBLWEY2SDFvOW5Mem1JNXJhNW01bGx0ODUwRm1idndoWFVEd2JKOGFBWGJYY2szeXZ6ZHU1ZGV2SUUzcGpIck5LNDZNRG9UTC1VaTZEV3doaFo2bV91YjkzVDZabFRWcHNSREdqOXFZMVlJMFNyaW14VTk2Y1F5c0pzVnVYZXlMOVcyd3ZubDVuck5fWE5r?oc=5",
+                "date": "2025-06-03 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-06-04": {
+        "price_usd": 4.8645,
+        "articles": []
+    },
+    "2025-06-05": {
+        "price_usd": 4.9135,
+        "articles": []
+    },
+    "2025-06-06": {
+        "price_usd": 4.83,
+        "articles": []
+    },
+    "2025-06-07": {
+        "price_usd": 4.83,
+        "articles": []
+    },
+    "2025-06-08": {
+        "price_usd": 4.83,
+        "articles": []
+    },
+    "2025-06-09": {
+        "price_usd": 4.9095,
+        "articles": [
+            {
+                "title": "Freeport CEO Says Tariffs Threaten to Hinder US Copper Mining - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1V5ZmhDcGNvTzZXczNVX3dHMFFFZVhyQnB0NXc5MHVvSE95TlVYZkJBYkFLSjNSUWJ4VGQ3cm5ZdFhDeDBMVnFCT2w1aHQ1Tm9qRWJUdUcyQVRGMjhtVE8wWEZxRnF6QWJyeHV5UndUQzhNa2lCSWJhS3RHRFlZQUY3QkJGaVZBRHR2dnhVeHJlQ1R6WjJiZDJSSFh6anM2Nzc4MC1LWDA5dFJqR2FXNHN3?oc=5",
+                "date": "2025-06-10 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Glencore Drives Drawdown of Russian Copper Sanctioned by UK - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFRCMUktOWxSQ1ZuLWpHY2VpckwwMVgwdGNmekZaOFI3b0t2RTVPMktDTm9DRjZvQlVRQkR1c3FDdXZKR3BKUFFEbXJzSVk4OWVHWllCT3RKWWZiVjY1RDAxcEwyZEg2aHhZaUVkcVFlZklaN255bHdEeUVmUmNXVVNZY3NsYkNnUzdMTlNJemZQYWI0YVBpVkdMMnpGaF9SSElLdFdaa0R4cTVyeFdR?oc=5",
+                "date": "2025-06-10 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-10": {
+        "price_usd": 4.884,
+        "articles": [
+            {
+                "title": "Freeport CEO Says Tariffs Threaten to Hinder US Copper Mining - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1V5ZmhDcGNvTzZXczNVX3dHMFFFZVhyQnB0NXc5MHVvSE95TlVYZkJBYkFLSjNSUWJ4VGQ3cm5ZdFhDeDBMVnFCT2w1aHQ1Tm9qRWJUdUcyQVRGMjhtVE8wWEZxRnF6QWJyeHV5UndUQzhNa2lCSWJhS3RHRFlZQUY3QkJGaVZBRHR2dnhVeHJlQ1R6WjJiZDJSSFh6anM2Nzc4MC1LWDA5dFJqR2FXNHN3?oc=5",
+                "date": "2025-06-10 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Glencore Drives Drawdown of Russian Copper Sanctioned by UK - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFRCMUktOWxSQ1ZuLWpHY2VpckwwMVgwdGNmekZaOFI3b0t2RTVPMktDTm9DRjZvQlVRQkR1c3FDdXZKR3BKUFFEbXJzSVk4OWVHWllCT3RKWWZiVjY1RDAxcEwyZEg2aHhZaUVkcVFlZklaN255bHdEeUVmUmNXVVNZY3NsYkNnUzdMTlNJemZQYWI0YVBpVkdMMnpGaF9SSElLdFdaa0R4cTVyeFdR?oc=5",
+                "date": "2025-06-10 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-11": {
+        "price_usd": 4.801,
+        "articles": []
+    },
+    "2025-06-12": {
+        "price_usd": 4.8215,
+        "articles": [
+            {
+                "title": "Grupo Mexico Will Sell Highway Business for $406 Million - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGIxYWFPOF9jbFplb2JQQjh6Ylh1eEpJZ3BucGxyUzdGbGtXVWwzeHZBVGJ3bE11QlQxSWxQVjlWVXV2OHlPMVJldEZyc1A5Wm1xUWJmdmV3QkNMVlBHcnlqaGZITDRISE04TmNFVEx3UnhZUExQWUFRdWhKMFItbGktTktjWml4UGpoMVVtTTR2MkJuR3o4SERtMmFLbHIwclJxMlB5TXRmNXBNTXl6eHZSR2dITjdoS0UtcE9mdw?oc=5",
+                "date": "2025-06-13 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-13": {
+        "price_usd": 4.803,
+        "articles": [
+            {
+                "title": "Grupo Mexico Will Sell Highway Business for $406 Million - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGIxYWFPOF9jbFplb2JQQjh6Ylh1eEpJZ3BucGxyUzdGbGtXVWwzeHZBVGJ3bE11QlQxSWxQVjlWVXV2OHlPMVJldEZyc1A5Wm1xUWJmdmV3QkNMVlBHcnlqaGZITDRISE04TmNFVEx3UnhZUExQWUFRdWhKMFItbGktTktjWml4UGpoMVVtTTR2MkJuR3o4SERtMmFLbHIwclJxMlB5TXRmNXBNTXl6eHZSR2dITjdoS0UtcE9mdw?oc=5",
+                "date": "2025-06-13 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-14": {
+        "price_usd": 4.803,
+        "articles": []
+    },
+    "2025-06-15": {
+        "price_usd": 4.803,
+        "articles": []
+    },
+    "2025-06-16": {
+        "price_usd": 4.8265,
+        "articles": []
+    },
+    "2025-06-17": {
+        "price_usd": 4.8005,
+        "articles": [
+            {
+                "title": "LME's new Hong Kong warehouses attract strong interest for metal deliveries, LME CEO says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2pDS09WbC1vNFJnQ3haVV9tZ2dCSC1WU1ZPS3FvZXdzXzYwbFBzUjRGSXpOazIyZ2pWOFk2NmZ3cURPVnJuVWFyTEdOMUo0MW16ZXhtc2UzaHUyT0RUZGwtQVk3enUtak9GNUZpeHRzQzl4ZGRyaklNUVN1WTgtTHotbTJ4ZzFNZllXekMwbmhzWDIxVEFONEJvZ0lHbk5ocUhvdHkwNlNvOVBSSmJZcHp2WXRZOVVadUF0M1JlWlZsSVo0?oc=5",
+                "date": "2025-06-18 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-06-18": {
+        "price_usd": 4.845,
+        "articles": [
+            {
+                "title": "LME's new Hong Kong warehouses attract strong interest for metal deliveries, LME CEO says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2pDS09WbC1vNFJnQ3haVV9tZ2dCSC1WU1ZPS3FvZXdzXzYwbFBzUjRGSXpOazIyZ2pWOFk2NmZ3cURPVnJuVWFyTEdOMUo0MW16ZXhtc2UzaHUyT0RUZGwtQVk3enUtak9GNUZpeHRzQzl4ZGRyaklNUVN1WTgtTHotbTJ4ZzFNZllXekMwbmhzWDIxVEFONEJvZ0lHbk5ocUhvdHkwNlNvOVBSSmJZcHp2WXRZOVVadUF0M1JlWlZsSVo0?oc=5",
+                "date": "2025-06-18 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-06-19": {
+        "price_usd": 4.845,
+        "articles": []
+    },
+    "2025-06-20": {
+        "price_usd": 4.826,
+        "articles": []
+    },
+    "2025-06-21": {
+        "price_usd": 4.826,
+        "articles": []
+    },
+    "2025-06-22": {
+        "price_usd": 4.826,
+        "articles": [
+            {
+                "title": "Copper Faces Historic Squeeze With LME Stockpiles Depleting Fast - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3lYRVd1VXdnd1lZQW1PaE5HNWFkd0t4c25ueXZPWlFfR2JPcTZPSUw5TVN0Wl85emFBNmQ5MGc3aDJTWS1nUXB3dnU1MVZJTHNVRUlLdGE0aFJVX1M3ZVVHTHV0ZENlR0NqekhXTzgxcXZhbE9PMGpnZk5WODdfVi1rbG1Hb2VERjYzcHFzcEFzclk4VXdfVWJpU2dOeE9vZW5MbHN3Z19VQVYxWWVsUEgwSGZaUQ?oc=5",
+                "date": "2025-06-23 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-23": {
+        "price_usd": 4.843,
+        "articles": [
+            {
+                "title": "Chinese Copper Smelters Ramp Up Exports to Escape Squeeze on LME - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWxNbWxkbGhycVdUUnpfdzlCMGZXQlp1RW80NmFkVHBfY05uWHBPR3g4b01ibmpkREU4OVBHdF92b011UjN3RjUtS09QNXc5ajJQS0xpSHRwS2swYTdSZ3Z2WERnZmxEcGE4UWRSRWdUbTA1b29oUnlUSWRVaUlXbGVsWVpqcFAyV0gya00wVGNZZnVSZTNQVFk1dnB3bF9wVFlOdDNLemFKQWdQSjdOZG5EWk40QQ?oc=5",
+                "date": "2025-06-24 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper Faces Historic Squeeze With LME Stockpiles Depleting Fast - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3lYRVd1VXdnd1lZQW1PaE5HNWFkd0t4c25ueXZPWlFfR2JPcTZPSUw5TVN0Wl85emFBNmQ5MGc3aDJTWS1nUXB3dnU1MVZJTHNVRUlLdGE0aFJVX1M3ZVVHTHV0ZENlR0NqekhXTzgxcXZhbE9PMGpnZk5WODdfVi1rbG1Hb2VERjYzcHFzcEFzclk4VXdfVWJpU2dOeE9vZW5MbHN3Z19VQVYxWWVsUEgwSGZaUQ?oc=5",
+                "date": "2025-06-23 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-24": {
+        "price_usd": 4.867,
+        "articles": [
+            {
+                "title": "Chinese Copper Smelters Ramp Up Exports to Escape Squeeze on LME - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWxNbWxkbGhycVdUUnpfdzlCMGZXQlp1RW80NmFkVHBfY05uWHBPR3g4b01ibmpkREU4OVBHdF92b011UjN3RjUtS09QNXc5ajJQS0xpSHRwS2swYTdSZ3Z2WERnZmxEcGE4UWRSRWdUbTA1b29oUnlUSWRVaUlXbGVsWVpqcFAyV0gya00wVGNZZnVSZTNQVFk1dnB3bF9wVFlOdDNLemFKQWdQSjdOZG5EWk40QQ?oc=5",
+                "date": "2025-06-24 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-25": {
+        "price_usd": 4.913,
+        "articles": [
+            {
+                "title": "Copper Extends Gains as Goldman Sees 2025 Price Peak in August - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG5PRm10OXdQQklCZ2FkVHYyNDFZYUE2bldRaG9nN0lQUWxmOHpYQWU3cWRHamJzdjhnV0NLT24wOGE0Q3RMVFFJdFVwdWdISEZYNGxjVW5iUFZtN2s2UEtUbmJnaWZvVHVGZWV6MEJhUnZNS1JMWnBncEhVZnN2REdyUmdieGNJZGNpRkFyNlJxMzgyMVFZVnNGTXFpUlRtdnoxcDEtOXpDQy12Zjg1OWotQQ?oc=5",
+                "date": "2025-06-26 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-26": {
+        "price_usd": 5.0655,
+        "articles": [
+            {
+                "title": "Copper Extends Gains as Goldman Sees 2025 Price Peak in August - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG5PRm10OXdQQklCZ2FkVHYyNDFZYUE2bldRaG9nN0lQUWxmOHpYQWU3cWRHamJzdjhnV0NLT24wOGE0Q3RMVFFJdFVwdWdISEZYNGxjVW5iUFZtN2s2UEtUbmJnaWZvVHVGZWV6MEJhUnZNS1JMWnBncEhVZnN2REdyUmdieGNJZGNpRkFyNlJxMzgyMVFZVnNGTXFpUlRtdnoxcDEtOXpDQy12Zjg1OWotQQ?oc=5",
+                "date": "2025-06-26 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-06-27": {
+        "price_usd": 5.0685,
+        "articles": []
+    },
+    "2025-06-28": {
+        "price_usd": 5.0685,
+        "articles": []
+    },
+    "2025-06-29": {
+        "price_usd": 5.0685,
+        "articles": []
+    },
+    "2025-06-30": {
+        "price_usd": 5.03,
+        "articles": [
+            {
+                "title": "Citi Sees Zambian Kwacha Rally Extending If Copper-Price Link Restored - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakhGTThxMndxYl9Kc1YwUjh0S1pvS2lLU0xLLTB6LVNKLXBIckhITWxWWlc3bEx6bE9JaUNta0ZBcVVvdGwzTmRZbUVYSk95b01hY1RLbDBpSTJZYkM1VTVvUHFBYTJUTTlTSFg5S2J2bGhmSGtzeUNwNlUwMW0tQWlLOWI2b1hkdDdNWElndkpsTXRSWVQ3R3RmN19lQUhKM1J0bFFOQTdkcFdwS1VNYVY5NG1RbnBjdzZVMEpqbw?oc=5",
+                "date": "2025-07-01 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Vitol Launches Mine Finance Fund as Competition Grows for Metals - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmVqYWpIMy10MDFxaW9qRmlHd0F0VHMyREZFdUpqSEJ3Yy05ZkFHajg5b3VxOEhlMEJwQUg0MmJTc3ZiSEpNaC01dHNoYmxaM0t4SGUwWTFfZUtqcTN5TDJKeUFmUTYzdkhjZFEtX3RnRDRDdGJRYXpWNHlFeGY2OF9mZjJsSzE0dkIzdWFLX2t2VUJaS1VsTkFvUzcwYjJNNTFHUVFSTUhYaGNGeW9UYWd5QzRnUQ?oc=5",
+                "date": "2025-07-01 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-01": {
+        "price_usd": 5.048,
+        "articles": [
+            {
+                "title": "Citi Sees Zambian Kwacha Rally Extending If Copper-Price Link Restored - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakhGTThxMndxYl9Kc1YwUjh0S1pvS2lLU0xLLTB6LVNKLXBIckhITWxWWlc3bEx6bE9JaUNta0ZBcVVvdGwzTmRZbUVYSk95b01hY1RLbDBpSTJZYkM1VTVvUHFBYTJUTTlTSFg5S2J2bGhmSGtzeUNwNlUwMW0tQWlLOWI2b1hkdDdNWElndkpsTXRSWVQ3R3RmN19lQUhKM1J0bFFOQTdkcFdwS1VNYVY5NG1RbnBjdzZVMEpqbw?oc=5",
+                "date": "2025-07-01 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Vitol Launches Mine Finance Fund as Competition Grows for Metals - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmVqYWpIMy10MDFxaW9qRmlHd0F0VHMyREZFdUpqSEJ3Yy05ZkFHajg5b3VxOEhlMEJwQUg0MmJTc3ZiSEpNaC01dHNoYmxaM0t4SGUwWTFfZUtqcTN5TDJKeUFmUTYzdkhjZFEtX3RnRDRDdGJRYXpWNHlFeGY2OF9mZjJsSzE0dkIzdWFLX2t2VUJaS1VsTkFvUzcwYjJNNTFHUVFSTUhYaGNGeW9UYWd5QzRnUQ?oc=5",
+                "date": "2025-07-01 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-02": {
+        "price_usd": 5.149,
+        "articles": []
+    },
+    "2025-07-03": {
+        "price_usd": 5.097,
+        "articles": []
+    },
+    "2025-07-04": {
+        "price_usd": 5.0185,
+        "articles": []
+    },
+    "2025-07-05": {
+        "price_usd": 5.0185,
+        "articles": []
+    },
+    "2025-07-06": {
+        "price_usd": 5.0185,
+        "articles": []
+    },
+    "2025-07-07": {
+        "price_usd": 4.9845,
+        "articles": [
+            {
+                "title": "Copper Market in Turmoil as Trump Touts 50% Tariff - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTA3b3dSNGpxZFdqWjhhSEZPajh0bWNHN2JlSndxZnJvdWhsN1JhTVZXZWQ2cUF4bkF4QkUzaHpJVVdZRmdqVGdNblllT2ZVSnhkRkpmbUZIRzNLeUVMQXhBYm1wN1JMRldYRHN5aVFfblNUMTZpTWdqYzBjQW5ub3VhNEp0REdNR2lRamxmMnBCaEtvRF90QllBdjYyS2xZUDFXamx3?oc=5",
+                "date": "2025-07-08 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-08": {
+        "price_usd": 5.645,
+        "articles": [
+            {
+                "title": "Watch Copper Market Turmoil Amid Trump\u2019s Touting 50% Tariff - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFl1Y0tld3daMlViX20wVHRkYlRieWJEOHVTNHBxQ3d1UnctWnhmZjFCbFlnQ3lDZzV1WmdBb29SUWhIU0xFRURHNGUtQVdtWWlmcXpLX212cEtIUlJxbkpDRzMtZFVHQ0pRYWh0MFBubWQ3TENmSFdqdjdxNXhxeEF4R0VTaEZrcTI3MVFPQldwZUZldlBzY1V4bG5RS1RiMUVNMEhpcWJuNFk?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Global copper market weighs impact of Donald Trump tariff threat - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FQ1htOGVmVEVka2xTbk9pTVhPUlh5d2JXTUxCTmJqQllfR0k2dG55SF9yODVBZ1REV0tKRzdmRkxheGlSTnBCUkxnYUVCMkNLWE5FQzFlbG9hOF96a0NDazZEN0NMU2FCR2ZVZ2JJUzM?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Financial Times"
+            },
+            {
+                "title": "Trump\u2019s Trade War Roils the Copper Market - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVR4aE9yT1V2dWVTVGdFTnBvYTkzcEtXZ2w1QTZGVTNLbGplQ3k0VHllaXNLVzhBR2hGQlRnOFhpT09QWnZTZFBKSnVpUVRjQTFXTTRTUzZtcG5EemMyRzJmT2tudloyRTNxWm1mYlFKUzR1ZW9TNzdDdUphYnY3VXFFT01VR28?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "The New York Times"
+            },
+            {
+                "title": "Copper Market in Turmoil as Trump Touts 50% Tariff - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTA3b3dSNGpxZFdqWjhhSEZPajh0bWNHN2JlSndxZnJvdWhsN1JhTVZXZWQ2cUF4bkF4QkUzaHpJVVdZRmdqVGdNblllT2ZVSnhkRkpmbUZIRzNLeUVMQXhBYm1wN1JMRldYRHN5aVFfblNUMTZpTWdqYzBjQW5ub3VhNEp0REdNR2lRamxmMnBCaEtvRF90QllBdjYyS2xZUDFXamx3?oc=5",
+                "date": "2025-07-08 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Watch Copper Price Record High as Trump Touts 50% Tariffs | The Opening Trade 07/09 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGxZaC1UZUNWQU9Nb1ZjOVRwQ254LVprMWJkQWoxV3Z2eGJ1Q0JIeXFhY2pLcWIzUG10VUlGdzB6Qkd0NVdJcGNuNmZLdUFmUVV3aEhqZm9mSVYzY1h6bnd0Qk93bmdJQ20tN3IwSGl0UmRkeUk1SG5DNm5TZTIxd0VybTg1bzhfYVg5YUZmZEtHYkluRFFVaFNOcmhIY3BEb1Z4TVA1bzF2TjND?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper Market in Turmoil as Trump Touts 50% Tariff on US Imports - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWRXaEZ4ODYtdXFLemxkajV1TEFNNkNab3RwUTJmd1pYZFIwMzZVUlF3d0t5Unl2eWFZWU9mb3lGSDFlVjliNnROZzFQdHR6TDlDdUJJUVMwcWM3Z0NZMWgwX0p2Z2pyYlBhWGZFUW16SmJ6WkpwRXFDdzNkU3p6UXQ4M1lLWFA4ajJBeGpDMVJzQjQ1Vl9QRE5XZzUwMWNaYlZ6S1VBVFdUaDlfb29nbWx3eWE?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-09": {
+        "price_usd": 5.4435,
+        "articles": [
+            {
+                "title": "Watch Copper Market Turmoil Amid Trump\u2019s Touting 50% Tariff - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFl1Y0tld3daMlViX20wVHRkYlRieWJEOHVTNHBxQ3d1UnctWnhmZjFCbFlnQ3lDZzV1WmdBb29SUWhIU0xFRURHNGUtQVdtWWlmcXpLX212cEtIUlJxbkpDRzMtZFVHQ0pRYWh0MFBubWQ3TENmSFdqdjdxNXhxeEF4R0VTaEZrcTI3MVFPQldwZUZldlBzY1V4bG5RS1RiMUVNMEhpcWJuNFk?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Global copper market weighs impact of Donald Trump tariff threat - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FQ1htOGVmVEVka2xTbk9pTVhPUlh5d2JXTUxCTmJqQllfR0k2dG55SF9yODVBZ1REV0tKRzdmRkxheGlSTnBCUkxnYUVCMkNLWE5FQzFlbG9hOF96a0NDazZEN0NMU2FCR2ZVZ2JJUzM?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Financial Times"
+            },
+            {
+                "title": "Trump\u2019s Trade War Roils the Copper Market - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVR4aE9yT1V2dWVTVGdFTnBvYTkzcEtXZ2w1QTZGVTNLbGplQ3k0VHllaXNLVzhBR2hGQlRnOFhpT09QWnZTZFBKSnVpUVRjQTFXTTRTUzZtcG5EemMyRzJmT2tudloyRTNxWm1mYlFKUzR1ZW9TNzdDdUphYnY3VXFFT01VR28?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "The New York Times"
+            },
+            {
+                "title": "Watch Copper Price Record High as Trump Touts 50% Tariffs | The Opening Trade 07/09 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGxZaC1UZUNWQU9Nb1ZjOVRwQ254LVprMWJkQWoxV3Z2eGJ1Q0JIeXFhY2pLcWIzUG10VUlGdzB6Qkd0NVdJcGNuNmZLdUFmUVV3aEhqZm9mSVYzY1h6bnd0Qk93bmdJQ20tN3IwSGl0UmRkeUk1SG5DNm5TZTIxd0VybTg1bzhfYVg5YUZmZEtHYkluRFFVaFNOcmhIY3BEb1Z4TVA1bzF2TjND?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper Market in Turmoil as Trump Touts 50% Tariff on US Imports - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWRXaEZ4ODYtdXFLemxkajV1TEFNNkNab3RwUTJmd1pYZFIwMzZVUlF3d0t5Unl2eWFZWU9mb3lGSDFlVjliNnROZzFQdHR6TDlDdUJJUVMwcWM3Z0NZMWgwX0p2Z2pyYlBhWGZFUW16SmJ6WkpwRXFDdzNkU3p6UXQ4M1lLWFA4ajJBeGpDMVJzQjQ1Vl9QRE5XZzUwMWNaYlZ6S1VBVFdUaDlfb29nbWx3eWE?oc=5",
+                "date": "2025-07-09 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-10": {
+        "price_usd": 5.548,
+        "articles": [
+            {
+                "title": "Rio Tinto (RIO LN) Wants to Invest More in US Copper Under Trump Tariffs - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUs0Tk9oeWZmVWlIeXhFZjRLdVlGMFZtbldOdEpDLUNVWm5mcmdvWjhJanJkWThTWkgtSGhPYTc1VlY1MUUzeVJ1RWJ6X2RlWjNrS1k4VGFxS01kbVhLbl9PRHRpcmJhZ0MxeWdacmladVBZRG1hYUk3YTFUUTJzemlEa2R6M2lrbkQtYUcxTGNKUWZGTXBZeG8wMXZlalZlT0kxWEs1aXV2YVRwaU5EdUlvcmE?oc=5",
+                "date": "2025-07-11 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper's positive, long-term trajectory unchanged despite US tariff, Barrick CEO says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVS1UeVlvenVsdGNteU83RDdWTFEyYTJCM2JlNk9lOHNsS0tvZzRCMUFhNV9DckhxeHJWdE83V2Y0T0VUVzJBRTlxaFhGZnZKSFFTWUE0YTJKeDhrMnI2bm84aldvQWtKekJHWUNpa2pNejgwdWtUYk1CeDlwdGY5SXpmVjlTby1WMlcwRV9aRzZ1R0x0aVJFbFlrTEdveElWSWxodGhqblhLS3FSTzFDdDg1WHM3WUFsZ3M5NXVCSGtRSWZpaTRF?oc=5",
+                "date": "2025-07-11 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-07-11": {
+        "price_usd": 5.562,
+        "articles": [
+            {
+                "title": "Rio Tinto (RIO LN) Wants to Invest More in US Copper Under Trump Tariffs - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUs0Tk9oeWZmVWlIeXhFZjRLdVlGMFZtbldOdEpDLUNVWm5mcmdvWjhJanJkWThTWkgtSGhPYTc1VlY1MUUzeVJ1RWJ6X2RlWjNrS1k4VGFxS01kbVhLbl9PRHRpcmJhZ0MxeWdacmladVBZRG1hYUk3YTFUUTJzemlEa2R6M2lrbkQtYUcxTGNKUWZGTXBZeG8wMXZlalZlT0kxWEs1aXV2YVRwaU5EdUlvcmE?oc=5",
+                "date": "2025-07-11 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper's positive, long-term trajectory unchanged despite US tariff, Barrick CEO says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVS1UeVlvenVsdGNteU83RDdWTFEyYTJCM2JlNk9lOHNsS0tvZzRCMUFhNV9DckhxeHJWdE83V2Y0T0VUVzJBRTlxaFhGZnZKSFFTWUE0YTJKeDhrMnI2bm84aldvQWtKekJHWUNpa2pNejgwdWtUYk1CeDlwdGY5SXpmVjlTby1WMlcwRV9aRzZ1R0x0aVJFbFlrTEdveElWSWxodGhqblhLS3FSTzFDdDg1WHM3WUFsZ3M5NXVCSGtRSWZpaTRF?oc=5",
+                "date": "2025-07-11 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-07-12": {
+        "price_usd": 5.562,
+        "articles": []
+    },
+    "2025-07-13": {
+        "price_usd": 5.562,
+        "articles": []
+    },
+    "2025-07-14": {
+        "price_usd": 5.515,
+        "articles": []
+    },
+    "2025-07-15": {
+        "price_usd": 5.546,
+        "articles": []
+    },
+    "2025-07-16": {
+        "price_usd": 5.4965,
+        "articles": [
+            {
+                "title": "Mining companies are pumping seawater into the driest place on Earth. But has the damage been done? - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeWFaM18zY21PSG1Hb1NmUUp6M2FlQ2N0eV9pNTJQRHU3cHNSbTRQRlE2WjhON3UyUHRmTTF1ekx6WGJYY2VVR1JhaHkzMHI3bERvbWRjVGtGRkdYbElLcEl5XzNsVW1GVGJJVGx3U0hNMXpBSEV0VHpNb1RHTlkxMi03RDF6T1dDczdwY0pXc0dBRkE2UjlWVGhuaGdnanltTVZsdGVNRHc0OEdNTHFYMFFib01sbHpoY2tvYndSSFE3b05lMmhNY0FSWlV0Q2p4RTRj?oc=5",
+                "date": "2025-07-17 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-07-17": {
+        "price_usd": 5.486,
+        "articles": [
+            {
+                "title": "Mining companies are pumping seawater into the driest place on Earth. But has the damage been done? - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeWFaM18zY21PSG1Hb1NmUUp6M2FlQ2N0eV9pNTJQRHU3cHNSbTRQRlE2WjhON3UyUHRmTTF1ekx6WGJYY2VVR1JhaHkzMHI3bERvbWRjVGtGRkdYbElLcEl5XzNsVW1GVGJJVGx3U0hNMXpBSEV0VHpNb1RHTlkxMi03RDF6T1dDczdwY0pXc0dBRkE2UjlWVGhuaGdnanltTVZsdGVNRHc0OEdNTHFYMFFib01sbHpoY2tvYndSSFE3b05lMmhNY0FSWlV0Q2p4RTRj?oc=5",
+                "date": "2025-07-17 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-07-18": {
+        "price_usd": 5.578,
+        "articles": []
+    },
+    "2025-07-19": {
+        "price_usd": 5.578,
+        "articles": []
+    },
+    "2025-07-20": {
+        "price_usd": 5.578,
+        "articles": [
+            {
+                "title": "Watch Bringing Copper Mining back to the US - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaU5FTWVkRkdqOS1vRkRuT1kxVTF0VzB0bTAxZkVxUENVNUdxa3JaVXppbmJHTWdxSDNpUC1qOWdnRnloWUk3d3d3bW9nanRzSkpWWXh6dXBaNV90eFd2dWJnbkc0X21XaDhRNGJlVVNRN2ZVNDZ1azAxX2dfUXU3VWpPWWtnNlpvMWU1TUlGSWxhbHl0OFAw?oc=5",
+                "date": "2025-07-21 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-21": {
+        "price_usd": 5.6105,
+        "articles": [
+            {
+                "title": "Watch Bringing Copper Mining back to the US - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaU5FTWVkRkdqOS1vRkRuT1kxVTF0VzB0bTAxZkVxUENVNUdxa3JaVXppbmJHTWdxSDNpUC1qOWdnRnloWUk3d3d3bW9nanRzSkpWWXh6dXBaNV90eFd2dWJnbkc0X21XaDhRNGJlVVNRN2ZVNDZ1azAxX2dfUXU3VWpPWWtnNlpvMWU1TUlGSWxhbHl0OFAw?oc=5",
+                "date": "2025-07-21 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-22": {
+        "price_usd": 5.697,
+        "articles": [
+            {
+                "title": "Chile bumps up copper price forecast, flags lagging Collahuasi output - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUFCUlJHYVJDVHQ1T2puZWZ3R0JvNjh1WFVzeXhxZnhFaDg2OHRzUl94MkZlZ2VuZUFFY056Rk1GNmE1MFVJSTlaV0kxYlcwTDhQdkZoTXJBMUVGYmt2VkVtN1VqX2N4UEFwNmdkb0U4VV9GWk56aEhya2pwaFNxc0FTZDNuUU1EdDhMR3NyLVZlVlJfMTFybzdtRnlvX2RjcXhadzUzdEh2Nzd6TURFcGFKMDFfYTlCSHpPaA?oc=5",
+                "date": "2025-07-23 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-07-23": {
+        "price_usd": 5.795,
+        "articles": [
+            {
+                "title": "Chile bumps up copper price forecast, flags lagging Collahuasi output - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUFCUlJHYVJDVHQ1T2puZWZ3R0JvNjh1WFVzeXhxZnhFaDg2OHRzUl94MkZlZ2VuZUFFY056Rk1GNmE1MFVJSTlaV0kxYlcwTDhQdkZoTXJBMUVGYmt2VkVtN1VqX2N4UEFwNmdkb0U4VV9GWk56aEhya2pwaFNxc0FTZDNuUU1EdDhMR3NyLVZlVlJfMTFybzdtRnlvX2RjcXhadzUzdEh2Nzd6TURFcGFKMDFfYTlCSHpPaA?oc=5",
+                "date": "2025-07-23 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-07-24": {
+        "price_usd": 5.777,
+        "articles": []
+    },
+    "2025-07-25": {
+        "price_usd": 5.7635,
+        "articles": []
+    },
+    "2025-07-26": {
+        "price_usd": 5.7635,
+        "articles": []
+    },
+    "2025-07-27": {
+        "price_usd": 5.7635,
+        "articles": []
+    },
+    "2025-07-28": {
+        "price_usd": 5.595,
+        "articles": []
+    },
+    "2025-07-29": {
+        "price_usd": 5.6035,
+        "articles": [
+            {
+                "title": "Copper Market in Tumult Waiting for Details of Trump\u2019s 50% Tariff - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNjVWSDkwY0tZQkxQYUxqdF9jaFVmUnpNZy1EM3BsUlVIYU1Ca2QzN3ZvanhQbkpkeVhjVHk4Z2IwamNtNDBMS01pbnNMLXF5bGlKMVVkUHA1azV6eVpSMTZnR3JfTW9OREJMbjFsSDlNWjhyRFB6WmNIVWhvNXBmR3RJMkdaajhCREVzQ1p1STZ2QnAyMG9pTDhMSDJvYkNZVVMwOExoc01iVVM5OGs2SFl1Sk4zWUdtblJhQUtjNXBiaUt6MGNxeg?oc=5",
+                "date": "2025-07-30 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Trump Spares Copper Market From Worst With 50% Duty on Products - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFhsX05ETGp3MXhQZlFuYlc3RHRLaUJrUk1oYkQ1UGE3NFFoUWdmN040S0Z3OS1tblZDVXlyMWdYbUNPTHpRWkhWblZUUGktUURGT1d2M2VJZmxvNEszdE9Gc25RUzI0UUZCZkNid3VoRjVhUFViQ3A5eEFReG1KSmMyOEI2cU51VzVybnRqTGExdFVCcFdlNDgxODNZR3Y2SzRNdzRfR2tEclU3?oc=5",
+                "date": "2025-07-30 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Trump shocks markets with scaled-back copper tariff, U.S. prices plunge - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUNUVEl3eE1HbElvQVdneUJLVmFFYklwZnZlU3o2c0tKbmdOU3NUX1VxY2VLaHlNYXlhdWpobENoWjN0NTBwbjlhSzQ1dTRyRnhRNlNCbnBqOHRaeTZNY2Mxb24xQTFQLXlPR1dMTTRrTWgtdk9uaUUxTEpuMGRJM2ZSc0pIQXI2ejhTU0RMUHNsSkpCcktSN0k1YWZVZVdhRk9wa0QxNTkwYVhwbFhheFQ5bE5zX2FScWk1LQ?oc=5",
+                "date": "2025-07-30 08:00",
+                "source": "BNN Bloomberg"
+            },
+            {
+                "title": "US Copper Plunges as Trump Tariffs Exclude Refined Metal - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUF3Vi10VlFBVWdab1d1MFU4MEw0ZkdXd3NtWURZeUgzOHZyOGhpMzdpcVJaaWhnN2tuTTlMOTFVNHNaX05LRmxRZjVOTFVaelNjdGhoLVFpQWFGY1hlWDc0M1FFYjNFaVdyU3VWYVRkWVJXWmN1WDAzbU9HNmZRdXRVeEZScDA1YmRYcWU1bVRoX2d4ZndCbmdXVWlOSkVJZDBicXhnOW1VX3NaTHc?oc=5",
+                "date": "2025-07-30 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-30": {
+        "price_usd": 5.57,
+        "articles": [
+            {
+                "title": "Watch Copper Market Reels From Tariff Surprise - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUgxcTBEcUVueE1oeVYxbFpzX3pvTnBIZWFMU18zQlZUVzFUb2psXzltc3M1Z3FRXzlHck9qZjZJelNsb2cteWwyLV83Um1nX0xKelR2aXBzcS12Rzk3QlUzdHFJMXFFM1RTWUtjQmJYSkNtTnJQa2YtVlI3VGlaVmlTVktjX0pEWU1UbDVkcDNjdHVHTzRtOW1xRQ?oc=5",
+                "date": "2025-07-31 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper Market in Tumult Waiting for Details of Trump\u2019s 50% Tariff - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNjVWSDkwY0tZQkxQYUxqdF9jaFVmUnpNZy1EM3BsUlVIYU1Ca2QzN3ZvanhQbkpkeVhjVHk4Z2IwamNtNDBMS01pbnNMLXF5bGlKMVVkUHA1azV6eVpSMTZnR3JfTW9OREJMbjFsSDlNWjhyRFB6WmNIVWhvNXBmR3RJMkdaajhCREVzQ1p1STZ2QnAyMG9pTDhMSDJvYkNZVVMwOExoc01iVVM5OGs2SFl1Sk4zWUdtblJhQUtjNXBiaUt6MGNxeg?oc=5",
+                "date": "2025-07-30 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Trump Spares Copper Market From Worst With 50% Duty on Products - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFhsX05ETGp3MXhQZlFuYlc3RHRLaUJrUk1oYkQ1UGE3NFFoUWdmN040S0Z3OS1tblZDVXlyMWdYbUNPTHpRWkhWblZUUGktUURGT1d2M2VJZmxvNEszdE9Gc25RUzI0UUZCZkNid3VoRjVhUFViQ3A5eEFReG1KSmMyOEI2cU51VzVybnRqTGExdFVCcFdlNDgxODNZR3Y2SzRNdzRfR2tEclU3?oc=5",
+                "date": "2025-07-30 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Trump Tariff Surprise Triggers Implosion of Massive Copper Trade - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1dTSVZKVk90QmJwZzZoNC02UGRpU3ZtNEdudUk1SnZJWGJLTXA5LTFsRjltQlpPM0dYMks4cGNIQ1N6QUxOSklQa3h2andWSm5wZlp6T1p3YVlfenBWZVlXVlV2d0h0M2FGTDhyektTLXJaM0hZLXQ1bWc3TlZIVW5aZ21lNGlXRHVneTZJYW80YklHSzkzVzJ3Sm9sY2VlOXA0bXcxajZIN1ZjQWlQXzlWZnVnUQ?oc=5",
+                "date": "2025-07-31 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-07-31": {
+        "price_usd": 4.3305,
+        "articles": [
+            {
+                "title": "Copper market pays the price for forgetting its TACO hedge - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdi0tS0RmdUxMb3VRVFBjMk50VDlKbzRSQ2tnRlVXSm5LYzlUbkUyalZadUJnZkhkMWVWU0xiMzI0NHYwWkNHNlF5bklPaUdUS09QZ21xV2xxVV9ablVsWmd5NzdDUUI1bnBDQy1VRU1SVHFET3V5WjZieVNDeUZKVlBkRmw0Q2VEZmpHdnNuN3VHZWhQeUVrUVl4dFNHMFBhZm9sbXZvU09ZQQ?oc=5",
+                "date": "2025-08-01 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Watch Copper Market Reels From Tariff Surprise - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUgxcTBEcUVueE1oeVYxbFpzX3pvTnBIZWFMU18zQlZUVzFUb2psXzltc3M1Z3FRXzlHck9qZjZJelNsb2cteWwyLV83Um1nX0xKelR2aXBzcS12Rzk3QlUzdHFJMXFFM1RTWUtjQmJYSkNtTnJQa2YtVlI3VGlaVmlTVktjX0pEWU1UbDVkcDNjdHVHTzRtOW1xRQ?oc=5",
+                "date": "2025-07-31 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Trump Tariff Surprise Triggers Implosion of Massive Copper Trade - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1dTSVZKVk90QmJwZzZoNC02UGRpU3ZtNEdudUk1SnZJWGJLTXA5LTFsRjltQlpPM0dYMks4cGNIQ1N6QUxOSklQa3h2andWSm5wZlp6T1p3YVlfenBWZVlXVlV2d0h0M2FGTDhyektTLXJaM0hZLXQ1bWc3TlZIVW5aZ21lNGlXRHVneTZJYW80YklHSzkzVzJ3Sm9sY2VlOXA0bXcxajZIN1ZjQWlQXzlWZnVnUQ?oc=5",
+                "date": "2025-07-31 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-08-01": {
+        "price_usd": 4.4125,
+        "articles": [
+            {
+                "title": "Copper market pays the price for forgetting its TACO hedge - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdi0tS0RmdUxMb3VRVFBjMk50VDlKbzRSQ2tnRlVXSm5LYzlUbkUyalZadUJnZkhkMWVWU0xiMzI0NHYwWkNHNlF5bklPaUdUS09QZ21xV2xxVV9ablVsWmd5NzdDUUI1bnBDQy1VRU1SVHFET3V5WjZieVNDeUZKVlBkRmw0Q2VEZmpHdnNuN3VHZWhQeUVrUVl4dFNHMFBhZm9sbXZvU09ZQQ?oc=5",
+                "date": "2025-08-01 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Goldman Told Clients to Go Long Copper a Day Before Price Plunge - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmZIQUp1TWdQbjlDTnMzMERyUjVPNDlpSTJJRGx6WHBHSDc3c1lBcjF6STFmZ2E2bEE3OTUyQXVMREx1NkdHWHhLTUxsMFdiRzdWdE93NE1tT3Yybmo5dWtIWU82cXFhRHJwakFTbzlIZEpNUm5IcDhfV3JhSXFhYnVBdGZXQWRlUnkxZFpZMm4taV80OUE4UmxvZTJ2ZGVScUdDZXVLclNqNzV2QnZOelpraVh6QQ?oc=5",
+                "date": "2025-08-01 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-08-02": {
+        "price_usd": 4.4125,
+        "articles": [
+            {
+                "title": "Chile's Codelco reports death of one of five trapped El Teniente miners - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXlQcURyd2lOX3otRlowNXc5bFo0TXMwTXl1bkJDLXFoaDFNM3RWZ2NPbEJab2ZjYjYxSU9ySzVVQldLdTBGcGNIc29xX3V2VHRBOHVHZkZXZUJiNURJOHZIbW10OTVzcERMSDNxZXFhS1ZDUnFldkNpU2FJS2Z2bUFEQU9seU9mb3dmUGZsYmhfc0w5VGNzTGVRdi16RG93MGkzV1FTbklMelpKQWc3Y3ltaTFfUQ?oc=5",
+                "date": "2025-08-02 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-08-03": {
+        "price_usd": 4.4125,
+        "articles": [
+            {
+                "title": "Five Key Charts to Watch in Global Commodities This Week - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFZSUVJKQjdUa1hpRGZzdG1MSnZFSEIycENmTXA3UGtCUURaMnJhN2dXX1VoUmxIVUJ2akc2RkJyZjN6LTVvT2tJcDFjYUN5MEZ1RHVwRTNIclFPbFB0UzB5NHNCWER0NTN6Rlp3Z1M0ano5UUxYSl9CM1dYSHUtRnlTVEx0Mm9RMWV0OXVNTWRSOE42a0VGNEZjU2ZxLUZJYTJVSDdvLUpraVl5c3RkNTd4Yw?oc=5",
+                "date": "2025-08-04 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-08-04": {
+        "price_usd": 4.415,
+        "articles": []
+    },
+    "2025-08-05": {
+        "price_usd": 4.364,
+        "articles": []
+    },
+    "2025-08-06": {
+        "price_usd": 4.391,
+        "articles": []
+    },
+    "2025-08-07": {
+        "price_usd": 4.3785,
+        "articles": []
+    },
+    "2025-08-08": {
+        "price_usd": 4.4555,
+        "articles": [
+            {
+                "title": "Chile's Codelco gets approval from labor inspector to restart El Teniente operations - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXNEODJQTEd1d3lBbmxZd0t6ZE4yVS10TFJJZmRKdEtSS2pkZWJLZWJLc3JoaURMM0pHT1dNN0FVM0RrR2NBZmlVeWxRNE43aExjcGMtcnp0RTU4b2tVRWxUY09KdkU3UnN4UmNFQ2k2QUZwbHJuTF9aZk5hNXN4YzRRUWdmbUJUT1ZLZFpmcjdfQlY4ZnFNMGtCcERIdWcycnlEcUZCcTdadkVwWkZQdE5GSFJSXzBJOWloSDhxellXaVFIQ2c?oc=5",
+                "date": "2025-08-09 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-08-09": {
+        "price_usd": 4.4555,
+        "articles": [
+            {
+                "title": "Chile's Codelco gets approval from labor inspector to restart El Teniente operations - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXNEODJQTEd1d3lBbmxZd0t6ZE4yVS10TFJJZmRKdEtSS2pkZWJLZWJLc3JoaURMM0pHT1dNN0FVM0RrR2NBZmlVeWxRNE43aExjcGMtcnp0RTU4b2tVRWxUY09KdkU3UnN4UmNFQ2k2QUZwbHJuTF9aZk5hNXN4YzRRUWdmbUJUT1ZLZFpmcjdfQlY4ZnFNMGtCcERIdWcycnlEcUZCcTdadkVwWkZQdE5GSFJSXzBJOWloSDhxellXaVFIQ2c?oc=5",
+                "date": "2025-08-09 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-08-10": {
+        "price_usd": 4.4555,
+        "articles": []
+    },
+    "2025-08-11": {
+        "price_usd": 4.4235,
+        "articles": [
+            {
+                "title": "Data Center Demand to Exacerbate Copper Shortage, BNEF Says - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWpPamRmYjBDOXA3bnlSSDZEb0dvU2FVVjN1SlpadUZHOHdYRlVITk02ZjRMVENVQ3JjUGFCQms4OWF2amVoS2d3a3dKMUhkVm5laWNOUVlBX2dtc3VjOS1OSk5Kd1VnbWJ3SENEZFlDYXA5M1hUSlhXSi0yb1IxVklIX2kxVk9DbDA0SElqa3hUSkJHaWJTeW9ROXcwNkhTZUx1NDJ0TXFlcHc2Q1E?oc=5",
+                "date": "2025-08-12 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-08-12": {
+        "price_usd": 4.5085,
+        "articles": [
+            {
+                "title": "Hudbay Minerals to sell 30% stake in Arizona copper mining project for US$600 million - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1B3N1loVUFad1FVM0pHYUJZMnQ1WUxyX2ZvcVVjOHV6cDEtS2prNnpDUDVVVzJDUVQ5aTNpUWkwMUZ4aXd6YkVNQzRWWWVWTkhqb0NWRjZLTGs0MjY1UjdQRkRhZWgyUWpMVi1CenE2MzNXMkRBaWwwWE5RX0UyRnY2Z3ZHYjVzVEFOUGZISG53UTFOSjJVQVI3dFFzTzJFUVBhY2N5UU9ET1R2Y0tHUnhSeUJULXBoUk82RXlmTmRoVVF3M21tSmk3LTNmQWFVbDMxbmhZV0pwUWZGbVE?oc=5",
+                "date": "2025-08-13 08:00",
+                "source": "BNN Bloomberg"
+            },
+            {
+                "title": "Data Center Demand to Exacerbate Copper Shortage, BNEF Says - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWpPamRmYjBDOXA3bnlSSDZEb0dvU2FVVjN1SlpadUZHOHdYRlVITk02ZjRMVENVQ3JjUGFCQms4OWF2amVoS2d3a3dKMUhkVm5laWNOUVlBX2dtc3VjOS1OSk5Kd1VnbWJ3SENEZFlDYXA5M1hUSlhXSi0yb1IxVklIX2kxVk9DbDA0SElqa3hUSkJHaWJTeW9ROXcwNkhTZUx1NDJ0TXFlcHc2Q1E?oc=5",
+                "date": "2025-08-12 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-08-13": {
+        "price_usd": 4.482,
+        "articles": [
+            {
+                "title": "Hudbay Minerals to sell 30% stake in Arizona copper mining project for US$600 million - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1B3N1loVUFad1FVM0pHYUJZMnQ1WUxyX2ZvcVVjOHV6cDEtS2prNnpDUDVVVzJDUVQ5aTNpUWkwMUZ4aXd6YkVNQzRWWWVWTkhqb0NWRjZLTGs0MjY1UjdQRkRhZWgyUWpMVi1CenE2MzNXMkRBaWwwWE5RX0UyRnY2Z3ZHYjVzVEFOUGZISG53UTFOSjJVQVI3dFFzTzJFUVBhY2N5UU9ET1R2Y0tHUnhSeUJULXBoUk82RXlmTmRoVVF3M21tSmk3LTNmQWFVbDMxbmhZV0pwUWZGbVE?oc=5",
+                "date": "2025-08-13 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2025-08-14": {
+        "price_usd": 4.4645,
+        "articles": []
+    },
+    "2025-08-15": {
+        "price_usd": 4.478,
+        "articles": [
+            {
+                "title": "Opinion | The Most Environmentally Imaginative Country on Earth Is Under Assault - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45V3YyRW96Y2tmT3dJekVfTGdWZDI4UWNvRXkzT0VxWGpGZ25DUV9rYzBteFNZeUJzM1F3QzNJRXN1MW9vT0xxM0kzOHZqRTFSaE1rS0I5Q285WlVpMGNQY3l3cmRuR2t5YjJjMHJucS1Cd0ZRSzJzckdwTQ?oc=5",
+                "date": "2025-08-15 08:00",
+                "source": "The New York Times"
+            }
+        ]
+    },
+    "2025-08-16": {
+        "price_usd": 4.478,
+        "articles": []
+    },
+    "2025-08-17": {
+        "price_usd": 4.478,
+        "articles": [
+            {
+                "title": "Glencore Seeks Incentives for $13 Billion Argentina Copper Mining Projects - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWIwMzZyQmtFS1BzdWNFRnl3YzRROVQycVdKSmJERW51RV9qQUZmYVRKV1lfc05RM0ZsbGU0TTNHRTFIcFlHR0lQYjlNNm96ZnVvY3JLM1Y0WTNNSkQ0cDJTWkpZb3V4dTVfQi1JMTNDa1pLZHRiOExsczFGcDJ5QzhWT0FhWTY2bTRQNlNqOGhEWnU5RjFleFVrcFdQeldYc1p4bC1WV002MGluVVcwTjRhTGRhb2ZlMlZDMnVGVnFIdw?oc=5",
+                "date": "2025-08-18 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-08-18": {
+        "price_usd": 4.457,
+        "articles": [
+            {
+                "title": "Glencore Seeks Incentives for $13 Billion Argentina Copper Mining Projects - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWIwMzZyQmtFS1BzdWNFRnl3YzRROVQycVdKSmJERW51RV9qQUZmYVRKV1lfc05RM0ZsbGU0TTNHRTFIcFlHR0lQYjlNNm96ZnVvY3JLM1Y0WTNNSkQ0cDJTWkpZb3V4dTVfQi1JMTNDa1pLZHRiOExsczFGcDJ5QzhWT0FhWTY2bTRQNlNqOGhEWnU5RjFleFVrcFdQeldYc1p4bC1WV002MGluVVcwTjRhTGRhb2ZlMlZDMnVGVnFIdw?oc=5",
+                "date": "2025-08-18 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-08-19": {
+        "price_usd": 4.409,
+        "articles": []
+    },
+    "2025-08-20": {
+        "price_usd": 4.426,
+        "articles": []
+    },
+    "2025-08-21": {
+        "price_usd": 4.4315,
+        "articles": []
+    },
+    "2025-08-22": {
+        "price_usd": 4.4475,
+        "articles": []
+    },
+    "2025-08-23": {
+        "price_usd": 4.4475,
+        "articles": []
+    },
+    "2025-08-24": {
+        "price_usd": 4.4475,
+        "articles": [
+            {
+                "title": "Chile regulator raises bar to restart parts of Codelco mine after collapse - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFRxb1BGMklVUWJ2Y3lDVDlRZlFtdzk1TlhUV2ZUQmllNnk1TkQ2cjl3UlhjV09yNUt6WmtSWHRfUDdsM1EwcmJCV0tCYmlxdHgtRGh6eEtBTHNnWnZxNHNUNzNCYk85YTFUUDdVS2d1ZXJ1SlFXNEFtWklzaHoxUHZGUWhxOTdxQjZHN2hwRnpwbnlTdjNIdjBMdXNDOW9jRnY5YzZkQTRCd1p4M0dZV3JiWFhuSUI0Zkkw?oc=5",
+                "date": "2025-08-25 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-08-25": {
+        "price_usd": 4.4665,
+        "articles": [
+            {
+                "title": "Chile regulator raises bar to restart parts of Codelco mine after collapse - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFRxb1BGMklVUWJ2Y3lDVDlRZlFtdzk1TlhUV2ZUQmllNnk1TkQ2cjl3UlhjV09yNUt6WmtSWHRfUDdsM1EwcmJCV0tCYmlxdHgtRGh6eEtBTHNnWnZxNHNUNzNCYk85YTFUUDdVS2d1ZXJ1SlFXNEFtWklzaHoxUHZGUWhxOTdxQjZHN2hwRnpwbnlTdjNIdjBMdXNDOW9jRnY5YzZkQTRCd1p4M0dZV3JiWFhuSUI0Zkkw?oc=5",
+                "date": "2025-08-25 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-08-26": {
+        "price_usd": 4.4505,
+        "articles": []
+    },
+    "2025-08-27": {
+        "price_usd": 4.4145,
+        "articles": []
+    },
+    "2025-08-28": {
+        "price_usd": 4.4635,
+        "articles": []
+    },
+    "2025-08-29": {
+        "price_usd": 4.5185,
+        "articles": []
+    },
+    "2025-08-30": {
+        "price_usd": 4.5185,
+        "articles": []
+    },
+    "2025-08-31": {
+        "price_usd": 4.5185,
+        "articles": []
+    },
+    "2025-09-01": {
+        "price_usd": 4.5185,
+        "articles": []
+    },
+    "2025-09-02": {
+        "price_usd": 4.5695,
+        "articles": []
+    },
+    "2025-09-03": {
+        "price_usd": 4.5585,
+        "articles": []
+    },
+    "2025-09-04": {
+        "price_usd": 4.488,
+        "articles": []
+    },
+    "2025-09-05": {
+        "price_usd": 4.4825,
+        "articles": []
+    },
+    "2025-09-06": {
+        "price_usd": 4.4825,
+        "articles": []
+    },
+    "2025-09-07": {
+        "price_usd": 4.4825,
+        "articles": []
+    },
+    "2025-09-08": {
+        "price_usd": 4.4905,
+        "articles": []
+    },
+    "2025-09-09": {
+        "price_usd": 4.501,
+        "articles": [
+            {
+                "title": "Copper Holds Steady as Traders Weigh Supply, Chinese Economy - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUJGNkFRYXUxSWljbkQtcnFPQ1BrRWtrYTFsRVVsY1E3ZnFmZl9RdXRVRjJMdHFCQlUzVDhyX01uckl5Ti1nWWpSZGNfbUI5anNybTFVY1lhcFNpZmItT0xyMEtROU56TUhFRFV1cHFyTFZ3ZGtpOEpyWVhCaW9MNUszTl9zZ0h2LU9aUTV6TEJyeUU3MFc1UVlsOGVhdzQtQW9BWG0zTGdsWFozSHZZ?oc=5",
+                "date": "2025-09-10 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-09-10": {
+        "price_usd": 4.55,
+        "articles": [
+            {
+                "title": "Watch Anglo-Teck Deal Lets Company Focus on Copper, Price Says - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmh6OVM0T0RTS1Z5N1BQNEVxNGxMTUhEdngzM0ItaTFrazRWcVc0Sjd5ME9jTlBmU3dwTFpDY1hQaTljVWZIT01EYkUzYmdPVGFxMk5Vd3lSMXZSeldCVVo1VTlDdDRrbzhMbEE3Zmprc2pHR25FVnVZRjNFV2RyTlZjelpIZGwxZHhJMnpxd29OeENXSzd2bVNKOWVtRVJH?oc=5",
+                "date": "2025-09-11 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper Holds Steady as Traders Weigh Supply, Chinese Economy - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUJGNkFRYXUxSWljbkQtcnFPQ1BrRWtrYTFsRVVsY1E3ZnFmZl9RdXRVRjJMdHFCQlUzVDhyX01uckl5Ti1nWWpSZGNfbUI5anNybTFVY1lhcFNpZmItT0xyMEtROU56TUhFRFV1cHFyTFZ3ZGtpOEpyWVhCaW9MNUszTl9zZ0h2LU9aUTV6TEJyeUU3MFc1UVlsOGVhdzQtQW9BWG0zTGdsWFozSHZZ?oc=5",
+                "date": "2025-09-10 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-09-11": {
+        "price_usd": 4.5905,
+        "articles": [
+            {
+                "title": "Watch Anglo-Teck Deal Lets Company Focus on Copper, Price Says - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmh6OVM0T0RTS1Z5N1BQNEVxNGxMTUhEdngzM0ItaTFrazRWcVc0Sjd5ME9jTlBmU3dwTFpDY1hQaTljVWZIT01EYkUzYmdPVGFxMk5Vd3lSMXZSeldCVVo1VTlDdDRrbzhMbEE3Zmprc2pHR25FVnVZRjNFV2RyTlZjelpIZGwxZHhJMnpxd29OeENXSzd2bVNKOWVtRVJH?oc=5",
+                "date": "2025-09-11 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-09-12": {
+        "price_usd": 4.5885,
+        "articles": []
+    },
+    "2025-09-13": {
+        "price_usd": 4.5885,
+        "articles": []
+    },
+    "2025-09-14": {
+        "price_usd": 4.5885,
+        "articles": []
+    },
+    "2025-09-15": {
+        "price_usd": 4.6555,
+        "articles": []
+    },
+    "2025-09-16": {
+        "price_usd": 4.633,
+        "articles": []
+    },
+    "2025-09-17": {
+        "price_usd": 4.571,
+        "articles": []
+    },
+    "2025-09-18": {
+        "price_usd": 4.541,
+        "articles": []
+    },
+    "2025-09-19": {
+        "price_usd": 4.569,
+        "articles": []
+    },
+    "2025-09-20": {
+        "price_usd": 4.569,
+        "articles": []
+    },
+    "2025-09-21": {
+        "price_usd": 4.569,
+        "articles": []
+    },
+    "2025-09-22": {
+        "price_usd": 4.573,
+        "articles": []
+    },
+    "2025-09-23": {
+        "price_usd": 4.5845,
+        "articles": [
+            {
+                "title": "Copper Jumps as Freeport Declares Indonesia Mine Force Majeure - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1JsbUV2Tng4THFsTXZ0c1dkYzBKR25IUHFZYWZNeXZXeUt3NTl0Y0FSeEVqaDZhZGRLU2NyRUlUZm85bktNSHp6OVdvU3hhR0pfTlViYzFmYVJpak9ib1psTmRWOU5RQ1VHYVlNa29JV3Q0cFYzdDFWdDRwMC04U1dCMi1ZNFgyVUx5QjlnZ3VjWnNvWVdVcmZsWGhsdE9nQlh6NndMVC00QUZvMktpTTZhRQ?oc=5",
+                "date": "2025-09-24 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-09-24": {
+        "price_usd": 4.7525,
+        "articles": [
+            {
+                "title": "Accident at World\u2019s Second-Biggest Copper Mine Strains Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUd1N1pLN2l2UHkyV3FiclNzaUJEaHN1VGJZMVQwMTBUeHJQVTFRZy1sT0U2YlA2TFFFbEdNbElraUEwSW5XSmRUTEdFYV85TzhQeVNXNWNXMHJuMWNZc1pXbzZOcEQtNWVoUFB0dVNRMmxMYVFraFhDd01BdVg3TkRwU1NhUnJOWVRFZGd5VGNlT0c0amZneURfa0xSaTlMd0NaUndSN3BMRGpZa0NmOUtR?oc=5",
+                "date": "2025-09-25 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-09-25": {
+        "price_usd": 4.7,
+        "articles": [
+            {
+                "title": "Accident at World\u2019s Second-Biggest Copper Mine Strains Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUd1N1pLN2l2UHkyV3FiclNzaUJEaHN1VGJZMVQwMTBUeHJQVTFRZy1sT0U2YlA2TFFFbEdNbElraUEwSW5XSmRUTEdFYV85TzhQeVNXNWNXMHJuMWNZc1pXbzZOcEQtNWVoUFB0dVNRMmxMYVFraFhDd01BdVg3TkRwU1NhUnJOWVRFZGd5VGNlT0c0amZneURfa0xSaTlMd0NaUndSN3BMRGpZa0NmOUtR?oc=5",
+                "date": "2025-09-25 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-09-26": {
+        "price_usd": 4.7155,
+        "articles": [
+            {
+                "title": "Argentina approves McEwen's $2.7 billion copper project for tax break program - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb2cwaTdGb0ZSdEhsMTQzUjJLbFRrN0hKNlhBdmlpRG9qNTZScW9hLXlta0k3LUxUbGZnNEttSW1IcFhFY0lsUkpKaDVKMlhoRUdvdEpBa3VWS2p2ZW5aNUFDVEI3cS1DdW1DZkllWUdrZzNtUGJRUy1NenNoa3R3eFJRdk5neUh5QnFkczVJQUVmVXpqOEhyYk14d18zQWRVNlhZaTFxek5KeXZtTmdSZ3B6NDViV2RFbEIzVFJNS19xcmNPN2V0X1g3ZlVydXF2YlE?oc=5",
+                "date": "2025-09-26 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-09-27": {
+        "price_usd": 4.7155,
+        "articles": []
+    },
+    "2025-09-28": {
+        "price_usd": 4.7155,
+        "articles": []
+    },
+    "2025-09-29": {
+        "price_usd": 4.841,
+        "articles": []
+    },
+    "2025-09-30": {
+        "price_usd": 4.805,
+        "articles": [
+            {
+                "title": "Copper Is Enjoying the Wrong Kind of Bull Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnV1NnowX3FxbzhqR0oxN09DX0dmS0dhS09zUWZ6RFIzbzJCWUhJd1FocFphNWNyV1IwTm5zVDJwWW13UTgzYndscTVJQm1sTlJ3aUV3dGhSZGtHZEdOQk5WWTViaS1vR2pfUnFtaVVmc1FPZHQ0dDEwaVBJZzhhZUp2TTU5NnVBWWVQbjZCc3pZT1EtenlhZ3pNcUJkVkRGYzRvXw?oc=5",
+                "date": "2025-10-01 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-10-01": {
+        "price_usd": 4.8305,
+        "articles": [
+            {
+                "title": "Copper Is Enjoying the Wrong Kind of Bull Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnV1NnowX3FxbzhqR0oxN09DX0dmS0dhS09zUWZ6RFIzbzJCWUhJd1FocFphNWNyV1IwTm5zVDJwWW13UTgzYndscTVJQm1sTlJ3aUV3dGhSZGtHZEdOQk5WWTViaS1vR2pfUnFtaVVmc1FPZHQ0dDEwaVBJZzhhZUp2TTU5NnVBWWVQbjZCc3pZT1EtenlhZ3pNcUJkVkRGYzRvXw?oc=5",
+                "date": "2025-10-01 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-10-02": {
+        "price_usd": 4.898,
+        "articles": []
+    },
+    "2025-10-03": {
+        "price_usd": 5.058,
+        "articles": []
+    },
+    "2025-10-04": {
+        "price_usd": 5.058,
+        "articles": []
+    },
+    "2025-10-05": {
+        "price_usd": 5.058,
+        "articles": [
+            {
+                "title": "Breakingviews - Mining megadeals are poor fix for copper shortage - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYk1xUEM1alJRZVhUUTRvdzZLbmZWUWU0bjZmc1J1cmNNMlRMallWTE1xY3BOVWlia1RhZ0pvLUFQQkthQ2tIQ2g0MWFVdHpOWm9USWRaOWozbzVOR2pmazRVZTI0S2ZsUXROTi1qRE56aXZDMFQtVGYwS3MzbTJ3VUh3M2taOUVkSTA0TGdFSzRuYzFsUXNtREFQaGE0RENYUUl6dzhTZi1FQQ?oc=5",
+                "date": "2025-10-06 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-06": {
+        "price_usd": 4.987,
+        "articles": [
+            {
+                "title": "Breakingviews - Mining megadeals are poor fix for copper shortage - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYk1xUEM1alJRZVhUUTRvdzZLbmZWUWU0bjZmc1J1cmNNMlRMallWTE1xY3BOVWlia1RhZ0pvLUFQQkthQ2tIQ2g0MWFVdHpOWm9USWRaOWozbzVOR2pmazRVZTI0S2ZsUXROTi1qRE56aXZDMFQtVGYwS3MzbTJ3VUh3M2taOUVkSTA0TGdFSzRuYzFsUXNtREFQaGE0RENYUUl6dzhTZi1FQQ?oc=5",
+                "date": "2025-10-06 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-07": {
+        "price_usd": 5.048,
+        "articles": [
+            {
+                "title": "Slower production growth will push copper market to deficit in 2026, says ICSG - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQODhPeFpiVWxnNjNBZXJYX1B5WV9RWmFfaGNXNWIxVi1RaGhSVzliMi1xWXNZWS0zdDFmOEVWZk5ueE1jZy1oVkJUZ1h0dVVna2Ffcm12ci1GNy1yQXlSaHlUekxWTHFKMXBkaWxHdVhMWm92WlYzWjN5ZWU5eUs5cUp0MEQtTUhEaV9ZQWVnN0VELUU1ZWJGX0tKd2NwUnk5bGh2Z1NYek1uVjVIcXZPcXlNMTFzR2c?oc=5",
+                "date": "2025-10-08 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-08": {
+        "price_usd": 5.046,
+        "articles": [
+            {
+                "title": "Slower production growth will push copper market to deficit in 2026, says ICSG - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQODhPeFpiVWxnNjNBZXJYX1B5WV9RWmFfaGNXNWIxVi1RaGhSVzliMi1xWXNZWS0zdDFmOEVWZk5ueE1jZy1oVkJUZ1h0dVVna2Ffcm12ci1GNy1yQXlSaHlUekxWTHFKMXBkaWxHdVhMWm92WlYzWjN5ZWU5eUs5cUp0MEQtTUhEaV9ZQWVnN0VELUU1ZWJGX0tKd2NwUnk5bGh2Z1NYek1uVjVIcXZPcXlNMTFzR2c?oc=5",
+                "date": "2025-10-08 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-09": {
+        "price_usd": 5.0755,
+        "articles": [
+            {
+                "title": "Goldman Sachs expects copper price to remain in $10,000-$11,000/t price range in 2026/2027 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWS1fWm1SZl9GaVdXNl9fSW45VndIVjU5SUprc1pnZ25MZ1lGeXRWcnd6YUdETHNuVW5abmhRbjRyakpRSzVxUm9UV1ZWcU9ldFpUU0xjLXBWT0ZXajBrOFRvNnI0MFdoaVVFR3Nod3IteDV5b1ZXSkZsWnZLWFVNR0JtSVRSc0pmOE54LVdFRFhHMi1USXpkMFl3T3NnUVB2N1ZyeWF3dEFwazBaQW9kd21DVWp2Y0RRRWVpdDJLQkZNSUhPeTAyWm1R?oc=5",
+                "date": "2025-10-10 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-10": {
+        "price_usd": 4.8485,
+        "articles": [
+            {
+                "title": "Goldman Sachs expects copper price to remain in $10,000-$11,000/t price range in 2026/2027 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWS1fWm1SZl9GaVdXNl9fSW45VndIVjU5SUprc1pnZ25MZ1lGeXRWcnd6YUdETHNuVW5abmhRbjRyakpRSzVxUm9UV1ZWcU9ldFpUU0xjLXBWT0ZXajBrOFRvNnI0MFdoaVVFR3Nod3IteDV5b1ZXSkZsWnZLWFVNR0JtSVRSc0pmOE54LVdFRFhHMi1USXpkMFl3T3NnUVB2N1ZyeWF3dEFwazBaQW9kd21DVWp2Y0RRRWVpdDJLQkZNSUhPeTAyWm1R?oc=5",
+                "date": "2025-10-10 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-11": {
+        "price_usd": 4.8485,
+        "articles": []
+    },
+    "2025-10-12": {
+        "price_usd": 4.8485,
+        "articles": [
+            {
+                "title": "Can Colombia embrace clean energy without damaging the Amazon? - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnJZNFJ0cjJqM2VnRW5ObGxFT1ZsRDlfdDYzZzM2NkgyLTdiYWttNFZTWmtRVjBLU3Q3eGRFZ1o5S3dxSmxqOWJkanpnMWViczNqY3Z3allNOXc0WVdBNWt4SnpadWhIMnJWXy1sck9HenVETzlrUXMxMWZxLTNGM0lOTURmZ29MS0hKcVJueEltWEw2SGIzdkt5QlJTZm1qRXQ1VVJ3RzRJaEgwY3pEZWlSZVEya2MyaHc?oc=5",
+                "date": "2025-10-13 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-10-13": {
+        "price_usd": 5.1005,
+        "articles": []
+    },
+    "2025-10-14": {
+        "price_usd": 4.9805,
+        "articles": []
+    },
+    "2025-10-15": {
+        "price_usd": 4.972,
+        "articles": [
+            {
+                "title": "Copper Mining Woes Turn Supply-Demand Forecasts Upside Down - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHJTTUNsUUxOS3Z2MkJ1RW1IVkRBTkxabVM5d0xTRXNVcTFIS29vaDA5WjJhNldFSlZhSnBmTnZhYVk2NFlwZjN3MUp0dU1SSXhTZ2hmTnhVQWw0bmNaUHhEUXlzVkZ1anhtODljTVd5LUphcG1iWHY3RDYwM2lidVRibXh3VGx1MV9Takl4NG9WR3IwRXpjVWQ2Mm45d21oYi1hVnExbjZCN2VXcjFBc1k2MA?oc=5",
+                "date": "2025-10-16 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-10-16": {
+        "price_usd": 4.958,
+        "articles": [
+            {
+                "title": "Copper Mining Woes Turn Supply-Demand Forecasts Upside Down - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHJTTUNsUUxOS3Z2MkJ1RW1IVkRBTkxabVM5d0xTRXNVcTFIS29vaDA5WjJhNldFSlZhSnBmTnZhYVk2NFlwZjN3MUp0dU1SSXhTZ2hmTnhVQWw0bmNaUHhEUXlzVkZ1anhtODljTVd5LUphcG1iWHY3RDYwM2lidVRibXh3VGx1MV9Takl4NG9WR3IwRXpjVWQ2Mm45d21oYi1hVnExbjZCN2VXcjFBc1k2MA?oc=5",
+                "date": "2025-10-16 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-10-17": {
+        "price_usd": 4.9315,
+        "articles": []
+    },
+    "2025-10-18": {
+        "price_usd": 4.9315,
+        "articles": []
+    },
+    "2025-10-19": {
+        "price_usd": 4.9315,
+        "articles": [
+            {
+                "title": "New copper demand drivers from US, India as China juggernaut slows - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYkxZSE1QNVp5OU5FUGZsdkE5WTlVcXdVVG1PcVY1QzEwc3ZuODNxR0FsTVV6dTNfUjcyZ1N3aUFBNHhWMlJpRUVMZHZFbFhKMVhyQjhrQ0ROSFBoQlJjRWl2TWNheFdyaTR2bTBNNGtCVW9oNzBtQ3ViOUVlczlsMGtXQmFSVV9COGx5YVBhWlFRYTVvRlRiME45eVA5QnN1aElqMjBLeXNYaXlKU3hWVVh0bDB0dW1PajlCTE9CSlQ?oc=5",
+                "date": "2025-10-20 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-20": {
+        "price_usd": 4.998,
+        "articles": []
+    },
+    "2025-10-21": {
+        "price_usd": 4.93,
+        "articles": []
+    },
+    "2025-10-22": {
+        "price_usd": 4.961,
+        "articles": [
+            {
+                "title": "Copper Edges Higher as Goldman Sees No Bears in Near Term - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEVWLXE3NFZiZkJsWUdhQnc1bzV6b2tEaHFqWkowendyWlk4aTVrNkRFVlVTN3NfeG1Wck9jMXJzUXA2N3o0em01cnBxdzJTOVpvOTMtTlFHc09mYl9vU1pRTEd6MEdxQVBEVTZSaE1sOGdndkFuV2VRczcyRnV4bkdIaXI0NHF3ZmZjcGR6dGV4NFNNV2RsY1RIdEJmcUxxLTV4TUdjT3VNLXV5?oc=5",
+                "date": "2025-10-23 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Trumponomics is warping the world\u2019s copper markets - The Economist",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0hTUlFtRElDVkhuMFNvWElOMjd2cXlGM01vX25kSjAtZWhMcEQ0OU82QXpaVDIxQjc1dkZueS1qS2NNYm01bl81RTRzN1YzZmprdkJsRjU5OFAtM1dMaW03cUFQSHlsLUE1S1R6NXhJdTRsLV9BcGk0eDlsSHdoQXBCdVFZZlR2LVJnQzNkWW5yU3ZoeWtHSER2NnVyN00zN2h1c01zcUE1YzFz?oc=5",
+                "date": "2025-10-23 08:00",
+                "source": "The Economist"
+            },
+            {
+                "title": "Teck Resources reports Q3 profit compared with loss a year ago, revenue up - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVk5Kd2xleTl2ekVmNlRRVDVyYUpnSFlZeThzeHBoZGZmalgycUEzUU5YckZlV25mdExzWlAzRTRjandoTkxSM29GcGRPbkd6aHhNZHdaTHNxMHJXNnVFbHFpSTZCUWY3enhLLWkzT1RJeHZHUldISGtRdDF5ZTl4cHBIT1BzS1A1U3E3NXhtQzk3OW9WaFFGcnhTYW94V3lILWEwU2pBX0lrMDBCVVhBc05TR2h2Q0lvc3ZPRzJxblV4NVVnZjJSUWZ3M05xcHc4?oc=5",
+                "date": "2025-10-22 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2025-10-23": {
+        "price_usd": 5.082,
+        "articles": [
+            {
+                "title": "Copper Edges Higher as Goldman Sees No Bears in Near Term - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEVWLXE3NFZiZkJsWUdhQnc1bzV6b2tEaHFqWkowendyWlk4aTVrNkRFVlVTN3NfeG1Wck9jMXJzUXA2N3o0em01cnBxdzJTOVpvOTMtTlFHc09mYl9vU1pRTEd6MEdxQVBEVTZSaE1sOGdndkFuV2VRczcyRnV4bkdIaXI0NHF3ZmZjcGR6dGV4NFNNV2RsY1RIdEJmcUxxLTV4TUdjT3VNLXV5?oc=5",
+                "date": "2025-10-23 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Trumponomics is warping the world\u2019s copper markets - The Economist",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0hTUlFtRElDVkhuMFNvWElOMjd2cXlGM01vX25kSjAtZWhMcEQ0OU82QXpaVDIxQjc1dkZueS1qS2NNYm01bl81RTRzN1YzZmprdkJsRjU5OFAtM1dMaW03cUFQSHlsLUE1S1R6NXhJdTRsLV9BcGk0eDlsSHdoQXBCdVFZZlR2LVJnQzNkWW5yU3ZoeWtHSER2NnVyN00zN2h1c01zcUE1YzFz?oc=5",
+                "date": "2025-10-23 08:00",
+                "source": "The Economist"
+            }
+        ]
+    },
+    "2025-10-24": {
+        "price_usd": 5.0935,
+        "articles": []
+    },
+    "2025-10-25": {
+        "price_usd": 5.0935,
+        "articles": [
+            {
+                "title": "Copper Study Group highlights impact of mine supply hits - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmpCNkZJSENGZkYzckNicVk4T3AteU92ZDhwS1I2MzR1dkNPVUlnQzM0QmJtbklBcnZPb2lCSVVVQ2cxWGt6c3l2dVlBaHNOV3JDT0tRQW15YzBCLUgxTVFQTzU1UGtQcDRzVXZBY1hTSEktbE5ZeFJ5d3JvQmFzbEVfcFFBYVNaMkh4ek5Wb2hlR2ZEY18wNDNoSjVCVnlfYlNGaWhaOW9wLTEyVHc?oc=5",
+                "date": "2025-10-26 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-26": {
+        "price_usd": 5.0935,
+        "articles": [
+            {
+                "title": "Copper to hold gains in 2026 as mine disruptions fuel deficit - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVBOd3hNVnZRMEQtLXJIMGliQVBkYl94b3lGSGxmbjdRako4akhZYTk2M1ZmSWFUaTdXaXRVUkxrbEdSV3JYZlA0SGNkbTNqRjdRS3EzcHV4em9rWlZPN1hDeFlYMG9qUWdvcUNpMEhrSGVfWTNCdGoxdzhabHdBaEVSS0xIdTJWdkVWYjNIb29DTldCQk9scUNuMld0QQ?oc=5",
+                "date": "2025-10-27 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Copper Study Group highlights impact of mine supply hits - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmpCNkZJSENGZkYzckNicVk4T3AteU92ZDhwS1I2MzR1dkNPVUlnQzM0QmJtbklBcnZPb2lCSVVVQ2cxWGt6c3l2dVlBaHNOV3JDT0tRQW15YzBCLUgxTVFQTzU1UGtQcDRzVXZBY1hTSEktbE5ZeFJ5d3JvQmFzbEVfcFFBYVNaMkh4ek5Wb2hlR2ZEY18wNDNoSjVCVnlfYlNGaWhaOW9wLTEyVHc?oc=5",
+                "date": "2025-10-26 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-27": {
+        "price_usd": 5.1405,
+        "articles": [
+            {
+                "title": "Chilean police raid Codelco mining offices in probe into fatal accident - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjk0LW01czExb29SWVhHRnRLOFRMQUU4Qzl4YldwdzY3UDVZVXZKVGxhTlMtZkNtMFJ5RmxYaUhsbURzc1pnSjF0cXlWRFVhQ0ZTM2V4aDkxU1l0YlFGRzFTVWlYY041VmdvTGlBVmhiR2Jpc0dLRVZtVElQOFNfODUzRHBGM1U2dXFrTHpRc1RCb0U5TndMTDh4TV9tNERYbWNyenNlN1NneFpGMElvY3JNWWRYUFhNSnE0?oc=5",
+                "date": "2025-10-28 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-28": {
+        "price_usd": 5.1405,
+        "articles": [
+            {
+                "title": "Chilean police raid Codelco mining offices in probe into fatal accident - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjk0LW01czExb29SWVhHRnRLOFRMQUU4Qzl4YldwdzY3UDVZVXZKVGxhTlMtZkNtMFJ5RmxYaUhsbURzc1pnSjF0cXlWRFVhQ0ZTM2V4aDkxU1l0YlFGRzFTVWlYY041VmdvTGlBVmhiR2Jpc0dLRVZtVElQOFNfODUzRHBGM1U2dXFrTHpRc1RCb0U5TndMTDh4TV9tNERYbWNyenNlN1NneFpGMElvY3JNWWRYUFhNSnE0?oc=5",
+                "date": "2025-10-28 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-10-29": {
+        "price_usd": 5.2335,
+        "articles": []
+    },
+    "2025-10-30": {
+        "price_usd": 5.078,
+        "articles": []
+    },
+    "2025-10-31": {
+        "price_usd": 5.0655,
+        "articles": []
+    },
+    "2025-11-01": {
+        "price_usd": 5.0655,
+        "articles": []
+    },
+    "2025-11-02": {
+        "price_usd": 5.0655,
+        "articles": [
+            {
+                "title": "Codelco Sticks to Recovery Story in Boost to Tight Copper Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekRjV0pnNUxVRWR6OGlwZHBKaGVicHJzZnNlb1BVREZ5WEphYldoM2U2Q3VheGYxd1hJc2tycW5rbE9QNS0tdXR0UzFsRlNPS2ZXWGxiaVJLNWkza2M4NE5UMVBMOTFmQnBEZXJpQm5yOE41QjNsUkR4VEN6ZXZldmdGTExQRDhpbTNaSTZFREZ2RFZUeld2Z3d4bFNOTnlCOFVkS3pMNkRMdnZCT1Z6bm5lWGc?oc=5",
+                "date": "2025-11-03 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-11-03": {
+        "price_usd": 5.047,
+        "articles": [
+            {
+                "title": "Codelco Sticks to Recovery Story in Boost to Tight Copper Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekRjV0pnNUxVRWR6OGlwZHBKaGVicHJzZnNlb1BVREZ5WEphYldoM2U2Q3VheGYxd1hJc2tycW5rbE9QNS0tdXR0UzFsRlNPS2ZXWGxiaVJLNWkza2M4NE5UMVBMOTFmQnBEZXJpQm5yOE41QjNsUkR4VEN6ZXZldmdGTExQRDhpbTNaSTZFREZ2RFZUeld2Z3d4bFNOTnlCOFVkS3pMNkRMdnZCT1Z6bm5lWGc?oc=5",
+                "date": "2025-11-03 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-11-04": {
+        "price_usd": 4.926,
+        "articles": []
+    },
+    "2025-11-05": {
+        "price_usd": 4.963,
+        "articles": []
+    },
+    "2025-11-06": {
+        "price_usd": 4.9455,
+        "articles": []
+    },
+    "2025-11-07": {
+        "price_usd": 4.938,
+        "articles": []
+    },
+    "2025-11-08": {
+        "price_usd": 4.938,
+        "articles": [
+            {
+                "title": "Maser Group confirms multi-million dollar copper investment in Argentina - The Guardian Nigeria News",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTS1Tekk0SDNENk5xS3QtbWc4QWZtS1ktbFRVcFNrbTVhb0h5ejNSSXN2SzRyTE5KN0syeWhDSy1ncnRLZGNRTDdsb0ZMLWwwNmZNZVZ1WExMZF9JTzM5blNJLWlRT0FoVU01a19QVDBJbkVyZnZGc0FEaFFna1psU3JidGJSWGlJTzBmVElQNjB6aFkwUWoxZklKM2c3WGhzaVdKcVIyZ1VjMlMzMTI1eVJwNmJxUmlWY181SA?oc=5",
+                "date": "2025-11-09 08:00",
+                "source": "The Guardian Nigeria News"
+            }
+        ]
+    },
+    "2025-11-09": {
+        "price_usd": 4.938,
+        "articles": [
+            {
+                "title": "Maser Group confirms multi-million dollar copper investment in Argentina - The Guardian Nigeria News",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTS1Tekk0SDNENk5xS3QtbWc4QWZtS1ktbFRVcFNrbTVhb0h5ejNSSXN2SzRyTE5KN0syeWhDSy1ncnRLZGNRTDdsb0ZMLWwwNmZNZVZ1WExMZF9JTzM5blNJLWlRT0FoVU01a19QVDBJbkVyZnZGc0FEaFFna1psU3JidGJSWGlJTzBmVElQNjB6aFkwUWoxZklKM2c3WGhzaVdKcVIyZ1VjMlMzMTI1eVJwNmJxUmlWY181SA?oc=5",
+                "date": "2025-11-09 08:00",
+                "source": "The Guardian Nigeria News"
+            }
+        ]
+    },
+    "2025-11-10": {
+        "price_usd": 5.087,
+        "articles": []
+    },
+    "2025-11-11": {
+        "price_usd": 5.0485,
+        "articles": []
+    },
+    "2025-11-12": {
+        "price_usd": 5.0895,
+        "articles": []
+    },
+    "2025-11-13": {
+        "price_usd": 5.0875,
+        "articles": []
+    },
+    "2025-11-14": {
+        "price_usd": 5.0495,
+        "articles": []
+    },
+    "2025-11-15": {
+        "price_usd": 5.0495,
+        "articles": []
+    },
+    "2025-11-16": {
+        "price_usd": 5.0495,
+        "articles": []
+    },
+    "2025-11-17": {
+        "price_usd": 5.0,
+        "articles": []
+    },
+    "2025-11-18": {
+        "price_usd": 4.9625,
+        "articles": []
+    },
+    "2025-11-19": {
+        "price_usd": 5.008,
+        "articles": []
+    },
+    "2025-11-20": {
+        "price_usd": 4.9595,
+        "articles": []
+    },
+    "2025-11-21": {
+        "price_usd": 5.0085,
+        "articles": []
+    },
+    "2025-11-22": {
+        "price_usd": 5.0085,
+        "articles": []
+    },
+    "2025-11-23": {
+        "price_usd": 5.0085,
+        "articles": []
+    },
+    "2025-11-24": {
+        "price_usd": 4.962,
+        "articles": [
+            {
+                "title": "The Three Days When BHP Tried to Crash a Copper Mining Mega Deal - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWk53Tm5DTXh3WU11WkJLYkNpN2FfcFZVVXVxZE1ta3RVMXYwVWM1bEo4OFFOWE45anIwN3JJamJZN3dPTWtkSnVoSy1XNmRCbHRjX2Jfa0hCbEFCblJfMnlzcUJlaG1JY0JiOXhOeWZiNEhkZWVCRUU2RVVOUWZDRGR1VlZqcHNWRTE0R3ExTVhybWV3OEdmVks1RkY1RUhCdnFLcTFpeGlrQzB2bU1aS01BY3FvZw?oc=5",
+                "date": "2025-11-25 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-11-25": {
+        "price_usd": 4.9995,
+        "articles": [
+            {
+                "title": "The Three Days When BHP Tried to Crash a Copper Mining Mega Deal - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWk53Tm5DTXh3WU11WkJLYkNpN2FfcFZVVXVxZE1ta3RVMXYwVWM1bEo4OFFOWE45anIwN3JJamJZN3dPTWtkSnVoSy1XNmRCbHRjX2Jfa0hCbEFCblJfMnlzcUJlaG1JY0JiOXhOeWZiNEhkZWVCRUU2RVVOUWZDRGR1VlZqcHNWRTE0R3ExTVhybWV3OEdmVks1RkY1RUhCdnFLcTFpeGlrQzB2bU1aS01BY3FvZw?oc=5",
+                "date": "2025-11-25 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-11-26": {
+        "price_usd": 5.1045,
+        "articles": []
+    },
+    "2025-11-27": {
+        "price_usd": 5.1045,
+        "articles": []
+    },
+    "2025-11-28": {
+        "price_usd": 5.1855,
+        "articles": []
+    },
+    "2025-11-29": {
+        "price_usd": 5.1855,
+        "articles": []
+    },
+    "2025-11-30": {
+        "price_usd": 5.1855,
+        "articles": [
+            {
+                "title": "Watch Copper Prices Rise to Record High as Supply Fears, Mine Disruptions Grip Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBiNUhhdFNNZFlpWndpSDZqT1MteTdvVFQ3VE9lOF82aDFja1ltSGtCRmo5QXVLM0VYTjVtYnM4b2ZEaUhTTjhzcmlLYzJqTVdXbWt6NVRDX2s3VjRGZ0pqOVZ3UlVoUmtoWFRXQ3pZZTlmZkMxaTJ3c2hId0w0Y0tvUUZFamFmUG9Qdy1pZExoZXJmVlNFaVZOSVlhWXA2M2pidU1aR3RIX0NiUnc?oc=5",
+                "date": "2025-12-01 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-12-01": {
+        "price_usd": 5.219,
+        "articles": [
+            {
+                "title": "Watch Copper Prices Rise to Record High as Supply Fears, Mine Disruptions Grip Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnBiNUhhdFNNZFlpWndpSDZqT1MteTdvVFQ3VE9lOF82aDFja1ltSGtCRmo5QXVLM0VYTjVtYnM4b2ZEaUhTTjhzcmlLYzJqTVdXbWt6NVRDX2s3VjRGZ0pqOVZ3UlVoUmtoWFRXQ3pZZTlmZkMxaTJ3c2hId0w0Y0tvUUZFamFmUG9Qdy1pZExoZXJmVlNFaVZOSVlhWXA2M2pidU1aR3RIX0NiUnc?oc=5",
+                "date": "2025-12-01 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-12-02": {
+        "price_usd": 5.161,
+        "articles": []
+    },
+    "2025-12-03": {
+        "price_usd": 5.308,
+        "articles": []
+    },
+    "2025-12-04": {
+        "price_usd": 5.2915,
+        "articles": [
+            {
+                "title": "Will the real Doctor Copper please step forward? - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXRjd01JbDVSWDN1dG9Yb3FEeHZvRFh4TDFuSUM0MFdIeWQ3TDVCWVZhNkt1YlFSaVl6a0p3RXJaajNmaFRNcnJhMDhVUWFFMjQ2Q3VxT0hmRHF1S3hpWXlmUnJUUUQ0cWRBQmlfTlhZeFBsTWtvSTllaHAzbmZwVmpPWV8xX2JZbXpQeW9QWnE3YnpZNGtxX2JrM0Rmang5?oc=5",
+                "date": "2025-12-05 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-12-05": {
+        "price_usd": 5.382,
+        "articles": [
+            {
+                "title": "Will the real Doctor Copper please step forward? - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXRjd01JbDVSWDN1dG9Yb3FEeHZvRFh4TDFuSUM0MFdIeWQ3TDVCWVZhNkt1YlFSaVl6a0p3RXJaajNmaFRNcnJhMDhVUWFFMjQ2Q3VxT0hmRHF1S3hpWXlmUnJUUUQ0cWRBQmlfTlhZeFBsTWtvSTllaHAzbmZwVmpPWV8xX2JZbXpQeW9QWnE3YnpZNGtxX2JrM0Rmang5?oc=5",
+                "date": "2025-12-05 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2025-12-06": {
+        "price_usd": 5.382,
+        "articles": []
+    },
+    "2025-12-07": {
+        "price_usd": 5.382,
+        "articles": []
+    },
+    "2025-12-08": {
+        "price_usd": 5.3645,
+        "articles": []
+    },
+    "2025-12-09": {
+        "price_usd": 5.2405,
+        "articles": []
+    },
+    "2025-12-10": {
+        "price_usd": 5.2755,
+        "articles": []
+    },
+    "2025-12-11": {
+        "price_usd": 5.427,
+        "articles": []
+    },
+    "2025-12-12": {
+        "price_usd": 5.2835,
+        "articles": []
+    },
+    "2025-12-13": {
+        "price_usd": 5.2835,
+        "articles": []
+    },
+    "2025-12-14": {
+        "price_usd": 5.2835,
+        "articles": []
+    },
+    "2025-12-15": {
+        "price_usd": 5.3385,
+        "articles": []
+    },
+    "2025-12-16": {
+        "price_usd": 5.287,
+        "articles": [
+            {
+                "title": "Copper Edges Lower as Risk-Off Mood Takes Hold Before US Data - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3hwU0NjWldaTnF5b2F6ZkdWSHYwWDdTNU41dVhEQ3NDRVVEcUc4OFI4U2VfNldjc3RPeDZTZ0NQXy0xY0dOUnVaN0ZCZ25HNUhiMDNNZ2lqckhSdmJSX0dKZU5PRDAyWHQ0V3EzQTF3d3ZDLUpyNUgwSllzVzFLeWE0SGs0VFJnNVBWY2h4aF9CV08yZDVUbjNlU1o3cmFaVmNnQjlUSDV1eVZ4aFdINFFn?oc=5",
+                "date": "2025-12-16 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2025-12-17": {
+        "price_usd": 5.3635,
+        "articles": []
+    },
+    "2025-12-18": {
+        "price_usd": 5.3665,
+        "articles": []
+    },
+    "2025-12-19": {
+        "price_usd": 5.4395,
+        "articles": []
+    },
+    "2025-12-20": {
+        "price_usd": 5.4395,
+        "articles": []
+    },
+    "2025-12-21": {
+        "price_usd": 5.4395,
+        "articles": []
+    },
+    "2025-12-22": {
+        "price_usd": 5.4375,
+        "articles": []
+    },
+    "2025-12-23": {
+        "price_usd": 5.476,
+        "articles": []
+    },
+    "2025-12-24": {
+        "price_usd": 5.4985,
+        "articles": []
+    },
+    "2025-12-25": {
+        "price_usd": 5.4985,
+        "articles": []
+    },
+    "2025-12-26": {
+        "price_usd": 5.7665,
+        "articles": []
+    },
+    "2025-12-27": {
+        "price_usd": 5.7665,
+        "articles": []
+    },
+    "2025-12-28": {
+        "price_usd": 5.7665,
+        "articles": [
+            {
+                "title": "Copper price on track for biggest rise in 15 years amid global shortage fears - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3NIdUtMNlA1cXdxTHR3MlRKeWxVOFZrTHRsVjk5ZUlzcEhQUFJPT0JHVEFLZWNqTjhYZlAtdlJ0cmwxNzNoSlpxNWk1QWdVTjhHY1VTWHB6cGZYUHRGTFBCYzRjNWtKWVNDWS1PNUp3djBkRG5RckJaN2tSZzdtNDhLLXVpQTJydDZRN1JxMWl6dEdnZl9uUGN2bzdPQVUtZ1pheV9aUQ?oc=5",
+                "date": "2025-12-29 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-12-29": {
+        "price_usd": 5.4905,
+        "articles": [
+            {
+                "title": "Copper price on track for biggest rise in 15 years amid global shortage fears - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3NIdUtMNlA1cXdxTHR3MlRKeWxVOFZrTHRsVjk5ZUlzcEhQUFJPT0JHVEFLZWNqTjhYZlAtdlJ0cmwxNzNoSlpxNWk1QWdVTjhHY1VTWHB6cGZYUHRGTFBCYzRjNWtKWVNDWS1PNUp3djBkRG5RckJaN2tSZzdtNDhLLXVpQTJydDZRN1JxMWl6dEdnZl9uUGN2bzdPQVUtZ1pheV9aUQ?oc=5",
+                "date": "2025-12-29 08:00",
+                "source": "The Guardian"
+            }
+        ]
+    },
+    "2025-12-30": {
+        "price_usd": 5.7275,
+        "articles": []
+    },
+    "2025-12-31": {
+        "price_usd": 5.63,
+        "articles": []
+    },
+    "2026-01-01": {
+        "price_usd": 5.63,
+        "articles": []
+    },
+    "2026-01-02": {
+        "price_usd": 5.64,
+        "articles": []
+    },
+    "2026-01-03": {
+        "price_usd": 5.64,
+        "articles": []
+    },
+    "2026-01-04": {
+        "price_usd": 5.64,
+        "articles": [
+            {
+                "title": "Record copper price signals accelerating race for supplies - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ19oSTNqaWNUb2tORU4wOW44WEtRanJaMGs1dUxBd01wU0h0M0J1NjhVSTRVeEpFdG10TUV6LUs4cUItVlFYNldKMzlwd1RYbFZreVBtaE14Mlh4dmthcFJmTlNsc1VpcWdnQ3FBY3RCUndNVldUUkhLNDhsTUNwWE8tdkoyR0dlbEZ0UlhrYko3amZSSmtNLWpheDVkRzdNT0NmMDV4TG8?oc=5",
+                "date": "2026-01-05 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2026-01-05": {
+        "price_usd": 5.9245,
+        "articles": [
+            {
+                "title": "Record copper price signals accelerating race for supplies - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ19oSTNqaWNUb2tORU4wOW44WEtRanJaMGs1dUxBd01wU0h0M0J1NjhVSTRVeEpFdG10TUV6LUs4cUItVlFYNldKMzlwd1RYbFZreVBtaE14Mlh4dmthcFJmTlNsc1VpcWdnQ3FBY3RCUndNVldUUkhLNDhsTUNwWE8tdkoyR0dlbEZ0UlhrYko3amZSSmtNLWpheDVkRzdNT0NmMDV4TG8?oc=5",
+                "date": "2026-01-05 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Watch Copper Prices: BlackRock Sees Prospect of 'Very Exciting' Market, Driven by China, Industrialization - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcndKT0FzczdydEp0Q05lOGVQNklaZW54bWhhbWQxb25mbmFQbXNLQVRuNWJ3TzRCWDV6WC1UdlVjYVp4VGpjVFRnaXh6dmFwZGVNLU5RcVZ4MmFDc2hKR3MwUkNCY01nczVKcnNHNi1jUm40dEJFYUFPUUJ6cHNkT2kzaDFyVGFKTVpTT3dPWDRWNnY2aGpnSzVHRDBaUlZtSUNLVFRWbGVEMzg0SWc?oc=5",
+                "date": "2026-01-06 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-06": {
+        "price_usd": 6.0105,
+        "articles": [
+            {
+                "title": "The World Needs a Lot More Copper. But Will There Be Enough Supply? - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDdDS3Juc1F5dmhoaEZGUF81dFBMSDd0SGNBa2w5TkI4eVdTNnUzR1d1d00tSzBkOWZaMUp4S29oblFXSHhuVWVHYXE4Q1h3TFhsdVVzNm5hOExqa1B3MTJ1bHVOZS1SdmZuSFVoVUp4ZEdla3k4b3F3QTNzR0hNWHBIZjRHRFktcmtZQXBXd0NGR2l6Unp5UHlmcUp4azEzRG1FV3lURjNnenBnYnlzdVU4NGxzdFhMUTNUZQ?oc=5",
+                "date": "2026-01-07 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Watch Copper Prices: BlackRock Sees Prospect of 'Very Exciting' Market, Driven by China, Industrialization - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcndKT0FzczdydEp0Q05lOGVQNklaZW54bWhhbWQxb25mbmFQbXNLQVRuNWJ3TzRCWDV6WC1UdlVjYVp4VGpjVFRnaXh6dmFwZGVNLU5RcVZ4MmFDc2hKR3MwUkNCY01nczVKcnNHNi1jUm40dEJFYUFPUUJ6cHNkT2kzaDFyVGFKTVpTT3dPWDRWNnY2aGpnSzVHRDBaUlZtSUNLVFRWbGVEMzg0SWc?oc=5",
+                "date": "2026-01-06 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-07": {
+        "price_usd": 5.809,
+        "articles": [
+            {
+                "title": "The World Needs a Lot More Copper. But Will There Be Enough Supply? - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDdDS3Juc1F5dmhoaEZGUF81dFBMSDd0SGNBa2w5TkI4eVdTNnUzR1d1d00tSzBkOWZaMUp4S29oblFXSHhuVWVHYXE4Q1h3TFhsdVVzNm5hOExqa1B3MTJ1bHVOZS1SdmZuSFVoVUp4ZEdla3k4b3F3QTNzR0hNWHBIZjRHRFktcmtZQXBXd0NGR2l6Unp5UHlmcUp4azEzRG1FV3lURjNnenBnYnlzdVU4NGxzdFhMUTNUZQ?oc=5",
+                "date": "2026-01-07 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-08": {
+        "price_usd": 5.7465,
+        "articles": []
+    },
+    "2026-01-09": {
+        "price_usd": 5.8555,
+        "articles": []
+    },
+    "2026-01-10": {
+        "price_usd": 5.8555,
+        "articles": []
+    },
+    "2026-01-11": {
+        "price_usd": 5.8555,
+        "articles": []
+    },
+    "2026-01-12": {
+        "price_usd": 5.985,
+        "articles": [
+            {
+                "title": "BHP Is Stuck on the Sidelines of Copper M&A Frenzy It Started - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEpoa3hlb2xxalZmQ2ljcm9tQ2FZSWlLSGFLWC03aVRpTVF1ZWN0MGlvczhaaElyaDl2bEtvUWoteVpzNmtVTXh6Y1NIUjdvMWwyME1FelNfQ3B2ZFZjdU8zYUIwQmFxTVJxdVR4Z1JwS2N0OG1YaURvYnVtenU5OVYzbHBaNkhORk85UzNzRnlTSVVnRk5FQnBmeTNSRnJzWnh2RlM0QThVREpNSWpBS21R?oc=5",
+                "date": "2026-01-12 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-13": {
+        "price_usd": 5.97,
+        "articles": []
+    },
+    "2026-01-14": {
+        "price_usd": 6.009,
+        "articles": [
+            {
+                "title": "Panama to Rule on Fate of Shuttered Copper Mine in June - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV9Vb085Qk95R0NWcHNFNEo5OHdMZHpOQVNvdU5kX3V1enhhaE0wR0hUd3hrak9GUlpOMDVVU2tBR3dFTGIxNG94UHp6X2lpbmtVcVRfREIydG5KbElCQXRKcmxrMFpmeHktdDUtVEtPQm9wX0s5WmJ6b1BfQVFQTE5vdVFBblp5LTQ0WGpjZWhQR3NJLWt6R1NpekJ6Q1paX29KeHBmQlA4Y01rd1R5cExR?oc=5",
+                "date": "2026-01-15 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "The race for copper has brought a wave of mining mega-mergers - The Economist",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUpQclAtZHNaZnpPWDNOZUp0STc4RC1tVnZOTV9LclM2WlBoLTNveVl0bHlmRHFrRWU0aU9HUjdxSjkwamxDTk5uQzFySDFMM3Y3YzJ6dDN3eVZNTndvakwwR1BzQnFnWDZnVl9UV0l3aXc0TkFlMmM5amh4SVljTEdBOXZFWENWQzFtbjhrMURIZmxLS0NQSDZsSHZkN3dkTTE4WlJsczlRZnc?oc=5",
+                "date": "2026-01-15 08:00",
+                "source": "The Economist"
+            },
+            {
+                "title": "Nickel Steadies After Surge as Indonesia Flags Lower Ore Supply - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVBwbDZBZElHVUZpTEpZWktDd3RYYTY5SzJVb2JrSHdqalByMGpVVFgyRnhqZWZQMk0tLUVJcktfNGdJQWdabFo1aXFVdkFnSk16Z1dJUHNFVWpsTjEtRlcwSUU1Ymo3M1lrcDdkVDlIRm5Sc3dPOWo0bXM5WlRaLURtMnVpUUNwaG5jWkxnZ1dyUVRYTGRrSUt4R25kWVEwU1dQQy1Gc0tTdjEyeUxkWWdaNFE?oc=5",
+                "date": "2026-01-15 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-15": {
+        "price_usd": 5.948,
+        "articles": [
+            {
+                "title": "Panama to Rule on Fate of Shuttered Copper Mine in June - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaV9Vb085Qk95R0NWcHNFNEo5OHdMZHpOQVNvdU5kX3V1enhhaE0wR0hUd3hrak9GUlpOMDVVU2tBR3dFTGIxNG94UHp6X2lpbmtVcVRfREIydG5KbElCQXRKcmxrMFpmeHktdDUtVEtPQm9wX0s5WmJ6b1BfQVFQTE5vdVFBblp5LTQ0WGpjZWhQR3NJLWt6R1NpekJ6Q1paX29KeHBmQlA4Y01rd1R5cExR?oc=5",
+                "date": "2026-01-15 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "The race for copper has brought a wave of mining mega-mergers - The Economist",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUpQclAtZHNaZnpPWDNOZUp0STc4RC1tVnZOTV9LclM2WlBoLTNveVl0bHlmRHFrRWU0aU9HUjdxSjkwamxDTk5uQzFySDFMM3Y3YzJ6dDN3eVZNTndvakwwR1BzQnFnWDZnVl9UV0l3aXc0TkFlMmM5amh4SVljTEdBOXZFWENWQzFtbjhrMURIZmxLS0NQSDZsSHZkN3dkTTE4WlJsczlRZnc?oc=5",
+                "date": "2026-01-15 08:00",
+                "source": "The Economist"
+            },
+            {
+                "title": "Nickel Steadies After Surge as Indonesia Flags Lower Ore Supply - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVBwbDZBZElHVUZpTEpZWktDd3RYYTY5SzJVb2JrSHdqalByMGpVVFgyRnhqZWZQMk0tLUVJcktfNGdJQWdabFo1aXFVdkFnSk16Z1dJUHNFVWpsTjEtRlcwSUU1Ymo3M1lrcDdkVDlIRm5Sc3dPOWo0bXM5WlRaLURtMnVpUUNwaG5jWkxnZ1dyUVRYTGRrSUt4R25kWVEwU1dQQy1Gc0tTdjEyeUxkWWdaNFE?oc=5",
+                "date": "2026-01-15 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-16": {
+        "price_usd": 5.7885,
+        "articles": []
+    },
+    "2026-01-17": {
+        "price_usd": 5.7885,
+        "articles": []
+    },
+    "2026-01-18": {
+        "price_usd": 5.7885,
+        "articles": []
+    },
+    "2026-01-19": {
+        "price_usd": 5.7885,
+        "articles": [
+            {
+                "title": "Spot Copper Prices Spike on LME as Traders Tussle Over Inventory - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVQOGk1ZGtENGs2Rm4zRUNfclNWaDdwZnVyTWZIQjA2MDdUX0plUFdEdnRqTUQyWDk3ZHBHTFdhVnl4WnI2RnNScVVUSmdKTl9WODZ2Nkg2LXlKRFdKQm1aci1EVnZobFVQUVdBc1MwR3Zzbjd2WTRsRWFwWTZmQ1VYVGhkLU1kR2JOQjBWUEdZWnBwQ2FET3dlTWVRVkJqc2QybmFVdl9RY2VkUURkcVQwRUM5UQ?oc=5",
+                "date": "2026-01-20 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-20": {
+        "price_usd": 5.773,
+        "articles": [
+            {
+                "title": "Spot Copper Prices Spike on LME as Traders Tussle Over Inventory - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVQOGk1ZGtENGs2Rm4zRUNfclNWaDdwZnVyTWZIQjA2MDdUX0plUFdEdnRqTUQyWDk3ZHBHTFdhVnl4WnI2RnNScVVUSmdKTl9WODZ2Nkg2LXlKRFdKQm1aci1EVnZobFVQUVdBc1MwR3Zzbjd2WTRsRWFwWTZmQ1VYVGhkLU1kR2JOQjBWUEdZWnBwQ2FET3dlTWVRVkJqc2QybmFVdl9RY2VkUURkcVQwRUM5UQ?oc=5",
+                "date": "2026-01-20 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-21": {
+        "price_usd": 5.7295,
+        "articles": []
+    },
+    "2026-01-22": {
+        "price_usd": 5.7425,
+        "articles": []
+    },
+    "2026-01-23": {
+        "price_usd": 5.911,
+        "articles": []
+    },
+    "2026-01-24": {
+        "price_usd": 5.911,
+        "articles": []
+    },
+    "2026-01-25": {
+        "price_usd": 5.911,
+        "articles": []
+    },
+    "2026-01-26": {
+        "price_usd": 5.984,
+        "articles": []
+    },
+    "2026-01-27": {
+        "price_usd": 5.8285,
+        "articles": [
+            {
+                "title": "Goldman Warns Metal Rally at Risk as Users \u2018Respond Negatively\u2019 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2VtZDBySHRQZ2tnUzhQWmVXQU9lMHVlWE9wa2xlU0U1TVQtYmJUWGxhbG9TcFhJZS1nUFN2TVRvNnVKMnpBMDgtN25zU3lLekV6QW5wY1RUVEhMOE1jdWZoR1JMSFZmZmlNckhWWEM4dXlZQTM2aGtlZ3QySW5vbTZkMF9UMlpaTUNUakR6cU15ZWVQemJiWHVGQU9Dck15VWI3Rl9qaW9qbDZoZkM1VVN3?oc=5",
+                "date": "2026-01-28 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-28": {
+        "price_usd": 5.8925,
+        "articles": [
+            {
+                "title": "Latin American Billionaire Fortunes Double on Copper Price Surge - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEY2ZUxXX29zS3dKYTVod2pobmNtR3BIVWptYzdPSm9hQzh1bGFFMG00WVg5NFJsVGVYLV9abmNUUFhKcHdTdDl5aXFVbC1kVFhKVXJXTGJMWUh2M2dZUXh3SnlDaENpQ0ZUSWVQNHpMTVRwaEUteHpHd2FoM2lmR3d2QXg0U0dCRHF6TVowcWlhcng4ZWZFck5BZFNqaWtGWHZPUDlsOVBuSmNIRFlza2pSVlhUdw?oc=5",
+                "date": "2026-01-29 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Copper forecasts jump above $11,000 for first time, but analysts wary on demand worries: Reuters poll - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1FGc1FqZ3FXVGxlTXFkTnJkakdjSThyRmRKUUQ1LVVGZmVYSHMwdUVBTnZZdGprQW1MOUJaOC1VWGFOTmxDS3d0cUJ1ODg5TzR6amt1T2JuZllWakRXTGd5WTk3LUhsS251UWpMQl9lRVh1U2hrNFc2d3lXNzFmNUNyenh4QzN2ODY2YXRTS2tNdXhNTmtIaVVuT0ZES0FfLW5pMDh4WVJYdkZVV3JEQjNvRXBYYjVGZXRnM1JIR3F3VjBoVlBZ?oc=5",
+                "date": "2026-01-29 08:00",
+                "source": "Reuters"
+            },
+            {
+                "title": "Goldman Warns Metal Rally at Risk as Users \u2018Respond Negatively\u2019 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2VtZDBySHRQZ2tnUzhQWmVXQU9lMHVlWE9wa2xlU0U1TVQtYmJUWGxhbG9TcFhJZS1nUFN2TVRvNnVKMnpBMDgtN25zU3lLekV6QW5wY1RUVEhMOE1jdWZoR1JMSFZmZmlNckhWWEM4dXlZQTM2aGtlZ3QySW5vbTZkMF9UMlpaTUNUakR6cU15ZWVQemJiWHVGQU9Dck15VWI3Rl9qaW9qbDZoZkM1VVN3?oc=5",
+                "date": "2026-01-28 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-29": {
+        "price_usd": 6.1755,
+        "articles": [
+            {
+                "title": "Latin American Billionaire Fortunes Double on Copper Price Surge - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEY2ZUxXX29zS3dKYTVod2pobmNtR3BIVWptYzdPSm9hQzh1bGFFMG00WVg5NFJsVGVYLV9abmNUUFhKcHdTdDl5aXFVbC1kVFhKVXJXTGJMWUh2M2dZUXh3SnlDaENpQ0ZUSWVQNHpMTVRwaEUteHpHd2FoM2lmR3d2QXg0U0dCRHF6TVowcWlhcng4ZWZFck5BZFNqaWtGWHZPUDlsOVBuSmNIRFlza2pSVlhUdw?oc=5",
+                "date": "2026-01-29 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-01-30": {
+        "price_usd": 5.897,
+        "articles": []
+    },
+    "2026-01-31": {
+        "price_usd": 5.897,
+        "articles": []
+    },
+    "2026-02-01": {
+        "price_usd": 5.897,
+        "articles": []
+    },
+    "2026-02-02": {
+        "price_usd": 5.8015,
+        "articles": [
+            {
+                "title": "Copper\u2019s Stumble Leads Citibank to Take Profits on Zambia\u2019s Kwacha - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHgtVlI0QlZvTkhacHhlVTA3TU1IeGVVWUNVNm1UZUhvdFBnUW5wbUdzaFBvWTB2UEQyMFV5Ql9FSDA5V0hhOTFSSFJGek1EUzBZVmFnOXBHZDIwVFgwR3JiV2FyRHVBT1lxTTJEX2k4N1lqYncxWUo1YVpwTUU5RGpkZGVPQmZmcTdTdDd4N2t6eUNYTTR2ck5Zcl9qdUpnTEsyZlp6dEZVb0puNXA2MlNnS1hBZm1l?oc=5",
+                "date": "2026-02-02 08:00",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "Market Outlook: Gold and silver recover as technical pressure eases - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVG84NHFRRHRzdkZ3U2Raa3g0X0JvMDFLbDdKUG5TSXh0OGFwR3ViT3dnYVJac1NpdkNDMl90OWhDdTgzSUJ0ajdIU19VZnA0ZmJyamdtd253Zk11aFdXYVRsMVBpUzRUU0tabzk5cmVpcmxIbmNqcmkxT3ZmaEd0cHZQR0I2cklSN2dTeE9rS0hzZHpBUVNiOW5nblU3TmtOQXBqa2lTY0hLek93UjBhaC1PTXMwRDdkZkdUb2s4MlNLakRYR0N6VmRwMA?oc=5",
+                "date": "2026-02-03 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2026-02-03": {
+        "price_usd": 6.0625,
+        "articles": [
+            {
+                "title": "Market Outlook: Gold and silver recover as technical pressure eases - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVG84NHFRRHRzdkZ3U2Raa3g0X0JvMDFLbDdKUG5TSXh0OGFwR3ViT3dnYVJac1NpdkNDMl90OWhDdTgzSUJ0ajdIU19VZnA0ZmJyamdtd253Zk11aFdXYVRsMVBpUzRUU0tabzk5cmVpcmxIbmNqcmkxT3ZmaEd0cHZQR0I2cklSN2dTeE9rS0hzZHpBUVNiOW5nblU3TmtOQXBqa2lTY0hLek93UjBhaC1PTXMwRDdkZkdUb2s4MlNLakRYR0N6VmRwMA?oc=5",
+                "date": "2026-02-03 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2026-02-04": {
+        "price_usd": 5.826,
+        "articles": [
+            {
+                "title": "Barrick goes ahead with IPO of North American gold assets, names Hill as CEO - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazRybk1XVVplbmlKNnZJd3dVdGlYRE85dEJOMk05S2NFaU80WUJscUREcHdFSXhmcF9hcGFmLWpzYThsXzVtd3dpaDVGaXRKekVHdS1qNzhFeEpnZVlfMVhQM2J0TWptR0dOV1pQSlJjOHRzNVVYODFqYVBZNDlHcVBTN0xOTHpzU3Zaek5tZ2ZKNVpaeWVsR202SkFidE5LeEJ2OUF3Q3ZoX05hNnZYQzY2b3NiWEdMZzZUMHNSOGF2dw?oc=5",
+                "date": "2026-02-05 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2026-02-05": {
+        "price_usd": 5.799,
+        "articles": [
+            {
+                "title": "Barrick goes ahead with IPO of North American gold assets, names Hill as CEO - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazRybk1XVVplbmlKNnZJd3dVdGlYRE85dEJOMk05S2NFaU80WUJscUREcHdFSXhmcF9hcGFmLWpzYThsXzVtd3dpaDVGaXRKekVHdS1qNzhFeEpnZVlfMVhQM2J0TWptR0dOV1pQSlJjOHRzNVVYODFqYVBZNDlHcVBTN0xOTHpzU3Zaek5tZ2ZKNVpaeWVsR202SkFidE5LeEJ2OUF3Q3ZoX05hNnZYQzY2b3NiWEdMZzZUMHNSOGF2dw?oc=5",
+                "date": "2026-02-05 08:00",
+                "source": "BNN Bloomberg"
+            }
+        ]
+    },
+    "2026-02-06": {
+        "price_usd": 5.8635,
+        "articles": []
+    },
+    "2026-02-07": {
+        "price_usd": 5.8635,
+        "articles": []
+    },
+    "2026-02-08": {
+        "price_usd": 5.8635,
+        "articles": [
+            {
+                "title": "Watch Copper Prices Remarkably Resilient, Macro Factors At Play: Gower - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1NGa2lsQ2ZCU0NBWXlYSm11aEFEYjBKZHU0TlJ0b0dYUG8wc28wbTVGdWZPcE5HNE1OYnNDaVNfZUVmckt3SERVbXYtRjBVZlJLWnQtYjFVZ2hNMmxpRlZXRVE3NEZZQVpmaFhjWTd1c2NsWjRnT2pWaXdMTVZHUGJQbTZmMFhla0VsNHE0a1poaG5OYzlHRDVmbw?oc=5",
+                "date": "2026-02-09 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-02-09": {
+        "price_usd": 5.945,
+        "articles": [
+            {
+                "title": "Watch Copper Prices Remarkably Resilient, Macro Factors At Play: Gower - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1NGa2lsQ2ZCU0NBWXlYSm11aEFEYjBKZHU0TlJ0b0dYUG8wc28wbTVGdWZPcE5HNE1OYnNDaVNfZUVmckt3SERVbXYtRjBVZlJLWnQtYjFVZ2hNMmxpRlZXRVE3NEZZQVpmaFhjWTd1c2NsWjRnT2pWaXdMTVZHUGJQbTZmMFhla0VsNHE0a1poaG5OYzlHRDVmbw?oc=5",
+                "date": "2026-02-09 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-02-10": {
+        "price_usd": 5.896,
+        "articles": [
+            {
+                "title": "How to Invest as Fears of AI Disruption Grow - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXFtRmRQSTRlN3JUQXJVYzBYWWNrbmo4RzNjT3dIMjV0Yk5TSDgtOHpsX2JwODlOVnMxckJuSC12UWxFVU11V1dicElPLVRLa1JId3FWdkY2WGMxZE1Bc3NhZXdtT1FvYmZqTC1JNHJNT0VlRzhJYU5zNTBYQ3h5eGFQQlN2Y2MyWnhSaVFBbXlCaW1rMnhHSHVPSjdFV0k?oc=5",
+                "date": "2026-02-11 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-02-11": {
+        "price_usd": 5.949,
+        "articles": [
+            {
+                "title": "How to Invest as Fears of AI Disruption Grow - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXFtRmRQSTRlN3JUQXJVYzBYWWNrbmo4RzNjT3dIMjV0Yk5TSDgtOHpsX2JwODlOVnMxckJuSC12UWxFVU11V1dicElPLVRLa1JId3FWdkY2WGMxZE1Bc3NhZXdtT1FvYmZqTC1JNHJNT0VlRzhJYU5zNTBYQ3h5eGFQQlN2Y2MyWnhSaVFBbXlCaW1rMnhHSHVPSjdFV0k?oc=5",
+                "date": "2026-02-11 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-02-12": {
+        "price_usd": 5.771,
+        "articles": []
+    },
+    "2026-02-13": {
+        "price_usd": 5.7925,
+        "articles": []
+    },
+    "2026-02-14": {
+        "price_usd": 5.7925,
+        "articles": []
+    },
+    "2026-02-15": {
+        "price_usd": 5.7925,
+        "articles": []
+    },
+    "2026-02-16": {
+        "price_usd": 5.7925,
+        "articles": []
+    },
+    "2026-02-17": {
+        "price_usd": 5.633,
+        "articles": [
+            {
+                "title": "Glencore Profit Slides as Copper Rally Offset by Coal Slump - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1NrcnpYeFlVTmRjeTcxUy1FaW9tZnkzaXdEc2hyRUJmT0VYS3B4RUw1bzhySlZqVlBzMGxnWkk5cDZnS0tTejNLblFPX2k4OEtjdDlsbVA3eW05NnNsLTcwUWZlbGhtWG0tMHIwVy1tR2J3OXAyVERSSHc5X21oWnRJNFJWbVBpVmNGYjJjZ2dKdkpEN3V2ejEyS0hsUzhyZzhodmhkd2x5cExBQ1dN?oc=5",
+                "date": "2026-02-18 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-02-18": {
+        "price_usd": 5.7935,
+        "articles": [
+            {
+                "title": "Glencore Profit Slides as Copper Rally Offset by Coal Slump - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1NrcnpYeFlVTmRjeTcxUy1FaW9tZnkzaXdEc2hyRUJmT0VYS3B4RUw1bzhySlZqVlBzMGxnWkk5cDZnS0tTejNLblFPX2k4OEtjdDlsbVA3eW05NnNsLTcwUWZlbGhtWG0tMHIwVy1tR2J3OXAyVERSSHc5X21oWnRJNFJWbVBpVmNGYjJjZ2dKdkpEN3V2ejEyS0hsUzhyZzhodmhkd2x5cExBQ1dN?oc=5",
+                "date": "2026-02-18 08:00",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-02-19": {
+        "price_usd": 5.73,
+        "articles": []
+    },
+    "2026-02-20": {
+        "price_usd": 5.831,
+        "articles": []
+    },
+    "2026-02-21": {
+        "price_usd": 5.831,
+        "articles": []
+    },
+    "2026-02-22": {
+        "price_usd": 5.831,
+        "articles": []
+    },
+    "2026-02-23": {
+        "price_usd": 5.773,
+        "articles": [
+            {
+                "title": "FTSE 100 muted as banks offset gains in miners; tariff worries linger - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlgyaUpwS1BxRG1vVkRFcER3NDNoOVJhemlHeHN6c3U5QnlBTVhaNWo5YU5PN0gyTjFWclBndXltYUQ0MnFYUzNpbE5XQzJOZVhTN1dRSGhham5NbmxnaGhseWc0dXJtLUhscWVUQ1VyUU5UQ3RoMjA3emVtY2Y1RkNvWXBSc3NKSTVkT3BSNjRjU0pGaGVpQ2xyQUxWSk9Va1RwZ0t4MDI?oc=5",
+                "date": "2026-02-24 08:00",
+                "source": "Reuters"
+            }
+        ]
+    },
+    "2026-02-24": {
+        "price_usd": 5.923,
+        "articles": []
+    },
+    "2026-02-25": {
+        "price_usd": 5.9795,
+        "articles": []
+    },
+    "2026-02-26": {
+        "price_usd": 5.947,
+        "articles": []
+    },
+    "2026-02-27": {
+        "price_usd": 6.0045,
+        "articles": []
+    },
+    "2026-02-28": {
+        "price_usd": 6.0045,
+        "articles": []
+    },
+    "2026-03-01": {
+        "price_usd": 6.0045,
+        "articles": []
+    },
+    "2026-03-02": {
+        "price_usd": 5.8945,
+        "articles": []
+    },
+    "2026-03-03": {
+        "price_usd": 5.7735,
+        "articles": []
+    },
+    "2026-03-04": {
+        "price_usd": 5.855,
+        "articles": []
+    },
+    "2026-03-05": {
+        "price_usd": 5.753,
+        "articles": [
+            {
+                "title": "A Copper Market Awash With Metal Sours Traders\u2019 Bullish Mood - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTkyZEJueVhxWjM1c2liRFRKNkFTeEZOV2NWb0RWeE9tZm5EZ0t0VnlxNUpPWHRnRHUtZFJjcFQwXzJWenNPYU4wOFFlOTNZd295Z2ZSTWtGcTBNaERJeUE5emF5MEVJRTgwTGp4dG5sYUgxai11c0VwSllzOVd0NHoxa0JvMDhiRFlFMFc5dmtGQmJ2ODJzYjBEVFBHVFVlcDJaaEZGZFBFdFFUekZV?oc=5",
+                "date": "2026-03-05 17:37",
+                "source": "Bloomberg.com"
+            }
+        ]
+    },
+    "2026-03-06": {
+        "price_usd": 5.757,
+        "articles": []
+    },
+    "2026-03-07": {
+        "price_usd": 5.757,
+        "articles": []
+    },
+    "2026-03-08": {
+        "price_usd": 5.757,
+        "articles": []
     }
 }

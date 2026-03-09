@@ -55,25 +55,18 @@ def get_live_json_data():
 def generate_interactive_chart():
     print("Generating interactive correlation chart...")
     
-    # 1. Get Article Counts
-    md_df = get_historical_markdown_data()
+    # 1. Get Article Counts exclusively from JSON (which contains backfilled rigorous daily data)
     json_df = get_live_json_data()
     
-    # Combine counts (JSON takes precedence if duplicate date)
-    if not json_df.empty:
-        json_counts = json_df[['Date', 'Article_Count']]
-        combined_counts = pd.concat([md_df, json_counts]).drop_duplicates(subset=['Date'], keep='last')
-    else:
-        combined_counts = md_df
-        
-    combined_counts['Date'] = pd.to_datetime(combined_counts['Date'])
-
-    # 2. Get Historical Prices (to backfill before JSON tracking started)
-    if combined_counts.empty:
+    if json_df.empty:
         print("No article data found. Cannot generate chart.")
         return
         
-    min_date = combined_counts['Date'].min() - pd.Timedelta(days=14)
+    combined_counts = json_df[['Date', 'Article_Count']].copy()
+    combined_counts['Date'] = pd.to_datetime(combined_counts['Date'])
+
+    # 2. Get Historical Prices
+    min_date = combined_counts['Date'].min() - pd.Timedelta(days=5)
     max_date = datetime.now() + pd.Timedelta(days=1)
     
     copper = yf.Ticker("HG=F")
@@ -85,33 +78,51 @@ def generate_interactive_chart():
     # 3. Merge Data
     df = pd.merge(price_df, combined_counts, on='Date', how='left')
     df['Article_Count'] = df['Article_Count'].fillna(0)
+    df['Is_Weekend'] = df['Date'].dt.dayofweek >= 5
     
     # 4. Generate Plotly Chart
     # Create figure with secondary y-axis
     fig = make_subplots(specs=[[{"secondary_y": True}]])
 
-    # Add Article Volume Bar Chart (Secondary Y-Axis)
+    # Add Article Volume Line Chart (Secondary Y-Axis)
     fig.add_trace(
-        go.Bar(
+        go.Scatter(
             x=df['Date'],
             y=df['Article_Count'],
             name="News Article Volume",
-            marker_color='rgba(158, 202, 225, 0.6)', # Soft blue, transparent
+            mode='lines',
+            line=dict(color='rgba(31, 119, 180, 1)', width=2), # Solid Blue
+            fill='tozeroy', # Fill area under the line to make it look grounded
+            fillcolor='rgba(31, 119, 180, 0.2)', # Transparent blue fill
             hovertemplate="<b>Date:</b> %{x}<br><b>Articles:</b> %{y}<extra></extra>"
         ),
         secondary_y=True,
     )
 
     # Add Copper Price Line Chart (Primary Y-Axis)
+    # The continuous line runs through all days
     fig.add_trace(
         go.Scatter(
             x=df['Date'],
             y=df['Copper_Price_USD'],
             name="Copper Price (HG=F)",
-            mode='lines+markers',
+            mode='lines',
             line=dict(color='rgba(255, 127, 14, 1)', width=3), # Orange
-            marker=dict(size=4),
             hovertemplate="<b>Date:</b> %{x}<br><b>Price:</b> $%{y:.4f}<extra></extra>"
+        ),
+        secondary_y=False,
+    )
+    
+    # Highlight weekend carryover prices with different markers overlayed on the line
+    weekend_df = df[df['Is_Weekend']]
+    fig.add_trace(
+        go.Scatter(
+            x=weekend_df['Date'],
+            y=weekend_df['Copper_Price_USD'],
+            name="Weekend Carryover Price",
+            mode='markers',
+            marker=dict(color='rgba(255, 195, 114, 1)', size=6, symbol='circle-open', line=dict(width=2)), # Lighter orange hollow circle
+            hovertemplate="<b>Date:</b> %{x} (Weekend)<br><b>Carried Price:</b> $%{y:.4f}<extra></extra>"
         ),
         secondary_y=False,
     )
@@ -139,7 +150,7 @@ def generate_interactive_chart():
                     dict(step="all", label="All")
                 ])
             ),
-            rangeslider=dict(visible=True), # Adds a mini navigator map at the bottom
+            rangeslider=dict(visible=False), # Removed the confusing bottom minimap plot
             type="date"
         ),
         hovermode="x unified", # Shows tooltip for both charts at the exact x-axis position
@@ -150,7 +161,17 @@ def generate_interactive_chart():
             y=1.02,
             xanchor="right",
             x=1
-        )
+        ),
+        annotations=[
+            dict(
+                text="<i>*Note: Weekend prices are carried over from Friday's market close as markets are closed on Saturday/Sunday.</i>",
+                showarrow=False,
+                xref="paper", yref="paper",
+                x=0, y=-0.15, # Position below the chart
+                xanchor="left", yanchor="top",
+                font=dict(size=12, color="gray")
+            )
+        ]
     )
 
     # Set y-axes titles
