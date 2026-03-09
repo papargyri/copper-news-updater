@@ -56,6 +56,8 @@ def update_summary_file(articles):
 
     # Filter out articles that are already present in the summary file
     new_articles = [art for art in articles if art['link'] not in content]
+    print(f"Total articles fetched from RSS (last 3 days): {len(articles)}")
+    print(f"Total new articles after filtering duplicates: {len(new_articles)}")
 
     if not new_articles:
         print("No new articles to add. All fetched articles are already in the summary.")

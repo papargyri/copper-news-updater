@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-09 11:30)
+
+- **[Gulf disruption squeezes Indonesia nickel makers' sulphur supply - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUhYalhzNUZqeW9FSFRVWWxoa0Z4YUxGanBxSEFtLVJKUlJ5UzVDRS13YWkwM3hxMmdMSlFtQm9SelZEMWdiMUlpTWY2djRCbl9CMXpZSW1Rb2t3aUJGdW9hbkJsRDRndVI1cFk4OEJ6SUxnWERGNU1OXzRsOE5CZkRHby1Iak52WXVlOEtQcHo0b1B6UFB4LWdIZmt5eTBXTHhDVVZQSW8wcl91T25hYWZNOTV4ZDlMWHc?oc=5)**
+  - *Source: Reuters | Date: 2026-03-06 15:12*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-07 06:35)
 
 - **[A Copper Market Awash With Metal Sours Traders’ Bullish Mood - Bloomberg](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTkyZEJueVhxWjM1c2liRFRKNkFTeEZOV2NWb0RWeE9tZm5EZ0t0VnlxNUpPWHRnRHUtZFJjcFQwXzJWenNPYU4wOFFlOTNZd295Z2ZSTWtGcTBNaERJeUE5emF5MEVJRTgwTGp4dG5sYUgxai11c0VwSllzOVd0NHoxa0JvMDhiRFlFMFc5dmtGQmJ2ODJzYjBEVFBHVFVlcDJaaEZGZFBFdFFUekZV?oc=5)**
