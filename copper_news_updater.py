@@ -1,6 +1,7 @@
 import feedparser
 import requests
 import os
+import json
 from datetime import datetime, timedelta
 import time
 
@@ -47,6 +48,10 @@ def fetch_copper_news():
 def update_summary_file(articles):
     # Use relative path for GitHub Actions
     summary_path = "copper_news_summary.md"
+    json_path = "data/articles_by_date.json"
+    
+    # Ensure data directory exists
+    os.makedirs(os.path.dirname(json_path), exist_ok=True)
     
     try:
         with open(summary_path, "r", encoding="utf-8") as f:
@@ -63,7 +68,28 @@ def update_summary_file(articles):
         print("No new articles to add. All fetched articles are already in the summary.")
         return
 
-    # Prepare the update content
+    # Update structured JSON datastore
+    try:
+        if os.path.exists(json_path):
+            with open(json_path, 'r', encoding='utf-8') as f:
+                json_data = json.load(f)
+        else:
+            json_data = {}
+            
+        for art in new_articles:
+            # Extract just the date part (YYYY-MM-DD) for grouping
+            pub_date = art['date'].split(' ')[0]
+            if pub_date not in json_data:
+                json_data[pub_date] = []
+            json_data[pub_date].append(art)
+            
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, indent=4)
+        print(f"Successfully appended to structured datastore: {json_path}")
+    except Exception as e:
+        print(f"Error updating JSON datastore: {e}")
+
+    # Prepare the update content for markdown
     update_header = f"## 🔄 Latest Updates (as of {datetime.now().strftime('%Y-%m-%d %H:%M')})\n\n"
     article_list = ""
     for art in new_articles:
