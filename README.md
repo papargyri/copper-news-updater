@@ -1,11 +1,10 @@
 # Copper Market News and Update Automation (Sept 2025 - Feb 2026)
 
-This Knowledge Item summarizes research and implementation for tracking copper market trends and automating news updates.
+This repository contains scripts and documentation for tracking copper market trends and automating daily news updates.
 
 ## 📁 Artifacts
 
 - **[copper_news_summary_2025_2026.md](./copper_news_summary_2025_2026.md)**: A high-level market report on demand (AI surge), supply shocks (Grasberg mine), and record prices.
-- **[journalists_and_sources.md](./journalists_and_sources.md)**: A directory of key journalists (Harry Dempsey, Javier Blas, etc.) and primary news sources for the copper market.
 - **[news_fetching_automation.md](./news_fetching_automation.md)**: Research on programmatic news fetching from premium outlets using RSS and APIs.
 - **[docs/copper_news_updater_script.md](./docs/copper_news_updater_script.md)**: The Python script logic for fetching and appending news to a Markdown summary.
 - **[docs/github_actions_workflow.md](./docs/github_actions_workflow.md)**: Detailed strategy for automating updates using GitHub Actions.

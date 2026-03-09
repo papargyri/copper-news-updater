@@ -1,6 +1,6 @@
 # 🤖 News Fetching Automation Research
 
-As part of the request to automate copper news updates, research was conducted on fetching articles programmatically from premium outlets like the Financial Times, The Economist, and Reuters.
+This document details research conducted on fetching articles programmatically from premium outlets like the Financial Times, The Economist, and Reuters.
 
 ## 🐍 Python Libraries and Approaches
 
