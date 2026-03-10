@@ -14,10 +14,36 @@ def fetch_copper_news():
     seen_urls = set()
 
     # Target outlets specified by the user
-    target_outlets = {
-        "Financial Times", "The Economist", "The Guardian", 
-        "The New York Times", "The Wall Street Journal", 
-        "Reuters", "Bloomberg"
+    # The Original 7 Elite Financial Outlets
+    PREMIUM_OUTLETS = {
+        "Financial Times", "The Economist", "The Wall Street Journal", 
+        "Reuters", "Bloomberg", "The New York Times", "The Guardian"
+    }
+
+    # 93 Additional Global & Industry Outlets (Total = 100)
+    GLOBAL_OUTLETS = {
+        # Top 50 Core
+        "CNBC", "Forbes", "Fortune", "Business Insider", "MarketWatch", "Motley Fool",
+        "Seeking Alpha", "Yahoo Finance", "Investopedia", "TheStreet",
+        "BBC", "CNN", "Daily Mail", "Fox News", "Al Jazeera", "AP News", "NBC News", 
+        "The Washington Post", "USA Today", "MSN", "Yahoo News", "Google News", "NPR", 
+        "CBS News", "ABC News", "Time", "Newsweek", "The Telegraph", "The Independent", 
+        "South China Morning Post", "Hindustan Times", "The Times of India", 
+        "Sydney Morning Herald", "The Globe Herald", "Le Monde", "Der Spiegel", 
+        "El País", "Asahi Shimbun", "Substack", "Axios", "Politico", "HuffPost", "BuzzFeed News",
+        
+        # 50 Tier-2, Regional, and Mining Trade Journals
+        "Mining.com", "The Northern Miner", "Australian Financial Review", "Mining Weekly",
+        "Engineering and Mining Journal", "MINING magazine", "Canadian Mining Journal",
+        "S&P Global", "Wood Mackenzie", "Fitch Solutions", "Fastmarkets", "Argus Media",
+        "Metal Bulletin", "Kitco News", "Cru Group", "Platts", "Eurasia Group",
+        "The Australian", "National Post", "Toronto Star", "Vancouver Sun",
+        "Folha de S.Paulo", "O Globo", "La Nación", "Clarín", "El Mercurio", "La Tercera",
+        "Business Day (South Africa)", "The Star (Kenya)", "New Straits Times", "Jakarta Post",
+        "Bangkok Post", "Straits Times", "The Star (Malaysia)", "Philippine Daily Inquirer",
+        "Nikkei Asia", "The Japan Times", "Korea JoongAng Daily", "The Chosun Ilbo",
+        "Al Arabiya", "Gulf News", "The National (UAE)", "Jerusalem Post", "Haaretz",
+        "Sky News", "ITV News", "Channel 4 News", "France 24", "Deutsche Welle", "RT"
     }
 
     # Time window: last 3 days
@@ -31,19 +57,22 @@ def fetch_copper_news():
             published_parsed = entry.get('published_parsed')
             if published_parsed:
                 pub_date = datetime.fromtimestamp(time.mktime(published_parsed))
-                source_title = entry.get('source', {}).get('title', 'Unknown')
+                source_title = str(entry.get('source', {}).get('title', 'Unknown'))
                 
-                # Check if the source matches our target outlets (case-insensitive partial match)
-                is_target_source = any(target.lower() in source_title.lower() for target in target_outlets)
+                is_premium = any(t.lower() in source_title.lower() for t in PREMIUM_OUTLETS)
+                is_global = any(t.lower() in source_title.lower() for t in GLOBAL_OUTLETS)
 
-                if pub_date > three_days_ago and entry.link not in seen_urls and is_target_source:
+                entry_link = str(entry.link)
+                
+                if pub_date > three_days_ago and entry_link not in seen_urls and (is_premium or is_global):
                     articles.append({
-                        'title': entry.title,
-                        'link': entry.link,
+                        'title': str(entry.title),
+                        'link': entry_link,
                         'date': pub_date.strftime('%Y-%m-%d %H:%M'),
-                        'source': source_title
+                        'source': source_title,
+                        'is_premium': is_premium
                     })
-                    seen_urls.add(entry.link)
+                    seen_urls.add(entry_link)
     
     return sorted(articles, key=lambda x: x['date'], reverse=True)
 
@@ -69,10 +98,9 @@ def fetch_daily_copper_price():
 def update_summary_file(articles):
     # Use relative path for GitHub Actions
     summary_path = "copper_news_summary.md"
-    json_path = "data/articles_by_date.json"
     
     # Ensure data directory exists
-    os.makedirs(os.path.dirname(json_path), exist_ok=True)
+    os.makedirs(os.path.dirname("data/articles_by_date.json"), exist_ok=True)
     
     try:
         with open(summary_path, "r", encoding="utf-8") as f:
@@ -85,7 +113,11 @@ def update_summary_file(articles):
     print(f"Total articles fetched from RSS (last 3 days): {len(articles)}")
     print(f"Total new articles after filtering duplicates: {len(new_articles)}")
 
-    update_json_datastore(new_articles, json_path)
+    # Fetch price once for both markdown and JSON updates
+    price_data = fetch_daily_copper_price()
+    latest_price_value = price_data["price_usd"] if price_data else None
+
+    update_json_datastore(new_articles, latest_price_value)
 
     if not new_articles:
         print("No new articles to add to Markdown. All fetched articles are already in the summary.")
@@ -116,47 +148,56 @@ def update_summary_file(articles):
     except Exception as e:
         print(f"Error updating file: {e}")
 
-def update_json_datastore(new_articles, json_path):
-    """Updates the JSON file with new articles and the latest copper price."""
-    # Fetch today's price
-    price_data = fetch_daily_copper_price()
-    today_str = datetime.now().strftime('%Y-%m-%d')
-    price_date = price_data['date'] if price_data else today_str
+def update_json_datastore(new_articles, latest_price):
+    """
+    Updates a structured JSON file that maps each date to its exact copper price 
+    and the distinct volume of Premium (Top 7) vs Total Global (Top 50) articles.
+    """
+    json_path = "data/articles_by_date.json"
     
-    # We log data under the price's trading date to align markets with news
-    target_date = price_date
+    if os.path.exists(json_path):
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    else:
+        data = {}
 
-    try:
-        if os.path.exists(json_path):
-            with open(json_path, 'r', encoding='utf-8') as f:
-                json_data = json.load(f)
-        else:
-            json_data = {}
-            
-        # Ensure the date entry exists
-        if target_date not in json_data:
-            json_data[target_date] = {"price_usd": None, "articles": []}
-            
-        # Update the price if we successfully fetched it
-        if price_data:
-             json_data[target_date]["price_usd"] = price_data["price_usd"]
-            
-        # Append any new articles
-        article_list = json_data[target_date].get("articles", [])
-        extracted_urls = [a['link'] for a in article_list]
-        for art in new_articles:
-            # Prevent duplicates inside the JSON array just in case
-            if art['link'] not in extracted_urls:
-                 article_list.append(art)
-                 extracted_urls.append(art['link'])
-                 
-        json_data[target_date]["articles"] = article_list
-            
-        with open(json_path, 'w', encoding='utf-8') as f:
-            json.dump(json_data, f, indent=4)
-        print(f"Successfully updated structured datastore: {json_path}")
-    except Exception as e:
-        print(f"Error updating JSON datastore: {e}")
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    
+    if today_str not in data:
+        data[today_str] = {
+            "price_usd": None, 
+            "premium_count": 0, 
+            "global_count": 0
+        }
+        
+    current_day = dict(data[today_str])
+
+    # 1. Update Price
+    if latest_price:
+        current_day["price_usd"] = round(latest_price, 4)
+
+    # 2. Update Article Counts (Count only what was fetched today for today)
+    # The backfiller handles historical gaps. This updater just adds today's fresh finds.
+    prem_today = sum(1 for a in new_articles if a.get('is_premium', False))
+    glob_today = len(new_articles) - prem_today
+    
+    # Since this script runs daily, we just add the newly scraped articles to the running tally
+    # Add new to existing (default to 0 if the field was an old array format during transition)
+    prev_prem = current_day.get('premium_count', 0) if isinstance(current_day.get('premium_count'), int) else 0
+    prev_glob = current_day.get('global_count', 0) if isinstance(current_day.get('global_count'), int) else 0
+    
+    current_day["premium_count"] = prev_prem + prem_today
+    # global includes premium implicitly in our math
+    current_day["global_count"] = prev_glob + prem_today + glob_today
+
+    data[today_str] = current_day
+
+    # Save
+    os.makedirs(os.path.dirname(json_path), exist_ok=True)
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4)
+        
+    print(f"Successfully updated structured datastore: {json_path}")
 
 if __name__ == "__main__":
     print("Starting copper news update...")

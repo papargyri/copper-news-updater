@@ -47,7 +47,8 @@ def get_live_json_data():
     for date_str, info in data.items():
         records.append({
             'Date': date_str,
-            'Article_Count': len(info.get('articles', [])),
+            'Premium_Count': info.get('premium_count', 0),
+            'Global_Count': info.get('global_count', 0),
             'Copper_Price_USD': info.get('price_usd', None)
         })
     return pd.DataFrame(records)
@@ -62,7 +63,7 @@ def generate_interactive_chart():
         print("No article data found. Cannot generate chart.")
         return
         
-    combined_counts = json_df[['Date', 'Article_Count']].copy()
+    combined_counts = json_df[['Date', 'Premium_Count', 'Global_Count']].copy()
     combined_counts['Date'] = pd.to_datetime(combined_counts['Date'])
 
     # 2. Get Historical Prices
@@ -77,24 +78,40 @@ def generate_interactive_chart():
 
     # 3. Merge Data
     df = pd.merge(price_df, combined_counts, on='Date', how='left')
-    df['Article_Count'] = df['Article_Count'].fillna(0)
+    df['Premium_Count'] = df['Premium_Count'].fillna(0)
+    df['Global_Count'] = df['Global_Count'].fillna(0)
     df['Is_Weekend'] = df['Date'].dt.dayofweek >= 5
     
     # 4. Generate Plotly Chart
     # Create figure with secondary y-axis
     fig = make_subplots(specs=[[{"secondary_y": True}]])
 
-    # Add Article Volume Line Chart (Secondary Y-Axis)
+    # Add Elite Premium Volume Line Chart (Secondary Y-Axis)
     fig.add_trace(
         go.Scatter(
             x=df['Date'],
-            y=df['Article_Count'],
-            name="News Article Volume",
+            y=df['Premium_Count'],
+            name="Elite Financial News (Top 7)",
             mode='lines',
             line=dict(color='rgba(31, 119, 180, 1)', width=2), # Solid Blue
             fill='tozeroy', # Fill area under the line to make it look grounded
-            fillcolor='rgba(31, 119, 180, 0.2)', # Transparent blue fill
-            hovertemplate="<b>Date:</b> %{x}<br><b>Articles:</b> %{y}<extra></extra>"
+            fillcolor='rgba(31, 119, 180, 0.4)', # Darker transparent blue fill
+            hovertemplate="<b>Date:</b> %{x}<br><b>Elite Articles:</b> %{y}<extra></extra>"
+        ),
+        secondary_y=True,
+    )
+
+    # Add Global Volume Line Chart (Secondary Y-Axis)
+    fig.add_trace(
+        go.Scatter(
+            x=df['Date'],
+            y=df['Global_Count'],
+            name="Global News Volume (Top 50)",
+            mode='lines',
+            line=dict(color='rgba(135, 206, 250, 1)', width=2, dash='dash'), # Light Sky Blue Dashed
+            fill='tonexty', # Fill area between Premium and Global
+            fillcolor='rgba(135, 206, 250, 0.2)', # Lighter transparent blue fill
+            hovertemplate="<b>Date:</b> %{x}<br><b>Global Articles:</b> %{y}<extra></extra>"
         ),
         secondary_y=True,
     )
@@ -127,16 +144,43 @@ def generate_interactive_chart():
         secondary_y=False,
     )
 
-    # Set up Layout with Interactive Features
+    # Set up Layout with Interactive Features and Toggles
     fig.update_layout(
         title={
-            'text': "<b>Copper Price vs. Premium News Volume</b>",
+            'text': "<b>Copper Price vs. News Volume (Top 100 Global Outlets)</b>",
             'y':0.95,
             'x':0.5,
             'xanchor': 'center',
             'yanchor': 'top',
             'font': dict(size=24)
         },
+        updatemenus=[dict(
+            type="buttons",
+            direction="left",
+            buttons=list([
+                dict(
+                    args=[{"visible": [True, True, True, True]}],
+                    label="Show All Data",
+                    method="update"
+                ),
+                dict(
+                    args=[{"visible": [True, True, False, True]}],
+                    label="Show Elite Financial Only",
+                    method="update"
+                ),
+                dict(
+                    args=[{"visible": [True, False, True, True]}],
+                    label="Show Broader Global Only",
+                    method="update"
+                )
+            ]),
+            pad={"r": 10, "t": 10},
+            showactive=True,
+            x=1.1,
+            xanchor="left",
+            y=1.15,
+            yanchor="top"
+        )],
         xaxis=dict(
             title="Date",
             rangeselector=dict(
@@ -164,7 +208,7 @@ def generate_interactive_chart():
         ),
         annotations=[
             dict(
-                text="<i>*Note: Weekend prices are carried over from Friday's market close as markets are closed on Saturday/Sunday.</i>",
+                text="<i>*Note: Weekend prices are carried over from Friday's market close. You can click the legend items to hide specific traces.</i>",
                 showarrow=False,
                 xref="paper", yref="paper",
                 x=0, y=-0.15, # Position below the chart
