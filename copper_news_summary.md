@@ -7,6 +7,38 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-10 06:43)
+
+- **[Looming copper shortage as tariff fears and mine disruptions fuel tightness - CNBC](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFVvSTJDbzM0T1ZreUo4VlU1QUZUOUhBaTk1bmd2Y2p4cTdGaG9USW0tdVZtNEp2Z2k5aXdiY0RhbmtsaE1NZE1mX0RibDVIV2tMM2w3SHlCbGdLV0ZJZDNESXFsVThXQWtpYURFcHBsbzJaZmMwdThNNDFnaUpmd09Ha0JSMm9tZFlmaThKaHNFYzFCQUNXMFQtZzAxYWNV?oc=5)**
+  - *Source: CNBC | Date: 2026-03-10 06:22*
+- **[Binance Futures Introduces COPPERUSDT Perpetuals For Copper Trading - BlockchainReporter](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjAzeTA2aWpoeEQtTC1fS1luNjkzNW9HOW12dHdGRE5jdXVxNnlndjVIaV9xZndSTDRwelA1Z0dJeDVJZXVCdjJfZ3doUG1TUmQ5SzJyNDBRSjBqWC1QaXhkb0U5V2s2NDZKYWNXb01PZEFGeUo1N2pLM2xXaV9tbU4xbHV3dVF5aGdvbWJ4OUY5OHhzRFNlVnRpb3hLNjRJ?oc=5)**
+  - *Source: BlockchainReporter | Date: 2026-03-10 06:02*
+- **[Mongolia urges Rio Tinto to rewrite terms of Oyu Tolgoi copper mine, FT reports - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPV25qdFVaRzREZ2hhSjJkV2FMbnR5WGlaM1NfSEZrZllDX01EOGZ1WHdPQU42Q0Z3NjlERjdkVV9SbUwxeUplTVlFeWY3WUhOTlM4eG5TSjFPOHhUVUlTRm5GNC1MbjlHODVRUnMtYjAxT0c3d1dUcTJJRXpENFRqQWdHRTYxb3VZRVo4UXczZmZMZGY1MDg1Q3UxUWtQa3VDaFhkSUJsZWF5M3JrbTlnWkNDTXhTS2lydTJ6amE1aXhGNWF0bFE?oc=5)**
+  - *Source: Reuters | Date: 2026-03-10 03:38*
+- **[Copper Charts To Watch As Prices Slip Below $13,000/T - Seeking Alpha](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHRIME90NXNIeHdFVjN2bkkwMjVUekFLOVRRenRvbk5EWWNOSF8tNHoyaXdJV0NJQ0loWnNrZmR5QjROMWZ6ZHN4aUJuU1B0MjluVXRpcTkyVFNJOW56OEdXRmJCRFpaYXY1aDBSMjcyV3luYWwyLUItbWt0cmtpSXg3bEhYSVNpaFNnMHRGSDF1R0VJYm5TREJ2ZEZDOTl1aFJ4QW9Xak1CeXhySVhn?oc=5)**
+  - *Source: Seeking Alpha | Date: 2026-03-10 03:35*
+- **[Mongolia presses Rio Tinto to rewrite ‘unfair’ terms of $18bn Oyu Tolgoi mine - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE43bjVWTWFKNTRVQWMwTDVOWnctZmJjcGtNdmc1bmRMV0lGMUp1ZmxYXzVTb0xuTS1QdDlDRVZJTzRQVXpGdHN3YzVTdlFvTExXQnVUZHVtam1SR1o0c09uTXRIRWVUSEhIZGkyejZ0QlU?oc=5)**
+  - *Source: Financial Times | Date: 2026-03-10 00:01*
+- **[COPX: A Better Bet Than Copper Metal As The Structural Supply Crunch Builds - Seeking Alpha](https://news.google.com/rss/articles/CBMirgFBVV95cUxOam5FUXA5ckd6azlyaUJHQ3J5d19ydUFSVXE0Zjc1TXpRN1g3SFIyX0JsZnJsaFBneXpGdk5PcjAxaWQycmh5ajlqUE9fbHVMUEtZM3FJcExPTkpyMTVpYVhEMnVGU0k0eUgtd2pmLTNCZmNUWm1iNWRtcTEwSUlqUWx3ZGh3QjYxRHdCSGpMX2lva256UjVLNkptcUFtYi11Q09yWnVUWUV0alh6amc?oc=5)**
+  - *Source: Seeking Alpha | Date: 2026-03-09 15:18*
+- **[Harmony Gold forecasts 11% to 17% earnings growth as it works on new copper assets - Business Report](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkZzZG1BNXlYNzFnejRYRXBTSnlOV0U0ZUU0NlB1MXg5STkzRFdzMmY4Mzl0UktTWlZQNHVWMFlnMVctdWlBMlVYOTBNSHJJcTJPTlhGYlk1ODNsOEJIMEdIUVpucm1QeHNpMXZuYzVEdDBFTGR3Qmc4RGJUc1lFaHMtQVZlam82UmE0aWxOZUJVd1hxcWxtUWV5UFhTLWN3YlVLMGQwQVMwNWwwQ1JPQzQ4SENVTmZrc2VSTGdRbW8wQ2RZeUFybGJsZw?oc=5)**
+  - *Source: Business Report | Date: 2026-03-09 14:06*
+- **[Phoenix Copper fires chair, CFO over secret payments - Mining.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2JCbS1UQlNvSmhjc1lFdkNlVHVFWnA0ZEFyUFVCSnNadmpWQVFwSFhfLVQxaGNMTEhER0c5SmNLVXBpcTFCLU5SSkFqTG5odWtuX0tSaFczcGlMOXFpZDhiLURDZUpha0dBMVBzOTRhd3RwLWp3SnMxek9Ea0hHbg?oc=5)**
+  - *Source: Mining.com | Date: 2026-03-09 13:41*
+- **[Copper Sulphate Production Plant DPR 2026: Investment Cost, Market Growth & ROI Analysis - openPR.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0xLbG9TVkxsZTVLSlpiN3dIZFgtNlZFbGpfMl9rYTdXaXlqUUNFeHczcGlyZlhRT2d2NlcxWldMUE9tOHJ5VE1VWWptQTdXQ0NaUjI0WWxnWFlRUlhsTHR6d1FVMjVCdWxqR3V2amhDcDJWQXNvM2NXb18xQlBncHFTdTB6WkVfREo4VFZDZ0NtZC0xWWowbg?oc=5)**
+  - *Source: openPR.com | Date: 2026-03-09 11:08*
+- **[The Middle East conflict and its impact on global metals markets - Argus Media](https://news.google.com/rss/articles/CBMiygFBVV95cUxOa3g5emlwWVdWaU5GeXlCOERTd3lfMmZJZTUwY2FUMXlfRHNZcDJDUmR0UjFWVmdDMzB6QUQySl8waFRkUVVoalVQd3FtSEpOcEM0clhTdXVXVWRmQlN2ZklLOTJKTHd3NU9IRGY0ZXJXeXgyMkFVeWVFOWFMRWxpQVJ2VXlhSjRzQWNUUko5LWpBZkdfalk2Z3Vpbkl4S2dVREFPZW82RjdYVzF5WXJZeGNWdHB0YzRtUHBkOGxxcHpxcGlHOU11aGxn?oc=5)**
+  - *Source: Argus Media | Date: 2026-03-09 10:48*
+- **[Arthritis Gloves Market Is Going to Boom Rapidly | Copper Compression • Zensah • BraceAbility - openPR.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVZSelRXeF9uSDYybWN3d0FxSDF3OHRrS1N4TmZncW9GZXFNaHJxZDBIS0htZ1J0SGZFQlN0MWxKLXlSNWR5X29vNWxGOXBFTF9VNWsxcGRYRFlwMjRrSWttVFZuSG1ZcDgyejZMcGJyMFVyUGVVZjB2M0JCTlVOS1VnWTNselZZOER1eTFVQTZnTFkwRXc?oc=5)**
+  - *Source: openPR.com | Date: 2026-03-09 09:41*
+- **[Beyond gold: Why copper, uranium and rare earths are the new investor rush - The Economic Times](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcF9XczlaU2xiSWhmRzlFWk1OMWx5eEIyWWZjYkk1eFpuRWJvSG1fQm92aW5aV0VHU3NwWkdPZjN1Z0pNVGdMU0lhTkVIU2pPYjc1b1c5WjhieGhud2dVQzBkNVl1dWplVzN0dkpsR0RwdGhlSEdTN1FZVEFTdnZqODV0U2VtamhLOEYwNmtyYnZKZFZuT2VicFoteHVsRFFnOU52UkRWbUtHY2NUanFkZ2F0TkdDWUZXcEtiU0I1LUFHX0ZFLTQwX1NRNndsVGxwaGdLWHd4SdIB3AFBVV95cUxPa0lSTWgteWJtUFZZR2RyVzJVeGw4ZklhUFZ6Z1Y3VUhETGczR3dhQ05HNnNqRGkyU3pqMG9DQWFjZ2I5SUw3V3ZvekktcXprRC1kNzVnQUlmWVVUT2pjYVJZSVo1UXRURlZpMmdkVVBmSmd6Tnk1V2lxU3EzVmVhVkpZWGJfb09UWld4d2ZrUE9oUWNkUXNWTktFUndtbmF3Ym5URG9MeW54MlhnYWNmRktJdE5tbmdiVUE2c3JPNGtwc3pXWC1tc243ekd0NF9vbnU4NGJwWUlyY2k4?oc=5)**
+  - *Source: The Economic Times | Date: 2026-03-09 01:00*
+- **[Broadcom CEO sees copper interconnects viable through 2028 - digitimes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3RXOFBCWmU3RTdYSFZndU5XZnhiSUhEOXpIOXhrUlZlZW96emRyc2xLWncwX05nUmtHbG5kR0UzWkMyMnFrdFhRQ1pIbVNPZmdPR0FzeTIzV2l5U2pwQzBDTmxlZ0ZWSHFaeklUcGQtbE0xdDdJanhibFFLbHR1REJoWXlOdzk2MnhvSXRUQQ?oc=5)**
+  - *Source: digitimes | Date: 2026-03-07 22:58*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-09 11:30)
 
 - **[Gulf disruption squeezes Indonesia nickel makers' sulphur supply - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUhYalhzNUZqeW9FSFRVWWxoa0Z4YUxGanBxSEFtLVJKUlJ5UzVDRS13YWkwM3hxMmdMSlFtQm9SelZEMWdiMUlpTWY2djRCbl9CMXpZSW1Rb2t3aUJGdW9hbkJsRDRndVI1cFk4OEJ6SUxnWERGNU1OXzRsOE5CZkRHby1Iak52WXVlOEtQcHo0b1B6UFB4LWdIZmt5eTBXTHhDVVZQSW8wcl91T25hYWZNOTV4ZDlMWHc?oc=5)**
