@@ -12,6 +12,9 @@ This repository contains scripts and documentation for tracking copper market tr
 > [!NOTE]
 > **Viewing the Interactive Chart (`copper_analysis_chart.html`)**: This file embeds necessary JavaScript libraries (such as Plotly) to function completely offline without internet dependencies. Because of its size (~5MB), GitHub's unified "View raw" screen may display a *"We can't show files that are this big right now"* message. **This is normal for GitHub.** To view the chart and interact with its toggles, click the **Download raw file** button on the top right corner of the file view on GitHub, and open the `.html` file locally in any web browser.
 
+**Static Preview:**
+![Copper Market Chart](./copper_analysis_chart.png)
+
 ## 🚀 Key Insights
 
 - **Demand Shift**: The primary catalyst for the 2026 price surge was **AI Data Center** infrastructure, colliding with existing green energy trends (EVs, power grids).

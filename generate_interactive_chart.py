@@ -227,5 +227,11 @@ def generate_interactive_chart():
     fig.write_html(output_path)
     print(f"Chart successfully saved to {output_path}")
 
+    # Save to PNG for static github preview
+    png_output_path = "copper_analysis_chart.png"
+    # Provide width and height scaling for retina-quality rendering
+    fig.write_image(png_output_path, width=1200, height=800, scale=2)
+    print(f"Static chart successfully saved to {png_output_path}")
+
 if __name__ == "__main__":
     generate_interactive_chart()

@@ -3,3 +3,4 @@ requests==2.32.3
 yfinance==0.2.36
 pandas==2.2.0
 plotly==5.20.0
+kaleido==1.2.0
