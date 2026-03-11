@@ -9,6 +9,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-11 06:47)
+
+- **[Zambia seeking global investors to help triple copper output by 2031 - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQWEluYVVuaTYxSGhKSmRNWVVrNlpaU0hzQ3o0QWJmTGpUX0JnbWVfaW1LZWQ2bFpWMTUtbjh6dTRfWDFKRTM5SWRWTnhsXzhjSnZfQXM1ajVWQU5jRXB4N3RCVUptUUQ3S1paWTFZMElLdWVZNzlKTjR1YVBhLWNTU3R6bUtMaDUxOXY2TWprQkwtdUU4TlQxd25kM3pjMUpIMzJIdi1taHVhX0pYZll6YUhCVjBUUnRZTkFvd3pMNURIMlRBQTUyVkJYaw?oc=5)**
+  - *Source: Reuters | Date: 2026-03-10 13:34*
+- **[Mongolia Seeks to Amend Rio’s Oyu Tolgoi Mine Loan, FT Reports - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnpZb2Y1SVdxa0JmNVFkNmZQQUdRWnNWZWNWbGxsOTQ5U0RXTlpjU25MXzg1WE9oWnJ5eGhYUVhHVTZqb0E5QTAxX1U3WmFlUWhGcnYySFkxTzJTamJOZnpjNHhBUmFLRHhMMFZsVDg2U0h0aGV1RGRmV3NYQ1JIWkEzWXNnLXVkRmVMT21qN0RkWU9ZTV9iYVFFcnlfSmJ3NTJlR2lMa0JuNTU4SzJwYlVB?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-10 09:09*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-10 06:43)
 
 - **[Mongolia urges Rio Tinto to rewrite terms of Oyu Tolgoi copper mine, FT reports - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPV25qdFVaRzREZ2hhSjJkV2FMbnR5WGlaM1NfSEZrZllDX01EOGZ1WHdPQU42Q0Z3NjlERjdkVV9SbUwxeUplTVlFeWY3WUhOTlM4eG5TSjFPOHhUVUlTRm5GNC1MbjlHODVRUnMtYjAxT0c3d1dUcTJJRXpENFRqQWdHRTYxb3VZRVo4UXczZmZMZGY1MDg1Q3UxUWtQa3VDaFhkSUJsZWF5M3JrbTlnWkNDTXhTS2lydTJ6amE1aXhGNWF0bFE?oc=5)**
