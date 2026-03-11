@@ -29,7 +29,7 @@ def fetch_copper_news():
         "The Washington Post", "USA Today", "MSN", "Yahoo News", "Google News", "NPR", 
         "CBS News", "ABC News", "Time", "Newsweek", "The Telegraph", "The Independent", 
         "South China Morning Post", "Hindustan Times", "The Times of India", 
-        "Sydney Morning Herald", "The Globe Herald", "Le Monde", "Der Spiegel", 
+        "Sydney Morning Herald", "The Globe and Mail", "Le Monde", "Der Spiegel", 
         "El País", "Asahi Shimbun", "Substack", "Axios", "Politico", "HuffPost", "BuzzFeed News",
         
         # 50 Tier-2, Regional, and Mining Trade Journals
@@ -118,15 +118,17 @@ def update_summary_file(articles):
     latest_price_value = price_data["price_usd"] if price_data else None
 
     update_json_datastore(new_articles, latest_price_value)
+    
+    new_premium_articles = [art for art in new_articles if art.get('is_premium', False)]
 
-    if not new_articles:
-        print("No new articles to add to Markdown. All fetched articles are already in the summary.")
+    if not new_premium_articles:
+        print("No new premium articles to add to Markdown. All fetched premium articles are already in the summary.")
         return
 
     # Prepare the update content for markdown
     update_header = f"## 🔄 Latest Updates (as of {datetime.now().strftime('%Y-%m-%d %H:%M')})\n\n"
     article_list = ""
-    for art in new_articles:
+    for art in new_premium_articles:
         article_list += f"- **[{art['title']}]({art['link']})**\n  - *Source: {art['source']} | Date: {art['date']}*\n"
     
     article_list += "\n---\n"
@@ -166,7 +168,7 @@ def update_json_datastore(new_articles, latest_price):
     if today_str not in data:
         data[today_str] = {
             "price_usd": None, 
-            "premium_count": 0, 
+            "premium_count": 0,
             "global_count": 0
         }
         
@@ -177,17 +179,14 @@ def update_json_datastore(new_articles, latest_price):
         current_day["price_usd"] = round(latest_price, 4)
 
     # 2. Update Article Counts (Count only what was fetched today for today)
-    # The backfiller handles historical gaps. This updater just adds today's fresh finds.
     prem_today = sum(1 for a in new_articles if a.get('is_premium', False))
     glob_today = len(new_articles) - prem_today
     
     # Since this script runs daily, we just add the newly scraped articles to the running tally
-    # Add new to existing (default to 0 if the field was an old array format during transition)
     prev_prem = current_day.get('premium_count', 0) if isinstance(current_day.get('premium_count'), int) else 0
     prev_glob = current_day.get('global_count', 0) if isinstance(current_day.get('global_count'), int) else 0
     
     current_day["premium_count"] = prev_prem + prem_today
-    # global includes premium implicitly in our math
     current_day["global_count"] = prev_glob + prem_today + glob_today
 
     data[today_str] = current_day
