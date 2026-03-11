@@ -1,7 +1,5 @@
 # 🏗️ Copper News & Market Analysis Summary (Sept 2025 – Feb 2026)
 
-![Copper Market Chart](./copper_analysis_chart.png)
-
 ## 📊 Market Overview
 The copper market has been characterized by a **"Triple Threat"** of demand colliding with significant supply shocks, leading to record-breaking prices in early 2026.
 

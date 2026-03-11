@@ -227,10 +227,26 @@ def generate_interactive_chart():
     fig.write_html(output_path)
     print(f"Chart successfully saved to {output_path}")
 
+    # --- Static PNG Adjustments ---
+    # 1. Remove the interactive dropdown buttons (updatemenus) for the static image
+    # 2. Add a subtitle letting them know they can download the HTML for toggles
+    # 3. Increase top margin so title and legend don't overlap
+    fig.update_layout(
+        updatemenus=[],
+        title=dict(
+            text="<b>Copper Price vs. News Volume (Top 100 Global Outlets)</b><br><sup style='color:gray;'><i>(Static Preview - Download copper_analysis_chart.html for interactive filtering)</i></sup>",
+            y=0.95,
+            x=0.5,
+            xanchor='center',
+            yanchor='top'
+        ),
+        margin=dict(t=120)
+    )
+
     # Save to PNG for static github preview
     png_output_path = "copper_analysis_chart.png"
-    # Provide width and height scaling for retina-quality rendering
-    fig.write_image(png_output_path, width=1200, height=800, scale=2)
+    # Provide width and height scaling for retina-quality widescreen rendering
+    fig.write_image(png_output_path, width=1920, height=1080, scale=1)
     print(f"Static chart successfully saved to {png_output_path}")
 
 if __name__ == "__main__":
