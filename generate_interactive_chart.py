@@ -222,9 +222,9 @@ def generate_interactive_chart():
     fig.update_yaxes(title_text="<b>Copper Futures Price (USD)</b>", secondary_y=False, showgrid=True, gridcolor='lightgrey')
     fig.update_yaxes(title_text="<b>News Article Volume</b>", secondary_y=True, showgrid=False)
 
-    # Save to HTML with smaller file size by not embedding the full plotly js library
+    # Save to HTML
     output_path = "copper_analysis_chart.html"
-    fig.write_html(output_path, include_plotlyjs='cdn')
+    fig.write_html(output_path)
     print(f"Chart successfully saved to {output_path}")
 
 if __name__ == "__main__":
