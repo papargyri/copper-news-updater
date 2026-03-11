@@ -46,3 +46,23 @@ Mathematical derivatives of the price itself to capture market momentum.
    - We test the model's accuracy, specifically looking for precision on "Buy" signals to ensure it beats a simple buy-and-hold strategy.
 
 By combining the **News Sentiment (Retail/Hype Catalyst)** with **LME Inventories (Physical Reality)** and the **DXY (Macro Reality)**, the predictive capability of the mechanism becomes vastly more complete and resilient.
+
+---
+
+## 3. Next Steps (Development Execution Plan)
+
+If we choose to build out this blueprint and transition from "Data Analysis" to an automated "Trading Signal Oracle", we will execute the following three phases:
+
+### Phase 1: Build the Macroeconomic Feature Pipeline
+- Create a new script (e.g., `fetch_macro_features.py`).
+- Implement automated API connections (via Yahoo Finance `yfinance`, FRED, etc.) to download the daily **DXY (US Dollar Index)**, **LME Copper Inventories**, and calculate technical indicators like **RSI**.
+- Merge this data with our existing `data/articles_by_date.json`.
+
+### Phase 2: Train the Machine Learning Model
+- Write a Python testing ground using **Scikit-Learn** (Random Forest) or **XGBoost**.
+- Feed the merged historical dataset into the algorithm, training it to correlate the combined engineered values (Sentiment + Dollar Strength + Inventory) against the rolling T+2 or T+3 price direction.
+- Adjust hyperparameters and validate the model mathematically to prevent overfitting.
+
+### Phase 3: Deploy the Daily "Trading Oracle" Script
+- Combine the scraping, merging, and prediction into a single executable pipeline: `predict_copper_direction.py`.
+- Run this daily at market close. The script will fetch the day's macro numbers and news, score the sentiment, pass the vector into the trained ML Model, and output a definitive trading signal logging: **"Probability of Price Increase in T+2 Days: 78% -> SIGNAL: BUY"**.
