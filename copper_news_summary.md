@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-12 06:50)
+
+- **[Harmony Gold Announces Maiden Copper Output as Strategy Shifts - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeElZR1dLZXRGZFR6LVVyNVpEYzB0YXp3MzNhUXRCTDI5R0RFeWhBZk05SUQ0M3plQlpTcjAtNkRPblZpeXQyV1hBOEZHOVgwcEZOQkFwWlpXSnJVQ2RrOEtwMFh0NjIwWnBNbzFFMXlKQ1VXY19UWkp6aWh4NDl6dHdLMG1BTlhoekItbDRKWWhFN3ZKRGFRVWFlNUpJVnVrcXEzUHdmc2pBcEFKRFA3cXJ3UQ?oc=5)**
+  - *Source: Bloomberg | Date: 2026-03-11 09:54*
+- **[Harmony doubles dividend after gold price rally, flags lower copper output - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUEV1bGJoby1NVHZzNE1XYUZFQzBCVTlJNjI5VGFid3NGTFNydEUtSVdKaUJXU0N0d3Z0ZDNqaWxDMXJQNjRYQjBVOW5IdU8tdmYwUE9qaWRzM3pvMzU4TENwR3NnYnFoM1dUdUt4U2djTVN3ZWFCbzI0aXktRHhVZ0FCVVVkQ0V3bjFTdnVtWGtDNy1YSFZQN0JiU1U1X3My?oc=5)**
+  - *Source: Reuters | Date: 2026-03-11 05:16*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-11 06:47)
 
 - **[Zambia seeking global investors to help triple copper output by 2031 - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQWEluYVVuaTYxSGhKSmRNWVVrNlpaU0hzQ3o0QWJmTGpUX0JnbWVfaW1LZWQ2bFpWMTUtbjh6dTRfWDFKRTM5SWRWTnhsXzhjSnZfQXM1ajVWQU5jRXB4N3RCVUptUUQ3S1paWTFZMElLdWVZNzlKTjR1YVBhLWNTU3R6bUtMaDUxOXY2TWprQkwtdUU4TlQxd25kM3pjMUpIMzJIdi1taHVhX0pYZll6YUhCVjBUUnRZTkFvd3pMNURIMlRBQTUyVkJYaw?oc=5)**
