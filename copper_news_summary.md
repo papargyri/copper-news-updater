@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-14 06:40)
+
+- **[Horowitz-Backed Firm to Revive Idled Utah Copper Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2hBQzdEbDA2aThDOEFkREw3MHdBc000aXJva0MydDRNZzNvNHVJTi1aNG5JdnFldDNXZ1J6NmtBaHZfM1JySmgtQlZYQXlRYVhnRXQzSG1yMWI0RWFmTGpMS1VMWlVHaXk1ZTl0Q1ktbGNLSkxYRHZjTnNlYnNHOS05QThORTVvOGJ1VUt0blg2ZXNxd0FPMVcxRlVVTjNWNU5qdFlQMDNMa3Vhdl8zSDk0ZktNQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-13 16:38*
+- **[Mining’s toxic timebomb: dams full of poisonous waste are dotted around the world. What happens when they burst? - The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeHE2U3NMam5mTVB0UTFvQk95RVBOQ3JWQVg2YkdQZjNOeDdIZ2xGRW9fMVJMUG9qRGdybl81b2R2aWlXY2UzWlRJdTNhTGExZFJlb0xfSktFSTZxTUxlclJSTDg1eFFSMEtTRzd6SGhRZHYycWNMZzdsTlN4OFE2Vmc5NWRwZ0tfZll5X1ZYd2NkMjdEbGlnVUk5VUJYTjJsdlBWZ3BjVm13dDNHV1VhSElJSmxiY2FMaEIzRk00Mk9HYlVtODFJUVdSSG10OTZvN1g5bUFyYllKLVVXZVdaZENVZmdxMld5Z3RfMWJscDZBb3pDb2kw?oc=5)**
+  - *Source: The Guardian | Date: 2026-03-13 14:54*
+- **[ERG Urges Congo to End Illegal Mining After Deadly Landslide - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQX014NVE3VTRYSWozQXVrOFlXREEzT1lMdElhVS1mSzVubFpCeFBRMTlGMjlJaGRqaUx2Q1cyWHVicFczeDVOVzBmcmNLWExXNW1GdXdldE84U2E3dFg3WTQ4NDZrbE4wZzJ2QWFKNlFNbk5HaXBkdFdoY19UUmFTb3g2aHpEeEtwSGdmMGJKTEYtWEJJZk9GcmU4SFBPQ2p6cFhUb1BOQzZvRzVYUGNqQw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-13 07:45*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-13 06:47)
 
 - **[Rio Tinto's Kennecott copper mine suspends operations as contract worker dies - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXRRNlVtQ0pZRTlFUkxLMEcxNGg1c3dzNkNfbjNSZkV3dUFSaVN0TG9YZ0JWVk51eUoxNUh0OXFDeFgwX25HVjdSQ3NFdkNYMTRQcVJfbkNPN0Jxb1hiRmJ6cmdqNXVPM2xFdGY3NW5pWndYMVgyQmE4ck52N1ZRWDRRYkd4ZkVGZkZwT2YxSkMyQUhUUFNHOUx5TXJDLWVPRTh6dER1N1lQNGtfRENDT0F3?oc=5)**
