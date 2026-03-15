@@ -5719,5 +5719,10 @@
         "price_usd": null,
         "premium_count": 3,
         "global_count": 26
+    },
+    "2026-03-15": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 19
     }
 }
