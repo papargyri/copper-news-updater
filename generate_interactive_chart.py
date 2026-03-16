@@ -41,8 +41,8 @@ def get_live_json_data():
         with open('data/articles_by_date.json', 'r') as f:
             data = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
-        return pd.DataFrame(columns=['Date', 'Article_Count', 'Copper_Price_USD'])
-    
+        return pd.DataFrame(columns=['Date', 'Premium_Count', 'Global_Count', 'Copper_Price_USD'])
+
     records = []
     for date_str, info in data.items():
         records.append({
@@ -56,28 +56,30 @@ def get_live_json_data():
 def generate_interactive_chart():
     print("Generating interactive correlation chart...")
     
-    # 1. Get Article Counts exclusively from JSON (which contains backfilled rigorous daily data)
+    # 1. Get all data from the JSON datastore (article counts + prices)
     json_df = get_live_json_data()
-    
+
     if json_df.empty:
         print("No article data found. Cannot generate chart.")
         return
-        
-    combined_counts = json_df[['Date', 'Premium_Count', 'Global_Count']].copy()
-    combined_counts['Date'] = pd.to_datetime(combined_counts['Date'])
 
-    # 2. Get Historical Prices
-    min_date = combined_counts['Date'].min() - pd.Timedelta(days=5)
-    max_date = datetime.now() + pd.Timedelta(days=1)
-    
-    copper = yf.Ticker("HG=F")
-    price_data = copper.history(start=min_date.strftime('%Y-%m-%d'), end=max_date.strftime('%Y-%m-%d'))
-    price_data.reset_index(inplace=True)
-    price_data['Date'] = pd.to_datetime(price_data['Date'].dt.tz_localize(None).dt.strftime('%Y-%m-%d'))
-    price_df = price_data[['Date', 'Close']].rename(columns={'Close': 'Copper_Price_USD'})
+    json_df['Date'] = pd.to_datetime(json_df['Date'])
+    json_df.sort_values('Date', inplace=True)
 
-    # 3. Merge Data
-    df = pd.merge(price_df, combined_counts, on='Date', how='left')
+    # 2. Use prices from JSON; fill gaps (weekends/holidays) with yfinance only if needed
+    if json_df['Copper_Price_USD'].isna().all():
+        print("No price data in JSON. Fetching from yfinance as fallback...")
+        min_date = json_df['Date'].min() - pd.Timedelta(days=5)
+        max_date = datetime.now() + pd.Timedelta(days=1)
+        copper = yf.Ticker("HG=F")
+        price_data = copper.history(start=min_date.strftime('%Y-%m-%d'), end=max_date.strftime('%Y-%m-%d'))
+        price_data.reset_index(inplace=True)
+        price_data['Date'] = pd.to_datetime(price_data['Date'].dt.tz_localize(None).dt.strftime('%Y-%m-%d'))
+        price_df = price_data[['Date', 'Close']].rename(columns={'Close': 'Copper_Price_USD'})
+        df = pd.merge(price_df, json_df[['Date', 'Premium_Count', 'Global_Count']], on='Date', how='left')
+    else:
+        df = json_df[['Date', 'Copper_Price_USD', 'Premium_Count', 'Global_Count']].copy()
+
     df['Premium_Count'] = df['Premium_Count'].fillna(0)
     df['Global_Count'] = df['Global_Count'].fillna(0)
     df['Is_Weekend'] = df['Date'].dt.dayofweek >= 5

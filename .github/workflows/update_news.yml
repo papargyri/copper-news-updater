@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add -A
+          git add copper_news_summary.md data/ copper_analysis_chart.html copper_analysis_chart.png
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: Update copper news summary"
           git push
         env:

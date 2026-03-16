@@ -1,5 +1,6 @@
 import feedparser
 import requests
+import re
 import os
 import json
 import yfinance as yf
@@ -7,73 +8,102 @@ from datetime import datetime, timedelta
 import time
 from generate_interactive_chart import generate_interactive_chart
 
+# The Original 7 Elite Financial Outlets
+PREMIUM_OUTLETS = [
+    "Financial Times", "The Economist", "The Wall Street Journal",
+    "Reuters", "Bloomberg", "The New York Times", "The Guardian"
+]
+
+# 93 Additional Global & Industry Outlets (Total = 100)
+GLOBAL_OUTLETS = [
+    "CNBC", "Forbes", "Fortune", "Business Insider", "MarketWatch", "Motley Fool",
+    "Seeking Alpha", "Yahoo Finance", "Investopedia", "TheStreet",
+    "BBC", "CNN", "Daily Mail", "Fox News", "Al Jazeera", "AP News", "NBC News",
+    "The Washington Post", "USA Today", "MSN", "Yahoo News", "Google News", "NPR",
+    "CBS News", "ABC News", "Time", "Newsweek", "The Telegraph", "The Independent",
+    "South China Morning Post", "Hindustan Times", "The Times of India",
+    "Sydney Morning Herald", "The Globe and Mail", "Le Monde", "Der Spiegel",
+    "El País", "Asahi Shimbun", "Substack", "Axios", "Politico", "HuffPost", "BuzzFeed News",
+    "Mining.com", "The Northern Miner", "Australian Financial Review", "Mining Weekly",
+    "Engineering and Mining Journal", "MINING magazine", "Canadian Mining Journal",
+    "S&P Global", "Wood Mackenzie", "Fitch Solutions", "Fastmarkets", "Argus Media",
+    "Metal Bulletin", "Kitco News", "Cru Group", "Platts", "Eurasia Group",
+    "The Australian", "National Post", "Toronto Star", "Vancouver Sun",
+    "Folha de S.Paulo", "O Globo", "La Nación", "Clarín", "El Mercurio", "La Tercera",
+    "Business Day (South Africa)", "The Star (Kenya)", "New Straits Times", "Jakarta Post",
+    "Bangkok Post", "Straits Times", "The Star (Malaysia)", "Philippine Daily Inquirer",
+    "Nikkei Asia", "The Japan Times", "Korea JoongAng Daily", "The Chosun Ilbo",
+    "Al Arabiya", "Gulf News", "The National (UAE)", "Jerusalem Post", "Haaretz",
+    "Sky News", "ITV News", "Channel 4 News", "France 24", "Deutsche Welle", "RT"
+]
+
+# Pre-compile regex patterns for fast outlet matching
+_PREMIUM_RE = re.compile("|".join(re.escape(o) for o in PREMIUM_OUTLETS), re.IGNORECASE)
+_GLOBAL_RE = re.compile("|".join(re.escape(o) for o in GLOBAL_OUTLETS), re.IGNORECASE)
+
+
+def _load_seen_urls():
+    """Load previously seen article URLs from the JSON datastore for deduplication."""
+    json_path = "data/articles_by_date.json"
+    seen = set()
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            for day_info in data.values():
+                for art in day_info.get('articles', []):
+                    seen.add(art.get('link', ''))
+        except (json.JSONDecodeError, KeyError):
+            pass
+    return seen
+
+
 def fetch_copper_news():
-    # Google News RSS feeds for copper-related terms
     queries = ["copper mining", "copper market", "copper price", "copper supply demand"]
     articles = []
-    seen_urls = set()
+    seen_urls = _load_seen_urls()
 
-    # Target outlets specified by the user
-    # The Original 7 Elite Financial Outlets
-    PREMIUM_OUTLETS = {
-        "Financial Times", "The Economist", "The Wall Street Journal", 
-        "Reuters", "Bloomberg", "The New York Times", "The Guardian"
-    }
-
-    # 93 Additional Global & Industry Outlets (Total = 100)
-    GLOBAL_OUTLETS = {
-        # Top 50 Core
-        "CNBC", "Forbes", "Fortune", "Business Insider", "MarketWatch", "Motley Fool",
-        "Seeking Alpha", "Yahoo Finance", "Investopedia", "TheStreet",
-        "BBC", "CNN", "Daily Mail", "Fox News", "Al Jazeera", "AP News", "NBC News", 
-        "The Washington Post", "USA Today", "MSN", "Yahoo News", "Google News", "NPR", 
-        "CBS News", "ABC News", "Time", "Newsweek", "The Telegraph", "The Independent", 
-        "South China Morning Post", "Hindustan Times", "The Times of India", 
-        "Sydney Morning Herald", "The Globe and Mail", "Le Monde", "Der Spiegel", 
-        "El País", "Asahi Shimbun", "Substack", "Axios", "Politico", "HuffPost", "BuzzFeed News",
-        
-        # 50 Tier-2, Regional, and Mining Trade Journals
-        "Mining.com", "The Northern Miner", "Australian Financial Review", "Mining Weekly",
-        "Engineering and Mining Journal", "MINING magazine", "Canadian Mining Journal",
-        "S&P Global", "Wood Mackenzie", "Fitch Solutions", "Fastmarkets", "Argus Media",
-        "Metal Bulletin", "Kitco News", "Cru Group", "Platts", "Eurasia Group",
-        "The Australian", "National Post", "Toronto Star", "Vancouver Sun",
-        "Folha de S.Paulo", "O Globo", "La Nación", "Clarín", "El Mercurio", "La Tercera",
-        "Business Day (South Africa)", "The Star (Kenya)", "New Straits Times", "Jakarta Post",
-        "Bangkok Post", "Straits Times", "The Star (Malaysia)", "Philippine Daily Inquirer",
-        "Nikkei Asia", "The Japan Times", "Korea JoongAng Daily", "The Chosun Ilbo",
-        "Al Arabiya", "Gulf News", "The National (UAE)", "Jerusalem Post", "Haaretz",
-        "Sky News", "ITV News", "Channel 4 News", "France 24", "Deutsche Welle", "RT"
-    }
-
-    # Time window: last 3 days
     three_days_ago = datetime.now() - timedelta(days=3)
 
     for query in queries:
         rss_url = f"https://news.google.com/rss/search?q={query.replace(' ', '+')}&hl=en-US&gl=US&ceid=US:en"
-        feed = feedparser.parse(rss_url)
-        
+        try:
+            feed = feedparser.parse(rss_url)
+            if feed.bozo and not feed.entries:
+                print(f"Warning: RSS feed error for '{query}': {feed.bozo_exception}")
+                continue
+        except Exception as e:
+            print(f"Error fetching RSS for '{query}': {e}")
+            continue
+
         for entry in feed.entries:
             published_parsed = entry.get('published_parsed')
-            if published_parsed:
-                pub_date = datetime.fromtimestamp(time.mktime(published_parsed))
-                source_title = str(entry.get('source', {}).get('title', 'Unknown'))
-                
-                is_premium = any(t.lower() in source_title.lower() for t in PREMIUM_OUTLETS)
-                is_global = any(t.lower() in source_title.lower() for t in GLOBAL_OUTLETS)
+            if not published_parsed:
+                continue
 
-                entry_link = str(entry.link)
-                
-                if pub_date > three_days_ago and entry_link not in seen_urls and (is_premium or is_global):
-                    articles.append({
-                        'title': str(entry.title),
-                        'link': entry_link,
-                        'date': pub_date.strftime('%Y-%m-%d %H:%M'),
-                        'source': source_title,
-                        'is_premium': is_premium
-                    })
-                    seen_urls.add(entry_link)
-    
+            pub_date = datetime.fromtimestamp(time.mktime(published_parsed))
+            if pub_date <= three_days_ago:
+                continue
+
+            entry_link = str(entry.link)
+            if entry_link in seen_urls:
+                continue
+
+            source_title = str(entry.get('source', {}).get('title', 'Unknown'))
+            is_premium = bool(_PREMIUM_RE.search(source_title))
+            is_global = bool(_GLOBAL_RE.search(source_title))
+
+            if is_premium or is_global:
+                articles.append({
+                    'title': str(entry.title),
+                    'link': entry_link,
+                    'date': pub_date.strftime('%Y-%m-%d %H:%M'),
+                    'source': source_title,
+                    'is_premium': is_premium
+                })
+                seen_urls.add(entry_link)
+
+    print(f"Fetched {len(articles)} new articles from RSS feeds.")
     return sorted(articles, key=lambda x: x['date'], reverse=True)
 
 def fetch_daily_copper_price():
@@ -96,22 +126,18 @@ def fetch_daily_copper_price():
         return None
 
 def update_summary_file(articles):
-    # Use relative path for GitHub Actions
     summary_path = "copper_news_summary.md"
-    
-    # Ensure data directory exists
-    os.makedirs(os.path.dirname("data/articles_by_date.json"), exist_ok=True)
-    
+    os.makedirs("data", exist_ok=True)
+
     try:
         with open(summary_path, "r", encoding="utf-8") as f:
             content = f.read()
     except FileNotFoundError:
         content = ""
 
-    # Filter out articles that are already present in the summary file
-    new_articles = [art for art in articles if art['link'] not in content]
-    print(f"Total articles fetched from RSS (last 3 days): {len(articles)}")
-    print(f"Total new articles after filtering duplicates: {len(new_articles)}")
+    # Articles are already deduplicated against the JSON datastore in fetch_copper_news()
+    new_articles = articles
+    print(f"New articles to process: {len(new_articles)}")
 
     # Fetch price once for both markdown and JSON updates
     price_data = fetch_daily_copper_price()
@@ -167,12 +193,15 @@ def update_json_datastore(new_articles, latest_price):
     
     if today_str not in data:
         data[today_str] = {
-            "price_usd": None, 
+            "price_usd": None,
             "premium_count": 0,
-            "global_count": 0
+            "global_count": 0,
+            "articles": []
         }
-        
+
     current_day = dict(data[today_str])
+    if "articles" not in current_day:
+        current_day["articles"] = []
 
     # 1. Update Price
     if latest_price:
@@ -180,14 +209,26 @@ def update_json_datastore(new_articles, latest_price):
 
     # 2. Update Article Counts (Count only what was fetched today for today)
     prem_today = sum(1 for a in new_articles if a.get('is_premium', False))
-    glob_today = len(new_articles) - prem_today
-    
+    non_prem_today = len(new_articles) - prem_today
+
     # Since this script runs daily, we just add the newly scraped articles to the running tally
     prev_prem = current_day.get('premium_count', 0) if isinstance(current_day.get('premium_count'), int) else 0
     prev_glob = current_day.get('global_count', 0) if isinstance(current_day.get('global_count'), int) else 0
-    
+
     current_day["premium_count"] = prev_prem + prem_today
-    current_day["global_count"] = prev_glob + prem_today + glob_today
+    # global_count = total articles (premium + non-premium)
+    current_day["global_count"] = prev_glob + prem_today + non_prem_today
+
+    # 3. Store article metadata for downstream sentiment analysis
+    existing_links = {a['link'] for a in current_day["articles"]}
+    for art in new_articles:
+        if art['link'] not in existing_links:
+            current_day["articles"].append({
+                "title": art['title'],
+                "link": art['link'],
+                "source": art['source'],
+                "is_premium": art.get('is_premium', False)
+            })
 
     data[today_str] = current_day
 
