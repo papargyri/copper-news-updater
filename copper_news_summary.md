@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-16 07:11)
+
+- **[Munitions Metal Tungsten Eclipses Gold, Copper in 557% Rally - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzYyWUhXdG1MNmVVUlRLbHNZTUdoZDh3eG45ckFwTTBPa1l4S195YXFCOXJ5ZHZzaEJOSy1tdXNGOElzSi04QmhCVHNmV0p1SjdLUUVyMnNlczMtVkVfUE1Ya3I1N0JHWlA5VkhpQ0VRbVFsX3BTaEYtM1J0TzN3YlZFaF9nb20xdGdONXVpU01tenVXemd3LXN0eFRkczJycWlhTWczd1ZEQmRvRG4w?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-15 23:48*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-14 06:40)
 
 - **[Horowitz-Backed Firm to Revive Idled Utah Copper Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2hBQzdEbDA2aThDOEFkREw3MHdBc000aXJva0MydDRNZzNvNHVJTi1aNG5JdnFldDNXZ1J6NmtBaHZfM1JySmgtQlZYQXlRYVhnRXQzSG1yMWI0RWFmTGpMS1VMWlVHaXk1ZTl0Q1ktbGNLSkxYRHZjTnNlYnNHOS05QThORTVvOGJ1VUt0blg2ZXNxd0FPMVcxRlVVTjNWNU5qdFlQMDNMa3Vhdl8zSDk0ZktNQQ?oc=5)**
