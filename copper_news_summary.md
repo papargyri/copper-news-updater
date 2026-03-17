@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-17 06:59)
+
+- **[Rio Tinto gains control of Resolution Copper acreage after years-long court fight - Reuters](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdzNFYWp6TmxJRkhzazE2LWk4Q09BQWdkbnBqbno1dW8yLTQyQW1VWElaTzliY0RSZ2VEdlg5VFVha1AtTmdYMTl3bkRtYlpfSDI3NEYwVWhkUHAyZ05hYlBTNDByOFBjcGVmY0pHT3lnZ1F1RGhFMWFZRGpHeENuZGFSMS1DUU9rTW9VMEhrcWUwOEtqVTVBZDhHT0dodzREMDZoYnFrWVB2ZGZoVXIxQk5tZHRHX2QxU0xKc0pjYW5TbHA1VjlDeXoxc3Zkc3Rldk1TbjhybENfblB5?oc=5)**
+  - *Source: Reuters | Date: 2026-03-16 23:36*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-16 07:11)
 
 - **[Munitions Metal Tungsten Eclipses Gold, Copper in 557% Rally - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzYyWUhXdG1MNmVVUlRLbHNZTUdoZDh3eG45ckFwTTBPa1l4S195YXFCOXJ5ZHZzaEJOSy1tdXNGOElzSi04QmhCVHNmV0p1SjdLUUVyMnNlczMtVkVfUE1Ya3I1N0JHWlA5VkhpQ0VRbVFsX3BTaEYtM1J0TzN3YlZFaF9nb20xdGdONXVpU01tenVXemd3LXN0eFRkczJycWlhTWczd1ZEQmRvRG4w?oc=5)**
