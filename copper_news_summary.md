@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-18 06:58)
+
+- **[BHP Names Craig as CEO as Mining Giant Sets Sights on Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWlyRFVPUDZsUVhPOGg3dnphNzlIbGpYM1JGM2FaMXJCSzRKQ1M1MGZkeWZHclctUkc4bElpR3ZFT0JvQ2pyazBFUWt5TTQtY0wzd0VuMmRhdHhCWW5mYm8xVF9xcFJfUVlUOHlvdVJzLVllbTl6ZjBtRnB1V3ItdWo4UW5odTdXdUN6XzNiN1VaQjlDaTRyUGRhMWpSQjVOa0UxMnhidmxwT01wUVctS0ZR?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-18 03:23*
+- **[Aluminum Rebounds as Traders Brace For More Middle East Outages - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHVGVE1VNHVYTUFTY1ZWeVdkYlNReHRzd25fakZtVzN6RnlIWG50UW5FNTJzdXRQc3BhdUUzeHNZWmNmRVF3eGJnc3lZYUloQ21xbGVyNEpHcF9TTHhEVUlVU3RTVEViLUJ1SmpqUHByM3lEN1dNbTI0YlZCMVFHQXVJNTI4SHhqNF90ZGIxNVYtajlHOUdJVDdkS0t4TkNwRGRXT2RaZ212TmNDa0dyT2gxM0Y?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-17 18:47*
+- **[US-backed group buys DR Congo copper-cobalt mine under minerals deal - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWpIQWtMUlBaTXBnS2ZjWHZlUDRrU1NzX3pRWHgtdFMxdkV3NGZmeloyUGZNYjRTand2enhVSU9CX2N4bXJlVEhMM1AzbVlqeV9jZ1MtdTItbUxPTVpOSDg0SkkwM3AwSHJHVjQ5RHpIQlV4R3FrTi1UUHZva2VOVlVnVFg?oc=5)**
+  - *Source: Financial Times | Date: 2026-03-17 17:19*
+- **[Munitions Metal Tungsten Eclipses Gold, Copper in 557% Rally - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzYyWUhXdG1MNmVVUlRLbHNZTUdoZDh3eG45ckFwTTBPa1l4S195YXFCOXJ5ZHZzaEJOSy1tdXNGOElzSi04QmhCVHNmV0p1SjdLUUVyMnNlczMtVkVfUE1Ya3I1N0JHWlA5VkhpQ0VRbVFsX3BTaEYtM1J0TzN3YlZFaF9nb20xdGdONXVpU01tenVXemd3LXN0eFRkczJycWlhTWczd1ZEQmRvRG4w?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-16 15:14*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-17 06:59)
 
 - **[Rio Tinto gains control of Resolution Copper acreage after years-long court fight - Reuters](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdzNFYWp6TmxJRkhzazE2LWk4Q09BQWdkbnBqbno1dW8yLTQyQW1VWElaTzliY0RSZ2VEdlg5VFVha1AtTmdYMTl3bkRtYlpfSDI3NEYwVWhkUHAyZ05hYlBTNDByOFBjcGVmY0pHT3lnZ1F1RGhFMWFZRGpHeENuZGFSMS1DUU9rTW9VMEhrcWUwOEtqVTVBZDhHT0dodzREMDZoYnFrWVB2ZGZoVXIxQk5tZHRHX2QxU0xKc0pjYW5TbHA1VjlDeXoxc3Zkc3Rldk1TbjhybENfblB5?oc=5)**

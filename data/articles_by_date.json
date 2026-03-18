@@ -5868,5 +5868,156 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-03-18": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 24,
+        "articles": [
+            {
+                "title": "Copper Stocks on LME Hit Highest Since 2019 | Higher prices have wilted physical demand for the red metal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZjkwWWcxdTZENF8ycXl4YVE2SkRwdnJaQkVJWUw4bHFEa0NOOUluZXE4YjlzcDdqN1RIRlVJR0d3VWg3R2RQTmJWSTNQTjZfdEQ5Z2RQVXdIR2JKTmJYY1Qxb1c4dmRMY2pQdEJzWGhhZkV6eXA0b2U1Ml9UYUpBSkNvMmZKRkFvYkFZQnVtZXE3cl9Ha1dDa2k5TGkzTTdRaTJ6ZTZkaFVNM3R3M1Z3Vm5IZ0pJYmhjdVZmWHdKLU5lbDhISkRRa3BtdjFRTE9NZWczblFxUWhkUVpFOTlsT00xSFF2dGtpUFVlckFfZUtQV0xSTDQtMkFkejJtb04tNncyVTZ0eDZVcjZXMnVXNmIyRENuWF9XbV9aejBhQmQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Cable theft: Scavengers target telecom cables as copper price soars - The Fiji Times",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVRhaU5mczF5ZGJVQV9PeVpOVmtJQWFRNWtiRkt6T19XUGRyQkp2cWpDRHM5OGFIckFlQXBtWmVtMkd2OVpZRWNvY2FuU3I0dU9zbDFiWHB3REcyV1ZmZm05ano2V0xmR1NBQkdPN3k5SUJQdHhmSjZzemhLRFhUbmNfMFJ5UzVqY3ZFTFluRWNqY1Y3N2RDdTVXX0c?oc=5",
+                "source": "The Fiji Times",
+                "is_premium": false
+            },
+            {
+                "title": "BHP Names Craig as CEO as Mining Giant Sets Sights on Copper - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWlyRFVPUDZsUVhPOGg3dnphNzlIbGpYM1JGM2FaMXJCSzRKQ1M1MGZkeWZHclctUkc4bElpR3ZFT0JvQ2pyazBFUWt5TTQtY0wzd0VuMmRhdHhCWW5mYm8xVF9xcFJfUVlUOHlvdVJzLVllbTl6ZjBtRnB1V3ItdWo4UW5odTdXdUN6XzNiN1VaQjlDaTRyUGRhMWpSQjVOa0UxMnhidmxwT01wUVctS0ZR?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Exploration & Discoveries: Supply Economics Guide - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU185WmJFMnR3Z0t4TkpmOGxUV3lSOGxHLTNES0RfQWNpV0lBT2FmU2I1VmN0T2F1ZmZ3WWhGVzBYb29uV0w4ZXZGa2JzbjNLRGVaalFUMHd4NDJEUk9LOFNtcjQ3Wk82aEpVbEtQdWVPQnBndUdCX1dSb3JjRURTeg?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Taseko Mines (TGB) Announces First Copper Production at Florence Copper Operation - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVROVDBBbllQNnl5cVY1YU83d1dLeXE4eDh2ZTZRc2RkY0NpU2RhM3VnWVJ0eWRQUDdrOTg3Ykx3TkN0MDBuVE0tS1ZCdHJzdjVOVUdMTXR5eExCakhnNWpIS1ZlMDRibDN4NHgtVXJPclhxQUJtZ1hYa0xaMDRSQ2VOMGE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Challenges for copper arise amid Iran war - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MRGVGRnhWSWk1eXc1X1Z4VjdUTnp2a3pQOFBneU9oQ1RsTDhSaC1TQlhiSGZkMXFsZVRkbmZsVTEyRWM3MGptVFAxNktxdV9pbUExZzFPN3prSHFwYnBaQWx5X09BakRkUmMySVVlS0twQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price dips as LME stockpiles rise to highest in over six years - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzhUNWJ6UXlsNkt3YVhELXRMb3I0V3k4cEkwNzJ2QnkycG5zZV9sZVlEemNsR1dmTFJZSzR0ZXhsSFNTRF9udDAtcTJsTXNLVVNKc2xWR24xLUlOeHNyaXBrb3RhbUozTnlLU3lNVEp2N2ZYZVUyRUlJeDFzY3pod2Y1NXl5OW92LVVWcnNHb19SR201TkE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Star Copper hits broad intervals at namesake project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajZHVDhubzhaaHB3YUtvVVd5OC1DOUs2WTRlUURpTkZNWWNRM3pycmdnOGpPQmxNYmt3WlhZWXN3cEZnTmZPZzVVVTRKbGtSYm1qZUdtNmp5V1dzV2x4dEhIN0JLQXd2aTdqajllRjJKOW5PZjhtNG81Qk1ueUR0cA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminum Rebounds as Traders Brace For More Middle East Outages - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHVGVE1VNHVYTUFTY1ZWeVdkYlNReHRzd25fakZtVzN6RnlIWG50UW5FNTJzdXRQc3BhdUUzeHNZWmNmRVF3eGJnc3lZYUloQ21xbGVyNEpHcF9TTHhEVUlVU3RTVEViLUJ1SmpqUHByM3lEN1dNbTI0YlZCMVFHQXVJNTI4SHhqNF90ZGIxNVYtajlHOUdJVDdkS0t4TkNwRGRXT2RaZ212TmNDa0dyT2gxM0Y?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "BHP pushes ahead with $8.3bn expansion of Chilean copper mine - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY3dfT184aDQzY3lhZlpMM1d5LWtmOUdPdzBoc21NN0Y5bEVacTBMb0FRLUFtN09UU0lndmlQeTJmdjU2ZFhxUnpYazZaTmZ4a3dmVmFDb2U0OEkybk1pYS05Mk9yMjlkOWQ1NTlxRllmcDc1SFM0YWE3dTdDRUgySkVXN1A4YzlhUlhEWWtfQUliUDVxSUI1cHc2WkxYR0szNzl0WTV6X1RLSFpoc2hzaDB1X214bjJwRHA5OFVhWm1xemRmWHVlQU1EeUQ2UGVSODZlcGpzazZZSjU5Ym9qMkNjX28xYi1CTnI2MWRYaTB4NGwzUlc4V19DVzhnTTDSAYQCQVVfeXFMTldNNmpxSU95bkxLb3NmSGhoNk5hNUk3aGM3ZVR2ZTI5TFJsOG4zV25ZSF9vQW8xdVJ5eWZET19zRXIyN25jWHFFRThKX0xxSEdsM3QzRC1zOXBqaDVxR2hudkhXY0RRT1Q0d1lfNmNtU2VsZThRZEhLVm1CbWpRZlQ4b3RmaXg2RDloQTZXQUtFR2c5LUcwWFZFQVZ4VFJqNUxJWU9VdGNSRkF6NUxhSElxb21EQUZZTWRMM2hFYWZZc196VGlsWFdDNEFjWEhNNUtKOHhDNDRkMGotYXRlcS1EaGNtU0w4VTFlUkp3dFJGd3R6d1dUeDlfeTN6RVV4RE5yUV8?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "US-backed group buys DR Congo copper-cobalt mine under minerals deal - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWpIQWtMUlBaTXBnS2ZjWHZlUDRrU1NzX3pRWHgtdFMxdkV3NGZmeloyUGZNYjRTand2enhVSU9CX2N4bXJlVEhMM1AzbVlqeV9jZ1MtdTItbUxPTVpOSDg0SkkwM3AwSHJHVjQ5RHpIQlV4R3FrTi1UUHZva2VOVlVnVFg?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Price Dips: Market Analysis & Investment Outlook - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWVfNVhJbkc1eExHRC1uYU5Va1RpcS1INmg5djZQZTRsSVVqLV9FdV9GaVpSdnZydk1FRS11Z05EYkVLQ05jNnpNUU1XUUk0OWF6RlctV0tzWGZQY0pfSktlWVJoa3dRd1FPd1VUbjNFOTgxTm5uRzdXU2VGdnl3QThTaTZqWFE?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Middle East war pressures copper, exposes nickel risk - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanNkYVRlX2FPTXprcGp3Ry1RY2U5TUdRUEVkVzJsS1JTTmFVaFdvanR6Q3VhVWRwMlo3Wi15czhwRkFaZUk1Y3NFaS1FYzBjSUp6Q2YtekhaVUtaNmlRcXZGMTVHeVZvaUhuQ25Pbk42R0tmVEMzMGdrS2h4d3FkMFZCUHJENlRFS01sMU5wUTNwTHVSc21MMEdlWTh5UHpqeERaSVlNYU0tU2pwQy1mcjZsRS02M0NzQWZSVw?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            },
+            {
+                "title": "Electronic Circuit Copper Foil Market Set to Grow from $7.36 Billion in 2024 to $16.69 Billion by 2033 - SRI - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcG45UVkwXzBQd1hiQkJqNTRrWWFqRDZlZE9MdThpTTZyeTVENkJJNmRIeXlCcFJIc05vWEp3UFpLdktibTBMYkJ4NXdkQjA3QTV0TDZhejB4MFF5Mm9nUG5jbnRMUGdkcFZ3YlZkOVZ3ZDlZUFRGMVQxQ2lycWU4eURKUExKUldoVWNIMURVdDVGQUc5VFZFUllLSQ?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Lumentum, Coherent, Credo trade mixed as Nvidia CEO Huang reaffirms copper use (LITE:NASDAQ) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlo1SWY2MzZ2RjJFdnByZjFIOUxQaGhsOEdmZGhtODF3ZV91SERucG9DVVFib0YxSld1WExIZlRvUTAyUFVzS0RHbzh6dEpUUkZFOUpOa20xZnhuWVlnUlBQbGVvUUFwTEZyNFlkQXYySVJ2cHhKS1NzOE9QY2xSRmtMclRjTXZvajN6M2d0blltSDdBNE5nS1BQdExjbGVUa0Mw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Recycled Copper Market to Reach USD 43.0 Billion by 2031 Driven by Rising Demand for Sustainable Materials - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3JWTWllZi1jRUZOSW5ERC0xOERDY3lwbVJPRVdkdGM3b0w2WExzTm1RR0taTkxrTkVhWjFpSmtacmhNaDk4eERvZ2tGM1I1eW9Ra05vOXQtSDA5bWdGRXo2azJ6M0YyQm9CWXNLWnhaeDN5RzhrODV6Q2lpMnFkMlRyc2JIWUdDMFBTMWx2bkdBWmlEdGpvM1RrSUUwQ3ly?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Gold & Copper Discovery Targets on Two Continents Could Drive the Next Move - streetwisereports.com",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHRyY3M4cVhmZFVKRjlrNGRxTGtLelYxN2d0UzNJTHNxTG9nV0VHcGVUY1RGYlp5TkhOWUFaV2QtcnprelBsWk50QUM0c21PbkgxUDRVeXFob1VwRVBrVDdxTVdTaU9lTE1XMUV4TVFUTWc0RHlUZk0wVGR2clB5UzVuMGNiV0UtNnprM0ZhUXJrWnZKNWpYUDdwc3hubExJUmhGaWNPcFhJSV9wNDNvb3dLWTdrNzN3WmFiYzdtQlllcVd6MEpvZUt1NnZZY0lJ?oc=5",
+                "source": "streetwisereports.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Carbonate Production Plant DPR 2026: Business Plan, Machinery Cost, & Market Potential - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzd6ZGlSUXZ5b1FRREpMZDBvUWtkM3dHZGx3RmV2SWlBODZiNDNTMkVhOFk5bGRaSXlwZkZDWVpaS29HdjFoOXhRT0s4cnItNTZCcE93QUtIRHh4Z2NzeHBsZWtXTDQ3OVVmWUY5OTBMbl9xQU5JRzNpTU8yQVRoWFJGTlluWER2Q3dzUnZjU19fZWFDUDdV?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Apache women seek court intervention as federal land is turned over for copper mining - The Seattle Times",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOHJEODVQaFQ2RnpEbTQ1WmU2M2ZEdDc3RkJpZFhSLTE1cXVXMmJjbF9idnBCVEg3WGd6RUNNbmZkR2Z4NVc3ZkxLdmFxZXZNZUpRRWVYQlJOb1Fmb1FwcHFVOWU0RXpiM3JJcVpQTHhOOUdJM3NwZjBVd29pd1BrYkltaXRkbjhlUDRkLTd1clpHZ1c2RUJqeTNSWmFsVjlPSTJjMlF1dGdPTl93Ul9sRERaRktpSXhkZHE1dFpVQ3BjUQ?oc=5",
+                "source": "The Seattle Times",
+                "is_premium": false
+            },
+            {
+                "title": "Court Rules Favor Resolution Copper Mining Project - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1dGeVQwSDdDTFpSOURTalBmeXN2TkpWVldGbm9ELU5LWHlVU2JCMmVueWh3SEN6cGRqUGtCNHZ6VURhUE1KM3NENmZPVHUyUU5MalhSZTR0TjlvQjNhLUlBN0Zaczl5YTczdUR3d3NEOW8yY1loeUdyUEZTaWxXSmNfdlBLdE0?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Feds complete swap of Apache holy site to copper miners - E&E News by POLITICO",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVJpQmVCaXpHbEdPazhiclRmeUFxWDRiM3lQX2pTMWhiaVVETGRDRlhISzFmS0haRGF0QXRMX3R3U1VuSTR4MTZDVGhwTXZ5NXRLNVljMWlMdzFSb2JUWDNDdlZBYTR1OGJMLWR3UVVJYmpRekhzSGJMelVMRmo0VWs0RHlBcno4VEVYcWRib1hDdw?oc=5",
+                "source": "E&E News by POLITICO",
+                "is_premium": false
+            },
+            {
+                "title": "ACG Metals hunts copper deals to build Western supply - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDVyYXFMOW5iTkNNUk1lbW55eE15Q0JGbjZiU1IyeTJINDE0cmxsMkVpWGI5Q0JsNmJScFNNT0lncWhxdmN3YmsyLXd5aUxscVRJZkF1UUhjQWZ0T2NXUEtrRmd0MWRCY0R2TzlUTGMtNXBIUGRaQjRlemlnRk9YZ3hVWQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Munitions Metal Tungsten Eclipses Gold, Copper in 557% Rally - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzYyWUhXdG1MNmVVUlRLbHNZTUdoZDh3eG45ckFwTTBPa1l4S195YXFCOXJ5ZHZzaEJOSy1tdXNGOElzSi04QmhCVHNmV0p1SjdLUUVyMnNlczMtVkVfUE1Ya3I1N0JHWlA5VkhpQ0VRbVFsX3BTaEYtM1J0TzN3YlZFaF9nb20xdGdONXVpU01tenVXemd3LXN0eFRkczJycWlhTWczd1ZEQmRvRG4w?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Munitions metal tungsten outshines gold, copper in 557% rally - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdlprc1A2TnhJUFpBbDh5eWNrOWhLZXVtMDYzdXh4dmhsUm5mLUVSTUxfc0ZTTmdST3FCb3hnUGFZVDdacVBSY2xMNy12VEhLblFGNlktTXhaQVUyTWlveVBpR0FQVTBXZXl2TVcyQkdjaVpsazE4cFpqWThsNmVydURTbVlPNEZpYkVFMWVRck0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
