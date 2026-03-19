@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-19 06:54)
+
+- **[Copper Gives Up 2026 Gains as Iran War Roils Metals Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzcwOTR5RE0xRk00eGlYSTdQYXJTM0NvRGg1eVN3aFlnaVhNZWpVSXp0bkxGU0dKN1FfUEtZRmlvMmJQTWJQSmpwcGRxbVZZLXFTNGQtZmJMZFdzRkx4Zjc4X1BUVVBZUnF4WFVYODBPR2E3b2xDVHlGcTQ4bDBUaFNlSVl1RDhPUDB3QkhNRXJOSWJucG1DS09uSENMY1BfTzc0Wk0wOVhCQ1VfRkRZ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-19 05:21*
+- **[KoBold Metals targets early-2030s copper output at Zambia project - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVV9Sa0l0ekZ4V201NWh3SDNqUXdkLWFIQ3FydmQ1UmxSYXJZR2JtTXdYNHRkRnNCSzJJaTBPNVdfd3c3akFEQXpZTW9hMGNxV05CdEl4NHM3T3RqM1B4Nm5DQnlvY0ZIYW9EYlFLczgtdTFBUHlzNXp0N3dsZkxNWUdkbFRhQURnMVUzSFZSTnczV1ZmWFQ4Tkl4UXdIYzdjMDY4NldsY2JvNXRRbkI2Ug?oc=5)**
+  - *Source: Reuters | Date: 2026-03-18 17:54*
+- **[McEwen Copper plans $300 million IPO to finance Los Azules project in Argentina, executive says - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaW0tR2VjbGJEel9KcVVZLXAxZWpIck43LXhDcHgwUFR1SG9UTmVMRDdJMHZSdXgxLXBOb3h5OVZKRjNWUld6Nlpic04zcHduRk5RVTdmYm1DbjJUZEN1eVR2MnVzcXlDM0FkUkw2YTJ6Y1RUdEtMNUFyNk9lbGZDdGV6emJFTjJBTllLVnU4WXZwUG9QNWNIX2RNR0pyR3A1V19KVm12czQyckxRWmJTNnUwVjBJUkVjZDh4TmotWlIzZw?oc=5)**
+  - *Source: Reuters | Date: 2026-03-18 15:21*
+- **[Four challenges for BHP’s incoming chief - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkxwWm1iNUtFRmQ1OGVuUXIzY1FVdVFhdTFpTWdZOWRqRUg4V1FybkpXN0UwRTRYbW53Z19xMU5nNEZnd2lKLWxud2lYd18yWVd6M2o2eGZZZUZUNDZ5ZnVMTzh2VW81bDZiMEdsSUlPSlNfWklRYjBuYjVQanR5QTRmTUc?oc=5)**
+  - *Source: Financial Times | Date: 2026-03-18 11:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-18 06:58)
 
 - **[BHP Names Craig as CEO as Mining Giant Sets Sights on Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWlyRFVPUDZsUVhPOGg3dnphNzlIbGpYM1JGM2FaMXJCSzRKQ1M1MGZkeWZHclctUkc4bElpR3ZFT0JvQ2pyazBFUWt5TTQtY0wzd0VuMmRhdHhCWW5mYm8xVF9xcFJfUVlUOHlvdVJzLVllbTl6ZjBtRnB1V3ItdWo4UW5odTdXdUN6XzNiN1VaQjlDaTRyUGRhMWpSQjVOa0UxMnhidmxwT01wUVctS0ZR?oc=5)**
