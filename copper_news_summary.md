@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-20 06:50)
+
+- **[Freeport seeks permit for $7.5 billion mine expansion - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEszdHdlSW9ZVnYwYWpiWUNhYTJaYVBadTN4ZTBDQkJ0SDEtVVAzU3hBUDlxR2d3bk9jRXRidHJKRWVJa3pJM2NJZVpBRVBSODBiMFdjb0V3STBGeC1DVDdTZ2MtZ2c4dnNySDBpbF9uUXp2SFQtX3EteDZhUkJQbFowLTQ4Zng0QWRnV1FxU0RLOGNCRUFicG95RXJacWEybnBwVkxER0hrZHdRanlkbndGeUZtOVh6ZHZj?oc=5)**
+  - *Source: Reuters | Date: 2026-03-19 11:29*
+- **[Anglo American expects final approval for Teck Resources merger around year-end, Brazil CEO says - Reuters](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaGltUURlZnc1WWNnY29FMVM2NVRIUEFyQUc4YU1YejVtZE5wYjR4OWxvWFhwRnJNUjZKQmt5MXU2LXZVeHhnYnU1dkpCMThHX2FWalVFcjdwYzZubFhZV2x3RERRSEthS0ZDdFd2Zkh0OTZ2eWtNT1pwR2hvejhnbm1FOVRtS1hseHU4SVNCU2ZFX0szSTdwQXNCS0V3dUhCek5ZQWF3X1RpRnJNNkVjZ1FVOTJCdUZqWl9uZm9YSjVfaVVYN1pvZDgyNlI5dTQ3a2FuS2NNTmNiZnpUV2ZNRGRkNk45US1p?oc=5)**
+  - *Source: Reuters | Date: 2026-03-18 19:27*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-19 06:54)
 
 - **[Copper Gives Up 2026 Gains as Iran War Roils Metals Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzcwOTR5RE0xRk00eGlYSTdQYXJTM0NvRGg1eVN3aFlnaVhNZWpVSXp0bkxGU0dKN1FfUEtZRmlvMmJQTWJQSmpwcGRxbVZZLXFTNGQtZmJMZFdzRkx4Zjc4X1BUVVBZUnF4WFVYODBPR2E3b2xDVHlGcTQ4bDBUaFNlSVl1RDhPUDB3QkhNRXJOSWJucG1DS09uSENMY1BfTzc0Wk0wOVhCQ1VfRkRZ?oc=5)**
