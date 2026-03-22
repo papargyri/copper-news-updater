@@ -6406,5 +6406,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-03-22": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Copper and Aluminum Rise as US, Israel Try to Reassure on War - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2QyVTZFZ1lmU1Z6MlFvZG14MUNEbkhESjQzR3hfUVRmNXFabDhCWmVEQ1U5dlA3RTRTQXB2d3FwbXZ6WERzUWs4anpiR1Jubk16bjV1S05tY3JGeWtBTEVNWlJ3REdYcVFaTndLRVZGdzZDRUZXbVFKejRDbmhJSGlUUC15VDBIeEM0ZnVxb1F4SnNFUGdBMGdUcUdtMV90SnI3Ymc1VXZwdnQtcjViSg?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Apache residents vow to keep fighting Arizona mine after high court loss - E&E News by POLITICO",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1JLRzlFYm8yRVpwVHdwT0NpdENyWHF1VklUZ3A2TXVUSXhab2RBaU1jbXVVX1hpRDVDdXhUT3FjeHhxa3RtS0RGOTBXNDdlRGc4SXJXUXBOSnBrYmE0N2dacjNJTlA0Z2c1d3dHUkZzZFIxdmd2cHRxbzFqT1FQaUtXNDhKUG8yVHFIaEdTSHk4LWhkX05wdXVLbTdoTjhuQTFvNzBSU2Q?oc=5",
+                "source": "E&E News by POLITICO",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTI0ODBBNURyb284b3piaXZYSVRLRmdTOFpQUXE2MGVOa0lZX3N2b3pLTUNDLWg3OV8tTmRyWi02RF9lS21ZejEzTS0wVk83ajNycE5NamJDUkhLNlo2YlVyaVgxVDljZlg5VDBBQjRnczl4UlAyTVBhbWtxdHlzbE1YekkwWnZpRHplUVQ1MFlsdEVHeFQ1S2ZtUQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport seeks permit for $7.5B Chile copper expansion - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSkFfVjd5WlA1UVJsWjRMVUcxamtUd3Q5NTZqb191TVp1V2lNcUloZV91UzVtRVN6NzJmU3J4eHlXM25ucE9odE55SjdyMkRxLVVFYUx5TUgtVEtiVjloSG1Md3JBdlNUVlY1ekVGY1JuX2NTTmk5ZjRhM1NPbUk2Nm1tTQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-22 06:45)
+
+- **[Copper and Aluminum Rise as US, Israel Try to Reassure on War - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2QyVTZFZ1lmU1Z6MlFvZG14MUNEbkhESjQzR3hfUVRmNXFabDhCWmVEQ1U5dlA3RTRTQXB2d3FwbXZ6WERzUWs4anpiR1Jubk16bjV1S05tY3JGeWtBTEVNWlJ3REdYcVFaTndLRVZGdzZDRUZXbVFKejRDbmhJSGlUUC15VDBIeEM0ZnVxb1F4SnNFUGdBMGdUcUdtMV90SnI3Ymc1VXZwdnQtcjViSg?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-20 19:33*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-21 06:38)
 
 - **[Freeport Seeks Approval for $7.5 Billion Chile Mine Overhaul - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHZsYWNTdU9ZNTFGZlJVWFhMbTlOYmE1MHh3RzR2RTNtc2NpVDdWaWxzZGg3dUlyMnpTeHJ2eklJYTFCV29jZ1hCZm14QWNVQm9YbGtubGd2VXhnNHNNUnk2dENYMVQ5bE9nZmFaWXJ0VDJYc25FS3pyUGc2MWp1TkpGcWZDYXpiTkd2MllzSW1Hc3pMV3FTY3ZnNURTZW02bVVNZWY2ZWlueHpNMl9kT2JYYw?oc=5)**
