@@ -6437,5 +6437,54 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-03-23": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "Power Metal Invests $1M in Comahue Copper Project Chile - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RdzFCMkE3MktjcTVmWG9PUnVta0NPRnVMUFdoeFpfbVV5QjF5bVp1RkJqdTJyaVgtdFZ1V2dkUHZndGZsbVlCWDMzM2NoQ0ZLUDU5MWhwcWdYU1poZE9od3lYdU9BaklyVHp1eFVKNHNYd1dxVEE?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Solis Minerals gears up for copper drilling in Peru - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMjdjWDZubVJ2U3ZsdGN5T3h2azdzX0x5NUNXS2ZkZ1JUTFBXXzczOFFsQmN0WjFVX0otaUx6TFRXdnJvVnd3TTZtLVNESFplVldGQy1CRFg0bnhjcEtvNVFWdVJTWUJzS0lMd1FUb1psZ0RTSzVlZUtyLUdxWEU?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Falls to Three-Month Low as Global Growth Concerns Rise - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0N1d0JWZjhpSklxdWphVmQ0c3dHemdsbkYzbTNZQ3o0SnlMX1gtYi0wYnI3bUxwTVZ3QXRTYnEtcFNDc2RwXzZmX0t2UGRaLXY1VlptTkUzdE1oTnF0dFF6dzFUOHlwTGR0TVZGQzFwUkkzUTZQdGFoT3FOYmVNeGZyZnliMVNHREprUDRPaWFvSUpHeWlsemhUTkdHQTFOUXRnVW5sYjhrTnR0dEhJRVFLUmVBdW5GZ2RKclVLemMzTUZlekZESnF3?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "New clean copper production tech comes into play for Australia - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM3MwaWJSVUFYNDlaZ3RlWFhxelEwT2JIYm9VUjljcVBKaEV4VW1ndkRGSnh5M2F1czNtbVNtWWpxWkdSNHFQdkduV0xIRjFHalhWNHJFTGVadERaLUM0eWNjUThSUEN5bDBJNUNMdnNEdGZVQkpMZFk4Q1lyOGhDV1ZsejNBclo2SU1TajFB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Power Metal puts cash into Chilean copper developer - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aTTNWR2lLYjRwWl9JWEt4NlJMcm1lNzJLc3pNSml3dnVLeElkd05jaHNiM0plRGYwOXRROTJkTmVZaU9qcFRFTkhOdXVoMHZJLVE1a0dlQnJsTEtjYWc5T0ZKdFV3Y0pwOV9sdnRjcDRzMG4tV0JXTk8tS0FVSXM?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Greatland Resources Gold-Copper Acquisition Transforms Mining Operations - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUlnRGJRX2xDRzV2LUZpTW1Wc09FbVZ3SUdxcllZSm5EUjYwYjF3cWNmRm5tUjhCTjhGckpnZFo1Y09ETWVEMW1MOGNPcDdsRkY3eWtXb1paaUVfOHdfQTNoZTF3dkNfQmwzdGZvd0xKdmdja2xGci0yRUpZWEQzWHRVendUQQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "China\u2019s Copper Demand Slowdown and Rising Inventories Impact Markets - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92RU5vMExkMDVFbHZabG1ZUzVOSDI2Wmx5VVA0U0c2cXA3WHAxZUhDUE42RklZeVJVRlBTcHlhMFhvVkNTdTlJTk1EVTJkakt1NzJhaFRBMkVMQTBxa2JxTnNKeVRidHpCei0zM0h0LWJzUTdnR1J1d0tnekg?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            }
+        ]
     }
 }
