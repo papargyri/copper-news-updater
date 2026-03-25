@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-25 06:58)
+
+- **[Hot Picks: Copper, gold and lithium stocks in focus - BNN Bloomberg](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUc0WG1JNV9rQTJpZ20wUk9EdXRHc09hN2ZKaVc5Y2VaUUpaRUFYMGRCaWZ6WkhmNnpVeUQ3NlgzZE9mSUpXWnNPLTNxU1AyaGlHSW5rd0RuS29adXZOZ1dVVWt5elExZ1RIenV0T1N4YS1wQmxLWm1WWkc3b1ZMMjRlSkluXzRsb1ZxeFd5OXA4VmYxWm5SWjZGNzU1aDYzZzRmTlFfQ1BTeEduM0E?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-03-24 20:39*
+- **[Rio Tinto expects Resolution Copper mine to open by mid-2030s - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRndCSll6YmVRbE9vTG4xUWZLMkIxWlltZkRzbFlGN3VDS1YyNlZXUGhNUjh4MzF2c0J2aFk2eTd6cFJGZHEyVVl5cUV4S3Bhc2VKcmlVOGFWMHFVM2llWlhYMXVYcDdIRmU2c0JJV0tKOG9Qa1FvN2I3MkxTSUEzdUxLZS1JSlFLaVBDSHhGN2t2RWktODhtVEQ3S2l2MUdNaTdiVFliTUg3dXd4SjhhQW1IeUhvemthLWotNlEyYw?oc=5)**
+  - *Source: Reuters | Date: 2026-03-24 17:23*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-24 07:00)
 
 - **[Freeport-McMoRan confident in copper demand despite Iran conflict, CEO says - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWtxZjQ5RnVrQkg5Nm00UkdNS3h2ZTlXeXlucm5Tb3QzV0k1emJZOUFwcmYzSTJaRzl4dVZzeEZqS1NpZUpzQU9JWVFLR0xlUHM3VTJVS1dvWjBSVU5yYnZSejdTZDdZLUdzb2N4eFVaQWFraG1ieXRNRnEtV05GOUZIZ2Y3V3VJQ240Q1NkM002SUJndUlnRmZmX3pxcjlTX2xURVh3VXFRZl9zekxDd29NV3RCUkVpbHRsM0tlWGFEMXBzYUtNa1l4VQ?oc=5)**

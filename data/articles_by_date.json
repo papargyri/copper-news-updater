@@ -6673,5 +6673,120 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-03-25": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 18,
+        "articles": [
+            {
+                "title": "Iran War Weighs Heavily on Copper | Prices fall back to about $12,000 as conflict continues - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPY3dBaTlHcjlEdW9tdXEtN0JSOWEwT0Q2VFh6dWhrMTk2Slg3UWVyMlNiOVpqX3lxSVR5dHZ3RVUySFMwQVNFSWVUS2ZVSW51elJDVmpReG9tazZuYUJhc3lXWk9hOHNyWUZ5bTU0T0pNUE8zWXliWnNjSUE1TG9lOUYteGlBX05rUzROcmZRS3dXTDJIY19KWklKMmZVUlJXX0poOHdJUjFxYXIzcXllbzFqNWs4S0hkU290R3doVGRoamdiU285Ry1WV3JtZE9RdHFOZmZVNnBXb0l6Q3J0czRLTXBrT2dMY3dTQURpb1Vrdm5pdENlSHcyN05yRzVKMlczbW1CejRheXJ4QXF4cjFzeEk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Resolution Copper Mine Opening: 40B Pound US Supply - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXZRR290Uk5CYXFEbHJaemhwak52bnhYVzh4ejI2S19TQ2RJSUVaMS1rdzhCanV1R1RMZnMzVC0yZWUyTHRHblcxZC1DckhqRUYyM2JwRkpQMUZZNFpiUFJXSW96Um9SOHNNWTAxb1RxQ25jX3R1ZE4yMFAwYnJCV2RTdUxBcVpxMGc?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Funding accelerates True North Copper\u2019s Mount Oxide - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93V3MwZUoxQnpvSEZ4QWZFWFFkeVpJM2dtem85LVFsS015Y1luajVUTjNQQWM5MFpCVlBtM3pzd3pqRG1XYi1BOTBWZU9COGRxempoRS1HWlNlMmx2dzFOc2YwR3o5cVdhNU9mRjRNYWxJdnVYQkpBOWhrS0xwUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices drop amid global growth fears, plump stocks - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3V5OW02VFNJV3I4bXc5VndIcWhtaW9IdVhkOTR0NndxQ2dWNGVfNGtFMGJZem12SS1mNmg0ZEJ6cFdDZ0tQaThyb09CM3VEd05UTW90NUhsdmJ1REpIQkRkZDVvekNjamtsbWI3UzVEWmlkN0ZNRjlzZnZ6LXRXdDhXZzhFVk5tb2YzdjhFbm5HdU00em56U1l6d0tpdm1sSWlvV3dOdy16elBVbmxzTjZNY1lBUkg3bVZYdjJDbXV6TklhU0FaS1BrRQ?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            },
+            {
+                "title": "Hot Picks: Copper, gold and lithium stocks in focus - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUc0WG1JNV9rQTJpZ20wUk9EdXRHc09hN2ZKaVc5Y2VaUUpaRUFYMGRCaWZ6WkhmNnpVeUQ3NlgzZE9mSUpXWnNPLTNxU1AyaGlHSW5rd0RuS29adXZOZ1dVVWt5elExZ1RIenV0T1N4YS1wQmxLWm1WWkc3b1ZMMjRlSkluXzRsb1ZxeFd5OXA4VmYxWm5SWjZGNzU1aDYzZzRmTlFfQ1BTeEduM0E?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "1 Top Stock to Buy as Nvidia Doubles Down on Copper - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2Q1X1NzeGJNLTk2enlPdDBYbjkyYUl3WmpXS0d4T3FDNEtWdk9WTWJMOGdna0NWZklpMVFWSTRUX0swNjFadTN1ckl1X1lXaEVtVm1qQTZyeDhYZmIxLXhDSi1xTGVDZmJOZnMyaDh2dHltNktVU3ZRc0d1NXpXNG9VZG1PcWYyX0ZhZnBRcnY?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Why is LME Aluminum Outperforming LME Copper In March 2026? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUVkeW44QTIwRFkxNnJvMUl3RVNOTUl5YXlxcWV6VW8yNTU4REZTWnYxMW1SUHg2QUJIYU4td3BMMVlDNjhDMm5OOERDeTVFbXhpczJXRE1qVVpfbFRNUG85aGVOT25rNkJlckItTXdmOE1MNmxWS1RzM0d6cW4zcWU2a2ZFR0lMNTJmazhWd1ZDbVRWMVV5ZXI1YnNHV3psTXZIYzdfQQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto expects Resolution Copper mine to open by mid-2030s - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRndCSll6YmVRbE9vTG4xUWZLMkIxWlltZkRzbFlGN3VDS1YyNlZXUGhNUjh4MzF2c0J2aFk2eTd6cFJGZHEyVVl5cUV4S3Bhc2VKcmlVOGFWMHFVM2llWlhYMXVYcDdIRmU2c0JJV0tKOG9Qa1FvN2I3MkxTSUEzdUxLZS1JSlFLaVBDSHhGN2t2RWktODhtVEQ3S2l2MUdNaTdiVFliTUg3dXd4SjhhQW1IeUhvemthLWotNlEyYw?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Chilean Copper Mining Industry Impact & Economics - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVg2SGJiM3VKYlhnYXNZNTdWeFVUalZxX0NiX21QaTFWbTVjX1NIcHJJREMtTHNPWWF1bnF5YlUzYmdmblRkS0tTODdFZ21aVGpMZ1Y0UWhacTZ4eGpFVmw5YjVvaGhHTWpScklNWUE0S3pUWGtPLWNac0xvRlNTT05Ma2hzc0E?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Prolonged Iran war would hammer top copper miners - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qN2kxM2xiclpxSzduMno2VXlYWUFoUk0wbjFER0x6aERhSFEzS29EY3h1Ti13Um9oVDAxRUhvQ0h1VldUYVBFOVRlUklkbXh3WE5CYXRibjRUUzc0NUI0RnZ3WEhLQUhSY01FRC1XN0JiZXY5ckJOTU5QS3lQUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper falls after Iran denies talks to end war, attacks Israel - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdURIV1FMbFBnXy1KY20zUG01YWk2VDNsYWFBS05MTXd5ajZiOGxENDFaYk93eHhGTmlWZ20wRFpEVFNNclZMeUdhWUJHMTVmdVJBX1JGbHZQaEZoaFc1LThDX1NzLVF5dVBoVGNwN1doLUFsUEJYU2xDTy1zdUZPbkVDM0pxUzhBUGxxMzQxcWdzSzR0ajBWcXdwd0dBV0l0cFBrYmRkZV9qcDAwdG5QSVhuLUdFYk9kZEJZVks2Q3FzOWRmSTFoQnRDY0paUW00ZE54cG53ZGLSAd4BQVVfeXFMT1lpTG81cEpfZHFnY0RyNGNoa0ltVzBvOVRPaDZnV1hvaFc4V0laN2tOTENUSVp0MnF2V3h3YWJPSC1xLUs0anVISW83aFlPcENLRkRLa2Iwb1B0cUdMV1hjWlJPVXJUSVdGaWJLZTBMSktrb0RqQ1V1NElKTU15S3NYTUJSdDVXS0EtNkNTZ0ZnekdlTmtOQmtKbEJYNkJWNklDaUw0R0J0MkwxaGUyeUNNQVZ0ckZNN2ktRWpZdDlOWFg4U29nS05kSVRnS2hJZWd3LTFJenp0bEhUbURR?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport Copper Demand Strong Despite Iran Conflict - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0tDZjI1ZUtKQTVBNXd1dXZEMFdGT0pVdGdLVmREZ0o0TF9lU0stYnRQWHJxcVlIZnR6UnphemZpSTNDbHdtWmpobm44SzB0NmtLN3ZYVjB0NnNoVThGeDhubXVwNVloQkx3LTJMY1c2cWVLenVFRFUwMEhYcVdkNVhHWk9yVHlrTUVR?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Africa\u2019s Lobito Corridor records first copper shipment as Canadian miner exports 99.7% anodes to Europe - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXdjZEtKN2dLLTYwUU9RbDVYTi1tSW1uUGlqbjFtaVU3bW85R1lObTRielFNR1oySXpuUE1QemIycnJEV0lvR1VtcVFuamNRQzBzaE5nOVlWczhBODB4akphamIyM3kzOGxkT1NDMFVyeG9iOC0wb0ttcFE0cnlDQ040UE9lVHg4ZlU0UHhDeXNTaFowbkhOOFpyV0RhTkNHNTVIWlFqRk5hY1l5ZWJRc3cwdjFMb014R0VUeTg0QU1YYkxJc0FLSVRxVE4teUZ0VkFBblZkQQ?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price jumps as Trump postpones strikes on Iranian energy assets - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajltSHU2VVJHd2NVVW12b0hIOVVhOWhpQmR3cl9PTXI5Uy0yQkVpcFRXb3JIcHR2aG5EamlsYXozSEJFRVZ4UDBmaFpLOVVkeFNWVGRpV01pbUpnVFlSLXNpeUcxU1EyRWw3QnMzM2x2TnlzYi1jRXR5QlNKRENrd2tjaEhUbHMwMHViWjNRN1BnVzRzalEycVg3ejl0eTQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport-McMoRan confident in copper demand despite Iran conflict, CEO says - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTl9FcWtRbGRMOW5XSTI1aFpKMnZDN2NhOWtOQloyTlJwR3NLV2hfS1JXLTU3cTN4YUxVeTlfZEp3YXpBbDY0OXY1VlEwNTdOSmx3dXpaT3VSQmF0VEUycE9va09ETmhmNEhWaTRuSW52RmlMY0NwVTRuM1g3N0tBWEQwQm1yTEFnMG9aZmhnTnpCU1ZnQkpISF93WGRzNmxlR2lyaDdCYlg5VVpjcHRF?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Jumps as Trump Postpones Strikes on Iranian Energy Assets - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUhlMTNocHlWbnBjNzlLREtDSnJKbkRsb1RZaE4tSHB0bS1FUlluazZKQTMwc2pEUm5fYmNsVjJMZGxLNUljLXNxMVJPZXFRalNUYzBhdG5VbjFBY3IxcDRwYTV2YjN4WmlKZUtlalpETDZSTUR4SjhWaTBXeTkxSnotenQ4RHJXNTVsem1PMjRNT2d2SlNxWlh3MVZGRmM?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Should you buy shares in Antofagasta? - The Times",
+                "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQOHRyblhBdlp2Wm5iQ2t4MVhVbzBxSnZ1YXk4ZFZXenJiRTQwYy16N0dPeDR5cUo1aHNMN1FqeTkxYjdnMC0wdS1pbWVWV2FqZkRhZmxHb0s0VmU1OEMyYVRTU3NPdE9QT0l0QWh4ZkY1TTFLRDBQMXYwYUo4TXlhczQyaldIb0V3MVo4MjdVVHlXSTluTEJPcHQtMzE5Yl9ZUWppQml1RDZ2d2tBMGJzVnRtMUxLT285ZmUzY3NiSEhpbkcwUGpjVXRlQjdiWElqUW5GM3N1RHB3aHhSay1yTldKQ2JEZmZNdU55V0hPMlBMNlE5ekFEUEV3NEw5WWFiRnVpQ3RySUl6MTIxc3JEU190WFJYYjZUa2pJZ1g4VWJQOFJsOEI3RE9mdGFXSTZHZWJ2aFJrU0FFVHpEVkZMc2x6Z2FONGp6NVNjVDdhX2RVVENLY1p2VFhjaUhydmNOc3Bucjd0U3ZMUTVJV1lzT2JkR3J5cVBHZXlFdS10aUdoQTRHZ1RpQVlzNF9Lc3R6VUdIRFQ5Sm1sT0FBS2QxREQxcEtFMGdGVUc0?oc=5",
+                "source": "The Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper rebounds as Trump postpones strikes on Iran's power plants - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMzVoOHZVTDZ3QUJxSmh5OVZ4Zy1DTUtKODNsR0YzUmF0QTEycnN6YVVGYWw5ZGZuX2s3cDdIR1gzZHdBY1MyWWZxU2RIWVhRZVVWWjV2SC1IQ0FPQVRPeTd1Vl9JQl9ySzgxeXJQS3JvdUFBWjhNQl9LUHlFNFdZZUQtN2hLVXpsQ2RZNERtczdkczZycGx1S2Utc1ExbDlsS1RsRlVaeEk1Rzkwd3ZiYkFSaDJCeWxSX1R3eWZVejRFRm5COE4tQ3l0LUFMZ1N6dThfQjlFZHFiVGc?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            }
+        ]
     }
 }
