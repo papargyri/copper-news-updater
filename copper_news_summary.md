@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-26 07:03)
+
+- **[Copper Falls With Most Metals as Iran War Keeps Traders on Edge - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeld3Y3ZRQS00OVZxcUlvLUdSNmRBZE5IXzdQSTgtejd4UGR1RklBYjhxY0ctVnp5aUNaNlB0SFVLcnpaNFZ6Tzl2WFdPZUdPOTgzR2o2MXp0Zk1aSGU5ZTFLa1ZIWUFIa1V5STVMbFdGcEsxeHNYZk1COUxlWVFuaGJqT1lBa0VnUWF5TF9Oc2dKMGV5bW5tTW1GVHdUNDZjOW5VMDl6Y0xBNXJ0OWNBczl2SFU?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-26 02:47*
+- **[Chile antitrust watchdog approves Codelco-Anglo American mining plan - Reuters](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2pia09KeXhaNW84TmNpVjgzXzB0cW9YOEcxWU4zT2gzMDdIVy1rM3VkQXctN0xHQ3E3SHZOa1dWcGNFbTFFanZYLVNwUktrMzhLcXJVaFotTldOS3QtQzlKSkNlNnhjLXc4V0VTQ3hPSTAzX1pHRkZVOHpYR0JZSWlyTFQzeW5pVzN3S1cwVEtWMEVFMkhXa25MdTdITEZGMVRhWElfbTBjM1hDNG1uS2Z5Nm56Mnl4d0ZfM3c4S2ZmYS1oZ0ZUSDU5QVYtU3JjWnFHWTk1bWE4TW45?oc=5)**
+  - *Source: Reuters | Date: 2026-03-25 16:52*
+- **[Copper Resumes Losses as Iran War Continues to Batter Metals - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPR050VjdKQ0NzSEN2MVBYY0R1M2RyN3haUE9xSlpGZXdhX01yNWZSSlVEMU5VbE5KdlJldzlXcy1BWHF4ZUxWSFYyM1FYVjU1Y1FwNVJfNWVadDk5NFc4eTN3RjF5SjRlN0hmbnBOWnpmeDd6SDNtbUozcHh0anpSd3dhX0d4OEMyZEJ5ZkpWZU1JZ0FVLXJuRG93UGhHU3pDYWZwcU1rT1l5UEdSbm42aw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-24 19:02*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-25 06:58)
 
 - **[Hot Picks: Copper, gold and lithium stocks in focus - BNN Bloomberg](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUc0WG1JNV9rQTJpZ20wUk9EdXRHc09hN2ZKaVc5Y2VaUUpaRUFYMGRCaWZ6WkhmNnpVeUQ3NlgzZE9mSUpXWnNPLTNxU1AyaGlHSW5rd0RuS29adXZOZ1dVVWt5elExZ1RIenV0T1N4YS1wQmxLWm1WWkc3b1ZMMjRlSkluXzRsb1ZxeFd5OXA4VmYxWm5SWjZGNzU1aDYzZzRmTlFfQ1BTeEduM0E?oc=5)**
