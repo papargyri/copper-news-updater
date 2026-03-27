@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-27 07:02)
+
+- **[Barrick delays Reko Diq project in Pakistan amid mounting security concerns - BNN Bloomberg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWROVUN6YUg1RVczQlE1VzlUdFdjeXE1YjZXV3l1YURqcEJScW95c0l3aDFyRDJZd3lWQjdTc1BvdVFKeW1wX3I3MGlvVlI5NFZEd3F5Q1htUUxaYW8zNUhwRGJRbGo0dmlZaDZRdllWbVpFbGh4VG1JMmVfTE9EQWZSR2JISi0yOVp3aU5pUmlya2l5OHFUNmRsTzRMUGhCVlphUzlNbG9sSVpWWENCb2ZTVVhFLXB1VkpncTMxMFVjZw?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-03-26 14:41*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-26 07:03)
 
 - **[Copper Falls With Most Metals as Iran War Keeps Traders on Edge - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeld3Y3ZRQS00OVZxcUlvLUdSNmRBZE5IXzdQSTgtejd4UGR1RklBYjhxY0ctVnp5aUNaNlB0SFVLcnpaNFZ6Tzl2WFdPZUdPOTgzR2o2MXp0Zk1aSGU5ZTFLa1ZIWUFIa1V5STVMbFdGcEsxeHNYZk1COUxlWVFuaGJqT1lBa0VnUWF5TF9Oc2dKMGV5bW5tTW1GVHdUNDZjOW5VMDl6Y0xBNXJ0OWNBczl2SFU?oc=5)**
