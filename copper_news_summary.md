@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-28 06:54)
+
+- **[Copper Heads for First Weekly Gain Since Start of Iran War - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFlFQVZrRnVpSDh5ckJyTDhzMUdVUmJYcHB1a0Q4d05ucHpBMnN4QVlPOVI1ZmM2VDlCTzZ1MEVfaDZOcHRhOTQtUHRQTHFReWpoX3V0bURZWjh3LVJfVzNQaTNxQl9QeW1LQkZnZGllZmtmVDBLb0t3bm9wRUdBSmVtVUZONlJGZ0FaOU5pSWZjQ2hsMm1JSHdGcWxMRG5KdldQNWNXRDZLdUNMNUE?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-27 18:10*
+- **[Codelco Sees War Disruptions Adding 5% to Cost of Making Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQW1fWjNpTkcxVklDZmdwYW9BMFpkejFnTjhfMERjc0hJLU9xbS10NlVxOVd3UnNjREZHTXh2UEZFdjhqUko2dmlOR2toVlFZYVcyVHNDUl9SUzJZWGRJQ2JCQ3JBVERXbkNCc054SzgxcTc2cmFTaWdVU0JSWW50TmlrcFBSek1kRjFzLW9nR2hYVkVfQ0RtcGtGc0ZYQ0gtU1FfMXlQTmZWbXBDWGlN?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-27 17:10*
+- **[Barrick Slows Pakistan Copper Project Amid Rising Conflicts - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHBKNk1fMEZRazB3NzY3RS0tdFVIb1dxQWdKaktVbzRSSEhVcnJBaHVrSWVjbEVQcXh6ZzlEei1BbTE5TG1RMDFnNEE1ZU9GLXFfQlFZUVZWclUxVmhaS2lPWW5VS3BSQzhBQllwT2lGWTlodWpyUDhaTHM5dXZFVkdIb05EUWJzRk1tWl8yWWtDX1NVZDVJU3pzVHNNOFBWVjlCSHhld0FLNVVKcmhlMHoxMA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-26 14:47*
+- **[An aerial view of open pits of CODELCO's Andina and Anglo American's Los Bronces copper mines with Olivares glaciers in the background at Los Andes Mountain range - Reuters Connect](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMEpmMUZpWkVWVkwtY080OFR1bE1mMDhvSDRPeDZsSVI0WmlvZzE4czFablZnU29UYy16S1ZackJ2ZTFYd1Ruc1pIcTdESXlpY25ieTB3THc2YUtsZG9UZHdnTjdhTzZXWXdXU2xEbGNMTkFhSEhHelNwRVdQUlpwQUJqYklCb0N2ZF9YZGc5WWhZUFBBMUZKYkhTWGl4UlB4aE9oUHNuR2xWTmVEYl84MHRLcl80MjBfVF8tM0JwLXRHMDRqNWptLVhib2ViTnpGOU0zSWloM0hqeXhIbXVlQkdBUVFEdnFWNzJTWEFqVGlNT2J4T0tnUVVvNnIzZ1h2czZSamp5XzI4Qnk2akE4ZkprNUxTbHpNNmthZTE2OXQ3UDFHZGozUncwbnpZaERYQVBxSk50RGxXUi1rUmpyT08wcEhKWWZYQWdYR0w1NDJBekZTTVFPdUZIMjd0MmlneUZLZnRCU1dUWWtV?oc=5)**
+  - *Source: Reuters Connect | Date: 2026-03-25 17:05*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-27 07:02)
 
 - **[Barrick delays Reko Diq project in Pakistan amid mounting security concerns - BNN Bloomberg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWROVUN6YUg1RVczQlE1VzlUdFdjeXE1YjZXV3l1YURqcEJScW95c0l3aDFyRDJZd3lWQjdTc1BvdVFKeW1wX3I3MGlvVlI5NFZEd3F5Q1htUUxaYW8zNUhwRGJRbGo0dmlZaDZRdllWbVpFbGh4VG1JMmVfTE9EQWZSR2JISi0yOVp3aU5pUmlya2l5OHFUNmRsTzRMUGhCVlphUzlNbG9sSVpWWENCb2ZTVVhFLXB1VkpncTMxMFVjZw?oc=5)**

@@ -7114,5 +7114,78 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-03-28": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 11,
+        "articles": [
+            {
+                "title": "Codelco Halts Copper Production Decline Successfully - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VMHlaaHR1bjJTOUhOWFcxZ1N2TW9LOUo5ZWxUVzVueE5EWE5uTTF4RElLakwxLW1sRXBhUXQtM3Rzb2ZYekJQZmtJdk51ZGlEcDU3Z1FNYUpnWFpnREl1Z1hoU0YzVGJraEFxODBBMXR3ZkVWZ25RXzJ3?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price posts first weekly gain since war on China demand - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3NLbERmeVVxeklEQkUtVDlWUGRBellaejV0M2dXWEZ1NHZka3l2akI1MFNyV2RiODAxSmhEbnM0ckk3YjNoTTk5TElpR0JPRURlQ1hWdTBrTXIza2dKems3VlRkUlFoWURFVUJPVnFGbWllOFdlZ1EwOC1KMXFaRUhqcVIzcW5wTnZWLWFzTFVpbWpt?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco sees war disruptions adding 5% to cost of making copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0NvQVVwdWlkbWltV3pDaUM5VndYN2trNkh6M1lxSWU3WDVrVTkxM2xqVTRvS3pWMzFfX3ZidnRZbWVZYzNjM2tXZUdXcUNaSWxlWjVyY2syTTY2NG9tRGttemhnTkpUZEI1QmdUemRKZ19zMW85Mi1WZ2t6RXUyakhqNkZKSFd5NV9fLWlCMkZpVnBa?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Heads for First Weekly Gain Since Start of Iran War - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFlFQVZrRnVpSDh5ckJyTDhzMUdVUmJYcHB1a0Q4d05ucHpBMnN4QVlPOVI1ZmM2VDlCTzZ1MEVfaDZOcHRhOTQtUHRQTHFReWpoX3V0bURZWjh3LVJfVzNQaTNxQl9QeW1LQkZnZGllZmtmVDBLb0t3bm9wRUdBSmVtVUZONlJGZ0FaOU5pSWZjQ2hsMm1JSHdGcWxMRG5KdldQNWNXRDZLdUNMNUE?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Codelco Sees War Disruptions Adding 5% to Cost of Making Copper - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQW1fWjNpTkcxVklDZmdwYW9BMFpkejFnTjhfMERjc0hJLU9xbS10NlVxOVd3UnNjREZHTXh2UEZFdjhqUko2dmlOR2toVlFZYVcyVHNDUl9SUzJZWGRJQ2JCQ3JBVERXbkNCc054SzgxcTc2cmFTaWdVU0JSWW50TmlrcFBSek1kRjFzLW9nR2hYVkVfQ0RtcGtGc0ZYQ0gtU1FfMXlQTmZWbXBDWGlN?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "ERO Copper Corp (NYSE:ERO) Shows Strong CAN SLIM Growth Traits Amid Market Caution - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZHh5LWEtVzhVdHBvMzhRTEJCaDZ1VndnbXJKakZjSVJCVDlMcThyQU1ObWZ6N1lCVk1uSGVmazIzejVGWXNOV3l3SlpuTGdNLURMSDBuT1pTSFlsT2VuQjhaWFc3TnZVOWJwOVV4UVZ4WjZVTUF6Q19DeGpheU9Za096djJBYTRmQzVlcFZYb3NITGpvam1oczNFak05STJxTFd4Q3M4RVJ4aElmXzB1c3pzNVNVcmd6Uzd3M0tlZFNEQ2s4bmJxbExn?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Don Jr.\u2019s shadow hangs over Trump mine fight as China retains critical minerals leverage - Fox News",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmp6NjRncFJPNUhlTWgwcE14SlJfMllYcVBXNzhOX25sLTB6aGRjRFRZeVRaTXVWMnBuZW15NG82bHZvbmxFMkdOZS1yNXhTTXE3WFd4UU1KWlRWQnZDQlpVU0RocFNLZjhsZ1hOY1pfekMtdDdRNTEzRjRDemotbHV5bm1FdV9fRzR5WlJRR0RQaTJKUWJZQWZvbWp1c2ZNQlh4NkFOTHNWNDA3V3BJbDN3MDBldngx0gG-AUFVX3lxTE42cVI3WUVkemxnWnliYmpFSUY1Y1BFVU5VV1d2OWZ6c3N5RWVmOWVoWlFOVGtBcXRWcldLblFDYlBObHdlM0xlLUpZMjgyMVJ6YWNhRnJ5eW1wWURqNF9mRzNTUlZoWkNyb0djVDFoZGFGVjJ3RHhxVTRQSFZPUWVoaWlnbkhkYzRVdGtfMVBFSUpqTUl4TmZlelpMOHVkbzAyZnhucDNvWHczMlY1aEFtYnd1VTZ4MmlLdzhLVEE?oc=5",
+                "source": "Fox News",
+                "is_premium": false
+            },
+            {
+                "title": "PCB material shortages intensify as CCL lead times hit 6 months, quota system imposed - DIGITIMES Asia",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRl9VVkEtSG5PLVBMM0R2eXlqSUJqVC1KQ1hGbExvNVVHaklKTHBzSzVpQVRfOUVTUEZGNW5DX0swaUVRMW5NWXYyTVlJVERsSFdNenNZY2lKRUM0RmJ3NjF2LS1acEdRMFM2YUoweHlzMGZLeVdMVnhWUXdIYnVQek10RDhMcHdVdUI2TmFFYTFQRE1CNzRF?oc=5",
+                "source": "DIGITIMES Asia",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price falls, aluminum price climbs as war keeps traders on edge - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNldSVzI5SGF3MklhMEdRNGlLdzFnNnVzVnBEMWZYdGxMeF9LRERBY3ZKU2pDcm83M2JwM2hNdHJKZjNXeElkODRTMVBxZU12ZG9ZSmtKai13SWRLVmhVMWRnWDZpRmhvTVRkUjBfOFMyajYweVFYOEFTYXE1Q3k1bWhEM0h5aWlJRlZfS21jd2habHA3a2ZWRDZjY2h1Zw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Barrick Slows Pakistan Copper Project Amid Rising Conflicts - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHBKNk1fMEZRazB3NzY3RS0tdFVIb1dxQWdKaktVbzRSSEhVcnJBaHVrSWVjbEVQcXh6ZzlEei1BbTE5TG1RMDFnNEE1ZU9GLXFfQlFZUVZWclUxVmhaS2lPWW5VS3BSQzhBQllwT2lGWTlodWpyUDhaTHM5dXZFVkdIb05EUWJzRk1tWl8yWWtDX1NVZDVJU3pzVHNNOFBWVjlCSHhld0FLNVVKcmhlMHoxMA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "An aerial view of open pits of CODELCO's Andina and Anglo American's Los Bronces copper mines with Olivares glaciers in the background at Los Andes Mountain range - Reuters Connect",
+                "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMEpmMUZpWkVWVkwtY080OFR1bE1mMDhvSDRPeDZsSVI0WmlvZzE4czFablZnU29UYy16S1ZackJ2ZTFYd1Ruc1pIcTdESXlpY25ieTB3THc2YUtsZG9UZHdnTjdhTzZXWXdXU2xEbGNMTkFhSEhHelNwRVdQUlpwQUJqYklCb0N2ZF9YZGc5WWhZUFBBMUZKYkhTWGl4UlB4aE9oUHNuR2xWTmVEYl84MHRLcl80MjBfVF8tM0JwLXRHMDRqNWptLVhib2ViTnpGOU0zSWloM0hqeXhIbXVlQkdBUVFEdnFWNzJTWEFqVGlNT2J4T0tnUVVvNnIzZ1h2czZSamp5XzI4Qnk2akE4ZkprNUxTbHpNNmthZTE2OXQ3UDFHZGozUncwbnpZaERYQVBxSk50RGxXUi1rUmpyT08wcEhKWWZYQWdYR0w1NDJBekZTTVFPdUZIMjd0MmlneUZLZnRCU1dUWWtV?oc=5",
+                "source": "Reuters Connect",
+                "is_premium": true
+            }
+        ]
     }
 }
