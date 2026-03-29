@@ -7187,5 +7187,36 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-03-29": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Proyecto Marimaca Copper Mine Investment Opportunities - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWRvS1FkMkdzUm5RcXdRb0ktTkFaQmh0M0RINTNneVBjRUJtMlVBeEp6YmpEREN4X0NicWVIajI2THhUd043ZU1IQnROZUg0dmdjaWc4VThKcjU3ZjNKRzh0UlhaRXVHbjlhMkstZFlPS2V3TGtHZU9TN0VhTU5CM1VUcHdMaGlqeFVmS3pnN3JURGRtSjVxSmpR?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Vanguard Mining\u2019s First NI 43-101 Confirms Large-Scale Redonda Copper-Molybdenum System - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWC16LXVRY0RkWS1YUWpDTGhCcTRQLTByUTMzZWoxWk1DcEtHVjNleHp0LTdyV2Y5NmZ2QnNidXI2Q1pWTmNjQjV2ZWVDckk1M3RFUUdXNHl6S3pVUU0weHBPWkVtNV9SUFdXeDdSaWVZVGhiQ1ZBa0g3bnh0b0ZBbTlmMGxxcWlPUzN6RVNmWFY3OVA3WWlfc25GcnpzWXRVTndyV0FBWHZiS3k2dWpMWC1QNzRVNTBKeFVKMHRiZVRBT1ZOR2s0QXpQOE9aTDBtYTZzSVhPX2FSMTFPc05aVkp4VDcwSXVaSVE3VWw1TlY5ekVYZFI5d1MzNA?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Eldorado Gold plan to buy Foran opposed by Glass Lewis - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2Zsc3ZHWm9RUzhmU0c0WkZkbWNCdVhSdkVHaVJYc05uVjk4R01hRkJDUklpVkZ1RzRQRUxEdTRqRUZtTnNlU1dfOEhjYUhHVDM2dFlXVExaY3UxVDM2a1Qwc2lrWEFNRjN5cWkzcEl1STBvaVFZaURBbHNCTm1nMDhYUGVKVGl1LUE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM0x0bl96TEJZOUdwNDRlTGswVzV5NWR2X1JtclNDeWtLQlpPSTNWUlY2RmIxOXN6a0J1TmtGMnNYTmwyUXU3OXgwbXRRenNvc1NXem9TMEVOOGRQX2ZFRmtKWGlFczluMlVKV2ZEaWZrU0NlZnRXNTFZTXp4SzBoQ2t3VlZiR3hlRXowRl9XSXJWVjJYd2dUSzJqV2VKZFZ6TnVqcg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
