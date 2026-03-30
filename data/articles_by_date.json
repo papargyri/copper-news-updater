@@ -7218,5 +7218,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-03-30": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Harmony connects locals with mine project opportunities - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNklXZ0hTVGVVaW5DTnBJOTM2aUNad2FnRlFrNmRyeWstaFZFdDdWSUFXVnFQZldROGJjQ25zWU5ZYmVhWHJQSXRhbmNzWnpIYi1pVVJEUEFfd2UwblFOV3pWQUwtY0FiM1pLWHlrdmNodzR6UUZoc2xOc1p1MXB4RllaUWY?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "A Look At Southern Copper (SCCO) Valuation After Recent Share Price Swings - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXRPN0YxN1pyNjVlSWtfQVNHNWlIWng5TjluanRqZ1BGZE5paEFFVFZoNDAxNFVvQnk3WXVhUlhMNk81Z29aRHVfVDItLVdKdkdlM2EteGVwRWE0bG4xclBZcERqRG11c3JfN3BWMklNQW9aOVJJNng0WUpZYS1OWHBLWWMtTjcwT1l1dnI3N3p5Z09aSzZyTVZrVGRVX1pQd0E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Market Outlook 2026: Forecasting Price Trends and Supply Challenges - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaUI2ZXZ1QUVRNG9jTmJIUUJDSE9MaHl6NzN4dzJISzItcHlWQ09ZSWRKRVZKbkFVckEtbmJnYzNja0QxUEdudFVWRE5ReTNKQXhUSElWanZuMWJ0b0xjV1dtVHBIRi1GZm1MZE5pQ3g3LXBLeVRuV0VZN09DZkMzSjlmMnE1S1NDVUE?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's Codelco logs $4.85 billion pre-tax profit in 'very difficult' 2025 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXcyS3pFMDkzT1M5U2Rrbkk2R1FsVWpQMVloOUlPSUZpMGtHM3J5VlBWaGtfUm5QZzVaUWM5bWNTdkZBbjgxaFJKVnQwcTJzeGNfZEdScm45VGxzX2RBX3lDRWVOMXRCUVBVTk9iTlE2QnUwTEhPdWFSS0ZWN21IMDltbTA2VmJ5UjNPWGFzc3YzWDRQWWRvUURIVy1nSmFEZWtza050RG8?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            }
+        ]
     }
 }
