@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-03-31 07:07)
+
+- **[Glencore, Canada Near Deal to Save Threatened Copper Facility - Bloomberg](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdHIwdkZ6NWdfU2tQWnNmSElfNzAtQng4UkJweTZ2aUZHdnI3aURFQkM1WDlIQW5tSTI1TklKeUxIcjVXcThrbTdiS29NRVg1eHpHRzJjUW9YemFvZmtTWFpoajNsWFFzZlJXbmdxWWdOZ1d0ZERENTlVQ1FIMFZZaFYyQWJ6TlZYVGN4TUphV0NTZG9HQ05ieThoODJIcnVrWjZ3bTVRTG9DOU1JUVB5cWJaTi05UHJablVNdHZpeFUzN1k?oc=5)**
+  - *Source: Bloomberg | Date: 2026-03-30 06:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-30 07:22)
 
 - **[Chile's Codelco logs $4.85 billion pre-tax profit in 'very difficult' 2025 - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXcyS3pFMDkzT1M5U2Rrbkk2R1FsVWpQMVloOUlPSUZpMGtHM3J5VlBWaGtfUm5QZzVaUWM5bWNTdkZBbjgxaFJKVnQwcTJzeGNfZEdScm45VGxzX2RBX3lDRWVOMXRCUVBVTk9iTlE2QnUwTEhPdWFSS0ZWN21IMDltbTA2VmJ5UjNPWGFzc3YzWDRQWWRvUURIVy1nSmFEZWtza050RG8?oc=5)**

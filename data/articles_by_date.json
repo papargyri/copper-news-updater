@@ -7249,5 +7249,90 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-03-31": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 13,
+        "articles": [
+            {
+                "title": "Metso Supplies SX-EW Tech to Southern Peru Copper Corp - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vOTFRRzB1ZVJUU1hzS1o4eTVnZXJKbHhBN3JSZ3phc1Q0eUhqZ2h3OHYzcjZjZVRRUW5tMFdWY2psRWFkVFJWa0UtZkEweUV4QnZOb1JLa0hjcm1pRGRXemY3Ujh5bFlBZ205RmtUaGI4dUFDeEFpeXlIYmZxZw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Metso to supply SX-EW technology to Southern Peru Copper Corporation - australianmining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN19OTkVFSjRsMzlyd0NCYktrdjRXOFBpbzEtWWw4SUEzeFN2dTFCRjBzQVlVcE00ODdNbDJTMUhKMXplM3ZJUDdHWTBOTmRWbmc0Y0thYk9pa1hnSGJIQ2ZmNnZfZzlYN2ZBWWFTSTFqd3JwV0N2M1A1OUZsVm9fb3NDejJCdFdTWkt5bW9yODlzYzlLSVF1RHZ5MWpOc0I3MEItaVI0OW4?oc=5",
+                "source": "australianmining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Files Technical Report for the Furnas Copper-Gold Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3BpWFE5d082cnNlSmljdTg1Ul83cEJMcGN1NDZINGtqZXp6ejBiM092RTBia1A1eFVNV0V5MGg5a2FwQ3BmNDhYeWZINFZOMEltS2V3dzNpWllIYzA2VUxnZXpPQWpvdU9Id3gyUGVsdS1kNUM4VFBNVnBneWdjRTNySW9NU2dENXl0cTdIMVIzN1pjTGlOWWYxWGVxTHNtOHpCX3p3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "BHP vs. SCCO: Which Copper Stock is the Better Buy? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOG5vVXAxcm9DMlBHQWVrRTRxbHN1UmxEX3ZzaVdKTjU1OU5CbF9JZHhwZTlqX19KOGJvdjY4NUs0anliTUpzbVdfMEhfSGYtdXVQVzBQVTZ4cTRFVlZxYTFHdnllZGtRNXlza1A5Uy1DSENuT2NGdW9GcFBDc19SZTRXbDRDQ2FNRzQtemdtS3hhNVd0Y1o2aHlSQnNvN2RpY1hBeDk3R2d3TzFtZ3lZYWFOcWxRZHJtTkw3eG9iUWNfTTVPeW9CdXZGX3I?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "From Commodity to Critical Material: Capital Intensity Reshapes the Copper-Based Paste Value Chain - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYnQtZEIxOUN6Nlh0YlJ5OVF5WFV2dEpRMjAzMHZqWjNPN04tdWRBVm1XNjZNd3dUX1A0QlNkTl95cWpTTGtCeHJaQ2hWMU4wUHNycXRjTmFfaUFHMHBKUDVCZGlwdDhfSHQwdVR6OTMzS2w0NFlIb1ItWFZMbkNEaWNJUnQ0b3pHYmMySTJTTGUtck0?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "How Energy Costs Threaten Chilean Copper Mining\u2019s Global Competitiveness - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHZkOGMtd2c2a1dmMmxOdmFDY29sWlhOcWhFQ1Y5QnNWeEVQNTExZWR3NTZoZ3Y0UVJHZXd6MXd3VmQ1U2pIeFVnb01TcjR1Z2g1N2lvd0xRNUtpWkgxWjlWalJXX1pNQnZOZWlzUnVpZjkxaTY1ZTJzN1FuSllpcEZIZEN2SzhEakVzSHE2MWlTakswdExJcA?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-based Paste Market Booming with Explosive Growth at a CAGR of 6.8% | Trends, Demand & Forecast to 2032 - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGpLYnByNU80eUtUTGZYS1gzUElSWGtzRFNpeWtDX2JYbmdwSmljT0Y1Z2RDWTBxR0VhVU4tMlV0a2dsNHhtQXV0NEZ2TkRWT3RZYW5Mam43V3dlZ0d5Z1h3YzlHS2pJc2dpYkRaRS1jZ2ZqcEI0OEpJZTA4ME54MmF5TlV0czFwX04teDM5OVJYVmlJOUk4N0Z3?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Approves Codelco-Anglo Copper Mine Coordination - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDJyMkx5NW5qSjJPTmhQMEpzRkhPMFcwZGNzMldTLUtNeDg0QThIVWZHaDVkazVPdGV1enZEVUJWcUVEdmxzSHpyd1JjN3VhVHo2V2pCakZXYW1lRTNQMjFPV2xnbEd6QmNxM0cwUnYyN2VyMkR3bkVQYnpuTTJQTA?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Canada, Glencore close in on Quebec copper smelter rescue - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM21kMjJlcHFhNGFTSHVuamR6LXBBUlpXTF96ZWQ3Y2xUdUF6dmh0TUV5Yl93TkpIX1pTVTFSUVRBNDhfNDh1MEZOUkpiVDkyZGVwVmdjWFJ6X213R3BCWE0yYzNtOWNEWGRqMFN4YWdDQlpzNXFuNXNpaGg0d0lNZmxwMWtPUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "[Video Enhanced] Selkirk Copper has Four Drill Rigs Turning to Advance the Minto Mine Restart Plan - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQd29Zd0o2Rkpia1MyQVZGSWFtSlR4elphaGFfZXZUQUx5SERnenhIakpHUWt1eklqQUNoTmJvMFBoR2xyUnkySjh1RDY5UENLNDFFZ24zQlJRVVF5a1FEM3FucXh1aE03cFg1Q1JWV1lpOGNNTU1XNVhoVUhkUEhzVm5fMUtGYkpOaVdPeW1WQlRvd3JFbFBlY2todGdmNFZfNkRtRVA1TXhqV2Fnc0toMjQzbjcxQUg3Q09KZGc5VDhxdFlUemwwUE95dHNyMEhJNjE1ajZILTh0eUJxOHZkRVBYX0RPU3MxOERKQno2S2dmY2xucFBDZXE2bFRJRm1Ib3BBVi1ZMGtxYTAzTHhBcEVn?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Plate Price Trend: Market Dynamics, Cost Drivers, and Industry Outlook - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSF9mTnVtYlNQa3BweUF4WW1nbmVXOFMzb0NzMjh4V3RDMkJYOTk3STN6Qm1mTFl6eUhOVExkcDRJMXVLMHVSWnlBRzlRM1Q3cnFJb2twZXlKQ2RKdldWbkg4dDlnSlVXUW56MDZ0dlQ2RFktYm12T3JBbVltUXk4Y05FLUJ1VTN1dkxIVzJNaVJLSTg?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Marimaca Announces the Appointment of Zenon Wozniak to its Board of Directors; Giancarlo Bruno appointed Independent Non-Executive Chair; Board Changes - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPcjY5dUJEMExWWmUwR2gteVd2ZDUtaU5EQ3RUZS1CX0lDOUtaNVc5a0dsUFEycy1YS053ZU1jYldBb3hlUTdJUDRVaU1LZXpqcVhUVzJFVjdZUlhXb1puaXR5YVZEU3dNR1hnRHFLdGM0a0tqOHpyUFdmNEdtSF9zSUFmTW5NV2g5aEVmbENvZlVKSXozOTJvU19zRHUzaVZxbk1OR1FncGo1NUxOS1JNdXRkamNPbjRoM3Fma0FLdXlQOXRSS09GTXJaWDlLTTBJbFNmR2s5RnV1MDQ1QkZLNGNuRlplRkJNYkg0U2ZlYXVVRG02RjhVQ0tUdHhJVVhuUFNnWjJhek1BRzlEenptT0N1eUYzLXRFU01VX3NiWXdqNDdtMWRfMkt6c0NoTzVaQUJ2VlJ3Z2ZNZDZkZnpNSzF5d002STNXU1BfTDB0TnZBeEdWdWdTWkd6SQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore, Canada Near Deal to Save Threatened Copper Facility - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdHIwdkZ6NWdfU2tQWnNmSElfNzAtQng4UkJweTZ2aUZHdnI3aURFQkM1WDlIQW5tSTI1TklKeUxIcjVXcThrbTdiS29NRVg1eHpHRzJjUW9YemFvZmtTWFpoajNsWFFzZlJXbmdxWWdOZ1d0ZERENTlVQ1FIMFZZaFYyQWJ6TlZYVGN4TUphV0NTZG9HQ05ieThoODJIcnVrWjZ3bTVRTG9DOU1JUVB5cWJaTi05UHJablVNdHZpeFUzN1k?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            }
+        ]
     }
 }
