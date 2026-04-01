@@ -7334,5 +7334,162 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-04-01": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 25,
+        "articles": [
+            {
+                "title": "Jubilee Metals pivots to Zambia as copper output and earnings surge - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDdOVWNNQ3hlQ1FWck9makFyTWNBQ1JqMmE3a0VaZlR4YVNvLU5uMFZjclNqMUw1aWV1M3F2cXgtTDFjSGlheGZTU3FmNFZma0xKczFYbkNPcGx2TGgtWFptd1RKWDd5cE9DY0tuS1RJa3Y4VkthdHk2alVZVkw3c2JMN2RNc0hSczUyZjNZdXRKUGV3SllwQm15R3pZbU43bEdta1M4aEtYRTRTb29Dd1RETHpzSklCWVNKa3k1cTZWWmtENkhkQzFINV9ZVU9iQmNnV2JqdFlHVXNiRWFNQjdR?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Andr\u00e9s Encina Leads Super Copper Chile Operations - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFc4a1RMcGpaOVhLbDlMTjBjU09Bb0hYMmotbHNwMkVUc0FUY1F2MkMtVDZrd1o1NWNQWmdwZE5DSlhWSVBmeVlqOGFCMS1OenpweVVvc09xY2d4czFvel8xaS1UdHNrbEEtQXNEcHJ4c1Y1TjVrVXZVazFiTTJzckRQRy1SdlpuTzlQQw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Lundin Mining Files PEA Technical Report for Large\u2011Scale Vicu\u00f1a Copper Project - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM0V6YmNTSkl2cWZRUDgzTElrVXg2RzRqRGh1akZaQ0dMN0FSZ0Qza1htai1WWjQ5MXE2Skd5ak5fSjB0UHhkVjlzOXBWb1ZWaWtNMmZyYmhPdk1PZDhGdzNyYXdxUFBNWkFaaFA2elFuQnFqX1hzMkxaZDNrZHlwamg2UDFxQ3g3cVdNM0RxQ3loUC1fOVl4M2otd1N1R29CSk5kWi05ZHVjOWdBaVdLbEU4QVk3V1I5a2k0d0RCMVlqVU94NkotX1NGQTZuakg4OWJIY3paazhXRUhtZDVNa0dHTkpnNEllbFFUdXdQWQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Kamoa-Kakula 2028 Copper Production Targets & Outlook - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmZWeTk2R0czVFRmeEtMdjJGc2Z1dnlXTFpLLWhpMF9qc2xwbUNBcVVfc3NBXzlZVFFLTV9rSTI0X0Z0UEw3aDZDYmJReVU4TkNTaTdmYVcwRmgwNVk4SFl5a1JBZF9RRUhHMURZaEVGM0hkZkVKWmVkTDVSWHFjQ2dQZklZdTVNbFJURks0TVV2ZGJ6WWc?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Gunnison flags \u2018large-scale\u2019 billion-dollar copper project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEV4M0ZsR1VJN19DT1ZBdzYydk9hUWlsSm8tdFpiMG9IMlFJTDRZRjZTdHk4dDFhZXkyOXl5VHJRWjg2NmdyQ1VId1NLcnZScTNJUlBNZENoc3hjZVhOMUxKMFNsdWw1UzVuMU1fczNaQ0NtUV94bG1tYkhpOVZwUi10Zy1fUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Rises as Trump Floats Timeline for US to End Iran Attacks - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcThKejQxY29BTVRVWXBXNUc4NGRVdGxacHZmaGVZdlJtSUt5WEhoRkNqLUhlUGJ3R2tjdnU3b2ZNWUhTeWpUNHJPRjV6N09SVjJsMzN2UnNJYzlzeTY0OFdtSURGS1lWRjRfZGJ1bmNwU3E0dkpvR0VkX0JtWWlkVVA5UGVQRmVWeTR0ZGxqbFRzdkd2TTJjVTVIejZWai1ldmVQRmQxTDdJSEhoeGxpT2dpQlUzQQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Ivanhoe says revised report cuts 2026 copper output forecast for DRC mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1RsdmJGdXBQYl80UGhQUncxN282aGtuYlpHa0NyWFZ1dTlMRHBwYldyMnB6UzVUazJEV184QnhfV1B2ZEliMnNsUUVWNnZUWWZfckh1M2FzOXNOS09SaGVKUlFYUXozMkY1YkIwakhIMkVEV1FmVGRaUlJwdmllRzFQay01Y2VKRjNlYjZPa1ZWOWdzZEs0dUNyaTdERkx6eDVj?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "AIC Mines lifts copper resources and reserves at Eloise and Jericho - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3RqeThwbzJQd3lXUU0xNTRBT0RjSjJwVjBpcEVHai1pS1IyTGZOMmRWNTR1QVpzY25qQnl0M3dmN0pxVlR0dDNrN3JVR2V0cWMtaXRSdWx6QU80dDMzNUdXYXBzYW9EejlRNHc4aUl5ZG1rQWRSTVZuLXhVN1E0d0RYdTlqY1dqZktaWGQ3YTdzeFQzdFF2elJqUDc3NC1nRURQZTlZR2VncnVKRnB2NUdKUUZ3ZFoxOFlsNElMSVNVWTR5RzlSN1U0ajV6bTRINWlLQ0puRkl3eF9lUzZydnB3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Chile copper output hits nine-year low, adding to supply concern - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWgxdVl4SzhoTnI1bkNwNzFKckI4LU44SkFhT2JQVTlKYU5HR1B4N0xTNkU0RFNoOEZUOHhKMXVQX0lUT1JPaWwxbDRCVm1OcmJYVW93c2xJSnFaOFkzS3l0UlMxbFNZelZxTE9tVmtCQjNDLV9XQVVEWmhuLUNvRGVWMUM0TmJkNGtqOXFlV1NVNUJsTVE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s comeback: Just what the doctor ordered - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xOHBuakMwSWxEdUtFMzRCT0ZrNjAyTUszZ1FLeF9RRnNRUUZlc2hCY1hLdE02WW5HcURHU2cxS1RuOGNTb3c2d3ZySTN0QnpsNGpHeTlDZDBLWDdUSGxlLXE1QmlNaU44aTdzbHNUdHQySlJma2hz?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Taca Taca Copper Project Argentina: $5.2B Investment - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96RzI3NkYwTHhWN012MXlUbVNtR0VGa2lyaXpzYjJlOGYwUC1KOWdWZHo2blR4TTFsQXdfT2NZbkliM1ctM2RoMXoxaE9MRkw4LV9YYldTNG8xQnhBby1la2U4MkU0YWdtYU5CbV8yRG9WZnZvOFpvemV0Yw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Gunnison Copper Project PEA Technical Report Reporting Post-Tax NPV8 of ~US$2.0 Billion and IRR of 22.5% is Now Filed - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOeDZ1akdoNWhCbHdfQkZOZHItNm1BelF1d2xyY09Xc0U5UmNYdnkwUm9QSWJLaXc3ODRTeTRfcXpVTzZJcFVucXdQWGZTbmpZWUNrZGNjNkZmVk1kYnJMNTN6ZFQ0TEU1b2FqdTlBSkhPRWRwWTNmZFFPaXZUVDc4QVlVVG1HYWZJdlp6TXBrOTlIYnpKYkp2WjZ0N2lwcFplM1p0UlQ1R1EwazN3S0RUSVFpMTFPRmRaczZYS3l3NWdtaU5JVHhpdVFFcEFqV3hlYU03YlpKOEdyRWQ5VFZ4N24yQ19vMGdjZXJWVy1BSnFVOXN2d1N6SlpnWVRsbUVlWngtQ2Q1LU5YZ2h1R3k4cEFEa1BfYXZoN2lodXJNa3Y?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Star Copper lines up potential \u2018game-changing\u2019 event in Canada - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazJUamR1bXdBOVBtTmtKdXhaZW4xTWxTMW9aRkVUQ1U4TjVyVGFPR1FKSWpQT283dkZPdGpaVkdhTUVDaHlyM3V1dUdrbXBFeS1MM0dfQy1VajlGZGZhQTUxdjRjandHNi15MGRRcVNpWXlpb18wTjdJbmhOM1prcHZ4OHk5RWFKR3g4?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe Mines Announces Updated, Independent Study Results for the Kamoa-kakula Copper Complex - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSTVuRmxkUnloWjhaamg0aDdlTnpIRHdESzlmcUJ6TFlCRVhTS2Fhb2Z2aXNZM0tlZU5kak1YSWVUaXJaYWdJNFhCaUc1cDgzTFo2clpPa3JadDdETTJUaXdrWUl5aE9tbFhpanBGY3I4eHBBUERfUkc3WlZzN25KYXBGX19qR3dmbERQMGNHVEpnOUVvR0ZPb0g3cDlmTHlyY2d4M3JDV0c4em10U2pkUEcwaDJxcGplLVdTUnNhSGg5NFY2WENIN3VzSlpQeGlrakt1eXVhdUtZMDdsaWt3WUQ5QU1qMElFYW16dlVSYTFwRXh2ZHZoNkJ4dVhYUXRISDdqUg?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Copper Output at Nine-Year Low Adds to Supply Concerns - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUxvUzdTS0ZGMG9nei1qR1R4TGR1RkROaEpUZ21pNU9hamNrYkZRaklQYmxzWmJPZ2ZVOUJOcGZvSWxlZE81VkR6MWdWM2YtTnJjaVk4NTQ1SXZIY3U1ZHNnSUNGT3RfY3ViUEh2VHhLREFpVzFZQ2d1d2VDT0hIajV5S09VWENjZkQ1NjRJNXFrMk92X1lVZ3NjeU4zTS1ZREpialh6NldSamlHLVVJRTVfdUU?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price rises as Chile's monthly production hits nine-year low in February (FCX:NYSE) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1g4eTFCVmlZc1RGV0xXZm1TLVBNc3drXzFYWUpYd2pLMzliaUtyVTZRLVBBZjJ2MU1pQnVYeEhGOExESzJzbE5XT2pqT1dmSnEzWDRoaEQ3SUpNYkR5bm1ZU09WSC1GelpJWHBBTGdTbUZNaTk2WWNCZkpfZnAxd2lYR2hYb3dqeUlpUjJSSlJCdlhFTVZ2eE91NVFfdDVOV1dQTWROcDZTaXJKemgyeGVfWElDZw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Datavault AI And Coppercore To Tokenize Copper - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcG9JcVZEd0pXWVZPNUhtQ3Fwel9pY3dJODQ0X0FjTzJBY1FQS3ktdkVaRHZEaUFXSTluSTNmeDZpV0xWdmhDV2lnV2taX095cFVaNHFNNVcyX3BlZHg2TGJBc1k3TWV4TW1UNU11SWo2Nlo2bVJNd3o0bDZfdTQxd21wMUNSTk9NNml6bzM0c3JsdTFfbjFyZTlTVmFtY1ZXeTZkM3p6WXY3LW9RaEE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore charts solo path to copper dominance - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DTzNUZWVJUmh2TU5XcjRpRFdvaFF0ekQyQUVqcnBsbkRhTTFaQWRDWHBsSEFFNTJLTUU2b3F4XzZETmJ3Wnp4U3ZDQy10OFdLWE41bHZnTHEza2FXS0NXU0Z2eU1oN3R0X0plUFYxTTk0NXVWRGJEUg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Stocks, bonds and commodities: How global markets have traded the Iran war - cnbc.com",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkc4NnBBd3NaYkpxSjB2MUY1WlVNQXZncnNhM2VweFhqZEwyc1l2eWt5VkVXdm5janJnZVBjZlZsSjFlY2hnVVBLY1hnQzRyc1RXckl4V2ppcHNHMjRCZm5KbVlPdEw1NndZcmpramthZFZRYXNOaERhRzFJN0hEUmJkTHF3cnplRU9WX3dVaWwzdnNjNVEyMFJfUERfc1Etei00SGticnBLUkg4akZIbWR0Ym5ZTnVXSVA3TXZR?oc=5",
+                "source": "cnbc.com",
+                "is_premium": false
+            },
+            {
+                "title": "Super Copper Appoints Andr\u00e9s Encina as Country Manager, Chile \u2013 Company Announcement - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEQzSTdsbXJHSmFWcXhDckgwV2RwbHhKWFNfMHNZSi13SXRHUzFZMS1qWVdoaVB0M1FjWUFrdDFVRXFwMUdYZWxGMC1UTnBfdXJ3eG5ia05zakgtWlowM0szSUJHRDNTODVJWGFlTE0zM212djFsQjJPc3VWVHBTSWx0a3UtQkhLd1NCRmV2MHd4eVo3OFE?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Colombia mining reforms test copper ambitions - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vT081STBaLUlQSUJOQTd6a2t4SUJ3SThuMzhUb3Rsa0REdDdfemFDY1BjTUN5NnkzN0NoWGViT0ltRU1CSURnMWc4Z2l1Mjc2X3lHMjBjSWxjRzIyLXR3OHJtNXpYRzR1SnAzVlAwM1JBSHBaT21HTQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Foil Market Size, Trends, Growth, and Forecast (2026 To 2035) - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUZRMk43SGFrN3VkZVBhdzdROXhkcmFxUUJlQVF3NXNVYlcxQXkzb1lMZzBNRTFySEJzMDFfb3B5SzNTSkZMUm8yRURmdXQ3ZnVKT2lpWVZveXZyQUdlX0tRdS1YR1BKUS11NnJIQ0FuS0Q1NnJVamNtTC1aa3oyTWc4WnVqNXgzVlUxSjk0SEFsOTNOTXc?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Vale Base Metals Accelerates Copper Nickel Exploration Through 2026 Growth - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3hPdnVNY0dtSnhPc2VYcXIxU2ZxNnhRN0ZjaTV2Q1NVT3BYMm1tNTc1RWxMQ3o2dnFqVmpuSEZsMnRJNmNDVW1kdG1mNzZDQWJLTUVLTTNpbVloZV83TDBRcEtwdjd4NUpJbGdBYTVWcTY2ZlllYWZIS1MyQkxDbnJvZFl0dXN2WVk4R1hJTQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Miners Face Energy Delivery, Supply Chain Uncertainty - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjFyMEFTVnNrbi1YTGEyTU9RMEhHeUtfVERCcGVaXzhlRGxNdTN3TW9UTW5NUkFvTEVKb2tVUEJsRGhON0pvU3VjV2tCdzRRRUdBdWplZV80R2N4VEVXSG1xcWhCRU9UWFQ4a0JzVHZCZU1zbFhrSkhvckY2cC1DQS1yT3BDa3ZtOTI3YXo0Mm5Vb0xzZzJ1TkppLTlfU2dRdUE?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Canada, Glencore close in on Quebec copper smelter rescue - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0tXb3ROS2JnbldiR2VieEJrcE93ZGItNEQ0cUt4TUpRdzhOcHlGbDR4aXoteE96WG8yRWtvSXY2ZGpNb2VTNDZBZ19WVGtNQlA1b21EeDJDVkF1YVM0OVpKSHMycVJ2ODhZTFlHdm1qZXpOTDBJRUJjZ0ZBcjF5UzBNVG4?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

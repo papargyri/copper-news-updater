@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-01 07:15)
+
+- **[Copper Rises as Trump Floats Timeline for US to End Iran Attacks - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcThKejQxY29BTVRVWXBXNUc4NGRVdGxacHZmaGVZdlJtSUt5WEhoRkNqLUhlUGJ3R2tjdnU3b2ZNWUhTeWpUNHJPRjV6N09SVjJsMzN2UnNJYzlzeTY0OFdtSURGS1lWRjRfZGJ1bmNwU3E0dkpvR0VkX0JtWWlkVVA5UGVQRmVWeTR0ZGxqbFRzdkd2TTJjVTVIejZWai1ldmVQRmQxTDdJSEhoeGxpT2dpQlUzQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-01 03:37*
+- **[Chile Copper Output at Nine-Year Low Adds to Supply Concerns - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUxvUzdTS0ZGMG9nei1qR1R4TGR1RkROaEpUZ21pNU9hamNrYkZRaklQYmxzWmJPZ2ZVOUJOcGZvSWxlZE81VkR6MWdWM2YtTnJjaVk4NTQ1SXZIY3U1ZHNnSUNGT3RfY3ViUEh2VHhLREFpVzFZQ2d1d2VDT0hIajV5S09VWENjZkQ1NjRJNXFrMk92X1lVZ3NjeU4zTS1ZREpialh6NldSamlHLVVJRTVfdUU?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-03-31 18:32*
+- **[Super Copper Appoints Andrés Encina as Country Manager, Chile – Company Announcement - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEQzSTdsbXJHSmFWcXhDckgwV2RwbHhKWFNfMHNZSi13SXRHUzFZMS1qWVdoaVB0M1FjWUFrdDFVRXFwMUdYZWxGMC1UTnBfdXJ3eG5ia05zakgtWlowM0szSUJHRDNTODVJWGFlTE0zM212djFsQjJPc3VWVHBTSWx0a3UtQkhLd1NCRmV2MHd4eVo3OFE?oc=5)**
+  - *Source: Financial Times | Date: 2026-03-31 13:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-03-31 07:07)
 
 - **[Glencore, Canada Near Deal to Save Threatened Copper Facility - Bloomberg](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdHIwdkZ6NWdfU2tQWnNmSElfNzAtQng4UkJweTZ2aUZHdnI3aURFQkM1WDlIQW5tSTI1TklKeUxIcjVXcThrbTdiS29NRVg1eHpHRzJjUW9YemFvZmtTWFpoajNsWFFzZlJXbmdxWWdOZ1d0ZERENTlVQ1FIMFZZaFYyQWJ6TlZYVGN4TUphV0NTZG9HQ05ieThoODJIcnVrWjZ3bTVRTG9DOU1JUVB5cWJaTi05UHJablVNdHZpeFUzN1k?oc=5)**
