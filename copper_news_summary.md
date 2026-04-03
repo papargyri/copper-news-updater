@@ -7,6 +7,24 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-03 07:03)
+
+- **[Trump cuts US duty rates on steel, aluminum and copper derivative products - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5)**
+  - *Source: Reuters | Date: 2026-04-02 20:34*
+- **[Market Outlook: Copper rises as tensions ease and supply stays tight - BNN Bloomberg](https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ1h1ZWxMS0FQMExENnZDclRGR3BjeFN4ejRlcEJkaWo2VkhyNTlEQXltNjJYWVczNWdUdmNhVGNmdFpOa0dqREFQU3d4STYyV045dERacUlmSkJ3UUNiYnh4SXVibUJ2d2VjbzlHblhCWm1lX2JtQ0VIX1hsMUdudHZpbk9FWEZlZ0FsUG9HN2pwMFdYWm9XNTd5UFN2NmNjc1dkNzBIcFAzQmJEd3pGNk5ERVdFeFZ5QVlaV3pHdUQ1VVpaUzlCaTRQY0Q?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-04-02 20:24*
+- **[Trump Restructures Broad Metals Tariffs But Keeps 50% Rate - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3c0b0VHTkR5YVBQY2FKclE2akRJTFUwa0xXX28xdElPTmtZWDVtMlVLVXBWNS01dE5vd0tnU2djRWF0RXVsOHhmQVlTR3BQMm1VTnY1SFhEbjhGcmNUUWkzWlBTX3Bpa21sUzNYOS1wTUQ5WXVaYlJpMXctUk9Vemc4WGlMem55enZXNUlHWHNhV3dPZlNBSUIxNE1kR3c3XzJzWmVNanppcHZtZXN1RTZn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-02 19:40*
+- **[China remains crucial driver for copper market - BNN Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDFaRlRxc2JXM0JyU0wwNFhZX2pjdS12QlpSSlFTTEhvNVJwLUJ5eWlLM2RLTFg3X0RUS2lhTDZEN1J2NW9MLU52bXh6WkdPRXVGVEUwXzFZSVhrVmpJa3hNanJFZlJJRndIbkNkOVZKWmNBck1CMnRlb0wzUE1DR1RTLTRiUjdiN2UwOVBlcWJYaE5LQnpSWTZ5YWR6Zlc1S3lkS0huR1luY0MzTlliRnItb24?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-04-02 16:06*
+- **[LME traders were pricing the wrong metal supply crisis - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFllYjhyLS1iaWxGU3lFUC0tQzdHZlh4SEhOQWpyOWhZMUNGaU1TUzdhc3p5bTdKbGN3RmZLa3BFb0tYMTlrN2JYVUVXS1h3OWx2MTlsblhBWm50UHRZa25rOXFUU2Y5VlRNWkUzdmNBcE5BUjZ4bnk0NGM5eDhmMkZmWUE1eTREUUI4cVJxRm16N1Fzd0tYT2JOYnROaVNJTk15MU5oYkluUQ?oc=5)**
+  - *Source: Reuters | Date: 2026-04-02 14:40*
+- **[Chinese Copper Miners Join $1.2 Billion African Railway Revamp - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlR0QnJfYWFCV1ZqbUVrNWRGeEE5WDZqclFRNDVGOXo3SzhNT1NsN2RTY2kxaVNRbGxMS3l6dDlIUlQzTUxsZHFrVHF5aGN1Yk1EYVF3c2hJTHVrcmdPdEFIT194ZGVrSWZENUIwXzVuTy1oRUZNZTZrMkRyTXk5bGVBdkVqZ01IRUJ2V3QyQUhnQmJZUmRaQldNVEtkZjNzTUZZRy1NOVFCWVZCTW1tbVZR?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-02 09:15*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-01 07:15)
 
 - **[Copper Rises as Trump Floats Timeline for US to End Iran Attacks - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcThKejQxY29BTVRVWXBXNUc4NGRVdGxacHZmaGVZdlJtSUt5WEhoRkNqLUhlUGJ3R2tjdnU3b2ZNWUhTeWpUNHJPRjV6N09SVjJsMzN2UnNJYzlzeTY0OFdtSURGS1lWRjRfZGJ1bmNwU3E0dkpvR0VkX0JtWWlkVVA5UGVQRmVWeTR0ZGxqbFRzdkd2TTJjVTVIejZWai1ldmVQRmQxTDdJSEhoeGxpT2dpQlUzQQ?oc=5)**

@@ -7582,5 +7582,144 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-03": {
+        "price_usd": null,
+        "premium_count": 6,
+        "global_count": 22,
+        "articles": [
+            {
+                "title": "Freeport-McMoRan started buy at Goldman as copper-gold leverage drives margin expansion - msn.com",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWnUzenppQnNvR2J4c2hCc2JobHhBX1B1X09UTVFCdWpCVDBrekZFeTRfUy1Gcm9sdlRPWExkMS1kVWFjOVpRMDNfbmJCcXFzLU44WU1ETTRGQ2doM0JfOUUwMFR6bFhFRkpzRTZEemM4RWVORUl1ZHRwSnd4WFdzMWZ0eTNjSk10eWdvc3VQbUNvY3dKTnU4OUIxVHBiUHU4S1FRUkI5Tkt0X1d2aG5NSXZ3MnpOWmVMLWpBajVOd3pmTXJjTHJJdmxSMkVHNXNJeGRKNkJtUnk5TWFkeHZocUdaSDJlNVFXRjhpOTNFRmJUdUVDaFVLZg?oc=5",
+                "source": "msn.com",
+                "is_premium": false
+            },
+            {
+                "title": "KGHM Chile Mine Contract Agreement Secures Labor Stability - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcng4MzQ0VDk1YzdhUE1qLXJ2R2hVMFNxZUVZWktRRXB3RjlZMjdWWXFxRzlaeWpTRDVBRVJTT1UzQzU1UV80Um8zZVRjbTVLRjNWNHAxNGd6dk9LaGQ2NV9ON0JiMXFQeHJ2Z0hMNWRUU3paU0k4bkVuV3Z6X0RLYUpwZw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Sulphur Price Surge Hits Indonesia Nickel Africa Copper - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qS0JSOU9MQVYwalE3VkF5M3hidjRnYW5zaVVNNG4tMEhsYjdkMzdUbUFCbUZlTEVIM21yUDBVRVkzSHZaalNUcXN3VWdxN3liUmZEenBsbVgtTkt5STZUbDFROGFRU1BUSktoVEZHQmc0OTAtaXNF?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Barrick warns of \u201csignificant increases\u201d to budget, timeline for Pakistan copper project - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmF0bHJFdXA1bm9OMTE0NmtUTG1TSURJanpETmpub042eDljMHRkdnhHMUtHZkQ0YXMtaUJzQTJwWE4xRFhhS0RBQV9hbURuRVVHTW80aURpdFhxYksxQzM2c0xzMV9aNExqN3dQSVdFVmU0WXVFc2o1eGNyM2plUDVsUWVEMXNjS3BROTJSdlNfVUNCNEZqTkxaVzJKanU5UUd3X2NDYmlKazFjRFE?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Trump cuts US duty rates on steel, aluminium and copper derivative products - The Straits Times",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ19lVFUtVElQVjVSdjkyNnRMZFlpQkktUmtxSjlkT3U1bjQySWY3cGhSRG5BdEtrR093QkpYN1VFYThYVnVDZ1NyNHo1OVU3Q2NfMENya1FRNDdZd09CSnN6bi0tYUJjMFJ1Vy1RNmpiRThCYVV4MVFCLU5JNVFyZVBZOXB3dWRLVE5yZS1FbXFUTHhRd09jV3IzLUlJM0ZpbWhvUWFFSENKUEMwaXlNVzBrMkpTMFJEb3BIckdfazQ?oc=5",
+                "source": "The Straits Times",
+                "is_premium": false
+            },
+            {
+                "title": "Cerrado battles Portugal over stalled copper-zinc project - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVk9VcWtXZFhHMEFNTFNTLVhiS3FPZWFrNk11TkhKWXdoYklzSlNPdWpLTGxTdU1Pc0dJZjhBUG0xbjhHeWxMMjVYbXBidGdVeU41VDN1QXVfbVhtenE3aUFSNU1SdGFHYjdGY3NkQXI3dlAyOGlQR1RYdkJCNHRTbzhqelJWV1U0?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Trump cuts US duty rates on steel, aluminum and copper derivative products - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Market Outlook: Copper rises as tensions ease and supply stays tight - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ1h1ZWxMS0FQMExENnZDclRGR3BjeFN4ejRlcEJkaWo2VkhyNTlEQXltNjJYWVczNWdUdmNhVGNmdFpOa0dqREFQU3d4STYyV045dERacUlmSkJ3UUNiYnh4SXVibUJ2d2VjbzlHblhCWm1lX2JtQ0VIX1hsMUdudHZpbk9FWEZlZ0FsUG9HN2pwMFdYWm9XNTd5UFN2NmNjc1dkNzBIcFAzQmJEd3pGNk5ERVdFeFZ5QVlaV3pHdUQ1VVpaUzlCaTRQY0Q?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Trump Restructures Broad Metals Tariffs But Keeps 50% Rate - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3c0b0VHTkR5YVBQY2FKclE2akRJTFUwa0xXX28xdElPTmtZWDVtMlVLVXBWNS01dE5vd0tnU2djRWF0RXVsOHhmQVlTR3BQMm1VTnY1SFhEbjhGcmNUUWkzWlBTX3Bpa21sUzNYOS1wTUQ5WXVaYlJpMXctUk9Vemc4WGlMem55enZXNUlHWHNhV3dPZlNBSUIxNE1kR3c3XzJzWmVNanppcHZtZXN1RTZn?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Eldorado Gold and Foran Mining Press Investors to Approve Growth-Focused Acquisition Deal - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNGxqaHBRMmFEdkowMGdySy1Wa0RnZGs5dGxRajgzS19vOWtiZGwxSDg2VUhrTmFaQ1dMRDZ1WmRnWm9ySy1mY0tXVG1EbUFuR2REWlBDU3RZMVRBOEoxbk02dWdQbzU0cThHQXpVZnJYQ29TRUFzWHZ3Uy1pR0haWlMwRGh0SlJYS0tJZmhLenhmTFVTYWxOT2JzU2JiYlk0akQ2bVhqOFNpaXI0eEc0bmNob2FWczktMHQ5REN4aF84QWUybmxySkhQczh5MGVIZm81bi1Hc3FzbWtMQXM5cFR6SDgtNlBNcnJ6dldtcFp5cTd5eFZlOXZfd1psdzA?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Hindustan Copper reports 9% growth in FY26 metal output, ore production climbs 6% - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHV5a0hDNE9DZnhUeXM4VG1NWmNCeEFxc1FOWElPLUp6TW9FYUI1YTVTQUpjNFMzSHJrWThqQnQ3TWY0a0JQdVQ5TjF4Q2lSRlB1NXQwa0tId1ZiSWk3ZDIxLUJuUU5nWVlUZ0ZUcXNBaS1OeUJJbC1yYzl6bllSR2o0Z3JyMVRVa3k3ZW5xR0VaUDZtdzh2NkVKT0NMS2hmSElUU3lvUklEdS1mVlNlT1dSZUYzVENhanBoRzBxajl6ZVlVNDRxUXI3ZlhtbG_SAdQBQVVfeXFMT0pHa0RCbWpWbmkwLUhMeTEtbTU1VUZvcTZ1SWduR2dHQkNjWlExQW9KWlBVcFhGSUFoOWpZZW5scXRTcFo4RGdJc0xDYmhLSTdpZlRwQy0xTFNqaXJqdHM2c0dQd1hVZ1l5QzhBSVdTaGpmejU0eEpTUlpQaklUSGw4TzkySWxuQzFsUU8xcmVNeXJjd0pUTjFMdk9Bekw3S2prZjNublJyZEg4cFNEVmthY1ZLTDZlX0Q2MmplMnd0SktpYWM5OXM4SDg3RHB0ek9KTzI?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Datavault AI (NASDAQ: DVLT) Launches $100M Copper Tokenization Initiative With Coppercore - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWXZwb1RFVEczSmdXaTFmUlI1VFVwa0MzTkFxTU1xME50bGtZRGZLc3Nsc2VxdHNDUmVWamhDWUNyTlQ0WG1CSWdQQmhZU3Zrbm9DalllNTg4Ym5rMlZoYWRBOVhVNE5Fc0F4djZpcWlnVkVac2VWalJqSUkwcW05RENNckxkcVk1YllZMzl0OUJuZUR4Ylhnb3Y3MDJtaG9vY0tsMUw3VllnVFhKaEFULXlGMUFGLUo0TlhmbmRnUVlNZXUyd3RWNkUxeW5ycktnNHBaRUJZenpqRmo3d2xZYzdVWHFaSk5uSXo5UTJBRlNaRnZrYXdaVEl3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "China remains crucial driver for copper market - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDFaRlRxc2JXM0JyU0wwNFhZX2pjdS12QlpSSlFTTEhvNVJwLUJ5eWlLM2RLTFg3X0RUS2lhTDZEN1J2NW9MLU52bXh6WkdPRXVGVEUwXzFZSVhrVmpJa3hNanJFZlJJRndIbkNkOVZKWmNBck1CMnRlb0wzUE1DR1RTLTRiUjdiN2UwOVBlcWJYaE5LQnpSWTZ5YWR6Zlc1S3lkS0huR1luY0MzTlliRnItb24?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "KGHM mine in Chile reaches early contract agreement with unions - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkdKSk9EWS1WUTZva3FYZjZ3akNyVG9iYmRUd2ZKc1c3TkNUeXdMSnNQMEJmdlpRbXFib2NQdEI3RzdMbDJoN3Y0eFpKOGJwNFBNWnBHQjItdmJMb3U4dHZ5bmZrWXVzcXI4aEVxcGpZNDF0Ml91b2luSGVlOTJsLUlpZkRaeGNaQUNueW9WM3dmNE5aZ01YMmJCOGE4dTJhN0FSQlZ3SzkyMDQ?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "LME traders were pricing the wrong metal supply crisis - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFllYjhyLS1iaWxGU3lFUC0tQzdHZlh4SEhOQWpyOWhZMUNGaU1TUzdhc3p5bTdKbGN3RmZLa3BFb0tYMTlrN2JYVUVXS1h3OWx2MTlsblhBWm50UHRZa25rOXFUU2Y5VlRNWkUzdmNBcE5BUjZ4bnk0NGM5eDhmMkZmWUE1eTREUUI4cVJxRm16N1Fzd0tYT2JOYnROaVNJTk15MU5oYkluUQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Wheaton lands $4.3B BHP silver stream - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGJfaXdOYzNPWXZRbEpzTjQ3alRDRUNBNTBJQk9rQkxwVkxXQnRuSHJVS1J2YTVDNC02ZTk1ZWN2aS1MNE5yZ3dLSnlLUTN0N3FKWXQyM2NnUDExVFJGMmE5SDNoWXhhZ2xuZ0ZOYnRkUVBaLVZicENNQlFYdWlsSmx0V1BUdDN2em5F?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Record-setting sulphur rally squeezes Indonesia nickel makers, Africa copper miners - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUnhmZHVfdnAtOW9zNTFSZTY0MHpzcEg5RTdCOHQ0U0hkcEotX2dHaDU5Nzl0ektQUTBkLXVDc0daR24zWDRhQm1IUGdhcV9xeFpLLTFvQzREaF9EMl9MZE5QNXpHNldXZnZFUE5RNkEwYUxNTzJscjMzbUxYSW83Nzh6ZWtNcGcxcGNYaXZ5M1FZbnJ5QkxhTkg0LXhxZUNWMVhmY0NjSGV2bUVxb00w?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Red Metal Initiates IP Survey on its Carrizal Copper-Gold-Cobalt Project - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlk5M2hhYk9xYzdrSko2eEdXeEUyemZYSURLUERJOHdvSlJBeGlwa2FqQlRsa2RXOWE3S1I3U21qRjl0dmt2Y1ZlakxMcmlPTC1PLWxINlN5VU0xTlVUczJpZklyaWg2RGl0N2VJeUR0cGExT1lQUk92Tnk4UmZMRENGakRaOUxXRy01Q0puVGhoV0t1UldaNGVuLVFwcDBENTZpbGxISEpVZFBBV2xpT2ViRjg5VnFGOVRtT08wNEtNa2pPc3pOX3RpY3kwa0dwTVIyZDlTX0wzZWh6MjE1aVBBQTBUa1Vo?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Chinese Copper Miners Join $1.2 Billion African Railway Revamp - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlR0QnJfYWFCV1ZqbUVrNWRGeEE5WDZqclFRNDVGOXo3SzhNT1NsN2RTY2kxaVNRbGxMS3l6dDlIUlQzTUxsZHFrVHF5aGN1Yk1EYVF3c2hJTHVrcmdPdEFIT194ZGVrSWZENUIwXzVuTy1oRUZNZTZrMkRyTXk5bGVBdkVqZ01IRUJ2V3QyQUhnQmJZUmRaQldNVEtkZjNzTUZZRy1NOVFCWVZCTW1tbVZR?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price surge drives quarterly lead frame price hikes - digitimes",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONEpXdlQwQ0dtZGZFR0d4eDB3bjFBR1F2VDRSUDU4djZUbmpFWkNHWk9KNnJCMzh5bFVPSjAtT3JjX0dZTmNVNjdLU2pjc3dmUzR2a0pxcFpXTEd2c0pkN3lhSHJ1THVsRE9uLTBMVGduRmtWazU0VzN6VHBWSFFqeHlaLWJaaEFCZ0NR?oc=5",
+                "source": "digitimes",
+                "is_premium": false
+            },
+            {
+                "title": "New Technical Report Defines Large Copper System With Expansion Potential - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFJoeDBuVmdLSDVRbXExVV9GOUtxcjFoQ0wtNVVBbUUxaDJOSE1PaTN5b3FVdWN6bXFYYTNOTk9WclJSRzNSU1NsVGN2QW5JSTN4Q0dTeVVKa05sZ2FBUER1OUxzWktHVTV1Vm05N0QxdXowV0xWZXExaXZ4aUNQUkJHa2VzdHJoRU44eWpacWE4TXl5MXNFREp2M080X0RYREg3c1BIbHg4dTlndnl2a0N0RXA5UVdFSktmekdwaXFfSVdmejgxTFhhYw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk First Nation 'moving things along' since purchase of copper miner - msn.com",
+                "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdFpSQWVhRlA0aGQzcFBtNGJSUWVhRENfTHI4TW4zT0RyQ20zS0NNa25QOGNvZGdhTlRVZ3V2enhTTlBVQU1CTWlGckxDSXVCY2stTkI0RTMyeWdZSFRLNTJoUjFxdDBvYzBGSHpneTlVVXVQMy1mMGFnZ0M0bXFzM3Q5RXM4dVpfM1FiTTEzanRDTDlfYTlhemxUbDlOZHpHdEhxd2NfdTRmVXhjaHV1MTA4S2dzTVVRMkREazljS1VHemphN3dMQXZTdHZvZFR3NHJ6eFFVcTZEeG9OU0FvOHJ1ejdfMXVvelpvNEtIYzBQX0s2cW9NS1NhdE9HTjZUWkx0TzJUTFRvS0oydHdFUEFMM0gzQQ?oc=5",
+                "source": "msn.com",
+                "is_premium": false
+            }
+        ]
     }
 }
