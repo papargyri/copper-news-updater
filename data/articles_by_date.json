@@ -7721,5 +7721,48 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-04": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 6,
+        "articles": [
+            {
+                "title": "Where is the economy headed? Copper offers a clue. - MSN",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSEVSXzg1QXU1cXpCTktuZENZQ1hhRGtvU081eGVTSUtmd0Ezc1Z4TGlrV3BiMHlNR1hqcDMtTGVWejJGOUNuRmFpbC1XZzU0eTRaaGdFdUdOaFdmdFBUcGtnU0tnSWFuMmo0eTJ3XzJXVTFHQXpmMzVYYU5ES1UwUkNCbGg2NFptT3FRTTlDRlZtYmZFRjY4V01LT0JhRFlJT1daWEFuc2FTd0NlSFN3dVpQd2RYOWNFVi14TzJqYlRFN09f?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Northern Lights Sells Nevada Royalty to Fund Core Copper and Gold Projects - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ1ppbDdkWExLSDJ3dld1dFExeTBkMWVOenNLM1A4MGZPbDlNZUNVSkozMVVpQ1dSejlYYkdBN0FDN3BFNVlxM19WZi1YQjFReXVQQzRndnRGcm9YUFdfVUtyUWJhT0o2dWp3d0QwNll6T2h3OVFZOXB6elBYNkpERm5sUi1aRWNnaVUtbXl2UENaUGRIdzFjWmo3NFB1Y1pCNFpvSVFCV2EtSUFGcG9QSnRqb0xFM09WOV9raFdFaW1aU1lHY1lKWFRzd1NKV2Z2ZThPeEotY1Ezb3NraDN5djBVd3dWci1sNFRz?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Nine Mile Metals Reports High-Grade Copper-Equivalent Intercepts at Wedge Mine - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaVRDR0kxbUJqcHlseUl2X1Y4WUgtQ3RoMG1EajFZai1tLXBwRjJGUl9wWklEcjBud2U3dS00MUg5UFlXTW5qVm5nVEhZbUhhRkY5eUJTUk5vMGpfV1p3QnJnWWxtMzhqSk02Q0VZWXhINTV0dnhNQ1dwYkxRMXMtSjZzOGllVzg3UjFOelhUckFobEVpd0YxUXhNdG1Zbml6WmEtRXFjUkpadnBweG5GWXM4bERJZk9vYTVsQ09zdUZ6eWZINUE3SGs0SU5FaS13NnMyblFKME54ZmdaZVN3cEg1WmI3anRrX2FFajd0enM?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore Talks On Horne Smelter Test Copper Growth And ESG Story - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmtIRmVkN19yZjVJSHJ4M0pnbHZNTHhCZkt3ZGVnc0E5OTI2ZS1NaTk2T0NwMmJXdUNVaWhlQWtDajg1bER1Y1pJN0dKNFdnS1ZVaTZFZUlIYS1vSy1tUWg4bmR3V0lIV0pFN1pnSW81NkF0elRVYnllQ3JrZ2M2MDlTZGIxM2djWW5WTFJQS3pWTkxzU0kxUjM3dW9wVVVKTE83NzV3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "'Metals of the future': copper and silver flow beneath Poland's surface - France 24",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR19IMmk0Z0ktdlA4RkwtLUNGNWdnT3RNdXZsSDl2QkJ0c2Z6R0RWdEhkM1o4ZnQxcUpWQ0N1bWRmSVVtMEFuZFZtNGdLVThNYTVYNDlxWHpuVTdGWTI3Ni1ibFdCVWtvOWVaajZMSjRtOUVtSS1DR1FSR3FHWFV4azNMRnZ3d2RzSlhZZEh2d3RoTm9sZ0FjcmtQS3FHNW1iU29JU0lYSkZ6MWJDQzJEOGRNeDNmdw?oc=5",
+                "source": "France 24",
+                "is_premium": false
+            },
+            {
+                "title": "Copper miners face energy delivery, supply chain uncertainty - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFlyVFhmLW9PbmhJVTBZdFlXUEU0Z2dWbjNlVUhiZEwwRml2dEM5VGlHSnJGZnRCWF8yaHZsc1BLRFlDLWxjOFpyYVpWQWw3cE94bFJfU0dPWXZLLVVzREtRajB0RFl1MXYwTWhVbENnVUp6Wmw0ZkVIOUNROWt6ZXJwZ1dPQXp3dHJ1ZEo4WG5LcnZXVXAxSTZxUjNBYVZhOVd1QVhlQlliVXpueVA2QVNsaEJaMHly?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            }
+        ]
     }
 }
