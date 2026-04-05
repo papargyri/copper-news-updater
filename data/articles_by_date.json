@@ -7764,5 +7764,66 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-05": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 9,
+        "articles": [
+            {
+                "title": "Copper Miners ETF Is Showing Why You Need to Tread with Caution - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnJCTWdHekFFMFZQbnQ4SFM3YVBuVzc2Z210VEJLNm9LdjhmaTM1aWl4WVFSSTdQdjNHTzRlSW1ySk9GTEFyY083UzRNWXY3d19oZ1k2YlBBYnlhWXkyYVBNY1U5NDYtV0lDem91RTlpN0ZocTNNeHdvbjVhVVpnLUZZQ3hTcGt1S0VLV3NndXU5YndDOTZRSQ?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Miners ETF Is Showing Why You Need to Tread with Caution - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNHRwMzJaSEVKWHF1UTJqZi1iVVZtUUJPZWlZRUZJMU9USWZRSHAyOXlCT0N4RERaQy13T25tRE5sbFczTFZuMnd5Mk9RcS1zLXhCXy1heTFmTGUtWVFqemE5cHJKY05VMHR4RTJCcHBsNTJCN1JiVVdPZDBNRTE2cVBvVm1FV283bW5qRmtrX2tfZ20ya21jSUZ0dzlQamsxZGh1UmZlb0FUejUxU2taUzNvVzB5QlRTc2RTU0N5bVR3MlZmVTFZM2sxeGpfQTY1d21NajJoUVpvdw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Miners ETF Is Showing Why You Need to Tread with Caution - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeFFkZGxsVTM5ck81MlNqQjBfQVgzWjA2QnF4Y0x0NlllZ3hyQzV2US1TZjlKZUtsNEFuLWNKREdHd2czaEt4RDE5d0xhUlA4ci1oUGljSGtzS1BQLUdDQVJPZnFHOTVhYmRYWjFLWTlYcnFSWG5NbG1VcHQ3SEVaal9HYll2Si1JTnRTVVRtekZ5MkNtbDBITXp2VmFuZ2Q2?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "CPER returned 138% over 10 years, but copper miners left it in the dust - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQWlibjVGMnJzS25jcDN4MHVqdjRHRkZZanFadjY2RV9teGZUYmN3TkRfb0hkX2w1LVR6N3prWlVWQVlCMnd3SWZhQ2J1blpZRDYwbjJDNDlYbWV4MVhVZ1lWSThmSURiMkZfdVhOc3J0djZXWlJiNkRuVXVDY1NTanIzMW5NYWNUVFdsZ2x1RXZLcnRtRHBpdjNqV1JwMDZpWm50aTZKdUlsbWUzMkpxeFRydTQyRDMydWhVU2ROcVZhREM1UlBpUE15a0JPX3F5RnpzZFdRZEhGekVYaVE?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Top 50 mining companies power through Iran war \u2013 up $250 billion in 2026 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOajZRNzBmaVJObXl3dmJCU3FaX0dSb0tfM0s3U19BUDdzcE5aU0FkVUhDUm9SX1BLVElwbEFBa05zWWozVG1Rc1ZzU2JzOHh2dG1VdHBXYlhkUDBDZEtRdWR3MEJNN2ZMeHdBZGI3b2I0dUw3dEhsZHFaczltRWZ2b2UtT2E1ak5BSDlvdjZBNGlld3pfendYRA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "A Look At Ero Copper (TSX:ERO) Valuation After Recent Share Price Momentum - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNl94ejI5aU80eEpVS1Z6VmZjUEJTa3pTNm1tVU96eWxBd0hhaXBqdy16dkIyVEtvVmVUcW15a1VSUlBRNDFQOVE0V3pIajFkWDBrdEFtMVlsNUZzYmlyQUR4Rks0MTNsN2xrSDNNS1FiQXZjd2xZTUZFZE8tVW0yeVluRzl5SzU0LVhidEJiM081Zw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-Aluminum Divergence Unveils The Complex Iran War Impact - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHJybmllU1JxYzg0M25sWTZfSDd6Q3BzRlZiZ3ZDdC14d3NENHFSLUZiMjZUc2htRHpldzJYNmdyM2hiVGRxNWFCaGV6LVJyUkRvTFk5akIwc1hPYjJpNnZnYldGbDhxRnEtQmh5Tm9zSEpONlpiT2RUWGVoa1RUMlBHdDNsQUNvT19yQnRJa3ZGR2hRR0IxdUxubDZHTV9sRzl5OWtvNzgtOHhvU0RFUmNn?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Atex Resources Valeriano Copper Discovery Reaches 2 Billion Tonnes - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzRqblRhLTg1bkxxZDc4M2MxTzlQbjVyMDZGVnBSWEhOZVVSTjVaYkdDQkxaMXFsVWlQdjBQUHhrZ2x1cjhsZVJSc1pRQWx2NGVidzhJSHJfeUw2bXpiT0dHbjRfNnFDX0VlelpzNHpxanBQZFJETE13OUJNVmJmOFUtTUhGQQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Dollar Breaks Down Copper Tests Opportunity Reversal - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50NWpDYnpDZGNyZThfbFNWd3JkTzNCc29aUWRHZkU3Ml9ZNzBxZ1pncTBIMllSY2t5V0MySGRGZ3NLMWdobF9ucVdLY1hVSE1ORTJhSkR1elhfYWtPSGZ4VzF3LXdBS1dvQlhTZGJpc2xJd0RsSl9URU9fUmljdw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            }
+        ]
     }
 }
