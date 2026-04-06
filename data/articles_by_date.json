@@ -7825,5 +7825,18 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-06": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 1,
+        "articles": [
+            {
+                "title": "In the DRC, a US company secures a 'huge' deal by acquiring copper and cobalt mines - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRW1iZXotWE1uYTJ0VHR1ME1qcmJVbUd2Nk1JTkZ2Y25icjRlc25qZ2ZOLVI0QmIya2hRYW9EeDVXUG1Nb2RrOGJ6VTJxWmVfUXF4SG1fQzlLWWsyX210ZXVjQ0FzSUJMdWI0Tk5iYUZQUjdvVHdlVkd5MVkzR1hzbXlrT0ZIN1J5aUFBUnJMRlJNUFI5Z3Axd2NDb3dKQnNiOE85RHR2TmFWN2dGeUpVSUNxT096YV9TWEEtSEdkUjlqa254SHByeXJTT1BFeGVUdXhwNHRmT2V0aS1vSW9EcmtCRGhRZFl3T3JaX1AtR21PVmJsaFFQc0RQLU5yY1pheVR5YWpfeW0xZE9ISkxpLQ?oc=5",
+                "source": "Le Monde.fr",
+                "is_premium": false
+            }
+        ]
     }
 }
