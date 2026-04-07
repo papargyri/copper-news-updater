@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-07 07:10)
+
+- **[Goldman Warns on Copper as Iran War Threatens Global Economy - bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbU1fYlZQbmU5enI4ZjJvaFEzRUtlTUdNd1dMS3c0SnZhWkNHNGkyeWJzRHdvWUVkOVhLZFhxeDA4NHNjczlwTUhSQV9WaVhhQnNUdW83OUVCUUllSDNVVWRmRUhHRW5CRDM1YXd0amtpMjlhcjUtYS1mRTB1Y205MjBtUkJ6c1VDMGRVUG9nbVdxUkJTMHZKT0M2RzAtU2xxc2s1QlpGNW9qVnVBSUpOMA?oc=5)**
+  - *Source: bloomberg.com | Date: 2026-04-07 03:29*
+- **[Panama to authorize First Quantum to remove ore from closed copper mine - reuters.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDhSRTdMS2MtWG5UVm5RSXMtamhEM3RRNG9ZUHRCSXE1VUpTcUhPNnJEYWxPd0REelhNdkllMm1FbXFSODRhZE1lZWltTmhHSU42WHAzaWY1QVk3d0lob3E4dl91elRTQWpQSnNyZWJkeU44Y09NSlJtdl9NTUNQdWw0VlBQZVc3LXIwZVk0VExLaDlaMmJGd3BscTQ5RGNialRqTjljWlB5eTJ3ekp6eVBn?oc=5)**
+  - *Source: reuters.com | Date: 2026-04-06 20:56*
+- **[Hot Picks: Materials stocks gain on metals rally outlook - BNN Bloomberg](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVlpbFdlSFJKU05rSTQ0M2hIX2pjdEdWM2NmM0trR3ZDYnl6Z3JkWkw3dUlCQTR5VTNYWEdkbThCMG8xMnFGVHBZMWp5VGtLenNQUUIzTmU1aGJvLU9WQVQtUkt0QmozOC1rT1k4R2JKTl9ic2txcG9SYnBxYXpwNFlXZGZPeDhxVnBaR1NjR2piT1pSN09UbnJaRkNXT1d3MGtMYnVJOUFBWlFlQ0RWd3FTYVR0UQ?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-04-06 18:47*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-03 07:03)
 
 - **[Trump cuts US duty rates on steel, aluminum and copper derivative products - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5)**
