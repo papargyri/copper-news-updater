@@ -7971,5 +7971,204 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-08": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 32,
+        "articles": [
+            {
+                "title": "Why surging ASX 200 copper stocks like Sandfire and BHP shares are \u2018vulnerable\u2019 - The Motley Fool Australia",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmw0UTFEek4xdGlpUFFpdnhGc0xCekJqZnQ5cGJ4aU53SHBncThZNjg5V3RMR0tONTRBVGFJSHRUTWIwUHotQU1DM3dSQWJTbXpMOWE5bGFrWU5obnAzQjk5UjROTkNDS05VaHBvS2syY00zY2ZPbHBQMFFEbGJ4R2pkbHZoQnRRX1ViZEYtQnNpV3JpcEkxbXM5dzc2RzBBeUpVUTlXUjh2SnJWVTNnbUxKdw?oc=5",
+                "source": "The Motley Fool Australia",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum says Panama government approves removal of stockpiled ore at Cobre mine - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUI1aUc5RlhRckVoREVSMXZkWldRNlRIRnpwN210R0lJQnllWDJiRVVSaldRdnBnWXF5TnVSTzJ5Q2lFakl5QWtRckpkS3JjRHVSbS1NRVZCS2pwMzZLWFNnQUplRXhnaXlSSFgxWEp6MUFrVFlFUWlMU1VTYkhTd0JmU25zMTMtbFFMSVVJbHo4UXJ6dW9NNGxTVHZMOC15RkxTVnNkN0dhRGYzTXo5VmpDT2lKXzV1NGJWVDNhZW51WHI2YWctSDB4REpxUDYtMW5uNTgzVQ?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "White House Backs Highland Copper for Local Supply Chain - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWZSZFhyRmZOdld1cE9LNGVlNVpocjc2cEVwVVZmaDA0VDV6NUlBZVdqNkhnRzd4TzBaeVRwSmgzZzQxRExvUE5iVVJCRzJUREJrYWhIaUpoVUY2Z21tc3dXeDVBYUFCOS1KVU5DVUNrd3V1WlE1OXBKdDNjS2Zod2o3dG1LUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Japanese Copper Smelters H1 Output Rise 3.3% - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXdDNzlKNmZzaktUR2lTT1JldmNSMEZ1WVlJem9XXzN2Mlpvd2NSNnRBUW1lZUJTUlNJMnlkRFVvMzFocXdERUhKNVVwNkhTaEkzME1EMll0Y2w5QjBlQTNrMEFEZWFOSmx1dHBneEdRdHVwMTloMEZ0RmQxSkZWcHFzaF9TUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla Drilling Extends Poplar Copper System in B.C. - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0FKeHBkbTdFTXhmWEEyY1Nhb05fdVp3NGpYa1k3cTlBaldjTWl0NVlqZXdCYkFEZlRtc1RyeTMzSGhHXzdwS1RtbUUteldqYmZYY0pLYm1ocGhFbUJvZUdJOUhyVm5qcTVoc2VMaXMybkpZVjRGZ3dBMUJDV3ZSWE9uUndHZzZIckxDX0VvV2g?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Taseko Mines Conference: Florence Copper Starts Output as Gibraltar Rebounds and Deleveraging Plan Takes Shape - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUFnY05SRjNZbHE2Y0xHVG1KLTM5ZzdEVGR4UzFSME14YVIzdHBiQkFkOWNTUWwxRGpkN1l5SEZIYU44LTdNelpkNk8xWmFHT0IyQTRjbndOc1JKYk5GdEk1cDhrQS1mekVrbUctQXhuYVhFaTZmYkphWG5LOVVJTk9HSllXVjFRZ24wdjhZSWhkbFpUYmxaZzNzZ2F2Q2Z6Z2lXTVBtZFFhQlJQLUE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Panama Authorizes First Quantum Copper Mine Material Removal - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXp1QnVJUlVDUURqdXcwY0I4SjVxVUNneFFlaGhNRHFtbFFjVG00YnNiaFdlTFJsN1RBX0xjV0VQNVlkZ0tEYzU3N0FuTG15OGxPbi1WMS05bmZ4d25EdXRjcWhIRWMzUmZ3Z2FJMndleE9xeC05T3lpS2lNZEpkOWJXZktVZw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGVwM19WallRaUFad1NhZDVHUF82eEEwc2p4SkZBS0l6V3kyZ0lSSW9Dd0hKRGVTcFNlYjF0U0EtRDF5R1RURk1NWGNKc1VEQjdBWkhqTmZhRnAtWVJzYUJDY0IwN09PUXJ6VXlqQWFwSkFNY2hXQkcxSHc3OE42MzZaNlk1TTJGOHoxci1mUEhSR2h2dm5rWlhPVjR4UQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Panama authorizes First Quantum to process stockpiled material from shuttered copper mine - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0JUUUc5WWNlY3ZTN19NVEhJNk1MQXdFODNOeWh4R0tlWmN0c010VF9uYnd4RlpLdDhqeEFmVGJmbGdlYjBadmJZbGZ1R1UyQ2RjQm8zbTVJV05ZM0J2YlZYY1RXcE5Odzl3UHE5YTlYWDY4bmFZWkJoRkp6UlBLZ3Q4SjJ2UVViUS10eTg5dm04Q0Rsdk1xTWpPSDUyUy1kQmxjb2lnNFV0MzlmNWVva3BRRUs5alJP?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Aggreko delivers Australia\u2019s \u2018largest\u2019 off-grid renewable facility - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXlaaTAtVTdIVndOTmIxUjVpX2NFZ3lXNE9QSFJnYzZPaVE2cmtwM3ViUHhyaEsxc3dEeGNidDVXcWlObHMwMHlkLUxEZGxVRF9BTzFuQ3N1V3FJVjJXYWVrOGk5emRpQmtBN1Y3SVBreVNsbHAxdWJza21ZQWN2QXpWZF95MDY2TnAtWTZOTQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Investors Support Eldorado Gold Bid for Copper-Focused Foran - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGUzT3A5RmNOWkFRVjNJWlJnQ0tsOWFYMmh4aHJiZmR2Tm5YRFRLRW83X2Zoc0xpaURkUlAtcnBBR0F1ODRoYkp3dTNjdlZUYm1Mekx2WFFJZktSWDdHWTNEVlNvTG43MVJfTmRiUlZSWFl0bUdYZzBtUTdKR3d4NXlZNzVvY3ZleUJLU3pIdVdkUmZwYnNRWDU0Qllrd3ViUnAwSDBWUGI0bThfS1EzdkltcTI?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Expansions Sustain Peruvian Mining Growth & Investment - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mNlhQOHFfeEdwcmFRc29sWTNPRjVQV1JPLS1fQ3JLQmw1aG9GelNXMFU5WlhpOG54c1BuUl85LVc2eXpyQTdYWU9JVlFQNnZvc3pWSmdxSHZzdk5sNXpCMjhKQU5jNkRta19RWDZBNFBPTWhWamVEUHFyQmdBQQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman warns copper faces downside risk if Hormuz disruption persists - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMG1jbmNaQlBvRjEwa2txNFIxMElHMzJKa09aT1pzSW1oV190c3JSazZqTkd3aGVKRmhFekVfcUhidzd0VUR6aXQ3OHdJSTFQMTNyVkNMMjJxLTlGU09yTmwzYnN2d1g2WVZsdXFhMi1yQmpVRlUzNENmQ2dhSXp5TUw3Mk5XUE9oVDM5Q05xcUNTVFUtTU1mZzBmSVBJQXM2bmZpem9ibE5pbWw0NFhZSXc4c3VoVC1SQjBFUGV4NTE1a0pJUTI2WkVkU09iaExYbGJwd3U4SzJ3MmZNbUdnOFhn?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman Warns on Copper as Iran War Threatens Economy - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbEUzNVVNLUxub0dJSmx4Y2ppLUVyUlRPYUJ1YUhHQmNlMl9OWEE0M2pmaEgyQ3RmS3o0Nm5hMkZZWkRrQThSeENpYUM1R003SUFBV2dvVlp2RktIZEh6R2xtTWFzLW5KNS0yZ2JvSk5NV0hIaDNGODZsZHkyZWhfVmhaUDA?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Canadian Copper receives New Brunswick approval for Caribou Complex transaction - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdW1wSVZMcVM5SGFZTmUtRUkzNzBHVFB2MHpLMTlzNjJzTl81M0xLLTVaN3owUVJtcnhtM1d3TnEwb3FKN05vYVFfeHVLM0ZuMjFlSExIV1JRaklwRDdFek5PeHRaYkNVc2VncjBWckw5VVVJQmxSejk5ZVpwYjNHT3Q1Y1hTMl9Ecjd1UmdXMGUydkpZUTBHLTBtUDZvdXNuYmk2X0p0cnVRSGY2QXNlcDdSWGZFWWE5TmZkN0NLajQ?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Is this why gold and silver prices are crashing today? What\u2019s driving the sharp fall in gold, silver, plat - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxORTlxSU82MzBncmZubnB5WnhCNkg1R2UxRlI4aVcyTWNua1ZRVUlKSUJlZjBQYnQzLW81eWZlLUhSSkZIdlota2JrNUU5VTRMYTNXSk5ZenBKZk9wVzZDSzNxdzNfamR6QjBrcUFzLVpJN1ZMRXZjcVFjM0ZGak1XRjU0cU1rV3NrQ2xnWEJWdDQxbnBuMld4VEJGaHE0QTkxRWNNRTFOOXFTLUZYSG1VcldDSUdVN2g0T2dVUnRMV0h6c1Y4UmwyaEhPR1V5bWxHa0RPYWg1dEQ4c2hGZmtDbjVobUpxZnd1MjJzYkVDb2ZYdWliUVgzTjJFdUk2UzVpUEJwSmtwM0tvTGtvUFczTEd3QmZQUmItOFVhZmpwcjJTTFpwbjJieXhfemnSAbICQVVfeXFMT1l1YWtTM1Z0d1gxVFl3czRGSF9iX1FnYWxJY0VpNlJLNjJIUkkzMml6UGV3cDlzdy0tWWNveWZCRW1jUkxUaEJYSlZtbnVhenpoNTFId19ESkxyRVMweFNTM0I3a2ZCcUtFVTFWckJrY1F0UnZOQTdUYnN2SThSa0daOFVKY3I4T3ZhUGVDMzNXLTFKazQxcTdGWUI2VGJTdzBwMDlvd3NOQ05QT3ZORnNjMDdTc1ZiTUZlWXF0VWVDdXFSNy1ibTFOQkhsOEpVelBaeldjSXhGcjlCZ2FjWHJNLXY0cmdLMDg3a2ZSVUVSd0FNNnRFdUx0X0g2N0xFZGJKRExIREpLOWdYU1RPYm8yVEY4WlFPcVVFNU5GWk9KSWZjQXdLUEVleXZQZEhhdXN3?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman warns downside risk for copper, trims price target - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWNqQ3BRdHBuUV9NMGxPMzVVdHE4MzlnNEZaaG1MR3VseEYtZ3JDb3FfSzVRZC1HY1NlMGxHMG40X0dUU016bzNwTlVVR2dMZmNLLTNhS0FpSzVHVlk0eW1fb01yRngzOWVMc2pKUjZ1T3oteHl6YlJTU0tuUkdySTJxdmpUanp6?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Copper seeks $4B to advance Los Azules - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56SUw2eE5BajRxLW1qRV9nVW9heGVISjBlVkxySFdIRXRDUUpsNTl1RE5HcjVsZ2E0cHRON3ZvRWdZdnFwWG9VNEhlV05MVmh4bTBjc3lUZHB6cnBYYlh3ZUlYTTZ0SjVORnB6QWlKSGs1SFpEbkpB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia-Lobito Copper Rail Link to Cost as Much as $5 Billion - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXFvTzBROEIwa2wyU2g2dDkzOW03a3h3WTVzUlh0TVVXNXNycEF0bndjOFQwdGJHVHliR3BpbXVLcV84VUFHTENpTXRQSm5CVmRYUDJfcGFrNEl2dDBtOU5oZFhSeEdpWTVqNUYwZ3dKbEozWEdxVU9uMGlwNkFvM0FlYm5TOGo3c2I1emh1NDM1UXhTRXR6Vy12d0RGUGF5eUVra28yZW5rQ3pPRmU4?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Japanese copper smelters\u2019 H1 output seen rising 3.3% y/y - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWs1cHZRMmYtaXVlRi1FOU0wanhzTnNoSl8yX1F4eXY2ZkFoai0wLXpBZ0p1Y2tGUlE4b0JxREoySEFna0FpZEN0ZnBIMy1jMHdWTDF5NlYtSTJTLW1oaDNhNHpMOTFnQmE5amRNbElSN3czV1RYbVpsTUtIMXZDdGZQMGRiZ0RDb2c?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Should You Buy, Sell or Hold FCX Stock After a 20% YTD Rally? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWWJLX0ozVFBwOWdTai1oVjhLeEh2aUljSmFwQVphSTJUQ3dPZ1pwdUduWXNvdVkxMGhrb3NTSGdOcjhVdTJwWHJ3dEdmUDRXSHZkeVgtb0k1TlRkdHdIMnJWbmFKamNqRWxMZmhRLTQ1NmNickozdWZ2RVhzaDM1OWxTck50MVhiOXFRNWNTalJDQ21NQjRZY3ZHTFo2aC1rbDZzbjZEaDFsa0VOY0VlMzZ0ajRCWmZaZ05WZ1FySFVtT0VVdnczN01kTmkzUmtNNS0wTFBsSnZuZw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Mining Explorer Finds High-Grade Copper-Gold Potential in Sonora - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdERLLWw4ZTdLSENyR1Ywc2hwb0dQVUVSZkFmR2Q5VFdUSlpDMHNhRW80MXBxVlE2eldDYnZ3ZXZZMERic1k2Z0NxR0FwOTMxZmctcHZvX3k0YzVfQ010Ri1LTUdycHljR09yRXNiNzNlRjZKSFViR1ZFdWRSRjdmSy00blRCMFNoN2lTQl9RdFpxUllnTVBaVHhpbUlIQVlocV9USUZ2ZG9Lcm5za2NHY1kycWhCYXlaU1Q1T0Npcw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Companies With Exposure To Grid Expansion - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTERHb1BUQ2ktaHhaNUtyZDdueDdKa1VXS3hHMU1IRFJ4Vl9EdzZHTlc4bEJqUkp3QjRsUlE2ZEt3YlVKRldTMTRRb3pHRWYtaHVDRnlfV0hnSVNjem13b0FPMWptY2Jpc3NLVUFWNFVHUVJZRTYtZ2Nac2dSbGpRSVlMOEt6cG9m?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "AI Server Copper Clad Laminate (CCL) Market 2026 to Hit US$ 1,723.33 Million by 2032, Growing at 20.71% CAGR - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeXN3NEpBNHhwcVRPREtHdGJ1X2t1X0tRRDh5TFg0SC1HU2ZkOFFYMmREbGtGZTVEQms3X3Zhb2dIYmk3MGZMY0JXSmhFeFZ4anVvVk5wZEV1Vm14ZUJMM0NVdlI5WjZaNkE0Y3B0YmU0MEJBZWEzSktrQWJiUDFZQldNNjNWME8yVmk2RTk2dWJSYkVoVzhz?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "US White House lauds Highland Copper mining expansion efforts - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmdTNWlqYWlyM2FpZndJNUFyZl9JMVJlQlF1d3I4Z2lGN3BSSjBJakJsM09ERjlvSmR1Zmdfa2MzMUoyX0xvQUdyVkp4ZFNWV2p0MzMxZmpraUppQmZub3JjQ0h2NlZLOGkyQVFZUUlGUnYxc21EemJkamhVaEZ1SmdNLW1nVTJjNlQ4cmFYT1IxdUE0dUJWU1dUT2JyRTFTbEVWU2RMem9na2dPeXc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Copper in talks with lenders to fund Argentina project - Buenos Aires Times",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTzB0WXdaTG5xcWRuOXNLUjJlbVFXd01fZzVmWkU1RVltZmMyR3pzQ3dzcTlyelFUUG1aZG44c0tIOF80bHEwTFhhMkV1TjlRWVlHV1RpSk5kWmVrYmtkR2E5d29uckJpdWhzNUR6b2tmRlJzWXRrZGlwUm93LVVxSUxlT0l1UHpEaDVtWDNhMlRVN1ZpaDVFN0pqa1R0M1hBN1VqVF9pOG4yYUnSAbABQVVfeXFMTXRnbDNQc0doazh5aU5HeF9Oa1R6bWUtZ2FqeHhxaUx2UUlCR3V5b2ZMQmZoWjRRT205Y2hJamtWZDJXMmxhdnNEaHR1Vk8tRlZCZzRxZDN5RUlZYUhHUFpzVlFmOUxQMFdYRlZxTDdldU1YSWVoaGo2WUpEcHg4TUJ3cjFjUWNvSW1kbkpHd0FMQzVqb2xaRHd3cGpoaTlVbk44STZpUVM0WmV4eGh0RVU?oc=5",
+                "source": "Buenos Aires Times",
+                "is_premium": false
+            },
+            {
+                "title": "COPJ: Junior Copper Miners Feature Intense Volatility, High EPS Growth - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjhlMEc5SW1Md1VWQWNGeDhtdHY2YWtrUUtqbEs2c3VvcXotdG1teEl1WUxRRk1ReFNsTjM1VkZkanMtZjQzTFRKb19idUh1a3VGQUlUV3l0eTNDYUxDVzFpdjFQLVZJQmY4YjFyMHVJSEdpWGQtaEdjeGcxa1NXRnNvVTdqZk9XeDEydkQtWmtUOGFVYW9fQlo0LXZlMW1aZDJta3dSODkzOGk3U3c?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Panama moves to unlock copper from idled mine - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmxyTWpDY3NNVmhwZDhPYjJWMmVRVEZ4azNwSEhUSjF3bG5nOWZSNndna0RHZXlqTm8ydDJSSTNYRFg0a0MyekhQS3JXdGtqRU52aTNobGdNNnQ1Tzd5dVVpWkFxRnN5aVVVQnFhNWdjQV91VFk1UEw3Nm1ZQ3MwYU84V3hWelVzd2dtdDk0Z3RteUNOTUQ4MFhiT0Y1Unh0dWZ1LXNzTzg?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Panama set to authorize First Quantum to extract and ship from shuttered copper mine (FQVLF:OTCMKTS) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0g4WUgwMlhRamFhcVllWGpLeUp3MEcyUC1EUkFNMDhSRVV6R2FkT2FEQnNfSHVBZXpZQ2syQjNsZEg1QjdWOXFUdFJlX1NTd0htUEZxOFVzdFJrXzJGQXRvTUlxeXVZai1icEdNeWxIVXFHcDY1T3NLNzIxMmxITFFiVHMxUFp4SXMweG5zdm1zNmpDcW9fa3ZFSlI0NUY3dG9JcXFMc21jQk9GdFUwUnNJSVl1QjF5aWNYeEZWNA?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Vale Base Metals bets on Sudbury and existing mines to drive copper output - Northern Ontario Business",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR3JMMHFpNGwzZ0JxZjZGUngxTnlLWHF4Y3RhSnVrTHZtT0lVbElYbmIyRE5DSW9BMHVrdnJFUHdodlE0QmpObGR1VGxQU0h4V2szRC1XZU1mdk1wOFhrMHdGaXpFRG5WaUpUVWNlWnotbWRLeDU5SndrNXc4TGNEMUxVcE9CY1JDTHhISHdwTnhNNWJlSy1NZXZoYkRsbHZLNHlURnpBUHVTa212bkhmcXRybmxoRnJoLWxKcTNyUk5DVFhTdFlUWWIwVGg3Z2hCNkxNM3pIWjNqZk9O?oc=5",
+                "source": "Northern Ontario Business",
+                "is_premium": false
+            },
+            {
+                "title": "Altius acquires 9.9% of TNR Gold - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBueUl5Mzd5UTZmTXl3eEZ4VFpzOHBlMnphaVFLSDdLUFBaNHVuZEdxUVBtQ2xETW9WRVZhY3Rkc3FVQ0gtQ3hTQ3UzeGNRQl9pVkxSalM4a0RsN2JHYnlmOTNVUVYyUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Credo: Why The Copper Panic Is Wrong (NASDAQ:CRDO) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVhBdTV5eUxZbFdwLV9ENU5TaU1iLXF2Z2tZcXJqQkdNTU1kcXhWY0pvbGQtUExyLTNRbkZMdWc5d3RvNk9pdzRfbVhQRWhqUXRXYjVvWWJnZVQ0eWgwejRlWERsRmpneVRMQXRCNGxpcGRhVEdhTG4zdE4yeXhLMXJn?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            }
+        ]
     }
 }

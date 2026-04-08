@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-08 07:13)
+
+- **[Panama authorizes First Quantum to process stockpiled material from shuttered copper mine - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0JUUUc5WWNlY3ZTN19NVEhJNk1MQXdFODNOeWh4R0tlWmN0c010VF9uYnd4RlpLdDhqeEFmVGJmbGdlYjBadmJZbGZ1R1UyQ2RjQm8zbTVJV05ZM0J2YlZYY1RXcE5Odzl3UHE5YTlYWDY4bmFZWkJoRkp6UlBLZ3Q4SjJ2UVViUS10eTg5dm04Q0Rsdk1xTWpPSDUyUy1kQmxjb2lnNFV0MzlmNWVva3BRRUs5alJP?oc=5)**
+  - *Source: Reuters | Date: 2026-04-07 21:15*
+- **[Investors Support Eldorado Gold Bid for Copper-Focused Foran - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGUzT3A5RmNOWkFRVjNJWlJnQ0tsOWFYMmh4aHJiZmR2Tm5YRFRLRW83X2Zoc0xpaURkUlAtcnBBR0F1ODRoYkp3dTNjdlZUYm1Mekx2WFFJZktSWDdHWTNEVlNvTG43MVJfTmRiUlZSWFl0bUdYZzBtUTdKR3d4NXlZNzVvY3ZleUJLU3pIdVdkUmZwYnNRWDU0Qllrd3ViUnAwSDBWUGI0bThfS1EzdkltcTI?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-07 20:23*
+- **[Zambia-Lobito Copper Rail Link to Cost as Much as $5 Billion - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXFvTzBROEIwa2wyU2g2dDkzOW03a3h3WTVzUlh0TVVXNXNycEF0bndjOFQwdGJHVHliR3BpbXVLcV84VUFHTENpTXRQSm5CVmRYUDJfcGFrNEl2dDBtOU5oZFhSeEdpWTVqNUYwZ3dKbEozWEdxVU9uMGlwNkFvM0FlYm5TOGo3c2I1emh1NDM1UXhTRXR6Vy12d0RGUGF5eUVra28yZW5rQ3pPRmU4?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-07 14:53*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-07 07:10)
 
 - **[Goldman Warns on Copper as Iran War Threatens Global Economy - bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbU1fYlZQbmU5enI4ZjJvaFEzRUtlTUdNd1dMS3c0SnZhWkNHNGkyeWJzRHdvWUVkOVhLZFhxeDA4NHNjczlwTUhSQV9WaVhhQnNUdW83OUVCUUllSDNVVWRmRUhHRW5CRDM1YXd0amtpMjlhcjUtYS1mRTB1Y205MjBtUkJ6c1VDMGRVUG9nbVdxUkJTMHZKT0M2RzAtU2xxc2s1QlpGNW9qVnVBSUpOMA?oc=5)**
