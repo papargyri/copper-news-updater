@@ -8170,5 +8170,132 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-09": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 20,
+        "articles": [
+            {
+                "title": "Capstone Copper Shares Surge 94.6% on Record Production - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rYjlfaThGTmZadFRSNXZ4TnplVjJPb0dpZ1F1UlY2N2V3a3VKSzM0bUpiTG1FMkVkd2xmazdfUzVIamxkLUR0em1NOWw5eVlZNDRmd1VHWFlRS0xxdU9zWUR1QUY0VkdqRVIxcXR2SlFDeW5CaWJVUW1iakNQMEU?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "COPX: Copper Rush Is Just Getting Started (NYSEARCA:COPX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWs3WXZaZDQxaDNzby1jNDhiWTJMMVB5UXg3TnhDeGxNTHNKVHdQbGNMT19lSEZpY3pTSkZUWDhZb1hzbTZ3SVlKLTBKQUQwZnV5YVFGNElYNGY1NVlzZ1VZWmhhNnpld3c2cERTcktyRC1QOHhWTm9QcG9rOFRiekhJcVNsWW40?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "China's copper import slump marks a shift in market power - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVZucUZ4S1dqcWFET1VoVXpPQmVzQ1hOTm1lcXlMM2NpbVBGRXYyUEh2VGNtMFkzYVVXVkxWZ18wZmFFMnBjUllQb1pXd05GYnVjRUZLYThnZWd5WFZEV0dabDlPYWh0VjN6NTlwdDJOTUZZSnMxVnU5UmpOU01IWTNMRGQ1djNIcXhUS3prc3BUcWZUXzVGclpzeVpVbm45QXkxdXJMYUpwRXM?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Sandfire flags lower-end FY26 output as weather, delays weigh on performance - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkF4Z0JaS0dDU3E2RVdKMzZ0R29JdmZwYU95eTljbmJKSGxjUE05dFpVVzJmRzI1VUJnMzREbmxWSnVnOFVJU05zdi1RWExnZHJGd0MweW9UelM0MElaaFBVdEo2TV9WODRncTdrQms5T0JabXlyUENSZ3V6Mm95ZnVZUy14cWJxRDNUVDN2ODFCWVlQVUxTUzIwVEFhZE9UTHdBVE1JTmhmOGN5R0s1M0NNSEZJR1NKQVJEbDRvTDc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Develop achieves steady-state production at Woodlawn copper mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmd1Z3V6aFJLTUJzVzFGc2M3RGlkTGxXWUcxYy1EejF1ZTZ5LWFmY0pNUTlDbmoweDFSVUhDMEZSbUhaNWNXc3gwTjMzYVlpQ1F5Q3FWMnN0WWhocUJKMVBpd2l6ZEhVZ1lCTDN2ZjhfSWZDaW9rZDJkckFldTBZdEExNzdiMmRta3o3TzRLQ2Vjd2dubGoyd1paZzNsRklQUDRod0YxaTZRUTVZcnE2WGtB?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper - Why The Market May Be Short-Sighted (TSX:CS:CA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDdOamNVQWVZWjlLd3ZiVmhZRmVhd3JwUmZ6Z2pZVnc1b0N4UVo3MmJWUHZab01SS05NdkZVdHRVOEpzZUg1dWJTNjNSZGxEMU96alVjM2NSVzBqUlFCdmdBbGRfNk5FcXpvUWFLYThXc0ZmOVBsYTBjM1J5STFodlVZRlFBRF9RQXk0WUlkbmZFUWhmSUc2WDJB?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Mines vs glaciers: Argentine MPs weigh key environmental reform - France 24",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkdva2I1TFdCMS04VG9XNEdaZ3h0ampxS283S2JHOGNmT25LMk1tcDV1VzVLeVItZzBoOXRhMGM0VTl6QlJNMlIxYUpaMFlqSkNIeVdVWk1CX2l1Z3o0d1NvUjVkV19aU3BxeUV4YnpfUVJWQ2pCWk1UaEpoWm84d0pYSEthYVpXem9LZkM1V0RHZGMxalFWNDU5ZkdmY2poYnpDLS1vOGJlWHU5ZVE?oc=5",
+                "source": "France 24",
+                "is_premium": false
+            },
+            {
+                "title": "Chile uncovers criminal networks shipping millions of dollars of copper to Peru and China - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnZ1RHByTTlSMGRLTmVkUmVMcjh1RnprZjBzR2RTczVORzhLZ2s0QVVZYV9VQ3IwWDJMalBzMGtLelhfVmtkVm1TZURjVGR5TXRNVVJlZ3NYM1R4dGU3d3VQQVdVQ3FtYU5DdzhKaFpiQ0hRSmN5ZkN4SHFrM0RXek9uQ081U0RoNExPR1Zua09OUWF5?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "PolarX expands high-grade copper in Alaska - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWUyTkNQNmZHS2hTaVJRSExBWVVtNE5VT1RPUGZpZEFucEYwRF9IV1l2QjA1MW5PUzQ2dkR5Nlg3WktjaTNaSHBGZmRYV0dWbEhhNVFfYXJBdnBGSTJYZzE4VU91RHJ3RGNJTnpoY1JwQ1NDT1VYOGRiVHpHN09jLUVpWjVxQ0tyZ0NFSTV4LTJvbGFpNThDQWdXWHhYM0h3RFp6anM0U0FnQjBiS2tNbTNrbV8?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Why the Iran war may lead countries to hoard aluminum and copper - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVN6OUpHZTQ5NDA2VER5SUF5NS00YnVEYjdSY25FeEEzdmFIZWUzb2VDRkFrZVFXTllrekxDVEI3YWtzZXR4cHIwMmF0cXJNSGlGTnB0dXVPa0FLM2N3RFRZaWhfb2ZEaVdGT3o3OWVBR2hSb1RLUy1KcVZuYnZwZ1p5V0tSMTJNcWdQWmdIYnFlbTlBWEpGNkh6b0Nud201a0lMRXFlRnpUT2tXdTFOYW4ycw?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Argentine MPs to debate watered-down glaciers protection - France 24",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXRWcEl3TzU4MmRxc1haNEM0OTd0eUdCRU91TUh1WVM2TkZfWGg0ckp5Q1ZEb0VxZVQ3QkcteUc1U0NtQV9fQVpkSGp5Z3FjWVRvem1Ic0FSUFZuOFZTV085UE45UEVuVVdHVzVWd2VyTUw5ZzhWcUxOX2JXUmd1UmlKbUlCcW1lUzd0RFF2cEtZQmdpUUQxVlRkbHdpTHEtdDlyWkRR?oc=5",
+                "source": "France 24",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum taps IFC for Argentina copper push - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81QW9GaVpzeE9RcVdZdWpKQmRsTzIwbU9fc2Y0eHNmZk9Zekw3SlVEQkY0UlMzcWVCUmpFWC1LdlNyQzdZbW1waTRzOWw3TEZSYmU0LUFkYkI5X2RfTTdOaElLUFI2VjBkeFBlQ3hCc2I4cXlvczRJbmRMYnE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper climbs to three-week high on ceasefire relief; global mining stocks rally (CPER:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnFEUmh6bnZ1MVhobExjM1RxcUl5eUZ5b2IwZGphQmhBb1NIaGJhX3ZsWXUtckFNY0RXSzc0YkJxRWZKT3NOTFp5Q1BBZm0ybzFDVXByRS1ndUJqRXBEUXprMmN6X2tfZExvN3QwVUFDbzhYY0dtTmdFdV9faXRxc3hJaTQ2MkRTd0FBcE03LTFjYUQwY2RlWUZWME54TVZ1dUtNMTV0c1hWeFowbURVMXV0UWlDOTdz?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "FireFly Green Bay Copper Discovery: 79.7Mt VMS Resource - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsT3hwRUhUYy1KUTFvNklQRERJSFhFanRPZzU5MFQyeFZUYzlTNlNDUUYwSE9TTEF5RDJmWHlBSTV1dkRTM2ZacUVSeksxcFFGNHB2eEFHVDA0UTNWMXl6dGVrNWZYYXZfQnhVd2owMC1UeDdKOThlVjR6aUdLZw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "The Power Grid Arms Race: Why Copper Is Becoming the Hidden AI Trade - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc0xOM2hDSk5vZl9PUERGYXZCbndyMjdDbVZKd1FCZGZoWU1wbHFYS2w0cVU2RGhzdWQ3bllJUVRVNDVUcDFNalZNdlduS2hMZE9UbFF1SEJQUUdZS2ZESlFiM1V6c19USFVOOVpkUGRPYXRZTEQ0Tml0UnBjRklqT0tEVUs2VDFRaDlBTFFfWlBWMjh0STNBOEZPdWswUmJzQ2Zrb3pRUVlub2dEeWRLX0gwb3JlRG9tS1VqSkhzVU9iRUl0ZVJZMm4tSnpLZFVGNE9vMTFKSVFyM0pVejhGMXlOZHVQdw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Lundin acquires additional equity stake in Chilean copper company - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzdmV3FlejVoNEhLaGNCWFNfTnlLZ2lFaTA3SFpXSDkyUGNEejl1c1QyYzlnZDVZTTE5X0JMOXFxQktNMDdjZExLdFdpc3ZmV1ZMNUFtOGttZTc1NnZJdGY0ZVRlS1N0ajRtMlBqU3dfdjhmVnhnMlNIV2pQY2RxSTNaNUtIbkZydWNsU00tR2RBbUFWaFVub3ZnR2NCRFlObkdYdmRxbk1iY2wxU0NCOENHVQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Inefficient permitting is the albatross around Latin American mining \u2013 copper veteran - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0FZRGZiM3Vlc25DUV9tRk03WHVJTTZLelJTT1hrMXlablprUm5nWWRHS0s4YXBGQURBcUVQZzdGYjVXSjhSNVR4STVZUmhFSGhDdWtzU2pzNXJPcDU1VnFtUVlQSXRFYTFJRXA2dkQ4Z25HNkFrcGlLaFJaN2ZYSURNQ3V1S3N2Z1dZdW5kN0V2RG4wR3kzSTVJbmM5bTlGV1Vhc2JaSzVYUVdMVFZQSlBjWmQ4LVVFUDZmalVpMm9RTFoxZ19iaXBrWQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper hits three-week high as Iran ceasefire lifts sentiment - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXNkbVJUVTV0UlEzRVRvSTNScXlzV2kwRHZpQWlyZDBZc3VFRG8zWmF4amswWkRYVU5Cb2RCSHUzTnFxSzRBcUgwdHAtVEdaZlFXV192MEp6MWQ5RjhSX1cwNXBSbXQtUWY4RGtQN3pKbXF4NDR3REhQaVVaRG52Ym5n?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum says Panama government approves removal of stockpiled ore at Cobre mine - Times Colonist",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWZoU00wdzlIVXNGUWpQeno1d21idl9BSW5vWnlBd1g1M2QxVGVuSFhjcFhQMDE3bllLM0h0OVZPdUV6NFVuVHd4RnBUOGZtQktsV2NWTDl2Z0RPek9lZTRiYTFpTHd0U1d0dlRyNzQ3eUMtakRGOV9DRE4yd3R1Zzc5M1JXQ2ZVTW9yVWVpclNNZXNtNW1Hanl5S2habElNNm9JbEF3cm1Wd1pBUnNQYTIxRnhxVk1XbUZTeE9LTUZLNzIyaHZvMG81aGo?oc=5",
+                "source": "Times Colonist",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Copper seeks $4B to advance Los Azules - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjdoMFFkcG5XNWZRU0VWUXdUdmFvZGlFVXp4VVIxOTRoMUhaOEFNZmJJRFNuSkxIVnBteFdPeVpYaUtieHFFZnNPRTdRRkNEcmVMWHB1ZmpOWUFJY18xRl9lcXd0LTA3UDYteWlKcHhVcE4xM1R2UVJpRm8yX253WTAtMUtlcGw4MDh6UEJSX0p4OGt2akx2bmVaUUR6Zw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

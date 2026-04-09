@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-09 07:16)
+
+- **[China's copper import slump marks a shift in market power - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVZucUZ4S1dqcWFET1VoVXpPQmVzQ1hOTm1lcXlMM2NpbVBGRXYyUEh2VGNtMFkzYVVXVkxWZ18wZmFFMnBjUllQb1pXd05GYnVjRUZLYThnZWd5WFZEV0dabDlPYWh0VjN6NTlwdDJOTUZZSnMxVnU5UmpOU01IWTNMRGQ1djNIcXhUS3prc3BUcWZUXzVGclpzeVpVbm45QXkxdXJMYUpwRXM?oc=5)**
+  - *Source: Reuters | Date: 2026-04-09 05:09*
+- **[Why the Iran war may lead countries to hoard aluminum and copper - BNN Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVN6OUpHZTQ5NDA2VER5SUF5NS00YnVEYjdSY25FeEEzdmFIZWUzb2VDRkFrZVFXTllrekxDVEI3YWtzZXR4cHIwMmF0cXJNSGlGTnB0dXVPa0FLM2N3RFRZaWhfb2ZEaVdGT3o3OWVBR2hSb1RLUy1KcVZuYnZwZ1p5V0tSMTJNcWdQWmdIYnFlbTlBWEpGNkh6b0Nud201a0lMRXFlRnpUT2tXdTFOYW4ycw?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-04-08 17:49*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-08 07:13)
 
 - **[Panama authorizes First Quantum to process stockpiled material from shuttered copper mine - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0JUUUc5WWNlY3ZTN19NVEhJNk1MQXdFODNOeWh4R0tlWmN0c010VF9uYnd4RlpLdDhqeEFmVGJmbGdlYjBadmJZbGZ1R1UyQ2RjQm8zbTVJV05ZM0J2YlZYY1RXcE5Odzl3UHE5YTlYWDY4bmFZWkJoRkp6UlBLZ3Q4SjJ2UVViUS10eTg5dm04Q0Rsdk1xTWpPSDUyUy1kQmxjb2lnNFV0MzlmNWVva3BRRUs5alJP?oc=5)**
