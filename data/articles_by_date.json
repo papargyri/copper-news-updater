@@ -8297,5 +8297,114 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-10": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 17,
+        "articles": [
+            {
+                "title": "Copper Rod Price Trend Analysis | 2026 Electrical Infrastructure Report - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcjFOaWJaUUt6bTZXZGQ2a3FCNkM4S3VBUGh0SzZUSHFBZHRVdFlwMnE3cUZGbFRoWEZ1YWt4V0h2Z2Zpamc3WXFKV19YWkl4X3d5Wlpxc1lBUm1DQVBTQUQ4NkpBYVc3QlpTdHpOaEpVQU5MX2VCcGw4X1FFbm9xb1VJNTFPUDVXbDQw?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "COPX: The Cleanest Buy On A Structural Copper Deficit (NYSEARCA:COPX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONG9Sc0FUSWJXQXVXOGZDNGZIYzhyTlhPa010eks5Umc1NmtQNGNsX3NkRG9URFBhU1ZPQ2w1UV9uc0NlTDB6QmZ1RXRCWGhrd1dTWVBfUHdySTljdmFjRUFPUzA2S1ZuclVGMU5yY0ZTeUhaS041Tm9jRWZ1LUw4aFpHYU9WY2ljYnZubE5fTFhmS1RZY3FpZA?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone said to tap Scotiabank to divest Mexican copper mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWZHUC0zWFR0Qy1Ha1Vfd19DczM2andBb2lmeTlfRDQySUpPc3ZWbkJQSkVuLS1FdEdmUEtCS0dKUG5LOXlBT1lXaXlhRjVyREtXLXE5bVhadzh6NjdUUV9JcFFZeDlNazdUSk94ZnVoeTN0aC04MTRQQ1A4TVlianhFT1ROeW9wWElGb0Q0SzJ6OWs?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk Copper Announces $20 Million Bought Deal Private Placement - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkp0UWxZYjQyblcyTGNpZXNseTA4MWJBaFdhRWF3alp2bkl1VW8zRU5JTEtveWxNM0RSZ3FESndPdXR5T0pNdDlhRWRFV0dSMEF0MFZ3YzJITFFvTDBoQXdwbzc1cUlYdmtra0FpS2ZqSXlCUGVkbHNLZWJqSlJkZzI3YUowRmk2OGtod0ZpSVpQWVdFaFBPazM0TVJLU1ZudkU0ejJuUnYza2pEMWhzQ2RTVUVuSG85aWx1aGxDMmY5RXpXQWlPU3VDOWl5T0xwZXhvUVF30gHbAUFVX3lxTFBxNzc4eFctWHB3T0s3TVBzWmxZbXdLbDhZVEJEd0J5Tmt4LXF0ZjkxdVNFOGdRN1dhTFRJbmxxeV9qZ1ZDMXRHVkhFZGV5OWlEQXU5d09SeUpQNlpQcUNHY29fcDhEdkpzSWMyTHpVQTNRb2dZXzRKeDlnbTZ4aWFlcUU5VGYyZDhnRWN3eVU4Qkk2VnNvMHRFU2tJNzAtOHZIX2VJaW1RVnduMFpmQjhmMW5EV3hqc1NQOHZHR3V5U2hTOFJYeHNNbEd2SzJvSU01cmVvc0k0TUpxTQ?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "Tests return strong Danver copper recovery - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2RZQkFwRTlKVFJjNG9ZQmVzWXZndXlYb1o4U1puWlNtMDdaN1VMWEdVcjhiTFEwQnJCMzczQmpMSmJZbV82QVAwTXg4ZC1fZm5vWHowY1dDZFVvc3JVeWhocS1oWEd6UTdtV292TlBXeTRSeVVmWGlkWksyaXhLTHNiZnVNa0NFUV84SWpZVzkwc2lhYjJwc1cta2JmY01TUUx5eUktVXlHV3cxcE9KRzlWSmM5aTZhRHBfOQ?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Gladiator prepares 2026 copper campaign - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkJUVXZfNmdYWXh5c3pMbjFHeHdYY3lKVWVwdTBVSl9qZ1BJS3RtZlFRMmh2U0FTM0RhU2xmSFdXT2hnc0hPVHZSM2ZDSGdCb1h1eEJIMVFITEI3VS1jTzlnR2dTNDcyMVhPNDhBaW1zNkMtX3FBZGYzWTlLQU5GMHZ6V2J2N1p5M1RlUDM3TURyM3dreTVicG5pVE5CV1dLLVBWeWU5OFdmdHhGVUtqd0RjYXRKYUk5?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Chemicals Market Outlook 2032: Growth Trends, Asia-Pacific Dominance & Key Players - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZNd1Z6T0JKTmNaQXE5bDZ1T1UzSVh0RlVETjZpTmozeXJPUldFdkd0SjE3RDZQVGJERnp2TU42enJ1M0pYalFUWGt1M2E2UlVYdF91X3hmSzlqNGxyUUVYNFNNMXJQUzM2T094LUstcFh0SnlFM0Z5LUk1dnF5NnBMd3liNUdJeENwRUFBRQ?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Argentina approves Milei\u2019s glacier mining bill amid environmental protests - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcEdLSzBpRVhfcmtURG1raHczcjJiUV9ERnJoTVlxRUZDam9NZFJ5cFp0Z2F4UWR1VXBYRXB4eFI4M2EtcmdRN0hXOHN1OXJKYnFJN2JzdFd3ZFpoajVlanhlVDFrOW1SQnV4XzB0MzVqOGxJWWpNLUE2NjMtZi1wSG9PcVBDbzI4dTZyZHV2ZGxCLVVTLVdQYmpaVmFpcXJWVjVyYVNuei1OcGpVTVpxOXpYN3B0U1loeUV1VkR1TTRRdVBqT19zSU9BYXdjWjhm?oc=5",
+                "source": "The Guardian",
+                "is_premium": true
+            },
+            {
+                "title": "Argentina\u2019s Congress Approves Glacier Law in Win for Milei and Copper Miners - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGZ4SmpRZFZwbmZwbVJQNEZYYkVzYlpDekNVR1lOVmVzQlFsNmtiNTI5ZUNXR0NoZ3dMd1owSlh2WklPVFhQY09tOVlXRVhHNlIxRHBKc1JVejdGMzVHVWlDMmU1OE9WT2dGWnZ4SWF0RXFZbWNiNDZFZk5YbVV3N2JnSGJuOC13QjZ3RDEtREtNdWlUalFlVXhmX0RuYWliWVRtaU9TMEVtVnkyTEotalRvSWQ4Mm9waUlVQ0l2Z2VrOFRvZVE?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Vizsla Copper looks into becoming North American producer - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0VRbEw2U0NrbGk4cXZaODVsbEpJUGpLUXFsUnczWFNpRkZRZXVLaFU1NFY0RG52SmZmbWQwZGtkZkpldTBDY0VsVGtXNzFzV1MtQU9mQ0JoV280T0tqVm82bExZd2pwNmo5eVJrUnhhQU5SZUdudF84QldJLTE2alIzeER5dm8?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Argentine MPs approve Milei-backed bill to allow mining in glaciers - France 24",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2dtb3FQMFJMeXZsdlFtMEMyNGFyMTk3dlpDSkNZRmwyNTJqQ3NwVFlzbVpSSy1DWHNDU1lsNFd2SVhyZXlqcnF3Q2p0YlRxdWc0ckNCS3pCMmVNUGpPcjhEZThINUttbmhSMVdTSjQ4ZXZUc2lMeGdqUXk3TGdOdDVhaDljRnpNZVZlcGxxaWJHd25hVkRkSEE0T1cwMVBrT3JlemdDUHJkRWM?oc=5",
+                "source": "France 24",
+                "is_premium": false
+            },
+            {
+                "title": "Third Drill Rig Targets Undrilled Porphyry Zones as District-Scale Copper System Expands - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb2lRM0p6LXItdHJnV052cDZ3eDhndXlXUGlFWWpIeGlGWnRmRFNWZXRqcnJkRVB4RUdvUGZoTzdvaDdfc0I0ZGR0cHR3SU85OURBRU1nRWFkeGZldE9yY2JsWlEyUk96TEZBN01sY2dSR3BqVDRhaUdzX18zbUxINDRzUy13NXg5ZnlsVEZrZU5JYWRVdTdOMWR6cUQtb1h2aEsxdmNQNjgzZ3dFeENQNW9lSGotMEMzeWlGSnB0aUpsdWZ4ZmREWHR4d1Q5am1fMklYcm45b0hOa21UZktv?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman warns downside risk for copper, trims price target - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEJ1QmZfYWF0SEp3c2dPd1JqcUl6M3lNS3ZCeWQ5dzFKd3owaXdUbHhmcHlqUmpJNzBoalAybEwxV05oNkRmLUsyQXJ0Ul9WQ3RsLWdfSXo0cHpGWUFCLWV0TXJydjJMU3ZGWEprdnlmRGh1TmZKLVBRNGM0RWVoQmRNU3FkLUl3NGNtTHlOa0FYY2ZxXzRXRWM1UFZxLXdyQ1Nv?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Africa to pilot bond aimed at formalizing artisanal mining - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGwtQWdfN29KbUR4U1QzMmdiZl84Y0ZJa2M5WlA1blJnLV8wVFI4NXdOYzNqdFVBN2xwcXRZWk5RV2hiT1VKNXRFVjM2Q0c2bFQ5S0Q3cTc5SWp6bDR4VnBqaWRYXzI4NU0xUXdaRHoxOGVaY1lUWUUyaVhZV1BVa3p2NjJha2tacjgwdzRITQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Remains Pricey After Record-Breaking Rally | High prices have seen organized networks form around cable theft - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQNncwLUtPSU92VzhKTmQyU1lzMk1mZHlnR0l5VzhOb0kzRHVTcEJrd3BSRzlxekZwblpyTTlHSXRIWG50YTNfU0U0YVNOcVFfYmY0UXNvVzcyWHFFVi1rZTBiVXBrYnhMdEt1OTJDYWpGQm9oU2ROT29XYU5yZ0ZMQkkyUlpnSWtRUmFfR0JWcFRfMmZ1Q00zc1BZTk55ckZmckQ1aGQwY3N3SmtvMHA5MTMybkF6WGVXWVUtVlhodENuVm5JVGRka2dIcDdQZXBWdTIxaHo4NUJlaWpIOGZUWXpKY1NKSnBOSDBNUVUxeV9mVWZVd0ZjVkdoU0JpaElQc3VVWjVKbTg5Rl9KeGtuTTAzUUUxbzE2c1RoVVZXeWJQZXBJLUdjQlVMc29odw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum says Panama government approves removal of stockpiled ore at Cobre mine - North Shore News",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNck8xWHQ1bFJqdzBld0VTWV9HWFVXZW5Ic2tFVExqSmtOSTNReXE2aHpSR3ExT0xiNUJvSlVUZ0Naa3EzaXpGU0FMd2xlcDgxTmZObV9OQ29NZ3duMGlHblhYS01KOHdFN3ZnckNXZlB2eWI3d1ZQLWZhOE5hUHJaNHpHM1QyQWNhRkxGZ0ZhQlQ5ZXdKc0Z1T3BuZU9yX2dwT0xqOGY1SnQ0TzQ2bGhxbnBHaXNXNS1LQmtfb3hERGlCUm1DcHcxUG8zekhqS3dG?oc=5",
+                "source": "North Shore News",
+                "is_premium": false
+            },
+            {
+                "title": "Investors Support Eldorado Gold Bid for Copper-Focused Foran - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzZ4WVA5U25WN0NyNUZZbWlGM2dQV3U1bjNMd1ZkSFJmbzVrd0I1emN5aHVkTU96MFdCUWpQQlJXTk5xN0c2MEpZR3M0dTkwZ1pvVXJoZjAtMW9WQXdwWlZUQS1kal9xQjhOaE5mQ1hKcDdvNUt1RXJvLTJMd0pRWVRsMTJWN2ppbXI3LUlBaUJ0SkJyWHhmZTFwdU53bVRL?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }

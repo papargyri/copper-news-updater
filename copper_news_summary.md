@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-10 07:22)
+
+- **[Argentina approves Milei’s glacier mining bill amid environmental protests - The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcEdLSzBpRVhfcmtURG1raHczcjJiUV9ERnJoTVlxRUZDam9NZFJ5cFp0Z2F4UWR1VXBYRXB4eFI4M2EtcmdRN0hXOHN1OXJKYnFJN2JzdFd3ZFpoajVlanhlVDFrOW1SQnV4XzB0MzVqOGxJWWpNLUE2NjMtZi1wSG9PcVBDbzI4dTZyZHV2ZGxCLVVTLVdQYmpaVmFpcXJWVjVyYVNuei1OcGpVTVpxOXpYN3B0U1loeUV1VkR1TTRRdVBqT19zSU9BYXdjWjhm?oc=5)**
+  - *Source: The Guardian | Date: 2026-04-09 11:55*
+- **[Argentina’s Congress Approves Glacier Law in Win for Milei and Copper Miners - Bloomberg.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGZ4SmpRZFZwbmZwbVJQNEZYYkVzYlpDekNVR1lOVmVzQlFsNmtiNTI5ZUNXR0NoZ3dMd1owSlh2WklPVFhQY09tOVlXRVhHNlIxRHBKc1JVejdGMzVHVWlDMmU1OE9WT2dGWnZ4SWF0RXFZbWNiNDZFZk5YbVV3N2JnSGJuOC13QjZ3RDEtREtNdWlUalFlVXhmX0RuYWliWVRtaU9TMEVtVnkyTEotalRvSWQ4Mm9waUlVQ0l2Z2VrOFRvZVE?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-09 11:43*
+- **[Investors Support Eldorado Gold Bid for Copper-Focused Foran - Bloomberg.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzZ4WVA5U25WN0NyNUZZbWlGM2dQV3U1bjNMd1ZkSFJmbzVrd0I1emN5aHVkTU96MFdCUWpQQlJXTk5xN0c2MEpZR3M0dTkwZ1pvVXJoZjAtMW9WQXdwWlZUQS1kal9xQjhOaE5mQ1hKcDdvNUt1RXJvLTJMd0pRWVRsMTJWN2ppbXI3LUlBaUJ0SkJyWHhmZTFwdU53bVRL?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-07 20:23*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-09 07:16)
 
 - **[China's copper import slump marks a shift in market power - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVZucUZ4S1dqcWFET1VoVXpPQmVzQ1hOTm1lcXlMM2NpbVBGRXYyUEh2VGNtMFkzYVVXVkxWZ18wZmFFMnBjUllQb1pXd05GYnVjRUZLYThnZWd5WFZEV0dabDlPYWh0VjN6NTlwdDJOTUZZSnMxVnU5UmpOU01IWTNMRGQ1djNIcXhUS3prc3BUcWZUXzVGclpzeVpVbm45QXkxdXJMYUpwRXM?oc=5)**
