@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-11 06:57)
+
+- **[China Moves to Ban Sulfuric Acid Exports as Iran War Hits Supply - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmUyQkwzalA1SXFITldzWlVOVm1WNGZpcUZfMktBNFBaM0dvY0Z4YXI3OV9CZGQtRWJxbnpkMHBJN2RIVmVWMi1qMjF1SVRydVliMF9zYzgwVG4yRmN4OGhhaVNpTzJZa2FZMXdlc0lEblFIWGRGM3lBRlFZNEoxN0lXZWMzY1dhR3diYlZlR3djalBFRUFWNTJVdkE1T0lKdGt3LU1VQVV1dXBpRVBpdWtyZFlEdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-10 16:07*
+- **[Lithium bulls set to gatecrash Chile's copper party - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3g5OG44QWRDakhma1pIdHgxUFV6TWt2Z1lWc2Zldm1PYnVTaFNTN0tjc1RtQnQwWVdBUk9yZ3RGd1VvR1pYcVo0VkFKblJaVGprR1AxOXl0S1lZY0ZsaEF3RzZjdWtxbURJSEtoSUpGM3h4bzNUdWZ2SGpNZG5vM1lXU3AtNUVpN0VLalR0dmtUNE5UemY4R1VUWQ?oc=5)**
+  - *Source: Reuters | Date: 2026-04-10 12:09*
+- **[Kemcore plans Africa-based mining chemical plants in bid to cut imports - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzhzVllPWlg5N19IQ2x0RU9wOTJLR2FjdW9hT0RTZS1QLUdYcjctbWxxTDdXbkxaX3V5UEM1elVLWWJER1ZKLURqMDg5VUR5NV85bElHZ2pvS0xPd2F0NlVuc0JSMG00RjB3bTBZUVN0cFA3RTJSd1dyQ2w3dWhlV1c2Z0ZXY0F5eExZSjI2VlVfVkpubGc5RS1YT29pNGJPNDg0Zk5qVzhvMmlFUU1kb3dTeXI?oc=5)**
+  - *Source: Reuters | Date: 2026-04-10 10:32*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-10 07:22)
 
 - **[Argentina approves Milei’s glacier mining bill amid environmental protests - The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcEdLSzBpRVhfcmtURG1raHczcjJiUV9ERnJoTVlxRUZDam9NZFJ5cFp0Z2F4UWR1VXBYRXB4eFI4M2EtcmdRN0hXOHN1OXJKYnFJN2JzdFd3ZFpoajVlanhlVDFrOW1SQnV4XzB0MzVqOGxJWWpNLUE2NjMtZi1wSG9PcVBDbzI4dTZyZHV2ZGxCLVVTLVdQYmpaVmFpcXJWVjVyYVNuei1OcGpVTVpxOXpYN3B0U1loeUV1VkR1TTRRdVBqT19zSU9BYXdjWjhm?oc=5)**

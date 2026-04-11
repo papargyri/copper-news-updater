@@ -8406,5 +8406,162 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-04-11": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 25,
+        "articles": [
+            {
+                "title": "Bougainville Copper Signs Non\u2011Binding Cooperation Pact on Panguna Mine - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3p3TTktbUxCSkFBY1JjS2M3QmNGdXJXZVBkRmhhZnU5bl9qZFZLOHVzaFNFcDBXZGxjbVc2aGl2dkF2dm9sMmhYUG5kWVhNMVhIZHB1N1RicXZzNk93UWpKaFVfWkV2b1Axck9GYWVDTzBtdXVuTHEzODNJSGRfUjQ5VHV4c2NGRzhKbVpIZF9UM3JwTGw5VlA2TlVGLTJSc3lVWXZCVXFNbU12c0xSaHVXS0QycDhSdmVhSjAwNV80MjBVc0szRTFZczZ2Q0JuYkxQbmhzWmkxNEJCWlBieUlwR2k?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia Copper Rail Link: $5B Project Connects Mining - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0ozdms0cDA2VElVWXVRS2lhbHk0aWJUbEZvb3ZLc281b3BGSVZOUk9VVm5TSDR5ZUlvRkpISmd4SERrYzgzd3hSQmdzUHJjbWtBWHNQZm5Wa2dnOGhOTGRSSDFvak1vYm03TnRicFVtM2wwdV95OGFMandSZ2Q1Q1dGd21vVy1TeHZF?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Output Decline Threatens Global Supply Chains - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHk2V1NhaXRXcldzTDVJRGh1WndLb3NqR0hNblZCY0RjYUpvM3p5YlQwSEhGS2RfSksxQlpkRDQ0MGM1NUpfQWZMMV9nT3lEcG43VEpqMHFzWExRaW4wN1NNcEZXdWV1S3c0c25RYnVBTUt1bWxVQnZQbGtGX0FkSlJWWHk5Z1BM?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Decline Risk: Mining Stocks Under Pressure - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2JCWlVNYlVrZzBIbEszZDV6RGFpbkNLSHlPSkpXZkZJMS1wTDZpRERzbDMzRXY3QU9xaTJZRzFQZzBQS0JBSkVidkhJSk92dktKaVE5eVdIVXJZaElDcDEyUHlIMnBUdlV1UXVmSTVocmY3dktTS1paeG5IMUNGVTNzVmdZOTh4N3pyUTNXRDZicHc?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Sulphur Impact on Copperbelt Mining Operations Explained - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43dVRpRU1oZUtUR0dtSlcyTUNxRUJTVk15WG1LNE5oZXR6Rm5fc05JSE9IY2J2VGQ5R1ZRaXVXcy1Ld2JLelRheUVDOEowUUk0TUhaX0R4Q0FrM1hCWlg0NnFXV1NSYzBiNG1VNkdiSkZBRlM4RG8xTlZ1OA?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco Copper Output Down: Chile Production Challenges - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3dNNVJDX0ZRSERZOG1yeHdBcDdyMkdWWTNOenQ1TjU0aHl6cFBhYjg0WXBldXhIWmNhV2xQRERlbEVWWXpYUGFhWXJ1enRNSFE2UmhoajhBaEJaREpUZ091ZU5FU1QtQkdIRWY5ZEVsRU0yLTFHUExrenBYaG8xMmw1SkZ1UQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Ex-US Navy commander: war risks copper supply - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kTHhWMndKQ3dBQ29XbnlqR0d6R0g0YVU5RElvTFN6RFNSY2daRThrZ0VZRktZdkpSaUQ0QWh3TUFhaXVMVktsRFplUlZObm91WkdiRWNtam53YU9obkFERmVfTnFLaFVzTjJrWEQxWi1MX1pEbWdPWl9ZQm9JOHM?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Gold price wins in Iran war, but not copper - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0piSFJZRVd4MENXQlB0d1JGcWgzc2VSVFpLWVBNMk14cmFHX1U3OXJ0WnUxd0ZTU1QtS0kxQndVQTR1ZjBraTluU3JwWFlBVWZTYzNfQVoyOGM4aXNGSUNYREVrVjZoX0p5dmtDdk9QUG5XeGZWLThBOXFxTHJZSF9fS0RvRVM5WmJiYjNaRW9NTEU?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "China Moves to Ban Sulfuric Acid Exports as Iran War Hits Supply - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmUyQkwzalA1SXFITldzWlVOVm1WNGZpcUZfMktBNFBaM0dvY0Z4YXI3OV9CZGQtRWJxbnpkMHBJN2RIVmVWMi1qMjF1SVRydVliMF9zYzgwVG4yRmN4OGhhaVNpTzJZa2FZMXdlc0lEblFIWGRGM3lBRlFZNEoxN0lXZWMzY1dhR3diYlZlR3djalBFRUFWNTJVdkE1T0lKdGt3LU1VQVV1dXBpRVBpdWtyZFlEdw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "MUX : Buy A World-Class Copper Project, Get Gold Upside For Free (NYSE:MUX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXM0Vi12aDhad2N5NXc4bjgybmM3Slh6dXFQS3drWkRvY096V19WRWN5VkhuQTlEZEdTVENFRGZDQVQtMVRoRmFmUTdnV1huNkl2V3o4T3c4bm4td2t5eUFuTk41R1BSeExrWGp0M1daOXpvVWZWT1A3eUxLZ2VJMjBfdXFOeW02VTBJWFJZd0tJNS1jWGpqa3YwY20yUF81cy1ERA?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Peru pulls permit for $1.8B Tia Maria copper mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FZUZJMVVoeVp0Ykh1VGpnM24tZjZQM181TTJtVlQ4a1U1elRfY2w3dnZYNUJxcVNOZ2lqMFFkRExHX0c2dXdzVmNQUUV4Q1dWZ25Hb1B1ZlNvd3Rqd1NITUUtYjhxZUdWRmJCSUJvZ3h6UVlNREVlMjhaaXI?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper claws higher to three-week peak as investors balance Iran with Chinese demand - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa1ktODJUMW5UVGZRODBNcVNGM3dqaTJlTE80V2xQRzgxZzdZWFIta2RkeklCM2dGNkVZcWplVUk3aXExa3lVMldTVFJwdVprWDJ4T1NseW03cEJiTUIxOEhIWFQ0ZHNETFdvSVBsODhXTjBIMHQ0d1VYVDZ2UktYTFRibTZVUlRWcWh6TjdsUGZTMmV1UUpheXAxbW9FcG5LbFZJRElNSEFOT0NZU3ktX3Brek5YSVJNSEd3MFl2S21adjFwWVRaeF8wWXJoS0ZvNjlmSzNjVExxUWFlZHlhOVhXN3JFRW40QkxqQWQxM3VhVXpBcURCZtIB-AFBVV95cUxQa1ktODJUMW5UVGZRODBNcVNGM3dqaTJlTE80V2xQRzgxZzdZWFIta2RkeklCM2dGNkVZcWplVUk3aXExa3lVMldTVFJwdVprWDJ4T1NseW03cEJiTUIxOEhIWFQ0ZHNETFdvSVBsODhXTjBIMHQ0d1VYVDZ2UktYTFRibTZVUlRWcWh6TjdsUGZTMmV1UUpheXAxbW9FcG5LbFZJRElNSEFOT0NZU3ktX3Brek5YSVJNSEd3MFl2S21adjFwWVRaeF8wWXJoS0ZvNjlmSzNjVExxUWFlZHlhOVhXN3JFRW40QkxqQWQxM3VhVXpBcURCZg?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk Copper Announces Upsize of Bought Deal Private Placement to $30 Million - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRUczUDZsRWN6bTl5R0V3NXotVTlLeDJ4amxMWThYX0Y3UWxTVUx4ZklhLXJEeTJzRFFSNEpVYnlsbHU2WHluXy02X0JORGtSSDBsUW9ZWDZSdElOZ1Nla25sZEdlckJET3dqZ3FMQzRXS0pWU0xTMGFzTjg5R1NiR195VXAyeTFROFRMU1dTX3lpRkQyUUVleUtOSjdMWGRmN2lpRTlXcUFvYm10ZXZackt6UHZ1anQ1RzdLTnBFa0FsbGFZUWRFQnMwOVRTVjBldi1vcEQxTld5bUNWVUh0NHRocEVBUU3SAewBQVVfeXFMTVA0VUtEYmsybC1fY05yY1A4QkkySnpuSXRDdzF1cldzdVlobWlFQXVlMDdTbWh0Rk1yLWhILVVUTjVUWnlZREg4Qm9keEtua1ZVUjlod2E3aWZwR0ZtRU43Y2lpckJlLW12bE40NGhuWFJ6bWFvLTlDSlloOFBqc2VlM29jODJwdnJjelNJYm1TM1pqM09tbm9iLXk5VTVVc2dNOFU0eWxubG1hWmk3NGRhOUhya1VYbVk3ei15R25JT0NVbnN5c09EOGgtVktLLWRmZzBlNVEwMDN5TFotNk14Q25vMTBVTU4xR2w?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk Copper Announces Upsize of Bought Deal Private Placement to $30 Million - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkNLZ1pLR21IZFRDOU4xRW5zeklLc3lWeks0Y3NpeTFjaVA1UTRhYmQyakY5cnphVmpYYWxPYjAyMGF0Z1dCa0RrQWxQQ0RrbFpvb215SHEtX3Jsci1LbjVOc0FPRUQ3THVZcml2Zjl1eTkyT1FRVzF6dE1VV3RmdklwUERBOFRCejlDV1huWnY?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Column: China\u2019s copper import slump marks a shift in market power - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaS1UZEQxSFh6ZEFNdDZBTU9aTV9jcnJoUnNNSFFLTmFCYnNaMnE1NkMwdGkzOTJwZjZWd0c3NHNZcUtnLUY4R1lqNUMtZjZyVS1VYWdOVHIzcFMzSHhCbVVSdUt1N0diQkFlTXR1UVE2cGZ5XzZ3NXpCeGdETVFKald6WjY2cDNuOVRmQzBITWVSTTVpT1E?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Lithium bulls set to gatecrash Chile's copper party - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3g5OG44QWRDakhma1pIdHgxUFV6TWt2Z1lWc2Zldm1PYnVTaFNTN0tjc1RtQnQwWVdBUk9yZ3RGd1VvR1pYcVo0VkFKblJaVGprR1AxOXl0S1lZY0ZsaEF3RzZjdWtxbURJSEtoSUpGM3h4bzNUdWZ2SGpNZG5vM1lXU3AtNUVpN0VLalR0dmtUNE5UemY4R1VUWQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Price Forecast: Market Analysis & Trends 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmRrdjNscnZnLUh0LTJ6Z3BhbmNQSEdTRlcwaFJwMS0tS1pISmMzcVdqWVlZOWwxSkR0aUJWRG5HSU5PczNuSFFHakNtZnlJalVxUFJaRkQycTlxeDIwbk1PM1RuVzc5V1hJQlpnWmowVEU0SGVXQUFqSWNfNHBpRTlnSWU1Rlk?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Infographic: Latin America\u2019s top miners may surprise - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGJTaGNkTXZiTHBmc3RNem5fMlQ3M290NVp5LUpTSjRacldSck5hYkNBQnZLSElWQ0hxMlJEZlJQSDhpOXZ1Nkk0SkdiUmVGUkU5SHYwbEtkZGs2ajZURVBDcFdWYmdyai1HNU5hU2NxMkNPYnlsZ0hkQXRPbmgzMWFNSkZSaFMyTnVhMldHZXpEWjZBWlQzS1Bma2M5QQ?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Clad Steel Wires Manufacturing Plant DPR & Unit Setup Cost Report 2026 - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUFSc0hLVlBnb1JJYTM4ZV9IdGpJcDdvY3FEd2YyR085bGRlWkFYWWZMQ200akJnVEN5U1lrQ1k4NkloSjBiZlQyVDhFV3FMR3VjekdBOTB1bEJwdTBua1c1MkVQRUJ3d0JDeEdzLUt2OTlJV1luUXJmVGdPREZRY0kwMHVybHRFZXg1NTNvTzJUTWZlVDZLd20xRkREY2Ux?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Blast from the Past: When Chile nationalized copper - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVZfMEs0bGd5MU01YlpJQmJfaTZIanpBZTJoWmVFeHJ3U0EwZXVPM2ZkWjM4eHVtdHBRa3RacFRnSlYyN1kyWXl2ZDJ2RFVlVHliN0JiX2lHNnNPWGVCa21PdE9SemFWMEx5OTZoNzFUeVBaZ3MxN0ZpU3g2bURfNlo4Y25tbTBPbE4zRGRIN0NYSFp2MXI3M0pfZW02dw?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Aggreko And Harmony Gold Launch Australia\u2019s Largest Off-Grid Hybrid Power Project For Eva Copper Mine - SolarQuarter",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3pMVFBJM2QyLUVMX0ZlMkZ4Z2pKYjk4WENWOTRwQ1JtN3ZyLWtjamdlT0Z6N1FsVmRzVDFZTlhxbWNLRC11dEhXQW9SMWk4dVE3bTRpcG5xbUNOSjk0eUc3clVfNXhMWmpRczR4SFZMSGJYQkVvS29vbUU0S1M1eFpmdzJmZm1mMDNkOG5pZ095R3lxaFBjbzNWODRNcjdDbEE5UFNlQVFKQ25FaHlDZXR0LWwtcEpUN0E2OXNpRndfbHphZXdEXzJKTkN0eHo2dmdN?oc=5",
+                "source": "SolarQuarter",
+                "is_premium": false
+            },
+            {
+                "title": "Kemcore plans Africa-based mining chemical plants in bid to cut imports - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzhzVllPWlg5N19IQ2x0RU9wOTJLR2FjdW9hT0RTZS1QLUdYcjctbWxxTDdXbkxaX3V5UEM1elVLWWJER1ZKLURqMDg5VUR5NV85bElHZ2pvS0xPd2F0NlVuc0JSMG00RjB3bTBZUVN0cFA3RTJSd1dyQ2w3dWhlV1c2Z0ZXY0F5eExZSjI2VlVfVkpubGc5RS1YT29pNGJPNDg0Zk5qVzhvMmlFUU1kb3dTeXI?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Capstone Copper Sells Cozamin Mine for $400M Growth Capital - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkFfMzdERi1KeFBISlFwUXhkTnVRbkNrbGFKUnY1V0ZUNjEtY2tsenMzcXQtXzlhV0E0VE9RclJmMGQ1MmJseHdJcF9pdHRiQTQ5WWl3N2RCV2lUajNKMkJ1Q1pZTjlZQ1Q3WENkMTFoRkJ1alRmOUtsUlVCYjdsRkRmanNhdjF0SkZhRzNlVzN2Rk5O?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "One and One Green Technologies Details Debt-Free Growth Plan as Copper Demand Surges at YDDL Conference - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdk1BUG9jU1YwVElDYV81TzJoeWtKUFJFS28zcjR4eW1LLXFLejRPOUFOamlsWEJRbU5xRnVIMFRUdG5xVHYxZWN4SGV0ejFNejBqb190NWo5QWlVQ0ZTUUVaQnc3ODJSeHB4TG90eGZBR1N1UFdNNWFlTWFILWRFeU9TLXZQSjNXbFJlRnVuRkNHWVFtWC1CWHdkZTdKZl9HR24yWjJiUQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Best Copper ETFs for 2026 and How to Invest - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpCMG1GQ3pyS3Etb1lMWEd4S25sZkltQ0RpX0kyN0x3SGN6ckdDaTdUWjVKZ2owZUMwcDRqSWUzckN2dWlGcmVjZGR6TWtuS0s1azh4WXNWUVJoVzU4QlMtWVRDZGo5VXB4UUQxbHRWUURXbUZSVTFQQzFWc21tUlhIYUEzXzEzLUNrYlB6eko0N0drRmwxUjc5VE5XRjJ4eEQwNlpmME5MUHBP?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            }
+        ]
     }
 }
