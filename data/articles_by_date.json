@@ -8563,5 +8563,54 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-12": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "It\u2019s been one of Wall Street\u2019s most heated AI debates \u2014 and it may be totally missing the point - MarketWatch",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUjFIMHUyb1A0LU1fMG4tV1oxU0Q0a05Bc1U4XzFqeGpxZ0VlRHlTTElKSjBIZVNqNXJEOVBFa1FmazZNYzJuRXdEYzJnbFpMa1F4QVNaRzd5aXRUTnZvZUZFWXdRYjdYMkYycWRiajVTZ2JSaktxX0l0czNZXzhWd0JVYjBuQ3F0Y0l6UkJUN2tkbUVoRnp0Xy1oMV9PekY2NUFfU3dtQmdvVG5peDVDT3M4UFJ3UDdlSXRSVV93MGpXQ1hMVnNRbUdJcjBJeUk?oc=5",
+                "source": "MarketWatch",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Market to Add USD 168.1 Billion by 2033 as - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEhBaGcwdkI5ei03SnVuNkFsV3J4V01hLWRFcTRYcWU0ZjJFeW5DM05lX1NxWU94UWFlZzV4TlR2dmJYTC1zU3cyY1RqN1pKcWlNWlRzdEtLR0FLT3dvcXpXSWhvZmhpMFp4OFJKcG1lTWppRnJKODRvTW9heVBnV0V0cDVNQjkwNy1TbTFB?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "China to ban sulfuric acid exports as Iran war hits supply - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanIxeDJSd3ZodzJpdDNxRVVzUGJ4VlpyTXo4a09QX2E1bXRyX0Q2TGh2VjZSRDlNSVpTQWViVFFSLV9BTUpsSkhzWDUwcEJHWV9oZ3pwdkFQVE55QTNhN1A1M1VsTEJXSDAxRi1HUzIwb1Y5X0RuS0twUzFqbGwxcnltWnRReDlzTzIyQV96VmpMczJlLVhr?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper output from Codelco down nearly 10% in February - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDdTSnR1bVoyWmdoWXRRdTYxaU1fd1pFaWdwem1RT05PMERTWEVudU40NFQwYlA2RDdzYnpVNjJYWVphY1dNS1EwY0lwSHh3eVE1RWNVckpENWgzVWVZMERHUnZNVTQ2Yk9EOFpGYl96Y3dlOG9FeFVlVTVwZGR0YUcxSmRvVDkt?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper claws higher to three-week peak as investors balance Iran with Chinese demand - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRXhOcm9FVGtOdEJRVERMa0pDSGttemFQTGRZclFycDJueXZWc3BYODh5Y3BZVEdtQTN0WXFLVjlkQnNKYjVISFdTTERTVkJXOGZuTDRYczYzQ2RBY0NUa0c0bGVXeTZQaTNNU3h1WjJpTm05ZDFSaXJpT0Q1TWMxN1cxNjVxSUxNVFpOTlp3QVVpdmlQc2dHX0lpam9GUXNaT2Iwb3YtcXpMTks4bWplZEhOUWlmZzhxSzhJTVpfSzVwT2JKWE9nUmUzT0VUR0VvbzB1dGlWVXFhZmtleUNKY05QOU9vWWJlZmRNSGRmVUpNOXfSAfgBQVVfeXFMUGtZLTgyVDFuVFRmUTgwTXFTRjN3amkyZUxPNFdsUEc4MWc3WVhSLWtkZHpJQjNnRjZFWXFqZVVJN2lxMWt5VTJXU1RScHVaa1gyeE9TbHltN3BCYk1CMThISFhUNGRzRExXb0lQbDg4V04wSDB0NHdVWFQ2dlJLWExUYm02VVJUVnFoek43bFBmUzJldVFKYXlwMW1vRXBuS2xWSURJTUhBTk9DWVN5LV9wa3pOWElSTUhHdzBZdkttWnYxcFlUWnhfMFlyaEtGbzY5ZkszY1RMcVFhZWR5YTlYVzdyRUVuNEJMakFkMTN1YVV6QXFEQmY?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Big trucks and machinery at Chuquicamata, world's biggest open pit copper mine, Calama, Chile. Mining Operations at open pit Copper Mine near Calama, Northern Chile. - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPOHM0VE1NVzVqRkFCdVU1REdBaDI2d0pGa2d3dFhoWDNUN0ZZMWt0R2ZPd0F4ekxJTE5rUTgzd19BaS1SU1Q2VlB4ODRYNHVwQnRaNURaTmNxSlZaWHAyaEI3Sm9XR1lwQVFkSEI5S1hEUU1SdDN6NFI1X2p5NFBXSFR1RDBiZmZxdUN6RnRBaUtxb2I4VDN5WnhvTFk4WUdKdGxITWkySU9yTmZkWTNiaC1GdmtxcUlGSUw3MW03c1FLM2RkU2MzeEhGMjNOV3ZSNzMtWEZqTGpGdzh3VnJrTG5vQ3ZRdEpwaU1DYlZWMHAwemRXeDZQajBnOV8xRG5ZeV83eEpsMzNXQ0lPM3Awcy14Wkc5cnhmUU1pMmIwY2NvYXZ2ZXZ2c1R6UDF2cjg1aHROaWZSd3Q3UjVGYVR4TEFWZG54cmwzazZYU0RSYUswRmFJakE4VzBUSFQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "tia-maria-copper-project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmdCdDZDQTQ1RGNacFZLM3BoeU9zdjQyenJTTDM1dFBkQ0Z2bzZaQ04ycWRZSVdiVU0yOVpzQm5fT1ljNU0xTmxaLV9ublczNFZ1ZlJLVmlKNG9qemtSbG9uc1dOSU1mdlZJbHplb2NqYUF1QkROeWU2UHBrR0NNejJSejRMSUljLTJVWDJtUVVlSmFSLWY2MUZ3Unl3c0ph?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
