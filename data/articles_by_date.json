@@ -8612,5 +8612,30 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-13": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 3,
+        "articles": [
+            {
+                "title": "First Quantum\u2019s $5.25B Taca Taca Argentina Copper Development - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pd0M4UjNIaU1pQTBELUx1cl9HcDRrZlVpUUV1S3JHU3dGRlNsY21rUElFdFBuMkRpVjVmUHBCaTJfckZrc1NVR3UzVXRLUHlyUG9yTElhR0t2S1Z3d1lIQm1uVmR2a3M5UmtEQWxMY0c0dEx4MU9ZN3g5SzkzZE0?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper: No Resolution To The Peace Talks + High Inventories = Destock And Lower Prices - Smartkarma",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0xlbVpNY1U0Vk5saHFCOXlkWWZORHQ4Y0s3b3o0eXlkNzA3NEw5V09EMGJIV0ptZ25iQ0tENGpTYzRLSmhud3JTeTA3bUF5OW95NDNPWW5Wd3NNUmVseXlvVXhoRzkyTWlDanVjUXpscFZaZnNFdTRUcGoyM1ZuQWxDZnFTTHpqX1NIdkJqaTYzRmZEYldhQTlCVFVjUjB5MHFoYmFoZmdjc1JVWEhQRzJqNXFiZldEd3hCYUJnS3RaVVpUX19EZmVGTlNLZTBIeVo1c2YxNURBT0Q0cS1tTlJR?oc=5",
+                "source": "Smartkarma",
+                "is_premium": false
+            },
+            {
+                "title": "Peru orders new review of Southern Copper's stalled Tia Maria project, cancels okay - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHIzd2xva3l2dm42RkNHOVFTN0t3QThOMC0yUXJGOVRDSlREbWdFbE1EeTV3ZURmX2JnWjYwYW1Ob2ZSc0dWS2RLamtXeDdmV2wzUzRZMzMyUXlOX0JwbGxydkx2cW4weTNaclFjSW9DRHhWMVdodmtGTldhUDBUQmhBcVFobW1OcnBVRDJOSUNkd0JmY1hIeV9FWm5qUlNmemk5UkJpYV9HZTBZUnVKbXRrdkpTbVNuYVFldno3S2ZPVzVhZjMzbw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
