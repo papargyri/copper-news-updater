@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-14 07:25)
+
+- **[Exclusive: Congo copper and cobalt miners cut chemical use as Iran war disrupts supplies, sources say - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2pUTDlLNzVDRjM5T2s4UkdPZm95TWpZNGhwWlJfYy1YblFTYzNsM2wyZVl0aEozYmlzT25jMlpabTRPbFFHT2pDODJYWnRDSmc3aUdxVzNNcl9SUWR0aV9maDU4WlBqdGtiR3dCcUhWalljSmxTY29GQm1TeDJMRHRBY19xT1MyajFVM1J4MzI1ZlNTWkxSWXpuY2U1T251WDktSno2NzJUTnlyMHltY3ZUYTBhUndsTTN0T0tQRUNvNmtTUFE?oc=5)**
+  - *Source: Reuters | Date: 2026-04-13 16:08*
+- **[American Lithium Minerals Inc. (OTC: AMLM) Increases Strategic Exposure to Chilean Copper-Silver Assets Through Additional Investment in Aeramentum Resources – Company Announcement - FT.com - Financial Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM01PeWl2Y1FCM21SU1A3OUpoeWhtQnFPenhEQ2dQYW1zdVJ0WnRpZFkwZWtCcTFZZjRGM3QyWlliczFwYTdPR0JvUm01YVB5bVlDTXdPYWRhZjg4WkJ5UkVfQkdXb0F3ZWo0TGNPRFFnOGs0d3JNVWF4eXcyc082dU1LMzVmZC1LN0dTeG9LZ3NtTXdFVmVteg?oc=5)**
+  - *Source: Financial Times | Date: 2026-04-13 12:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-11 06:57)
 
 - **[China Moves to Ban Sulfuric Acid Exports as Iran War Hits Supply - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmUyQkwzalA1SXFITldzWlVOVm1WNGZpcUZfMktBNFBaM0dvY0Z4YXI3OV9CZGQtRWJxbnpkMHBJN2RIVmVWMi1qMjF1SVRydVliMF9zYzgwVG4yRmN4OGhhaVNpTzJZa2FZMXdlc0lEblFIWGRGM3lBRlFZNEoxN0lXZWMzY1dhR3diYlZlR3djalBFRUFWNTJVdkE1T0lKdGt3LU1VQVV1dXBpRVBpdWtyZFlEdw?oc=5)**
