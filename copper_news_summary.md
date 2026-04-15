@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-15 07:26)
+
+- **[Copper Erases Wartime Loss as Traders Eye Peace Talks and Demand - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcG42ZktvbldmMzVfMGt0WnA1UUcxU2ZNQVF4WVE2bFlyRmRUWTdXYmdRak13VkRCanZiNzlkOXJzMlhqVWJLR2wtbVg2cGlNNWdpeEtvdjBidUx2ZGVQUWJxRF9LSXZYOWFaRFBvelNseWtxUGJ3bEN6ZEoxZUhucDQ0QXZaVzF6NkwwM05QXzdZMjlvakFHNkNxMHdDU25Xc3RoRjlpc0JoTjNqRkNGdWtRTWs2dw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-15 05:06*
+- **[China copper smelters may press ahead with production curbs amid acid export ban - Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxORWxFSmFOdzBhMkZmWVhtV0ozdmp3cFFnMDBYV2NXMk1XTmJrdHlNVjNSaTRUa1RhUVN4N2NVcnFPXy1MVTJZaGZYZURHb2FPWU5Xam9tWHJqcTZsbkdXajFVRzhFTGxOLVlhNG9QeUhLTEl5WHZuZE1ERFBkd3JnZ1IxLXFjb2xYblpuVktSXzd5bUlHLWU5bTlOUHlIOXY3RENUY0VOLUpuLWFxV25Ud0puRlZveXFfbE96NUtnVjlLcXhDd0ZOYUlrRmlKekJO?oc=5)**
+  - *Source: Reuters | Date: 2026-04-14 10:59*
+- **[Middle East war drives up Codelco copper costs in Chile - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWtLUWQzbWZ5dmhJclROdDVtSVVRV0VFcjVLTmtyTVVwUk1SdFN6RGtxeXdfcDNGTUhHMEJXY1NsQWM1SWdscmVRbzVhYTE2WWRybjFtaUE0RWotU0V1cnNlbkpTbVlfRzBQeVFBWjN4RVlNUGR4Q2hHV2EzNXhYLVN6WXloUjlUd3V3SFY1bk1BNFlBYmU4a3pzXzFmSjJtbDZIZ2Rn?oc=5)**
+  - *Source: Reuters | Date: 2026-04-13 19:07*
+- **[Exclusive: Chilean copper miner Codelco, contractors fined after deadly mine collapse - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHViQmFhdFRsOF9yT3RMbDlYY0NpYkJfQmZEbTJCN0ROblppOTNmV2hvMG9xTVB6ZE96X1RDTXpRdjBrR0ZaQlVjSXFtREk5N3F1S2dLOGVkYzM2XzJReDdhaDdFVzc3aVlfTzc3VFdieEc2YnN4WHhRNW91WnoySGVpZjMyX0xjZEVFZ09Rc3Fjb0dMTm5HWW1EQlF2MnZSVUdiRmpoUGNqUGI2WUhwaW5TTGFkVEtxMVY2RWozejNGUQ?oc=5)**
+  - *Source: Reuters | Date: 2026-04-13 09:05*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-14 07:25)
 
 - **[Exclusive: Congo copper and cobalt miners cut chemical use as Iran war disrupts supplies, sources say - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2pUTDlLNzVDRjM5T2s4UkdPZm95TWpZNGhwWlJfYy1YblFTYzNsM2wyZVl0aEozYmlzT25jMlpabTRPbFFHT2pDODJYWnRDSmc3aUdxVzNNcl9SUWR0aV9maDU4WlBqdGtiR3dCcUhWalljSmxTY29GQm1TeDJMRHRBY19xT1MyajFVM1J4MzI1ZlNTWkxSWXpuY2U1T251WDktSno2NzJUTnlyMHltY3ZUYTBhUndsTTN0T0tQRUNvNmtTUFE?oc=5)**
