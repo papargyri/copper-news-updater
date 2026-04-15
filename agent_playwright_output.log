@@ -1,0 +1,12 @@
+Submitting as general in Φλώρινα...
+Error: Locator.click: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[contains(text(), '['Αρκετά — τα έχω χρησιμοποιήσει']') or contains(@aria-label, '['Αρκετά — τα έχω χρησιμοποιήσει']')]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:6091:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6789:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6776:30)
+    at eval (eval at evaluate (:290:30), <anonymous>:2:35)
+    at UtilityScript.evaluate (<anonymous>:292:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//*[contains(text(), '['Αρκετά — τα έχω χρησιμοποιήσει']') or contains(@aria-label, '['Αρκετά — τα έχω χρησιμοποιήσει']')]").first
+
+Waiting 1205s...

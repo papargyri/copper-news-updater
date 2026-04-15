@@ -1,0 +1,55 @@
+/Users/lamprini/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Success: student_skeptic in Κοζάνη at 2026-03-19 07:42:20.064633
+Progress: 97/450 at 2026-03-19 07:42:20.068398
+Waiting 824s... Next at ~2026-03-19 07:56:04.068428
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 867s... Next at ~2026-03-19 08:10:31.655877
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 887s... Next at ~2026-03-19 08:25:19.229315
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 866s... Next at ~2026-03-19 08:39:46.004693
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 858s... Next at ~2026-03-19 09:04:53.590857
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 724s... Next at ~2026-03-19 09:16:58.264330
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 729s... Next at ~2026-03-19 09:29:07.978454
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 747s... Next at ~2026-03-19 09:41:35.405461
+Success: student_skeptic in Κοζάνη at 2026-03-19 09:41:36.074036
+Progress: 412/450 at 2026-03-19 09:41:36.076099
+Waiting 758s... Next at ~2026-03-19 09:54:14.076118
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 822s... Next at ~2026-03-19 10:07:56.507287
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 825s... Next at ~2026-03-19 10:21:42.067119
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 819s... Next at ~2026-03-19 10:35:21.581357
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 733s... Next at ~2026-03-19 10:47:34.991050
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 872s... Next at ~2026-03-19 11:02:07.396339
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 790s... Next at ~2026-03-19 11:15:17.940777
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 870s... Next at ~2026-03-19 11:29:48.496812
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 840s... Next at ~2026-03-19 11:43:48.990682
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 744s... Next at ~2026-03-19 11:56:13.412908
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 799s... Next at ~2026-03-19 12:09:32.830485
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 732s... Next at ~2026-03-19 12:21:45.340685
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 769s... Next at ~2026-03-19 12:34:34.876398
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 782s... Next at ~2026-03-19 12:47:37.434601
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 865s... Next at ~2026-03-19 13:52:12.743024
+Error: 400. Snippet: <!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link rel="shortcut icon" sizes="1
+Waiting 879s... Next at ~2026-03-19 14:06:52.214206
+Success: student_skeptic in Κοζάνη at 2026-03-19 14:06:52.785244
+Progress: 447/450 at 2026-03-19 14:06:52.786150
+Waiting 884s... Next at ~2026-03-19 14:21:36.786164
