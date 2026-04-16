@@ -8975,5 +8975,102 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-04-16": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 15,
+        "articles": [
+            {
+                "title": "Research breakthrough could reshape copper processing - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjdSdWRtUWFVd0xHeWRITlFkY3JLaHpRMHFHcFVQbnZ0dWVpa2VYeklNUHhzeDZsdjFxaENOZVFUWEF4TVZSZFVNMWY2RVZ2ZTlGaU1QLXM0OFlUQzd2RXBWS0dLeEVuN2V0YzUzZEpFMUo4VmJHRW0waTA1YzlJR3NrLVotd2trVWJVQw?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco fined for six underground mine deaths - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fRXNkWmN0ODk1dHMzSnRDTDViem5Wd1JUN0VfZXJZOFNBc3FjMVRyMFlLaVhjZ016Sms0b3pqYnRMYThBWEMwTVlFenNoSm5rNkZNVXZoTHQzb1M1d1JhUVVHTEVVNzdnOE13UFhxcThhM1VEd1RF?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Minnesota mining industry pushes for critical mineral projects - Northern News Now",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczlLNDlSWjRjSThxbEg3QXRFZ2FPOG9jSmdvRWcwR1AzbEpKajk1WVJLWG5hSlp1QlRVTXUxdFcwOWhxOHhHMmJNV1hMS2V4Qy1qT3laTHRRTzV3bFRhSHQwcmprZzJ5X2hPUDU5bUlxNGY3VWVOWF9za2ZGbEwzcnBrTlBwblpIZ3k2RjdZdXhLaFU2WUZYc0thTGp3YWtDdVdCVtIBuAFBVV95cUxOc2lUNVRDRGNQd0NJZzNKVTNzYXdNd2Rod05Qa1hqci1HUHVNam9Vei0yOHV4RWZoTE9RZGt3NHdCNXBmNmtxbm1pMmFaeFlxNEpfR3lueFk1bHRFWENiMC1xUDhjNGItWllrSE1Xdzl2RWN2d1BvM21FTmJFd09NZS1hdkNQS0p4U0xDUkJaeEZUaE12NEtISXc5LWhMYkxXV0hJT1hpb2tlZVZLdTlKSlhqSEc3MHNC?oc=5",
+                "source": "Northern News Now",
+                "is_premium": false
+            },
+            {
+                "title": "KGHM seeks copper mines closer to home to reduce logistics costs - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb2ZudTJHR3lxeTB5YlRoampia0x3VEpSUWRQcXNGQ1pCSXJMVEppbW9NX3Y3TWxwNEdCUmpESkRLZjVHLVhsZHRkeVAwRWc0clJhSDBjSVBJendic1pWOEpiMUllRnc1OUpUNUVHbmx3RHFoQ1NfbmNxcHVxWV9KWGJidUlFbGdsUHlpaUJETlFzR01mRHpj?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price forecast at $5.75 in H2 2026: RBC - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTRudXVfSEs3SU8zdUdMOW1tYzZWTldzZjBESEZKOVRreThmOUhRbmlLUi1jZU1RSXRpTWVVU0ZHZE9wTzQ3MlZyWERSdlZmTVZfYy1JY0wtaTFIVDBYdGxwaEpiM3JsLUlIUWRCZkZNbTFfMFc2RFdRNENnREhxNUFPYjNIN2Rpa1dZME92dTBSZFd1OEUzOU1iWjFNZS1sOHFOdmp2QzRuUzQ?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Ivanhoe holds 'captive audience' on Congo sulphuric acid market, CEO says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkI0SXFtVVNzSDlObDJnbHZaUWJPQklXNTl1eHQ0ZDY2dUMwbnJNSlpOek1LMFNpMzcxX2V4UEZMZWdJRDRYekVVNzItRzdZSzZCWnZWbVdGalhuZ2xvOEludGRuSXVxODh0WDVIdmdpUjlaeWdnSzA3OFBTWXljUlRxdkpLeHJfZVp4Q3lOOGVBcnFFZjRrbi1JOVRQRFZ1SEVMMWh1YzkxdFBTaE1oak1ILXVEZk0?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Antofagasta backs 2026 goals despite copper output dip - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWdRQVk3U05sTkI5cGtiOEdvOEhhOTRocDk4NFVLT21pSjlLSkVmMnRiRzNMdC1nOFhNWERCNEc2VENOM1Vib043eGVRU1J6elAybjZJWEs1eldwR3N6bUlZcFhjRXpCekRoa2twNGc3ay1XbVdXNDB0cWFpU0JiQkMwU20?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco in talks with India\u2019s HCL for Chile copper joint venture - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTTZFVmNjX05PMnBWaXVrOGVQd3l0dWJoV3N3WEpOTFVfYXdIUi1ER3RpZkVSdlE5eHFEbExpOW53N0JES1YxVWU0T1NodHNRZ2dMdUhlQlR3VFpPbDJ2U1NoaG9uZGtZNlJfY1VmNGZKeENtbklOb3loYVNXY3poZnFQMmtGaldPUy12ci1BTmJKQUM4amc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Outlook For Copper As Supply And Demand Disrupted - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGxvME9BeUFWbTQ2T3BOc3ZQR0dHVmVuRy1hSWc3NTZQVXdTMjJmMDktS3ZjNGVjT3QzTlJMay1sM05iVWZLcVp2aHZiQWRrMkhhMmNBU09UZ3Z0MVBHNVRQYlhueEdoWFAydlVtMHg5Vl9XV1VydURDemNOMm1fY1VZaGhxZw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Africa\u2019s copperbelt experiment grows as DR Congo miner boosts US supply deal - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDdrTTJmOTlyUDgwZFAtdWdLaDJoZDVOMlVLS3Q4enMtazMtV09RT0o1S2ZEOXJueXNGT1BNcW5pbTFicGRid1hYa0RVby1TWDV4V1BnNXl6eE9yQnVnVmJFYkVHUDlRVGhzUmlyemFxSzZhYUQyVmdDN05oUGgtaFZVNVEwZmhuRThfSnM1eGhFS3Vyd1c2cTlWVnNhWUpsUF9EX2ZOemFpM1RQa3VYTE0xTnZDUUh6SWFteXNOSnJtdWNZNGRJZWhkcks?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Market Set to Reach USD 362.28 Billion by 2032, Expanding - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXpURVc2VmNoLXZRZFNvdi1nY1dRSFF4WVNUd2JiRW1fSUlPald4N2xDcHpzRmhUQzVHWGpxMjA1NVM4a2FyMlN0dXJhZVE1dF85MEVZai1FcTZDVWZaX2pyR0FJNW9XOWR4Y3hCTnlsRWtLOXhRTExCSzEwbmY4Vk1pZnVPZmdjSG5aNVlnOXFYd290OUJKbmt1Qk1aMnla?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "ABB awarded contract to deliver grinding tech for Harmony\u2019s Eva copper project - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWdEb08tUFUxWk14WTBhUUkzLU9NSHp1ck52cHNqQVFsY3hrX0hlYklvSVo1Q1FuUHJxWU5EQ0J4Z2syZnA5VWFXMlRKVGNxQjBUT1A3Z3g1eEU2VkFrZUpHUDlhdnpJVG43ZkF1OWpqdFdmMW1wbUxuMURtRjJxSnkycUtFSEZSTnVJR2NKMGNBdlpyUm1EcVNPS05BZzZCVTB5MDNDS3dWWmtYRHk1RldLdGJFbVMzY0pqS01yVnl5Vnc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo Asian achieves meaningful copper output increase - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczhRRVdabERGdk9WczVobGdOWEN5ZDJvT3RNMFVHR21FYW1XZGNmMXllbUtmYjk1UVczb21SYnE2bkVVa2c0ZHZsLTVzcTNFSVpQSFpMUnkyY1Q1c2I3MFdDMWplWmlNdU1XWGlOZEs0NzRoQ050ZlZNc2M2ejZuQVJiWk1MOU5UdjY5RWNDVm9KdnRocjJYOTVOd0U2ZVI1ZTVadA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Sen. Smith & Klobuchar Urging Senate to Reject Mining Bill near Boundary Waters - Northern News Now",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSDAtb00yaU9SNXYzU1RSRzd0ZG1qZTQyWFM1UFZBMUF5QlZhcHF6UU83aEhkRjZWWEVmZlU4Y21aZVZFTk9tU0Y2YTZhTmpwVnFUNm5HenJndTdtbGpURERCZC1mb2l1R0luZDd3c2I0dk04V2k5dUpLcXBYaFl5RkpBaWdGd2VTdlBZMnJfR1doU2N3cmhTeHlHVGRuOE82QmJmRmRxMklBd2pfV2dPdHNKMzlMTWNV0gHMAUFVX3lxTE1fOEFkQXZMa0VVRXdNSGlrY1BTVmxJeUQ4azB1dHFQNmFTd0pBN1BwekhWSjQtSmxYNXpWbXlKcHJWZWpSdnhXVGVsLWd5bnZ0cXJ3N0ZBSjQzQ2NQem9INWVxVkFCbEI3NTlHWkc2ZjUzUWlZRnVlc0tpR2dMZkludmk0bk41VkhvaVMxR3BKQzZBbXNwYnlkQmlFYldSR0hJYWdGdXdZTXJ4Z0tNMlNwOTJBa0lIUnhobGpvQVMtTkdIcTJLdWFLTmRjeA?oc=5",
+                "source": "Northern News Now",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Rises to Six-Week High as Iran Talks Hope Aids Metals - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXJJTWZBeVRXOTJ2NWFlOWdsTTluS25GbzZscU1PaVZBb0w1VEpjMFVlMjVQaWxxNDJfVExpQVlSWXRpNkc2NkJVbk1iZm1XcHZNNjVjVlhzaDBMQW1KUG1GS01EQjNtNWFNRUlZcmd5NWZjdXc4aEJsajNucTlSMlFyQVhkZUN0b2sya2F4VzJZdURnYlBHcnF3RHpHMUN6YUJUT2hkNVB3UTFZcTU1RG5n?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            }
+        ]
     }
 }

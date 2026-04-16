@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-16 07:26)
+
+- **[Copper price forecast at $5.75 in H2 2026: RBC - BNN Bloomberg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTRudXVfSEs3SU8zdUdMOW1tYzZWTldzZjBESEZKOVRreThmOUhRbmlLUi1jZU1RSXRpTWVVU0ZHZE9wTzQ3MlZyWERSdlZmTVZfYy1JY0wtaTFIVDBYdGxwaEpiM3JsLUlIUWRCZkZNbTFfMFc2RFdRNENnREhxNUFPYjNIN2Rpa1dZME92dTBSZFd1OEUzOU1iWjFNZS1sOHFOdmp2QzRuUzQ?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-04-15 19:50*
+- **[Ivanhoe holds 'captive audience' on Congo sulphuric acid market, CEO says - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkI0SXFtVVNzSDlObDJnbHZaUWJPQklXNTl1eHQ0ZDY2dUMwbnJNSlpOek1LMFNpMzcxX2V4UEZMZWdJRDRYekVVNzItRzdZSzZCWnZWbVdGalhuZ2xvOEludGRuSXVxODh0WDVIdmdpUjlaeWdnSzA3OFBTWXljUlRxdkpLeHJfZVp4Q3lOOGVBcnFFZjRrbi1JOVRQRFZ1SEVMMWh1YzkxdFBTaE1oak1ILXVEZk0?oc=5)**
+  - *Source: Reuters | Date: 2026-04-15 18:47*
+- **[Copper Rises to Six-Week High as Iran Talks Hope Aids Metals - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXJJTWZBeVRXOTJ2NWFlOWdsTTluS25GbzZscU1PaVZBb0w1VEpjMFVlMjVQaWxxNDJfVExpQVlSWXRpNkc2NkJVbk1iZm1XcHZNNjVjVlhzaDBMQW1KUG1GS01EQjNtNWFNRUlZcmd5NWZjdXc4aEJsajNucTlSMlFyQVhkZUN0b2sya2F4VzJZdURnYlBHcnF3RHpHMUN6YUJUT2hkNVB3UTFZcTU1RG5n?oc=5)**
+  - *Source: Bloomberg | Date: 2026-04-14 17:47*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-15 07:26)
 
 - **[Copper Erases Wartime Loss as Traders Eye Peace Talks and Demand - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcG42ZktvbldmMzVfMGt0WnA1UUcxU2ZNQVF4WVE2bFlyRmRUWTdXYmdRak13VkRCanZiNzlkOXJzMlhqVWJLR2wtbVg2cGlNNWdpeEtvdjBidUx2ZGVQUWJxRF9LSXZYOWFaRFBvelNseWtxUGJ3bEN6ZEoxZUhucDQ0QXZaVzF6NkwwM05QXzdZMjlvakFHNkNxMHdDU25Xc3RoRjlpc0JoTjNqRkNGdWtRTWs2dw?oc=5)**
