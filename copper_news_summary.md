@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-17 07:27)
+
+- **[US Senate narrowly overturns Minnesota mining ban, sending bill to Trump - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTN2MVEwcS1vV2NOcHlMSEVic2otbHVKeS15Y0pVa0MzaERtM3FLbklfSHNZMHRWZ0JHWV9wWExQemNZeDg3TlRTa1VqM3FmRXVqRVJyOWYyZFpXVEItbUZwQkV3M21HZUgtWnpQbENhSWEyUFlSME5pbVJUUlVqYzJ1eE5jS3NvamJyUk9KOFcxVnAzczZ3N3ZQMVJILTZ2eEw3TjF6NWkxczlXTHNvemt0SEdRQWlq?oc=5)**
+  - *Source: Reuters | Date: 2026-04-16 20:39*
+- **[Codelco, Anglo pursue twin environmental approvals for shared Chile copper pit - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUU9BemF5VUx1R1RNdnBic0hYYzQtV0ZWYTdSWU5meHM5OVBjcEI4dTFpTk80ejQ0TXpFeUp6Z0ZlNnhmSlVoclhPU3Mza2xOdTc2RmpjZFAwVHdaWW1Lbl83Tmk5NUJpLV9sQTgtRFBNWTZBSkNsMHhLN0dTVndJU1ZDQnU1T1lQbnNkTHp4MmJMQXdHUm5jTjBGX2tkZzRIMHZtVlZ6RVh6RTR6NEV1TWFyZnJVRGRPanJETEo4TEM2d3c?oc=5)**
+  - *Source: Reuters | Date: 2026-04-16 17:09*
+- **[Senate Votes to Allow Mining Near Boundary Waters Wilderness - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjMzT1I2WTVkZ1U5azlJSEE4RDM5UUV5LUo0WWVNdml1cmtKcVptNlF2YmpEdFZ1Z3FIZG4ycFRLUkpyS0FQeWh2REhXdnhfN1FfT0FMQkJnaE5RVHVWU21GdHQwZzdXZ3lnVXNQN2VYNzVpSElUSWVfRlNrMEVlXw?oc=5)**
+  - *Source: The New York Times | Date: 2026-04-16 16:02*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-16 07:26)
 
 - **[Copper price forecast at $5.75 in H2 2026: RBC - BNN Bloomberg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTRudXVfSEs3SU8zdUdMOW1tYzZWTldzZjBESEZKOVRreThmOUhRbmlLUi1jZU1RSXRpTWVVU0ZHZE9wTzQ3MlZyWERSdlZmTVZfYy1JY0wtaTFIVDBYdGxwaEpiM3JsLUlIUWRCZkZNbTFfMFc2RFdRNENnREhxNUFPYjNIN2Rpa1dZME92dTBSZFd1OEUzOU1iWjFNZS1sOHFOdmp2QzRuUzQ?oc=5)**

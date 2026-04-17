@@ -9072,5 +9072,240 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-04-17": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 38,
+        "articles": [
+            {
+                "title": "Rio Tinto\u2019s Montana Copper Gold Deal And What It Means For Shares - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGRqQU5GenVxdGZVMTBPWDRFUUh4QkRhMjNuOERzclJXTmVnZ2NxX211dTJYVFowd1dwV2pPZndEYnNkV3V1RHU2aHQyUVNOaWR2STFuUnR2TmNSeUVWYk9pek5XZ0gtcFpPZHp1RllPSlJaZS1Nck81ZDl4azdReXE4YzI2aHJ6RkZ0Rm1lTnVGekhZdlo1OFNn?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "This ASX copper stock could be cheap compared to BHP and Rio Tinto shares - The Motley Fool Australia",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUZnUkdsb19HV194cEptSUgwQ3BKaHpJeG1lYUt3YjI0TDl2RVEwSVRoa2ptZ01fdXFNZXZIelVydzhKN0lnZU05NlAtQ0N6Q3ZKU29hRW8wYnctZ056WndUTXFPQjRYTGgzLXlBTUQ0dEFiaG05VWlFZ0RXM0ZiQ213T0gzZ01HcllJUEctRmdHQ2xDanpoNGNuSWY2eUV0ZzdJYUNWdUtvcHdTUEE?oc=5",
+                "source": "The Motley Fool Australia",
+                "is_premium": false
+            },
+            {
+                "title": "London metals index at record high on aluminium \u2018black hole\u2019 fear - The Business Times",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGNNMUhRUFBBYXU5WFNGUmtEWTVnQ016SWVVWEd2Wl9MZmJWWEVWV09tZ2cxdTZlWnQ1cExZTjlUV091b1ZTOUhvSFN2RlFoVEg4QUtMUXBoSEVkSnpWQi1vX3o2TUVFMjhYVUFLUlFiRjN0QWlpWWlxWFdnZUJyYlZUeE1LOVFzYlhhdlVCQkhkNS0tZU9sdjRjejI5d2dYbXBvdHVKY0lUR0NvWHZxR1kxOW5ZRm5Cd3R2X2JZdzFvTHVPcXc?oc=5",
+                "source": "The Business Times",
+                "is_premium": false
+            },
+            {
+                "title": "\u2018Intense\u2019 mineralisation found at Tennant Minerals\u2019 Bluebird - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmJ3TEV5cVZtUk1pcjdWZGJoT2FYUXZEakdZdUUzbVRsU1IxWEVYQXhtOUt0SkxqM3B6c0h3YWNJMlJiQXdRX2R1ZGhaR2x4TjNCQ0U3Z2E0YWdiZDFHVHRGck01RnFFcUd4ckRZV0Zmb0VrNjFjenRIdUFiVTlfWXhHT3NCMFk?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Gunnison Copper expands access to strategic opportunities - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0RVeGpRNlpTSmdfSjVJc2U0SXhMcUZwRk85X3VsZzJEcDRSMXNjN3AwM3hHdWJ6bDE3ZS1JVF9WR3dac1Qxd0tyN0dkSWxLLWRTLWNxa3VVb01IMVdveUV4aTRkZ2hlY1FrcjhqZE53Qkk2RUpKQkxGZDY0OHR3ajc4V3ZxU0U?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Congress ends ban on mining near Minnesota\u2019s pristine Boundary Waters - The Washington Post",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkp3N3BaWmswLTAycGJ2WlA3NkY1V1NHVFR3UEx4bWVfT2dJUlZQVmVkMG5PSWVRVS14VFRyOXZ0eDdRUTJVNUJLamVJZXNJN01KaW80SGR2QVgySmlLWUg4X1FzbTE0Zkk2UjAyNE9icFNwcHd0Y2lLRGp0VHl5T2R1OWJJdXF2NlZZdmpSV1QwVXhOa2tIUmt2WnZXSmVpRF9weQ?oc=5",
+                "source": "The Washington Post",
+                "is_premium": false
+            },
+            {
+                "title": "KGHM Morocco Copper Mines: Regional Supply Chain Development Strategy - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcWNwX3duVkFrU2hsX29WS1VfT09Ub29sb2h1anFvRlJnVFdQZERRTDM3ZXUtNzFRM1AwcVBwZzEtQlQtUGN3dVBpdDJoMDRtZ2JvSHR3NzdLNnNrNnI0ek9KYUx1V2otZXlad1RUdURPVEVhajRNNnViOWZhbkcxd244RkIyQURHa1E?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Hormuz Closure Squeezes Copper via Global Acid Crunch - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemFQMk1QcDBHUlpWVjM2c1NPcW5qOGRYYm1ZaFpUV1p3ZjQ4NDZxU25OemZ4YWdZbzliQUppdFAxQndCZ1daWTJ2b3pqVTZNczRVcWEybDdBc2d1RjRXQ0VETFF4Q3VTQXFhc0V3QkVXX3FWYXhrZm56NDhKZVo1Nk1YVXBDMFRhNlk2Y1pPS2J2Y3ptLUZDVGkxbWo?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Twin Chile Copper Pit Environmental Approvals - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVF9WN29LWTdwajkzZTBXbTZGRzU5SFlBcl9SUlRXcXl1MXIydnptU2VoV0ticTVGc1NnaEQzczRzOG9DMzBCZS1Yc1dfdXpoRG1NWWpqZGdtTXcxcmhIYngyVHNRS3hTNXBFRWZUZGlSakZRMXU4RTJUY1AzNnJyUUFpTzJGblZv?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Senate Republicans scrap mining ban in Minnesota's Boundary Waters preserve - Courthouse News",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXhTSWk0VHNHc1NBaTN0ZDJJT25fdW1VU280V0xPdUUzM1VyVllsdDIyMzhKcmoyazY0NDJ5N0NWc0hMUWU5ZWg2MUpmLVBWTXk4U19CVUFqRlJrNnFFbEJaWnh5ejludHpRZU1ENlhENDFBanNhTmV6MWxqTlI2WHRpU0MwX25Hd2lNaVBoQzllV3NuWkRnNHFGRDcxLVFJaXlUeXRWRWlqQQ?oc=5",
+                "source": "Courthouse News",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco Hindustan Copper Joint Venture: Mining Partnership - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazA3NXllTTgyU3Rqb291eWh5MFRGanRnMjA1NkFNV1lBVWM2VUU3SzQtTnFzY1NKTmNLLUxqOERPMGJwSTk3NlFtZzJGMVlOQUxJbEZuR3dDZHF4RGgzTy0xVXhhd2g3RnhwcTh5S1NsanRvWlkzVjVDVlc2ZHd1Y2gtbHVoTDBI?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Chinalco Toromocho Molybdenum Project Receives $700M Investment Approval - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdEtvTG1xOEJBcy1RbEpMR2ctMmZ6bnRGTnkxajhKeHd2b3R3a2o5Mms3aW02bEZfVjIzdzNIdUVEZ2lJU1JkM0x4UGhEbndfb0d0YWxmejJvZGhacjFaMHFZaG1Gc0lrb2gzS2p0QXVHcG1XcHNXVGpIQUpJN2NuRGpyYzlLZE9mNEZYdWlR?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper and Gold Market Outlook 2026: Prices, Supply and Mining Costs - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdTUtSUwxZlJMd3BrMWUwbEExV1N3RmJTaVE4VnV6SnNPV1JuM0xKR1dWby12SXk2bl9HMXhnbEFKaHN1eGZGSkRoMFd0dTdtTUtDVmJGaHJFVGJuUEhucG9FbkI3VEI2RVdNNnp2Rm9HZmhFR1I3WHVVVUhUbS1KdXkxR0ZOWno1bWRNaktnbUtTR1B6U1d1WGxfT0ZwVExJYlN0MW83UWllb2o5Z1FiRDhfeHlndVFoTEpncy1PaU9DNXRmb1ExbjQ5UjVGMjhwZUxn?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            },
+            {
+                "title": "Senate overturns Boundary Waters protections, a boon for Chilean mining company - CNBC",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2c2TzFXc21NQWtoQjl1WWw4Wnl6WVN4MUtpZnlQTnVtZy1Nc0wwVkpfMGZLTUhvdTRMSUcxSkFSLWFIWmF1Z0lhbjN5LXRYaEhmSXlWc3ZXOXphaDVvaG1tU1dKU0VvQW5waU80UUNFVWtnNmJ5a3ZsUnFoSUFvQXZOZDfSAYoBQVVfeXFMTTZmSXBlWnZ6OEYtTVo1SndQZno0WUF2VGJuMHdiNHV6d1F6NGRaQVlxQ2Nqb1BtQURWVTA4Y0g2emZxZm9mQWhKTmJORGtiRU1zYkpVTFdVbEtvRzNsYnFnLV9EcW11WGx6NW40NGZ5TkVfS3AxSERFTXlqUnRoRU5KS3BZbmp6blp3?oc=5",
+                "source": "CNBC",
+                "is_premium": false
+            },
+            {
+                "title": "KGHM Copper Mining Investments in Morocco: Key Updates - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDdnR1M0tBUTdFX3JxZU9IaHc0OElXVmNhSTNxQU5peEFRYmIyTXdEeC1YaC1IYmI4MUdDdUVCVlhZdVpPYkI3ZTdQN0pJcmRyU2hDWHdha1lyWjlpTlU1TDhwendQejVoNWI4eHpkbENBUk1HWjY4Tm9FQnp2OFk?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "US Senate narrowly overturns Minnesota mining ban, sending bill to Trump - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTN2MVEwcS1vV2NOcHlMSEVic2otbHVKeS15Y0pVa0MzaERtM3FLbklfSHNZMHRWZ0JHWV9wWExQemNZeDg3TlRTa1VqM3FmRXVqRVJyOWYyZFpXVEItbUZwQkV3M21HZUgtWnpQbENhSWEyUFlSME5pbVJUUlVqYzJ1eE5jS3NvamJyUk9KOFcxVnAzczZ3N3ZQMVJILTZ2eEw3TjF6NWkxczlXTHNvemt0SEdRQWlq?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Why Copper Is the New Strategic Asset of 2026 - Barchart.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkNJVWVETnNYSWNwRlVxZEluaGdYLXRsdWJKcmNBQXlfWnlaM2xGRXBkbnhVUEw3RzV1TTl3cnB0MldIZGlmX3N1b1h2bms2RDdNeUJfWnNkdi10OWd1bTBoU1VOSTRVZERzTnlsOC1BSm5vR1Z5dFNQZ1Rhc0wzdlIyb2VuZVBlZElUamp6RzRmc2c?oc=5",
+                "source": "Barchart.com",
+                "is_premium": false
+            },
+            {
+                "title": "Favor copper as it becomes a strategic asset similar to oil, says Blue Line Futures' Phil Streible - CNBC",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZjMtUGF6QUQ4RWUyNmVrREN3VWRZNW04Zzk0UDE5V25ib3h6b0VxbHJMM0xrZWxZQm1vMFRMbkxpTUpUVWlPcy1WMFpBSWtVeVBON2hIWW1pT0hMWGxQeXY5b05kVzMyY3V5di1UZmZKZndXcUt5Yml1b0xZc2RaSWZvRUs0U0dEYkl6dlZRMHlrNUdoT3hDR2hZdnAtSHVMYXN5RUNKODhLYUFza1hhODVWM1RTQ3dITDlaOHgyQ05EWWIwU0dJN3UxNVU5ZFpWUHkwZ0pn?oc=5",
+                "source": "CNBC",
+                "is_premium": false
+            },
+            {
+                "title": "Blue Moon outlines 1% copper mine in Norway - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUR4RzEtQUVWZ2xXQVJRUlB4d2xGVU9qdGU5czUyWG5semtOVTZkQ19pX3VpREpWblY2X1EwbzJDZ0hRYlNrODZuUTVPdmp6ZDNrLVp2Y21mYmFvYkxFN0Q2YXJFWXZVY0NxR1AtS192ZmhGNkxzczlKVDdKZk5GVXVNZ1lfSnNpbGNiOHlKOTNVd3c?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "U.S. allows mining near Minnesota wilderness area, with waters flowing into Canada - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3AxbWJxYktNX2tOeTNMYi15WGVaYlFNc3dvRElCTWxPTGxHazI0UmdUanNwNzJiSTBuR0xsNFJvLUFRcll3OUJlN3lGVG43bW9GQzBZTzVaaEFIckJ2TWhrd3ZnUDNvMlJoQ3JDeHQ2bUNlUk51bzFlWDN5S19JYXJ4WWpvTEhpVVFaVW5LMWtWUExEYmc0ejRhWnEzcy1aSEgxa1dZMGthZzQ3VUNaOF9rd080QQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco, Anglo pursue twin environmental approvals for shared Chile copper pit - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUU9BemF5VUx1R1RNdnBic0hYYzQtV0ZWYTdSWU5meHM5OVBjcEI4dTFpTk80ejQ0TXpFeUp6Z0ZlNnhmSlVoclhPU3Mza2xOdTc2RmpjZFAwVHdaWW1Lbl83Tmk5NUJpLV9sQTgtRFBNWTZBSkNsMHhLN0dTVndJU1ZDQnU1T1lQbnNkTHp4MmJMQXdHUm5jTjBGX2tkZzRIMHZtVlZ6RVh6RTR6NEV1TWFyZnJVRGRPanJETEo4TEM2d3c?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Senate votes to repeal mining ban at Superior National Forest - Northern News Now",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbldoX1h3Y1BaTGpGYXpjYWJYd1ZXa0dzVWpQLUNNdmZUNmFkT0FYRGhaQWlLemoxYjQ3TjR0NHhMQnRza2h3NWxKb1ZmajI3STdyYjVyeWVDR2ZhaktNZmpzdG9xS3FvV0w0blhNOHNkR0ZnS3ZDeXowZ0RoZDN1TmxSV3BfR1ltMnhyOVMwUTJUWHl6R2hqbm93QnRYcnVU?oc=5",
+                "source": "Northern News Now",
+                "is_premium": false
+            },
+            {
+                "title": "India-Zambia talks on critical minerals stall over mining rights, sources say - CNBC Africa",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFlRSElBQXhWQW5UNUUtMUhnXzBOelQwamRJb2RQRkt2ZzdRNFEwY0daSDBWWGNrOWRmR2pLMWJLUlBKb2hWbFZ0aklySHozM2dCZXc3YXVzUlhwTkJHNy1UYVIzOFJZQ29UU0ppWFJ3SGlUV242NHVGOEo0V1ltUTFjTl9NLXlCb0tMa2w3WGNFSHNPdzNHMXJyX3A0Zi1ZeVdzWnZubmRLRGpTdXc?oc=5",
+                "source": "CNBC Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Freehill Mining Ltd Copper Project Advances Alongside Record Sales - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUhRY3RLamFHQ0t4TXBzQkNFZG11UFMxQVVwWXBVRC16SkNOTEZwMTkxdGFILW9xenZWN1VyRm16dTFNdF80V2dBanA3SkNwUm41YlJPRkpvZXhJeUxfUmRBQjR5UUJXdXE0d2QzVk1UMnRady1QUlVvdVBqSDNsU2stcHVsUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Senate Votes to Allow Mining Near Boundary Waters Wilderness - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjMzT1I2WTVkZ1U5azlJSEE4RDM5UUV5LUo0WWVNdml1cmtKcVptNlF2YmpEdFZ1Z3FIZG4ycFRLUkpyS0FQeWh2REhXdnhfN1FfT0FMQkJnaE5RVHVWU21GdHQwZzdXZ3lnVXNQN2VYNzVpSElUSWVfRlNrMEVlXw?oc=5",
+                "source": "The New York Times",
+                "is_premium": true
+            },
+            {
+                "title": "Senate Votes to Strip Minnesota\u2019s Boundary Waters of Protection from Mining Pollution - Earthjustice",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3dVLTczZnMteE5OZmtlMElNWmpDYVE5YjRrYXZPY3pSaTFBM0FLUmZPeVFaX3JDZnZraDFnRE1CejNwQVVPVXc4WGtPakpnZEp6TTRmdHF6VFRMVUNsOU96TlRZd0hOa3ZwSWtRcmZpMWg2TWd1UjNhZl9qUmVqMGctY0RpUVA2ZkdOckkwcnUtOGMzNGNFZ09ZT1dmWjlvdUR6UjU1ZlItdHN3b09hUWZZSE9ONkhFb1M3TA?oc=5",
+                "source": "Earthjustice",
+                "is_premium": false
+            },
+            {
+                "title": "Blue Moon outlines 13-year mine at Norway copper project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUlBxRklOTlJCbVV3bnZsOTc4VDA3TnNOWTY5cFdSVWNiVktRMHd3WjVybzBQQUNadTJjdUF6WnJwODdSUElJeTI0ajQzVnVJM1h6UFFaVl9MN3poaXN4al82aUlWQUprdzFCMHdFaFZtcndBemxNVGF0Z2hOeUxiUzlBUUdrR1k?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "DRC boosts US copper sales fivefold to 500,000 tonnes - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONDhyYlphc1BMZndoZmdEV09DRnEwUHIzVXV5VjI3NzJ3Ql9fSXhET3ZEdmNGS2hGYjBkZEhKajh0MEJ4Xzc2d1FiNVdDVFBwU0JIQm9KYjQzSXJOZUlzcWtwZ21odzhrUEZONU5ldURvSG53YkF6UGM0VldEZG1rN1Nn?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla secures five-year exploration permit for Copperview - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWl4LUhnWlJldEZRNEo1a2pMRHNqV1VTUUQ1cnBJSzhsQlBkelZZeE1xaHB1d1JhWlhGT2xvQ29relNENm1ockNLbnFsdVYyd1RRYV9KOXhsekVUWm9KVG9tdDBnT3BvQlgxSW5ZSlVGaDlUQkhOR0NuTXUzMkhCR2J1TE1uamdGNVdLWE1mdm1zRmFqQU5VMUJhZWF0enlZRGZuQg?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Press Release - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5STjVyRnBYMExac2N4MFRRXzZoMGI4aDhTeEJpZjdOZVJQVjdjTURaS0pXVDc5TklkdTZ1NGlvRXl3VFpqY2hseHd5LS1ibXlYRWZUMWNRbTBtRHM3eDVVNTh1WlVvX2x2YkwzTkJGSXBCQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Investors Heavily Search Southern Copper Corporation (SCCO): Here is What You Need to Know - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1NrOFotNGQzSUMtTGZ5R3AwUWVCUDR1ZEl4TDNJOUxYckZyOVRza2NITVBfNS1LOEZ3Rlk0NE5nd1ltZWs2UU9HcXRzdENOX0Zyb2RiMjNuNWc0eExHdlJraWthN0FnbXdkMXVFdHFmY1pZSndwZk4xWXhlMDFvNzNUeDZZMDVSUHJidjJoeWNxdXlEWEREcUxJelZwWERtVTJkM2NrWms?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Global Sulfuric Acid Shortage Disrupts Mining and Fertiliser Industries - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc09fNnlkcnB1R1AxYXl6V2FMRTVsOU9rT3ZZQzM0T2RFMXhGd0ltenJTcHhTTmk5Y01BRlphUElOSnZWeUJkTUh2NVZaaGQ2QWphSlk2TGdEX21TbGVQM1VTVHhSTktmZUZCZFgtb1lpRzVUczlCbE1KTFE5eWNPaFp6UTltb1NHQVE?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "On the ground: Kansanshi runs trial of the 'world's first' battery electric haul truck - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWRNbTBaZzRDM1J3V2V2TXlFMF9OQTE2LWtwX3ktTmxlOVNVcDlMMVJKS3kzVzIzR1Y0SklUMURCSWNuVUlPM1RqYkhPWWpqeUVzSXppT1VyV1Z0ZU5Nekl6ZHpIbUpJVWFpaENVbWctZFcwcHU4SkxRaF9leTBKYUloVTloUlJ2VzlFN3BpWDJUcEhWVi01VUFWQV96aXNrU1NxVGJ1VEZSR1NJXy16VmtoLVlBZFh5Slp6Q1FEU1NpaHdn?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Mogotes Kennecott Joint Venture: Copper Exploration Deal - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZCWDNnNXhCRHhfMjF5T3dWdkczZ0xlU25xUkhEUU9mVmRtOWtDT3d4aGlLNGk5R2RrMTJTWnlPYmdZVldCM19fcjl5dkFPVkZud2puTnZGTVlIQWJIRWZKeEhXZGF6STdTV2JKdWFRUDAyc3RodVdtNWR1RUotWEpn?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta backs 2026 goals despite copper output dip - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHc0WWRlYzFncGZXUTBTTkg5Z0FLWFVtY19YbVV4MjJHM2pEVUhRMFVrckFDNEVWMzEtUFQ4c21OMXZudUw0LTRucFdKdkZWY3VOQnRXRmZwYVBwNGZBbm0tdVBpcHEteGd2TlZnSEl6YjdZemZfdE5MYl9IeGNKaVdBUG9jRGtudEZCemlfU1QtbTYwS0t4MHJkTWMxMk9UWmpN?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "DR Congo miner commits more copper to US - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDNjQTBSLTFaVzBIVFF5WTZSU3RfYVozb2h2M0ZmN1pkOFlGQ2U3b2ZJM3hpYVN4aFpUckpwUTZjYXVIVjctOEhTdUxoMlV3SnVVX0ZIQjlFVEdQRGNGTFVjVFROZ0owNVRFX2ZVQlpENWtGVlMzYmFVYnJpOURFbzlqQlZLZXBJZmwwRkFKU0I3SmRITnoxaVVTVXNMdw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo Asian Mining sees copper volumes ramp-up, supporting production growth - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3NWWkVycExWU2FMdzJyUjd5Z0o1VFIwR3pOUmZKblpnRTZQal9PRmo5MHdWVWVyd2lRbnRRSEpnYmdEalRFQlBxVmt1NmNNcVVSZTY1emRmU1RSTERLQUlYejBsWEpLV1o4dkMxZ2EtRkIwVnVpQmQ0VXZwMUNJQU9GeGZ0Zw?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Prolonged Hormuz Strait closure would have \u2018profound\u2019 impact on mining: Friedland - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGFjSnBYMFFDYnRxMFdoWWt1VmQyc3hLZTFHMVhWbktlMkZMTk5oTWUwd0doLVFFMVVhRUJRbXZ6YjlhX2xWblBXaktDd2wtUElRQXdzbU92dmxXSW1UdU9jSlBNNmt1M0NSWU4yRjN1UDhHeDJLM3lIZHhFemFQZDdtNzZrNVMyZm5na3NTOHB1dUZvYnFrS2VOT2Q5TDJOZHJLMkhjWTdmdENJWS0wVmJaVGpvYVNEMmhtOUxqRQ?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            }
+        ]
     }
 }
