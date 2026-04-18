@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-18 07:02)
+
+- **[Watch Wall Street Week | Paulson on Iran War, Energy Market Disruptions, Copper Supply Strain, Tax Debate - Bloomberg.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNm4zcVlDMm83YnM1VzdZQUtoQzdCb0I4bGhpcHVnU3BYTHVhdmJHSThHNjJ0MmpnRHpjdS0teWtOSm1MVlk0Z2cxdUR4WFBvVEtfcDNpU25kSWx0NXFZcTVkUURRRS1Pel9vazYtQ2JNNHVFaTZjdEROXzlGRWd1ZnZaTU9KX0prUGJaQmNGYVNCYjV5eEp0ZTJ0Tk5qZG5SSHFYN2pBYWpwUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-17 23:44*
+- **[US Senate repeals Biden-era ban on mining near Minnesota wilderness area - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTZxRzdOVlFIaGdzYUVqc1BEUTJORFNENUhBVjdJX1VVTnNld2d1NFRHU3hMcDBjUlF3Rk9rMmF6MVZRY0MwZkVNTWtMbjczR0pQTHdqZy1oeFlVOUVrZXk5T2Y1VFVOdjkzS2J6ZzhFZGR5bnJ1MWtmLUE0aEhXOGZub1JEWERSRDZXYk9tRGZiWEI2aFk4Ukp3?oc=5)**
+  - *Source: The Guardian | Date: 2026-04-17 19:43*
+- **[Iran war's sulfurous fallout spreads to copper and nickel - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2IwSFJzNmJfcWthemZ4ZlhWbFBCWXNfQmpDWmFNVk9xVlZ3cFFaX0VVcGZkNkFGekhkcHRsTWNYQ2lIanZSQVUwUjQweU52S1h4TkR2VEJoX21TMVpLMTN2OUw1ck5NaTl1S1VSbEFndWZLOGxkdTB5R3otekNVcW0yN2NQS014X0NtMXUxVzFXRkI5RVlhVTQ3cU00aUpGbW43UzV2cEk?oc=5)**
+  - *Source: Reuters | Date: 2026-04-17 14:28*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-17 07:27)
 
 - **[US Senate narrowly overturns Minnesota mining ban, sending bill to Trump - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTN2MVEwcS1vV2NOcHlMSEVic2otbHVKeS15Y0pVa0MzaERtM3FLbklfSHNZMHRWZ0JHWV9wWExQemNZeDg3TlRTa1VqM3FmRXVqRVJyOWYyZFpXVEItbUZwQkV3M21HZUgtWnpQbENhSWEyUFlSME5pbVJUUlVqYzJ1eE5jS3NvamJyUk9KOFcxVnAzczZ3N3ZQMVJILTZ2eEw3TjF6NWkxczlXTHNvemt0SEdRQWlq?oc=5)**
