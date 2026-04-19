@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-19 07:14)
+
+- **[Codelco Targets Higher 2027 Output to Reclaim Top Copper Spot - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3A3bndyX1hKYm9KUHVDX3VRTFpYd2JZaXU4Q1Q0Z3hSUW9HRHhXVktuVlZLcGdxMkwtNndKSWhnX1N3QmN5RzhtQ3dEVDZqMU5lczVQWjV2Nm1ORHVkRlV0TlpXbmNuNEtJZ2dzWVdlaWFjc29lZl9aVm9CZE9ZYTAtVzljLWdfcTBaN0FHZlNzVjE5bC1qeXRRZGcwN0Q1S20zWlp3bTlaeHRkOTlaeXhB?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-17 19:33*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-18 07:02)
 
 - **[Watch Wall Street Week | Paulson on Iran War, Energy Market Disruptions, Copper Supply Strain, Tax Debate - Bloomberg.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNm4zcVlDMm83YnM1VzdZQUtoQzdCb0I4bGhpcHVnU3BYTHVhdmJHSThHNjJ0MmpnRHpjdS0teWtOSm1MVlk0Z2cxdUR4WFBvVEtfcDNpU25kSWx0NXFZcTVkUURRRS1Pel9vazYtQ2JNNHVFaTZjdEROXzlGRWd1ZnZaTU9KX0prUGJaQmNGYVNCYjV5eEp0ZTJ0Tk5qZG5SSHFYN2pBYWpwUQ?oc=5)**

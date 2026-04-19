@@ -9416,5 +9416,54 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-19": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "Southern Copper (SCCO) Valuation Check After CEO Oscar Gonzalez Rocha\u2019s Passing - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM3NReXJmTS1vUHgzZmhKX0diTGFxaDlfQmpyTmlFOTBFUFJoa0xhanZhRnhqSXVxVTlRWkxXc1BpQ2JlV05wcmtLM29Jdk0xa1FrMVVya1ZnMGw5dXJXOHhwaHJQdjYtUmZNOGVmWENRX0QzQ1VRZFZ1ZWpDSmVLQUVoUXRYU1RWWnZYSW0tTko4a3BNY0xTMVhTX1BZZlZSNkpN?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Lundin Mining: The Copper Value Chain Adjusts In Real Time - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFJWR3VXU1FxZ1lJVjRWVGRsSFZVd2FPYWtkM211eVhRd2FBV2pWQW1xY25qSHhfU3Y1UWZOb25ZcVh5X2F2dTdJRVRmVFR1TUpzT0FneE04Z3ZBZ2F3bjNMX2tSVU12aVlqeEpXc3YyRGlkeE1hRl9mTS1WSjNra2ExQm1jOUVFTlllbk9ZMWs4TlU0VFd5SkNySXJheGs?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price within sight of all-time high as Chinese smelters hit record activity - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFZpY0tMTzZmam9EN3EzNFB5UExxT20ybFNIN3huV0lpMklUVjRqbU5BNTM1aWRPVjhQNWg1VnBmNmdUU1hGQkJ5OEVYVGNmc25Xa3dfZ2lWVVdVbHpwck13ZDE4eTR3ZzV1U3FmZzhoZ2dEek1fcXRGTFdNRnV4c0xVcW1XVW01RmRTZlQ1NElkTGxvaGFURzh3MTMtMFRnMkdzX0ZBS3hidw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Lundin Mining: The Copper Bull Case Is Strong\u2014But Here\u2019s The Catch (OTCMKTS:LUNMF) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDJWc3Njam5JUDltLTN0ZE1kX3dRdUhzOGE4Vi1MRnE1M1B6M0Y2T0pRcGwzVDJsV3JOc2pGeEVEREhHMDFoQy10S1NmWUxzeFA0ZlBrbW1lU2MxRXlacVFpZHdnT3BZaFRmOGJhMU9jUnJ4ZU95SmRYTU1yVlZrOENVa2RKMTNEQkJXU1lkQWc1cHdncEF3OUNtUUFkWDUyaC1r?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper Corp (NYSE:ERO) Stands Out in CAN SLIM Growth Screen - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkdtVVVwSE1zc011Q3ZCcVR5cHFWRE5jdWhkM0RzY19MSUxaYzRqTnd2cHoxLURvVWd1blFMZTAzQTV2VEhzYjdRSWNibnFVYjJlaGRMNmctX1lyaXVIczlRUFBGY2F1bXRMMlc0UjI3UWV5RWJtSGpvSDZZazJjZ1RMZXpCdGhWRU9LMHI3T21xcWZ6QU1Ra0k0Y2hTOVNLSWpYcWcwcTZ4dWljQkUyeQ?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco Recovers Global Copper Leader Position 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkpMQXgtNjVfcmZJa28wamtGTVJQVEJLSkQ2dkY4V3pSTGdENEE2X001Z2xqM0p3VWJTNlJSSngtVzNkeDMtZHYzT1k1SWdzXzhPSWZqLVlnT25vY0NwWk91TGFoTmlkd244VEJhaWxJMGdmZS05R0l1RmxRam9GNVVYOWhBMy1y?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco Targets Higher 2027 Output to Reclaim Top Copper Spot - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3A3bndyX1hKYm9KUHVDX3VRTFpYd2JZaXU4Q1Q0Z3hSUW9HRHhXVktuVlZLcGdxMkwtNndKSWhnX1N3QmN5RzhtQ3dEVDZqMU5lczVQWjV2Nm1ORHVkRlV0TlpXbmNuNEtJZ2dzWVdlaWFjc29lZl9aVm9CZE9ZYTAtVzljLWdfcTBaN0FHZlNzVjE5bC1qeXRRZGcwN0Q1S20zWlp3bTlaeHRkOTlaeXhB?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }
