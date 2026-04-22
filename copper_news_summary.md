@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-22 07:27)
+
+- **[Mining investors jittery about politics in Peru as vote count drags on, analysts say - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcU5PVmlhbWN1VFRSbmtibEZJTVptZDE1VllXT1ViazdyVTdYUmV3aXNLbVl5RFkwX0VVLXo3UF81bnY1NFlPbHBxeHQ2dDZHNE8wa0ZLbjhmelNFazQyTUhZSUx3NFhYQTdYMjBtdzZDM2MtS3U1TE5ldW1NU2Q2Wmg3UW9BR0lRZU90MEZUU213VGdOZklyZ25fTnowMTQtNV95Z1Zuc202WW1IMUpCMWFsM3RJQTAtQTZic3pQUjBmZ1k?oc=5)**
+  - *Source: Reuters | Date: 2026-04-21 22:06*
+- **[Goldman Sachs maintains 2026 copper price, surplus forecasts - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSnlXbU1WWV94UnNKNG9wTUNJV0tXWUdieDBEQlVEUTAyR1poN3RCTjJ1MmI4ang3UE5NOEd2OThhQVcwRXRDazFOZHQxTXJCallHNGF5Y3R1UTJRSndUVnhENXhSRVM1LTN1ZzU0YmhTcTgwVV9IZXFkaDc5WHZFRVlzSDZFNjBabTVpaVYxZDkwSHQyWUZwNHFhM0M0Q0FiZUpfYzJTVQ?oc=5)**
+  - *Source: Reuters | Date: 2026-04-21 15:42*
+- **[Exclusive: US firm in key Congo minerals deal overstated its mining experience, documents and sources show - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2hFbUxaSUMyQ2tHdVN2MWpld2VtZmNET29WdEM5YUh5dW5UaE0tcS1EMDZRR0c3eC1uaVdjdktEUHk2YmRyX2U3NGFuUW5fUjdvSFNkQ19acndMeWVHS2ZnclpwYmUxaXJoOWpxQ0EtSGNUU1R2N0EtNURNVDA5RktuQ19HQlFzZ3czM25oWnVSeTdkZ012eTB1NlhpdXdaRi1oaS0zRmtTMkdyU2hzRzdaZnp2OE01MEcwQWhwVDg?oc=5)**
+  - *Source: Reuters | Date: 2026-04-21 13:29*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-19 07:14)
 
 - **[Codelco Targets Higher 2027 Output to Reclaim Top Copper Spot - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3A3bndyX1hKYm9KUHVDX3VRTFpYd2JZaXU4Q1Q0Z3hSUW9HRHhXVktuVlZLcGdxMkwtNndKSWhnX1N3QmN5RzhtQ3dEVDZqMU5lczVQWjV2Nm1ORHVkRlV0TlpXbmNuNEtJZ2dzWVdlaWFjc29lZl9aVm9CZE9ZYTAtVzljLWdfcTBaN0FHZlNzVjE5bC1qeXRRZGcwN0Q1S20zWlp3bTlaeHRkOTlaeXhB?oc=5)**
