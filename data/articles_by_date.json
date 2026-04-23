@@ -9900,5 +9900,192 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-23": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 30,
+        "articles": [
+            {
+                "title": "Southern Copper Stock: An Expensive Copper Story That Cannot Afford A Misstep (NYSE:SCCO) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9yd0dZeGxwb1JkeDJfUEgtUzZ6U2tlbFQ0dnNOdlZySTA2YUxCekg2a3BWb0ZBcFBqSUxyOThUdTMwWGtPaHFVUldxcVNZUGtISHY0ZklWR1Z4MzFWS3U3cEtfcTYzeklTOFF6RE5YVDU4Yl9jYnhZRkNlVXBJLU9xME5PMnhSeUtJYk5PZ0NENFFDNkJpRkdZTTE1OGZMVkZob2RyYTJpeWtZc2dtcg?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Record copper sales, higher prices bolster Teck's first-quarter Ebitda, profit - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEp2OUVHVkd5QTNmRFNXVjJ3NEJtTzJMbkkyaEpsTW5XTjFMU2tYRmV3RVdCSVo0RU1lU18tMllaWXpKb3ZMS1Vic0VGYnhpTVk0Tzc3ZG1fb0RtLUl5T3pMLWUwUmNzSDRKUVRycHBZWjdIS2VjYUkwamRHSWRFeDB4bnpNODhINlJtYy1MUWNadGJtWFpsenMwMTJYSkxMZFU4SjFkaGZFNXl2N3IyWU5MZDQwQV95ZXF2NUtGUVQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Crude oil rises on strong demand, copper nears record highs on supply risks - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm1VM3JkUmZ4MDE0TVE5cjBDQUZRZnBzUUxMa0ZWYWVJQnUwTFJydDlIZTB5ZTE5OTJDTzVXY3BYLWppSVVHRDB6Z0x5SmhTeXVFV3lvQ0hWaTU1SjlyTklnb0otaDl3bDc1dmQ0LVV3cW5EZndWTC13NmZZZnZNY0tWWDRsOUNoQWQ3SEdTZmhZNXE3ejRuNDN0Zkx0MGQtSzhBZUpGR1ZBTHBoUEpOMlhmSU1KUUpUa0NEVW5ubFBPTWZVQ2dzZnBqZmlEMnhSZjNGWXZlUmnSAd4BQVVfeXFMUDRYeDFmYW5QMnRCS2xVY1JnYXpYSW9pMXVlT1dGR2ZPMTJVVk5QUVFVQ0RkTEI4UnpwaTVjY1lfOGZKYTk5VkNoWjRZNklIbzljMEFRaElyTXRIUlgzRWd3SEJWSVRsU2VkdHVvRGJpZnR2QlI3VUVTWGtiOHotY1RSZzJLbDBuYmc5NC1FTUxDX0RoX2F0alhIaGxKekRuRDk2X2FhQnVaLUVwU2NPX0VGZlJlOFNQT3NqRkt3ZjdfT0lielVWMGtvd1lJeEF6SWdJVjhJQzliT3RtNUhR?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Sandfire Resources March Quarter Copper Production Update - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblhMNFVrWmlZRkZ4ZVVrWjZITDkzYjFBR0NSVFYxNmZrd2F6WHRieThlWElSeEVkVXZRWHBsZm5heU9TRV9RSlNGZlA3dEVOcG5qamRHT3ZQVUtJem9GQmJjV05YQ19RRDJVVENpSWk5WGxFUmpXU2lMV2VzbHVwcEd1cTA5bjQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "China Copper Supply Chain Dominance Reshapes Global Trade - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDF0endCUEpjYnh2UTJLTl9JSlhFN29RZG0tU01PMFlOVkhDWnZnQ3RUS3F4ZklDVFplZ2ZtMTVzT2xiUUdyQ3A4ZkdlalJzVVM2OThlUDVXTk5TaDRmMkZ3WXFqLXpkZ3Y0MU5qQVRqdEk5V1AzTk11TlFqVUhTak9oaHhGVDFu?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-nickel mining in Superior National Forest still years away despite Senate vote - Northern News Now",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORzhTM1hIMHhPN1l2N2ZNTGM5STZ6WloyTmI0b1BFSzhHYnVKajJya1RhenJrYXFaazJ6YUFIc1NTYkVFcEdNVU82OVgzZlZ1Z2pWMzVnMldhTXlPSzlQMnV2X0huTGdZWm5wUWxjNGozQ2xuQ1hIZU9fX04wS0RINFNUcjBnczAzWE9NRHNwUXZKMmJUQVFFLWhFNng2Yzg2MEJwRmg1ZWlXX2ZOOWxuUlBmNWNDT2ptNExZRmZNa2tpVHVH0gHYAUFVX3lxTE03TC05RzRraVBibHRUV01ma00teFg2bzFnR2VreWJZc2JkaVh4dkNkbnRwd2xoNE1zNTZZNUVqZXRZdjBPMDBtMW14cHR1WWlVeFFjdks5eHVDaGxEeG5ZaVJrSmg0bEZIRTJSSnNORnJYOUlyY1kyZDBORWpFWExTQlAxNXBQRkNDSHRsNXI2WVpocXlKNkVYSzJrYUY4NHNzcDdlZ09ESGx6aTNMa1dPSjlTSVpuek81dkhfelNkMnZMck9iY3pGUzNqaVYwODVuUXBpY0FlRw?oc=5",
+                "source": "Northern News Now",
+                "is_premium": false
+            },
+            {
+                "title": "Comex Copper Stocks Hit Record High on US Arbitrage Trade - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkp3clpSYlBlR09hTHdqcC04NTl6amNyMF9kOHRCYU1FRlFWX1JOUTE5NFc0N0k1VXFSUE9PS0Zkcm03RnRYaHJrdE5pT18xekVTc3NYUGpiYzV5UUpZYkotQkVtRVZMQ1E1MzFkaWpWQzI3Y21KOHRTUVpUQ2kyR2tzeGl3dm1m?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Comex Copper Arbitrage Reopens with Record Inventory - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXE3aE1UNG1iRmhKTVlWVEp0RnlJcnlZMklwcW43RXRXVjVqc2YtdFNfN0g4cU9NeTBoNkhqaFVrekJqUWloMWh3TFdCaGhxUmI2eXVBYVlUUUp0cFRvendxMHBOYXdZNGREb01WN1dXMzQ1WFZZTE16T0hSOTVoT3k0QmJKeUk?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Peru Could Double Copper Production: Mining Expansion - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2VkOTRpVG5HSzZyZDlQWmM5dFh4aTZLUjh3QzhFaFlBa1Qzd3c3SGJtQlJkU0cwTUxYRHJPeEpYMExIdHdhVEFzSGY1bEFmakpjcmlnX2hJMUw5bVoybUx5c2dMRWRWTDFVLTZDR2MzeTRobTRRRFgzYVlGZVhvVVVn?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Chemaf Restart 2027: Copper-Cobalt Mining Revival - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRuOF9pcVYzS05qbjRkVmYtbDlsSC1zVEhYSVZ0ck9DdTl5WS1XWXNTSFVCRjljUjY3cHoyRHo3TGpTdHZQSUxhOFNkcFh5ekVnYkRaZTVUazdlYWRhLXRKQ2F1bW1lZ3VXbXpKWGQzOXZJeWdfbEYzY1dEWVpFZkFUVzZXQWxKbWdN?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Comex copper stocks hit record high after US arbitrage reopens - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDBTc2h0ZHh3MkplX05vMmI5c29rVnR2VEJFd0JIaGlYYUgyZ2RCMTJ1NHBnY1RwSzZaWl9XWG1ka3hydHl1YmY3WVRleU1acTcyQlVMX09ZSzQ2TGxacHBLbm1xYXo1cmRzZm9iQ3RIZEJ6UmhKNXFNREdtbFh6c2xEU2Z5NGs3STMzRFdCMk16X0lY?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "BHP now expects nearly 2M tonnes copper production after record Escondida throughput - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWRRZUM4RzlvQzJBQVRHWkk0RDlXZXhkbzNkUUhQR3JOdWhlclpLTE5DZlljUDFESHVnbDB2RnBUR25INGt4RlpvN3p0NGVlS0UxZmVGN1JqYkRlMHUyRV9QLXRhQ3pWcnFpTzI4cWRHRGt2UTVsSllPbC1saVhGQi1IVWYyV1BoLUVBTG5NaUZ4dDhvemtUTkY1S3IxdmM1cGkyWmZmd0p3dUx0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Leftist candidate in copper giant Peru wants new mining rules - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDdORGZUeG5BbDlPQVRQazFKdzVjaC1QTUM5Z3B5VlctY1BZMTVYVW1nUVlHWUxGRnZNUTYyNDl1aWZtM3g5YjBJSENibThST2xmamhmWnBIUHctU19YMWNZQ0JvOTRfblQ1bnBqTWpKSXNldjBBUHVKT192VW92YTRQRFJHSUl6S3JlVm82bXhBVHc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price: Goldman maintains year-end forecast, Traxys sees $15,000 per tonne - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZk82blBGNC1oQW00dDVEbHB6eFhuR3BiLVJORkpyMDAzYkE3UEU5QWMyRjI4dlpwdTBDbEdfbWdBcnN6MDVub0czbE5FOWdFMTZwSjNSa25VT1RNWTNvMllyRUkwY1I3cUNVT2NXbXBtQzZHTTNoT3JjZmx5TTFYb3JBRUp4a05Od091Uk1YN2hUQk1kV1pTZEItMHZqUldTWnVNODJOVDBFQmM5b2RCU2lFN1ZyY1RLenUxQkR4aVY?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "US-based Virtus and Indian partner to restart Congo copper miner Chemaf in 2027, union executive says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmZzTXpPLUpGbHRySUxEaW9UV3dlenB0dDJDT0swSVFFbTdFdHVyT0lGdEU5SmY1SXFMOUhLSkJRRHJoY2k4eDNCc0I0ZEMwTW5HMWlQQXBjYndOSFlOazlpdkozc3J1SklCc3hva0xlOGc4MHBBVkFzTWE1cHNuZ21GN1VuRU1naXdsQ09meEtVQzF6a3dWU2tKYXBldWJYY3VIWGp5UWVQMGpYdTM0azNIdVQwUXdIVnNEVHd5dEJMX1hzQXVtVXdWYw?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Leftist Candidate in Copper Giant Peru Wants New Mining Rules - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVC1HQW00NVJ2QUtJUWdkMlM5VTFBemx3QThWLXFPM28yNHJaWEtER2thT0czMDBxajBZTWJXb1NSU3hkQzZ0am9fbmpVUll4Q0Q4aXJ0QlluZ3BBcnJqaEJXaVFNQjNiRTJwaU1vZnAzSjZzNldVbjk3S2JjYThvV01QeDNabWRMQTR2QjRNcURtN0hVZUg4UlRrUVotbWZUdnFhLVBHYzdmMnB4Q2ZGN2d3?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Panama counts steep cost of First Quantum\u2019s copper mine closure - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamU5U1M4azNVRTgyWW9tOUo1Ql9ybkQzc293aS13XzFESWhyOEdjVGFmZ09Vb1ZZaWdEUmdDMlQ1OVJ1aVdZbXZ4WkNJWlpSelBaWHg0VFJCaUsyNmEzYl9aN21CWFV2ZEVGcjlmRXJ3TVJaVzZsWkpFaU02Y0tJWlFUSnZkdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Trilogy to seek FAST-41 inclusion for Alaska copper project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzVzTUItSXhnM0tsWHd0V1k4M2dIM096RTZuaW94RXdnY041VFhDRERzZUljQnAydzU1elFoMWcxcGFRbWhSRkhlTkFIXzI3SFZWRndoWFhIczlsSTl5ZU01azJ1c25ua0pGeEJQUjdaLUdVNmZyTmp3R1RyZ3oxWmNLOW9oWVlrdDhn?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper king Chile faces acid supply crunch as China exports dry up - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQV9QbHJZbnBPd09TSkVQNjdHQ29mb1p1NnhuakE1aGJzYUVlLU1OMDhIejFEb1EyVktkd0dPam1uaDJOanozRFFNbk9EMElwQ3pXRWFwWkZvTml2bGNtT01tSkNkSkl4MGlPV1A2ZG00NGtNZzQtNTlhS0psdXpFekJ1SXlYNWhEQlRMYlhlZGl2bjlvOG5lcndn?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper rises after Trump extends Iran ceasefire; aluminum seen facing 'black swan' supply shock - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGFOVmxSMWt6bEpIYkhWVjc2NmJFcWpsbXg5UHA1TmlaOE9jZVhKWGJ1NXVwRlZaNmJ4UGx3eUZiY3NqcUJHaURhelB1MkZtNndSLTl4enpaYXBzT1FnS0RLNzR0NnMxSXZsRzVrVUJUZ0tnN2FvYmxjblZyLUVsbFFmeGctNmVqNXBpNE40bmViRHpXQ0dKcE5UWXRmek5sckNRYXBGWGlJQWVpRTJVT1ZSTXRNQi1fT2JWMWRqT3I1MG1uMFpvbjR3?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price: Goldman maintains year-end forecast, Traxys sees $15,000 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXI0dHFPaGdYNDdsYkM4ckFxZFRLZ1JpcXh3UWhuRHh0eDkwcDRua19Ca0MzNk9OaWt0SDlxdnpNSWJLNnBWMHFHdW5qbUZnc3lJMmRSZ1RWZUNaSV9ld3FveEZlSk5GYnZPUnpiVllicUJuTjN4YzRIMTRBVWlaOS1kQ3U2ZWNaNG8wZWxQbExMWmx5U3pr?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "BHP now expects nearly 2M tonnes copper production after record Escondida throughput - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGZURUZxMmtMMkxRcnVBVXV6bDg3TzN4R0l4UGJJakdlaDNVX2RSbldVMFZoQ0xfdGExSXdlM3Nic3lUQXR3bUFGUlRsSzF3b0pBVW5OT3k4WENVWmYtd2FvVUF3cm9LdjhudUZiVEIxajg2STVOenNNVlM4QkZxdUJ5Z3ZjZW5XUHVIc2VSY1hiZ2tmVkVaaXV5S3ZPLUtGOHlaQkZfNXlpRUl6ZWpRRnMzVVEtWlNKYzFRcndJTlAzY05GV3hqLWVFRQ?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "FCX vs. BHP: Which Copper Mining Giant Should You Invest in Now? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOajRwRkdraEs0ZVNrb0w4Q1NfWVRvMUU4X1l1Z24yajJkX2dhMUFlanFNSmVNcXRtLW92b29HNlcwV0NGckthSHhGVzQzUEh1WE9EdlRTRXRrM0JTQTlWSDVYNzlkSHJUOU1sMWgzY05SZUFacWthWHlfaVRUU0ZKX2VzTHZlVHNPV3VVUzEzY0ZndjdiNXRZM1VaM2hXUlRzN2NTWU1NOUdLUzU4X0xvVUVSQXFQMHVaU1RKQ01kMzhGeWd3TWNTOEV4VVQzcFFqR1Q3ckxGVFd4T290ZWc?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper to Hit $15,000/t: Market Forces & Timeline Analysis - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41QnpzZGJLc255SXU1eUoyX0tmWHBmQmlyS2llTGZEdUM5VV93dTRfSm9Va3hkLXF0YWRaVWd6WGszR2JIalRQazJSYUU1SzJMR3FTeExPcHF3RTFvZE82aFlQVkNKSDVILUMyeGRCbGJRU1A2TngwUlRCT1E?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Coils Market Set to Reach US$38.8 Billion by 2033 Driven by HVAC Demand and Electrification Trends - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXR6ZnVXVnpHc2pMUG5DR1hhTHhHX1NYM1VQa25mNmhQNXBveWR5Vl83Z19MeHQ1MFhNTkcyaXdGeS1oT0pRYTlUMlNrOThBNXp5bkZBTU5JOUZ5bTFnOElSX19HeEVvX2x6QkpjWm9sVGQ1Y0l5Q002Z2NQVDd0cUhlS19FWkMxY09OUnNzTm5LMnRhNjZIbmlpZDlPQmRC?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s soaring value fuels surge in theft, disrupting telecom lines and costing millions - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaE9jUTN2bEhKSmtaQUNheTloek1NTDk5Z1VJdzBIVnRPeEJDc2pLY0JyTVV5Nk1BX3RGc3FwbmpBN1hiQUFIVC1yam1ER25wcUhfdDBDcUFDQjVNeFZRcGJuSm1IVXFaeEZyTm94Y18zWlA2RkFETE5nUWtHVTB4bGN1WlZCZXo4TFppUzhaUEJabTZFa0l4SllEVFFTdw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Wire & Cable Market by Insulation Type, Voltage Type, Installation, Application, End-use Industry, and Region - Forecast to 2032 - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjhHWFpRQ0g3Mzd1Mk1BQlIyaEpiQmNMZEtKMm1DWU0tZW1iOGlua3lvNHNBcF8zd21SdFlXeFFSU2tlYWhWeHpnMUJVRW50elhqdnprRTZRaHNHLVpTTnplZnFFRldqTVRqYi04RzJwMlE0QUlZSmsxaG5KMWdtdmlYTF9uQm85NUQ0aDFZckdGWkNKYkdnTVBrZ3B2akVtZmJmcTI2UTY?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Supply Disruption Risks & Chain Vulnerabilities - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3VrcHpsWWJXWUNrTjB6MnZMM0ZWekJYMDFxdTRSbEFWVUI2RHdYaDNHUnRvamlNdHBuZVZQS2pGaHd4QkZkNTl6TmlJeWdydENmT2pZaUdWSG9hdmIzN0ZBRUx6ZUpmTzByUWZIeU02Smg0RXB6TEFoRVVRVG9GMVN3VmM?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "BHP expects its full-year copper output to be in the upper half of guidance - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHh5TVRNNnZnYnBCb0xjX0NLV2dhRi0tZnZyekIwWTJrRjFoejZkaExnaHNBVl9vY0NiMV9DNlNIQVpwTWYxTXN1SU51NGJRenlzaFFqcldFOG1vQ2NOaTlYTHo3V1pNcUZTVkFYRGp0cVJZS1lTVTFYbFJUdDZzTEVyWHNZSWhVZnBTdWhDaHd1N3dzbk9ydlNnZXA0MXRaT0JKck5FdDh1TFJtWVRiWkQtaVF1Ui1iNlZOdWxGRGo?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "BHP eyes large-scale copper exploration in Zambia, mines ministry says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGZDR3RFZUh0TEVwSXA2aUJMZU5BWmR0a0xwQ1Mwci11NXlMSWloUUUxT1F2WGtwaGlzX0dPblh2bjEzendmVEFKTDBhNnJFMmZQQmhxVEttemZ4VlJ6SUdBWkZBSWwyWW4xV2dHT3hLZGI5eHM2U3NaRTZDZ0NidWtjc01MMUd0NHlwV0dxU0V4Y3hBTGlOUFpLU0ZJeW02RzNRYXNZbXVVajl3MHNWMHZMaDdIdw?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            }
+        ]
     }
 }

@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-23 07:45)
+
+- **[US-based Virtus and Indian partner to restart Congo copper miner Chemaf in 2027, union executive says - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmZzTXpPLUpGbHRySUxEaW9UV3dlenB0dDJDT0swSVFFbTdFdHVyT0lGdEU5SmY1SXFMOUhLSkJRRHJoY2k4eDNCc0I0ZEMwTW5HMWlQQXBjYndOSFlOazlpdkozc3J1SklCc3hva0xlOGc4MHBBVkFzTWE1cHNuZ21GN1VuRU1naXdsQ09meEtVQzF6a3dWU2tKYXBldWJYY3VIWGp5UWVQMGpYdTM0azNIdVQwUXdIVnNEVHd5dEJMX1hzQXVtVXdWYw?oc=5)**
+  - *Source: Reuters | Date: 2026-04-22 17:58*
+- **[Leftist Candidate in Copper Giant Peru Wants New Mining Rules - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVC1HQW00NVJ2QUtJUWdkMlM5VTFBemx3QThWLXFPM28yNHJaWEtER2thT0czMDBxajBZTWJXb1NSU3hkQzZ0am9fbmpVUll4Q0Q4aXJ0QlluZ3BBcnJqaEJXaVFNQjNiRTJwaU1vZnAzSjZzNldVbjk3S2JjYThvV01QeDNabWRMQTR2QjRNcURtN0hVZUg4UlRrUVotbWZUdnFhLVBHYzdmMnB4Q2ZGN2d3?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-22 17:31*
+- **[BHP eyes large-scale copper exploration in Zambia, mines ministry says - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGZDR3RFZUh0TEVwSXA2aUJMZU5BWmR0a0xwQ1Mwci11NXlMSWloUUUxT1F2WGtwaGlzX0dPblh2bjEzendmVEFKTDBhNnJFMmZQQmhxVEttemZ4VlJ6SUdBWkZBSWwyWW4xV2dHT3hLZGI5eHM2U3NaRTZDZ0NidWtjc01MMUd0NHlwV0dxU0V4Y3hBTGlOUFpLU0ZJeW02RzNRYXNZbXVVajl3MHNWMHZMaDdIdw?oc=5)**
+  - *Source: Reuters | Date: 2026-04-21 07:50*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-22 07:27)
 
 - **[Mining investors jittery about politics in Peru as vote count drags on, analysts say - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcU5PVmlhbWN1VFRSbmtibEZJTVptZDE1VllXT1ViazdyVTdYUmV3aXNLbVl5RFkwX0VVLXo3UF81bnY1NFlPbHBxeHQ2dDZHNE8wa0ZLbjhmelNFazQyTUhZSUx3NFhYQTdYMjBtdzZDM2MtS3U1TE5ldW1NU2Q2Wmg3UW9BR0lRZU90MEZUU213VGdOZklyZ25fTnowMTQtNV95Z1Zuc202WW1IMUpCMWFsM3RJQTAtQTZic3pQUjBmZ1k?oc=5)**
