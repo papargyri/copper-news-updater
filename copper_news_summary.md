@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-24 07:57)
+
+- **[Base Metals Slide as Iran Uncertainty Keeps Pressure on Prices - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1RrbDRBMnRRdHZ6b3dTRmlBZlBBY3I3YlRnck12MkhkM3BVVTZ0SkhrTm15MTBlRFV4XzVmQ25wekVCcUllSmdKekUtZVBNWGhoRDZ6UHNjMjVkNExkbG04dWgtUVI3MExkVV9PbHpVZmJtQkdZMFBjb2VxcUU2cEVuSU1TeTZGN2Y5S1RhSThMYXhKeVpVZnBlSW1EOUpFbVFjNXFzdXFIbFpNOWNuWnNmRQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-24 04:20*
+- **[Surging copper prices lift Teck Resources quarterly earnings, but fuel costs a risk - BNN Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3RhdXBybzNEd1B3MGl5a2pGX2FfYTV1bDFHSnBISlRxYUZ3dVBQUHhvYlZnZDZNUWJ1ZUJDeEpPMUJzeGZxejFfME9uRlY2OVZDWl9WTHVnd0h6cXdQQmwtTVBWakRiTzd2SVZ2ckl6RWhRX3RFVU9yRGo4T2pJUU5GRk1sZXoyTlYzQ1cyVk16NTY3cUtHUXdxZ2xISzAtU08yZDRPQ1lGeTlBZGxQRlN5cjM?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-04-23 18:45*
+- **[Freeport delays recovery of flagship Indonesian mine; shares down more than 8% - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWduSnBncko4NlYzeWdWTjJpVEZ5NXdobXNyQ281SkRtaGt2LUdxOEdVY2pJWmpXNFBnRUlyN3hWUmdjTEJ5bFRtc185WVlyU3g4eXQ3SER1ckZoRlkyVVdZQl9KZWs2VkhENlB5VHQyUDdwbEdpN25SRVl0aW5kVDYwSWhzaWgxRFoxNjBMM2FkRkVjbktMekZKeTZmOGN6TVdXODIwRVNfOWpMT0E?oc=5)**
+  - *Source: Reuters | Date: 2026-04-23 17:21*
+- **[Teck quarterly profit beats estimates on record copper sales, higher prices - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWFvX1pmQjdoYzYydkprZGdvUjFJOExKWko2b0hEcFBLcDk3bmhOcE03SEhPSWlNY3M4NkVhWTFKQnNpNUhNT1RXbVJ0bENvMHg5SW1EV05CSTNCWkdQVjVBZ091LWtlSEtZT1JlVklmVkNuV05fZTF0MlFxOVZGODFUYkp4T21kN1l4bHRvTmItclViNGR2S0tDbDBqSklHaFBLWThDXzdZZlhQaXF3YnY3T1ROX2Y5NnNYQ2dQdw?oc=5)**
+  - *Source: Reuters | Date: 2026-04-23 10:19*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-23 07:45)
 
 - **[US-based Virtus and Indian partner to restart Congo copper miner Chemaf in 2027, union executive says - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmZzTXpPLUpGbHRySUxEaW9UV3dlenB0dDJDT0swSVFFbTdFdHVyT0lGdEU5SmY1SXFMOUhLSkJRRHJoY2k4eDNCc0I0ZEMwTW5HMWlQQXBjYndOSFlOazlpdkozc3J1SklCc3hva0xlOGc4MHBBVkFzTWE1cHNuZ21GN1VuRU1naXdsQ09meEtVQzF6a3dWU2tKYXBldWJYY3VIWGp5UWVQMGpYdTM0azNIdVQwUXdIVnNEVHd5dEJMX1hzQXVtVXdWYw?oc=5)**
