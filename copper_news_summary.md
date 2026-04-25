@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-25 07:09)
+
+- **[Copper and Silver Miner Lumina’s Toronto IPO Raises $297 Million - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2huUEhtanZnRC1TUDBLc2x4anVkZmdYTU80N1RzYVdLbEc1RmI0YWJwZm53UHJwVml4bzdsU09Dd3ZURnJ5b0F4V1RwRHVCVEw1cEE2eE9mMGlrR1d3UkxybUVPdUNTOG45S1VEQWFBOVFFaWNWQ1Z1TDQ2dWNMS1N3X3lZOHNvYVhZNHNWS2xoWUhLaUlUbjhXM0g1c2o0aC1HSEc3bFJETDV2QmtpWC1FNi0?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-04-24 19:53*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-24 07:57)
 
 - **[Base Metals Slide as Iran Uncertainty Keeps Pressure on Prices - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1RrbDRBMnRRdHZ6b3dTRmlBZlBBY3I3YlRnck12MkhkM3BVVTZ0SkhrTm15MTBlRFV4XzVmQ25wekVCcUllSmdKekUtZVBNWGhoRDZ6UHNjMjVkNExkbG04dWgtUVI3MExkVV9PbHpVZmJtQkdZMFBjb2VxcUU2cEVuSU1TeTZGN2Y5S1RhSThMYXhKeVpVZnBlSW1EOUpFbVFjNXFzdXFIbFpNOWNuWnNmRQ?oc=5)**
