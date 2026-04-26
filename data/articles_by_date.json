@@ -10347,5 +10347,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-26": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "China Copper Refining Expansion: Market Impact - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc25NcTU5ekR6dndkWHNKTzBxQnpCVHNpX0lweVp0VWZOcmpzN1FTU3lrOG5sdmd3aXBUQmZtb1dTRXlUS3c5cm9YX25tZTZCMGlxTzk0UUwxZ0QwcFM0OEViQU4xT3ZkeHNlc0UteFBCWjFKeXFWaTRSTXEydm8zeHZsOGVWVEQ5enpMTFQ5WHdlNXNtTy0w?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Largest copper, gold, and silver deposit found in the past three decades may change global markets - Earth.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjdiZlgyZGlEeWs2bGpRZ0gwTm10T3Q0Snp4MlA1QUF3RGFkV1A2a09hZkp1VnVEcWRVcUVMaHJpUVlnSkpmV1JCLWgyTWhqZTFKTmlzMzVqcGFid1JLcnQ0aEdoOGh6M2p1Tzd6UGRiZmZMWmF5MG9jUzhhTmZMUnBiQTFwLUZWTUdJQnlkZTdELVpqaXJmRDltVmo1QUU?oc=5",
+                "source": "Earth.com",
+                "is_premium": false
+            },
+            {
+                "title": "High End Copper Foil Less Than 10 %Ce%Bcm Market Analysis - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaE92OE12X09NdWIwX29fY2NkSFFnZnBpcUl2a3lSZ1dQZHd4Z3FxYTNtTDlwcUJaSmdfU0x5Q2ZBVlV3LXZDMDlEOUpsSmdOQW1VSkUxaUxBNDlPVzRkVmdJTXBWMmEyWGVqbmJ6YnpJY1F3aWJqRU9kV2h5ZnBJa0hoWGszQ1c0Sm1aQkxtWW1wVWd2NkpN?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Sulfur Supply Chain Risk in Copper Production Exposed - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2c3R3NyVi0wRE5wOTBxSk94d3hQeGpWdzhpM3M2dVYtZ3RtSkx3MFJxdmZ5RG8yaEQ1QWdQcUE4djFxX1E4aFU1UkZCQkN5R3BRb01FNlh6SWFxc29BbHdRZDJ6OExUdHRoZnhfNGxUYWNBMnVaeVBWNVBjWnc2U3ZTT0NubFdoLWViYXVQNEdsUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            }
+        ]
     }
 }
