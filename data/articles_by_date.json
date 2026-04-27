@@ -10378,5 +10378,66 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-27": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 9,
+        "articles": [
+            {
+                "title": "Wells Fargo Cuts Southern Copper (SCCO) Price Target Amid Copper Rally - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmxTcGFrdmdBNHBBdlVoNWtTOFZVZlNJR05Cc0VWejJHcVg1c28wNFdtNmdETDdtY2s5b2tWOWJnQ2tlV1NEd3QwWmUta1RFdDhwS2swMUhubW1iZXVHY3NpaXhzMUo0d2tuUlBhdnJCazdoMmFybnNEZmlGcFI1eThadkdUdkhicDNjRGFKWUhGRHBROTgxcFhlY3l4eEkxMjExWg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Congo Plans Paramilitary Unit for Mines with US, UAE Funding - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0ZGTzlndEplMjNCYldkc1dqUkFnNmR5bjAwa0hmMHE2MC1LYk92UW9tLVZiSHpBT0wzV3l1aFhPR3VBeHc5QU9nQnJwdWs2d2dYN1dUdFo0Z1MtYUM5QnpVdlR4MmpuMlhKQ1pUTGRMay00djV6dlJpbGNuWl94V20tNE52N0hWa211Ujk3VWlYNlMyUmFONURzM2E3NWZiNElDeU5KVzlsMnBQSHhv?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Is Barrick Mining Corporation (B) One of the Best Copper Stocks to Invest in Now? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdE5ZS04tTXd5UTgyNDI1MVhHSlVudVN3Qm54aFJVY0ZCTjdGUG5vcTU1SHcwNXdyUlNfZHJlR0Iyal96MFcxSFgzcTlYUS15eTFRY1d2SVB5eHNLZE1nS0ZmcjZQd3FXeFVFV3JrTUtEcVFhWGtjeWlTcEJ2OFdfeXZwSFd4cmpvNGxjNnBNdkVIUjQ5OUFaNUt3ZHVCRlViMDBFcA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "China tax authorities rattle metal market with invoice crackdown - The Business Times",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdV9jU2JZS0xTTy1fSzFOMlItV3FFamNpR3A5V3ZDSlg2eU1aY2xGT1BuSU05eGRCaXgtcEVYd3k1bGo1Yy16dndpRnNhNzVYZjhGUHNKamt3ZlNWXzJfS3g5MTh2Q1QwX2NHaUsxRndPZGVQMm92ZVJtbWQza1JYcTM2Rm5MdTdIbDNCNzBEVmZkRTFQSjA2X1lPaFNnY28yQVc3WWNlT1BXWHFEQlpnQTBzekVTT1dlSTVrbmg2cFFiUGxvZXBQNg?oc=5",
+                "source": "The Business Times",
+                "is_premium": false
+            },
+            {
+                "title": "Giant move to become Copper One this week - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41U05NVnQ2TEpTTnJPUEF3RXR5RG9SMXdJcVFEZ2ZQeld5VktrVmNfM19COWJFWFdwd0NlRzVXY3NTX2NIajkxS3RxeEFJOU9uYjJCRnYxT1JsWGZpNVZHSTg5VGdTUjhXenlqTFdRWmhjQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper and the global energy transition - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IY1N0a0hHQmpUbHM0NGI3MUxubnRvS0NhWUthemUyRjJwaktGa0pxckY0R25nZ2ZaWEhFbHZsbC1sc0hxd00xWnVPOExGY1prQzdMSVIzY1NWVE9yOE5FSmxTVHZmMGxONm1yZlNnMA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Is Ero Copper Corp. (ERO) A Good Stock To Buy Now? - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50QjUxSzJvLXVrR25QNk15R1dscm83OTRDZjBWM1J5NEhDemFfWTFCY3VvelMtZF9tcGw5X21jc0p0TFdfWG1rZDZjWFJsUlB2Sm5yMmd2LUlRNmRJNkZOeEVidDVEaWZXMjNScFF2bWNLVlljSjhkSmJZOU9EZw?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Scotiabank Boosts Southern Copper (SCCO) Target, Says Upside Remains Limited - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGRQRFdBY1hPWjBwQVJXdDZ5dTBZTjRBcHFOR25QZFl1b2J5Z1lJZ0hvRUYwdXIwY25OYXppd0d2bU9WZ3FXa0g3aXIwSzdHckRBNmhaTFprTWtDbkdjbmhOc0VlTGtEN2cxamNoTFZ3UlU1UXVocTNieVA5ZkJhbGQtUXpZazF1ZTF3dXowVXhVdHpTSUtMNGtNS2VuMmdHRlNwYVp3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport-McMoRan: Less Copper Supply Isn't All Bad (NYSE:FCX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVZXaXd1aGxzdklrSEdweXR1NkZTdXp3dFhMa2FVMXAtcFV2ZGktUjctTDFKVUNNaUZMRThqc0xTVjAzZ3V0OHV6c29pT2l3S2I1VVVjcWpIbDZ1WVBuOUJEdVZ0MVF0MHNvam45NWZ3MV9NVEVDNEtjR2lRdEtjbHZmeEZPOXZsb3hKZEVxTjZtd3M?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            }
+        ]
     }
 }
