@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-04-28 08:20)
+
+- **[Congo launches $100 million US-backed mining guard to secure sites - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFJHQWk1WDVQZUQzQWhOS3cxLXR0R0t1S01GQmdwV3JENGloMHcwRXJ3Vng0LTVERWJqN3pxMzhoUEdHRmxmclMwZ1JXRHlRQXc1V1Y1M1VFQXZtWDhoZUhvMFdKQmxHTUJYbDdqRllZeHJzQl9IZ2NCTGdtMzh6UmtNLVlteXNVU0ljanRuczlvdGFWRzRGS3VzRi1SMHZ5VlozY0R0WUpHMmlrV2dDcg?oc=5)**
+  - *Source: Reuters | Date: 2026-04-27 09:53*
+- **[Immaculate Wilderness, Uncertain Future: Paddling the Boundary Waters - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUTI1aWxiR1hZNDVhYkw0YnZDR21CN21QWHRydjlxZlpUVlBhbHhtVzlRb3BFcng5VUtDMFFCUGhnR0pONkJUTzJoM3BWVU9ac01MQ214Nk41RnpOUFR3TVlESGx3NEZqeFVOcW1wR083emh5bE9YczlRME8zczQ?oc=5)**
+  - *Source: The New York Times | Date: 2026-04-27 09:02*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-27 08:16)
 
 - **[Congo Plans Paramilitary Unit for Mines with US, UAE Funding - Bloomberg](https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0ZGTzlndEplMjNCYldkc1dqUkFnNmR5bjAwa0hmMHE2MC1LYk92UW9tLVZiSHpBT0wzV3l1aFhPR3VBeHc5QU9nQnJwdWs2d2dYN1dUdFo0Z1MtYUM5QnpVdlR4MmpuMlhKQ1pUTGRMay00djV6dlJpbGNuWl94V20tNE52N0hWa211Ujk3VWlYNlMyUmFONURzM2E3NWZiNElDeU5KVzlsMnBQSHhv?oc=5)**
