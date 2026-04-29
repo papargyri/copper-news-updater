@@ -10608,5 +10608,114 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-04-29": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 17,
+        "articles": [
+            {
+                "title": "Lodestar uncovers Three Saints\u2019 visible copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iNlY5SFNKemxJdEZTQ09kWWdEMVI2TkdQUmx2djU0U3o5ME9jN2ZaRmZkT2JkVDY1TjNsQXk2bFJKRWx2ck5ENjNUcmJqMXEycF9aOVQyUU54bE9QY2JBMWRPMkdjVDNhNFJVeERmT0FTa1ZURWx3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "US-backed mining guard to secure Congolese cobalt sites - The Africa Report",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0RZdUxpTEcxRzlTcENqdGZTT21OdklMcjZxSno3c1Y4TlhHeG54WWxTMXNPdmZBT21hMTZRVmZ2bV9Pdmo3R1Y3bUtpVVp3bDg3R3lQWHRDSDMwZzVXQld5cURUYVlOdFlaQnZSOVZkTmJ1TmdQSWNYWVdNS1BPY29GXzVLdk9sMXhSUk5mRTBrdEt3NnEwLVNBcw?oc=5",
+                "source": "The Africa Report",
+                "is_premium": false
+            },
+            {
+                "title": "Copperline presents \u2018exceptional\u2019 opportunity for Star Copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMk5KZG9IRUN3a3NJWDZTNTN3c0VfRnJURDBQenBlOHI5QnI0aHN0VThjWElSUU9qWHJTWUhsRE9qemtEMmFjUldydXBtc29NODg5UGN2QXhNc1R6UndaYVFVUVRSWGF0OFJLMV9ZOFJXcDl1czJvTEVGRXh2YzFKWElHWUd6QlJPOVE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Horseshoe Metals Uncovers High-Value Gold and Silver Credits in Copper DSO at Horseshoe Lights - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdThCVGdjc3BjcURBeUhjQ2UydFFRNi1EZkJIeVVSbnlDSzdyM3FjcTdYNzRGaGdBeHdSYVUzdUs1RWpGNG9GYXM4czItd2JJNDNLUGRtNmRKdlphVGlObzNqLXlYVW1CV3Mwa2FncmRna05pVVVEYWZKTjB1S3dHYVR2TWtWS1NrcHBBcFAtSDNXLWpKRk0tZzEyWEpqamE5cTk4R1I4VUtwUWtsLVJhVWg2WnVjSERjcThvZnIwMWc0QUFXaF9xZzhNOG1ncTcyUVc4ZW4wUjVQWDB1czVrMFhOelJwNC1XWUo4dEhoS0tzZjl0czZ2UkhOZ0F5WG5JZDMtWGtn?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Grupo Mexico Q1 Profit Surges 57% on Copper Prices - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0ZNMlFwQjZ3VW1jb3ZWaHFyaHJlS0IxY0VROUZVYzI0VnpsMlFSbERDdUx2OE9iSmJEZ0Y3aTdxZXc0MHhaYmJVeHdMbFM4eG1Fb3JGbGxoNDRNempPc1dkMy15QW1JYzc3S1M4cDJ5ODFYX3FESzVuWHBNQldCYzFvVDBSaXdhMHdaeEM1cw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Blue Moon funds Nussir copper project in Norway, bets more on Springer in Nevada - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0VxZnpjeFdaT3VESWhWWV96SmZCbUoyYU9IYVJwaGFDN1JyY2toeHZGTVhYa0JvN3JReTZrcXFRaXRvNkJuOFQtZ0h1NkdUTkNac0NWMGtsNFlxR0lKVEx3ZUNBdkVtU3JDd3hyMnVLODlNUDRfT216T2l3R0kzdnNkMHVSUWVRVzQ4OWZPVEdLSVpGVy15dDFhSUxTdmFVeHJ2WXRB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Trump reverses Minnesota mining ban - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVV6TnAtTWlVR05oSmk5YTRRNlRQcWVzZU9DSFhjdUFhQ0lSU3hhb0dPc0h3cFZFUUlJZnV3dnBDU1Q0T3NiMjZja1ZuckNFSGVfMmNoY3BPVFFIODViRDJOS0ZKZGNZYlNLZDdFZ0Z0VU5QenFhQjVFWXhSS1VWQ2thM3BvRmowNFE?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Argentina court lifts suspension on Vicuna copper project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclduRXY4bzg0dHQtZ2t4eDg0VjdGdWVDMTVxX0RzRUJmWmhCLUpLbTRuVjBDMHVReGRBdGVrVnVDUUFHZlhlVGFxeFJwTkZwWkg4MTRDb3BOMWJPZHBMa0RlaTFuZndLWXdyUGEzU3JHWlFzdFBvUDYwLTBaMlI3emppQlJhUS1uZG84aXNBVG1jMkRhdHBTRkZ4NA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Zijin plans $1.5 billion investment for La Arena copper mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMEFTRWdEN2plT3ZjeDRuU0RMSm1xVEVENFZGQ3RnakdNSU1sOG83YmpBSmcyM3ZwNlQtakpUS1dNang4S2dXbE1hUEZKMnh5MjBwQWxJUFdaWldkcE1VdzVoOWM3QXNsamdiR1pnXzFoLWF5dm5xS2x1OWZ4eklyNkJoWnhpQ2FJLU5mWHlSQkk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Autonomous copper mine restarts in San Juan County as hiring set to grow - The Times-Independent",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnRwd3VrUFVsTjM0S1FmRTRnclpRR2RzcGpFRUtWSlhXcENTUDRnNEdMYWtPLUpya1NkVHpFalowMXJMSlBOcGZQSFZfc0MxUFVJREU2MzlwWFdrcllocmdJTG5lTHBJQ0lsazI4V0h0NTNLZjBQY1d4ek1YY285OHpKYmJyenZURXR3QUFFOGR3c2RKelJXWTNMX3RpN0dVSnBXem9sa20yQjN5cWxSN1NGZUptaVVD?oc=5",
+                "source": "The Times-Independent",
+                "is_premium": false
+            },
+            {
+                "title": "Mariana Minerals starts its copper mine - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTkzTU9BTjVxc0M3ck9GNXhtMng1dDVtU0E1R3hGU2hOb3duNFpBSHdKbE9wY3hZLWJ0NUlnYmVzcWs3b3JhU1dqNEpnSTNoWmlZdEhTTFVpeXQ1emlPZXJDSkxORGsyYmpjaTZEdjlnam1PT041YnFYTnNnbHN6dk1ES0RhMmY0d1Q2ejlSSnExdFVsUXQ1aklR?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Congo president orders probe into copper and cobalt export revenues - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlc4X0Y2REVVWWxRb0duSnhpWTlqNDdtNWFJRnJlNzdxMm1CLVpscHVTQ2FpRmEtR1p6MEpmMjVKU3pVc3B3Q0NUc05DOENOSTVqcURYU1J0UXRtS2RfUzRNREx0ZDFLSzEwa2VVSUZFYzh6WUdEQ2dqeThPSmxXWERVLUxoZWhaaWMxZFktZ1dGQjVsa1FTUmY5dw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo American\u2019s first-quarter copper output rises - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGhvYXdDQUViZEFHZGVISlVaU2o2aTU1SzItYUNheHVLSXJIc1VWaXpiR2l2QVN3cFhDVFd2R2wyNmJIWXI5SnpZRXpvdXJWQ3VIektJbnhNbmNGRkNvZm9NQnN2SEFxMEJBYjVwMGNXalprWmx1N1NWT3hVZWpsaE5pWQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Barlow\u2019s Research Roundup: Obscure chemical shortage threatens global copper supply - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWlIODEwdzVLZVdYWGR1Y0lYbDVyYjNNVzdNZ1J0Yk4zU3h0OGJkQi04bkszWWVrbEZkc0tJZm1KdlhyRnYxOGlMdVVEU1dzVFAxVjNHbmhuNlJqQjBNTzlfU3dDMTZhd1d0bDBaSTExcTZ1SW82TTB3cGdvRldGcHNKLXZNd3VqY1RLcVZab2ZiZVFIQ2NoZG1sNUNGSXRqVGQtY2V2NEotSU8wMk42QW5GOFBQbkhzaERuOFpCRGtMQTdnN1dmNG96M0djSXVvZXg3YnFhaEJxZ1RI?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Recycled Copper Market Set to Boom Rapidly, Witnessing Strong - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzhNSmp2WDFyQUgxZlZtclo0amc1WHo4RlZZdGZmZzIxbkZUNVU1RVFibzBaaEU0a2p0TWJVTTV6SHlHT2tabTVBMVhQZm9Scjl4dG1DMXBwU0pUSV9ZdVk2OWpJQUVMY0pTbGhiRi0xSzVfbFM3all0VS1YWW9QQ3BhOU9GaVNxSlo0amk2SEUyLTFWU2pIWjc5RVU?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Building the UK\u2019s Next Copper Opportunity: Serval Resources Plc\u2019s Strategic Vision - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3NMTlV3ODVrUkpLNU0yZGF4OG9JUmR3Y3hmYVJ5OFdmZTJfV2h2M1UxXzdWZXJwXzRXVVVwTUhWYk56OVQ5d2Zsbm85WGJuS2k3dnJjSUJaejI1S3RnSTdwRnBaamR4Nm5rdDZ4S2Ytclc4NzhDY2xvaENjMzdzOUN6aGlxS2R2b1JMTg?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Congo to roll out $100M US-backed mine security force - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUYyM3RUQzhiWmgyLTE3RkpBcThjTlVvN1N3azF4NlR1cThZNl81RDNsYnBRNG9BeEp0ekhWVWowc3ZMdXlvYmx5RDZFM2xEbDUwNndZV3BvM3Z0TjBVSjFFTms4MEZ3WWJ2ek5QOTRKVG95SDkxeUJ3dW5zdEVoMVV3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
