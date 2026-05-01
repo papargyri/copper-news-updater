@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-01 08:07)
+
+- **[Copper Steadies After Advance as China Holiday Saps Trading - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxON0VyMnZBOF9WTGRHXzJ0RlJYSDF0REI0NzY5SmV2eXZiU1U4RFUwWDFTZkhIS0tYcDBUcDNQZi1feHF3elRZUEZGVWpvN0pCUHhPWDBTYktaV2xuVmM0czhJa09aYk5rM19JeTlCNFVxaWpHMS1xVW1XVm5hd2s1UTA4QVRITHVkNUYtU1NkTWlURUJ2ckhCSllUX05Ld21oRGhEeE9NNkNRbTd0X1VF?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-01 05:30*
+- **[After tripling IPO target, Lumina Metals aims to be world’s largest copper and silver producer: CEO - BNN Bloomberg](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUNVRExPVjZRam1yY0pEbC1Ncmc3UFZ6TVc0UXROU1NkVnI5ZzBYcURPLXFOOWNHMk0xMHZLWWh1Y01YME5od3FIQXotUWdVcXZqNVVmdTgwSm9hNnhrWVpQOXljWHlrZEhWZ0xLaEdUeW50X0stV2hCX0FhU3NOcjlCS2xNemxEZlpIeVNCeUU0SW5kdWNpbld4X0dQR0o4c1FxWTg3S2NzUW9YV0NQeTBtTktsQ2dBUGpLbEk2WkZ5MlU5MnNHSW1RcVl2Z294U2VuSnVkek11c2dRVXc?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-04-30 19:23*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-04-30 08:14)
 
 - **[Glencore first-quarter copper output jumps 19%, marketing unit set to exceed target - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUtxVkR0Y3paX21Ta0xuLWNqRnBiT1FGV080anJxOTBwMExac2ZzN3VPR292c2pCTjBBUmJjVkNDWlV4Rk5Gbl96cld5Z202bUZhMUdYcjdNYVFTQ3NRVWJDVlI3NERvaXR0MU5WV2lnREVmVEdIejJiSWJ1T0JLSlp4aEpnMUxuVnFhV2F0WVloVlRlbTFrQXJlRE1sSVVDV25rZEg0M09kQU8tRUlyY1dRcWlaaW93TGdRRTF6YWk?oc=5)**

@@ -10820,5 +10820,150 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-01": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 23,
+        "articles": [
+            {
+                "title": "The global copper crunch - The Australian Mining Review",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzBnUXZjNE45c0w4RmNhWGcwZHUwSXBuOWNvSVc5cEFaQmlxNXlmOHkwSTdTUVhQZTJLbXJuZUFJWFptdHI0b3Nwa0tleHNRMUN6X1JVeng4bml0dkVJOWt2ZF9kYndDTFZRZXVsb1l3NkQ2b0kzQjJjRE9ldS1rYl9fWQ?oc=5",
+                "source": "The Australian Mining Review",
+                "is_premium": false
+            },
+            {
+                "title": "Inspiration Mining to Commence Drilling at Rottenstone North Gold-Copper Project in Northern Saskatchewan - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXJZVWViWW5KRm82UUVRWFdFbElSSzRJQVowMHlPRnpQZUZCUUtDaWpxZTJqclVUcUxyam5nM3NkX1ZUM3BEd1BCMlllWDlvSUxrdkYzQmpIaEhubGs0aFMwNzFIdVdpd20wcXpRUXFUNG1WQ1FNS01TdnZoWDQzdEE0eHpSOFhqSzBEUnNWalFrQklGNEtXT2ZhQUw4ZlhaOTdJOVU3MGhSbGFBWmtMRkpkVQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Steadies After Advance as China Holiday Saps Trading - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0VyMnZBOF9WTGRHXzJ0RlJYSDF0REI0NzY5SmV2eXZiU1U4RFUwWDFTZkhIS0tYcDBUcDNQZi1feHF3elRZUEZGVWpvN0pCUHhPWDBTYktaV2xuVmM0czhJa09aYk5rM19JeTlCNFVxaWpHMS1xVW1XVm5hd2s1UTA4QVRITHVkNUYtU1NkTWlURUJ2ckhCSllUX05Ld21oRGhEeE9NNkNRbTd0X1VF?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Austral Resources Completes Lady Loretta Deal, Strengthens Debt-Free Copper Platform - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkJidFpBUndaSjhpV1lCN2h6dkozQVpvS2pnZG45TXN5Yk5aVFo2M1hJQU4yQU13aUs1VjJ5eTd6bkVPbG5fc2ZGc3FjNHNadXFRQmFLNWlwRWUtVTMtajZyNnIzWFpVNWRhQ1B6V3BQVklDcHUxeUh3NEVFR3NXR2F3VEZVYnFUbUd0NlBWRUI0NjhaN2xIVi03clRZLUpqRmUxZVZiQnhic3pERDR2clNfTWN3V0s5N09IS3dPdW5SRzM2a2JVQlkxcGYzTjNkaGFQb3E0cEE4STl1aVFMY2JRdWtfS0xZWDhTcVhsMURpSDdDdlJF?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Golden Mile sharpens U.S. focus with Arizona copper-gold push and WA asset sale - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWl3TzRtQWo4SlI0MnN3V3g4bmwxVUs2Q2VFUVVNbnZadE1XMzg0aDBSeUUzMWRCUlk2ZUNvM0pJb0hrYnN0LWFxM3NVR3lmb3ZrZzJiaVYtZWx2NmtDX3FjNm1CMGY0UWZkWWJPRUtlYUFMTFFwdlA3X1hHanlSTFJJRURQM0lFTUxyenc2LThzMk5IUWpxaUhSbGdObW9yUlBWUEI1WFNaLTJDTjdHWEQzQjljLWNxcFBxSHQxak9lWmNmYmMzQTM4bU9MYzE0WUp1T0NZaUpaalNMMmhVNHBzYnZGdWJqSV93UTVuczk?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Evolution Energy Minerals Advances Chikundo Copper Exploration and Bolsters Capital Position - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOV3MwQ1dhVkNCa095ZmhhSHEyc0dfQ29jNjNIQWIxUWtZNzZpLXJMT1Z1eVZ0S1hIYXVsZkJxYzJMNmRlVnpVOXdzRGJweVoxRWlmcTA5aElycnNJS1luYTJyNFhkZUhhVXIzbGFnWUU5UjNEOEN5X2lrYU5HYWtOWkI3dFpRTmlUUzRoY05hMjZJZXlhVUVrY0lVLUQ5NTE1RjZ2YWNyM2tSbWJnWlJqbVlzRjhLUjFpbUpuY2ZlWHYwWmw2dnY4UGE5Y0hBUnZLcjdkWjV1UjQwczIzTS1DcC1OOGcwUXVpLTZDd2VEYlRUcGtjakRYWHU2MmZKTlVWM1Qw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Solis orbits copper and lithium exploration: RIU Sydney - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbTFKdVNXV2NIU0VaTGdsNTVka1Y2V0dINFJmYlU1SVFWU3pMX2oxQWJoSC1LV2RpbFhYblBFeWlJT2FOMmpTYTZ4NU1rMk43dkROYXBNZkFQTmpEVjZmYmZCSGVtNHJZUjc1MS1OZnp6NnU4QUY3Ujd2akdYRUZRQ3NQRQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Pike Place announces Copper River red pre-orders ahead of season - The Cordova Times",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTk01NjNHME84TXhyaTZ6MmdlNjYwdVZscUM5eXFidGtyYkQ4eEVvWTByTm1hNzRkSWZ0Rm5ueTE2YVpHN2pHS19xNnZ1QVh0U3NyM29lYUR2WlcwOS1scERlRnZyNXpWV0c5SFh6MjdoSkhDLUpnblVkZ1F0Y2Nxd24xYTduMEx3TUlXSVdIbVd6WG1GMlZpbUstRzF6UUNFOWhFbENudw?oc=5",
+                "source": "The Cordova Times",
+                "is_premium": false
+            },
+            {
+                "title": "Lumina Metals ends trading day flat after Toronto IPO - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTaGpyajM1ZFdJYWgwXzFLUy00bWZkR3N6QTFlUzkyY1VvQTU4RXJFY0NCZHd2cUs5T2lpUmNxak1NanlFMUJlSzdKdzhOZFg0SHN0MWhSQ2RBZkVSUjR0aWhvZmpjSlNxNTVjYWVtZXM1bUZXdzFQMWlSNnowQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Arizona Metals tanks on rare negative-value PEA for Kay copper-zinc mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGdxQnBmMXJZa3F3cXZkRmRORzE3ZkFMamxQTmNpWlBLTWxoWkNIeUMySHhBemkxLVZudlk3U2JqUHBUU1A2Y3pBeW1GQ1c5d2g3Z3hrQW52RU5GeFpDT2R5WVhtMTg4TlFuSnU4VWg4LWlVX202clBFTVAwa2p1akJQZkJsZFRrRFhBN2tSdUphM0tJQUhDbHpzbHA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Falcon Copper and Glencore Sign MoU to Advance U.S. Critical Minerals Supply Chain - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcWQyajZBRDVRVmpGSG1DNTQ4TllTZzdwUS1QalM5UWV6UFNPcFo0enc2MXdHZHd0dTJ5MmhKSEM3VDE2OUplLXJNOVlvemRKUFNUMkhvc3Z3eVB4ZGw3MkVNNnprLXZQZDZhRkpzWmNxUkRlbk9wOTUtZlVpNWY0MFdkRTBDc25hNUhUQmk3MWd2U1pSY2x0dWZVRkdmdDg1WVgtVU1Ia2w5Q2twV3l5dnR4S19ySk8yMkNuYTU3OEVJOHFvcFlfTHlrTDFNLXhRbHhNS2FReEpWOE5nc2JmZm9GbEt3Q1R0S2tfMkQ0aEprRzRD?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "After tripling IPO target, Lumina Metals aims to be world\u2019s largest copper and silver producer: CEO - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUNVRExPVjZRam1yY0pEbC1Ncmc3UFZ6TVc0UXROU1NkVnI5ZzBYcURPLXFOOWNHMk0xMHZLWWh1Y01YME5od3FIQXotUWdVcXZqNVVmdTgwSm9hNnhrWVpQOXljWHlrZEhWZ0xLaEdUeW50X0stV2hCX0FhU3NOcjlCS2xNemxEZlpIeVNCeUU0SW5kdWNpbld4X0dQR0o4c1FxWTg3S2NzUW9YV0NQeTBtTktsQ2dBUGpLbEk2WkZ5MlU5MnNHSW1RcVl2Z294U2VuSnVkek11c2dRVXc?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Sprott Physical Copper Trust Announces Approval of Mutual Fund Restructuring by Unitholders - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd25OcWdhTGlnS192ekF5bkpiVmRCZzEzd2JpTWNCV3llcUhPQVg2R3VzU1piV01oeUZjMVJndlAyZER5SHdMQ1Y4cmtBRXVJSlp0N1V6eDdaYnNjU25TYnVrenB4eUZxMExzQktuUGFlbzRuVTdVR21MNHZodkpoZ0ZPelZiSFF6Mk5FLWgzWEdCLVd6cGxJTG9WQTNENDNhSU5NVGZNWGtxd3JJRnZRQTJuTVdFTkpydC1rTWFoTXRPQVBXaDFoNm1Yby1LR0wwY1JVLUdES00tTGM4MFZiMGV6eHpyb29mb21zbkthN05abjk3YkFEX9IB_gFBVV95cUxPUlFLZzkxaU81Uy1zT1lqeDBQamdfT0Q2MjJJTFpFd3hOanY2YW54ZjdkUW4wbDlMUE82MFlZZTNjS0QxbmJrZGM1c25oTHhmYU5lb3hxMGd4dWRmQTNjWk9yUlpPbVNNQnJNNW9pN1pzQm9kX0Z3OVZnN1VMOXBObnlCc1A1TlE3SjBGanNyNzhpZWs0WmMxVkF5QTBqd2kwVVJkOW1TVTNlQ2F0N0FjcGFLSXV0LUZhdXlDc3VUZl96cmIxTFoxVGFfMmJxSDFEUnd3S2U2ZVpRXzJqcl93RmFXNENWZGQwc2NZcmlaTHBsM1Zmbm1LTG5vQnJTUQ?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "AI & Data Centers Fueling Copper Demand Surge - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0JtaWtMNEJJSC1GVjJJX2s4MEI2cmk1N2dqSFRaSHFDc3hvM21leGJaZnFENG5DS1E4Q3NfZUR3MWlfZDQ0aFVvTXI2N2tES29TdUxtc2FRc18xUGgySjlPTDk2OVR1RUJvcDJqeVd5ZFJJSHhnQTc2WDJLb3pCOHJXZXhQZw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "US Tariff Fragmentation & Copper Supply Chain 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb254dEphVTA3cFRxTnN4cUNGSlNGcUNGdjh2amt2b1hZS3VuUU1VZjlfeFk0bXFzQjlEcG9MM2Rjc2E2Q3NRYmg4Z1pRdWs3SkJpcHN3Vm83bUdoRTJGWU9xSndzZEhpTlZOeGRrc3U2MkZXVHpaY2VOVHQ4OXB4REk4M2pFb0dLWEZ2akV3?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Global scramble for battery metals intensifies as U.S., Chinese firms target Zambia\u2019s $10 billion critical minerals market - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUpvWUxNWDRfZWVnYmxlS0JFMjNwdHF4eXBIRHgxNEdfOHZUNjJNTmVWWXhwbW1HelhHTmVNU00zRmlLS2xOVW9NOXcwWlBHbVFYc3lLWEZyQ2t1OFVkYkJnT0N0eGpRYXFVSUp4QjRzRHVFaEF2WGQ4dnNjNlVhcW51UE5YVXFCaktzSVRTNEpuaTN1MkJrLXlJRWNjUk16V0JtNXdlNFdVS3NGdl9GeEFSVTY2SHM5c0dYaGkzbHNVTlBORU41ZTY1YUtFQk1xV1daTzVPYw?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s copper output and manufacturing production fall in March - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjZ4dXFQT2dxWGlnSnNhRFVCZzVqOU9raWtWcjdpQnVJZlQxdU9yT2hJTUtxUHJkOGJtOXVGMGFpaHhkaGtrMkp6SUtrWFF4Wkd2V1Y5Q1g3bnBWLUFMelRqaWVDOWtaMXZQeDdfNWc0UjNsazdDVS1jQ2pQVkxRdUdycWR2c2NZMGtzZ2huYjZjMnp5YWc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore first-quarter copper output jumps 19% - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xal8yWkFJbzRKQWI5eTlnYk9yUUdmc0J1SnJNRDNwbkY0WHBoMmxuR19QYmY2TjJ0andiZmNoR1BGdjBtRXpNYXN1UGVwMjlLSnFZcnkzbTdlUjJ2cTQzUG5laGVPanBtbHNZM3RQWFpCYzFQVjJSV25acmpPZw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport-McMoRan Links Copper Mining To Tech And Satellite Growth - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHRNa2hYQ1hYM2poT0dhUURrLUNWUldXYnJoaGt1UzA5UUduYm5YQkR2YnFpdW1XcEtERHNLNk9JMDNnU253aTV1TGFfRjA5NVZ1V0cxSlpnTm1DaWlpRVZfeUFoUlM0bDBUUzlLRWN4X0VEZjZFUXZhMHhxWVNvcFVUWGFTNzFOYkFySklkUWVSRmdxZ1llVk1Yemw3SS1jUFR3eGkxV0s0UQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "OTC Markets Group Welcomes Koryx Copper S.A. to OTCQX - Toronto Star",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZnlsVFM4LWNKZTlwV09JRzZYSUl6M0dzZ1lHbTEycTRBalhLVkdJNWprZTR4SDI2ZWZNNmEyQ2RjelVKTHI1ZXh1TWpyb3hvYVNydE1KZjk1WEdLU1BMd3BZekFMcDd4dklKRmlyMXB0ei1VdVRpRkFBZ1NRS1VKNkdCT3FlN1lNZV96dE16Yk4zZVlkeENaalRPazNhMlNsVXBRTHJIak1FRFNKaGp0dURvcUozNXRlRlgwNGkxMzNSS1U3bnlSNUotT05BT0NHSzBrSVFLUQ?oc=5",
+                "source": "Toronto Star",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Busbar and Profiles Market Size Expanding at 7.8% CAGR | - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejI5amtRd2VRY0RCR0NXLWJ5WlM0TnRNak4tQWs5NEF1SURJU2d6UGNJT3JOaW1md3NFNE1KVmc4UktKYW8tV2hMZzR0OE1IYlNEalRraFpxcTM5YUxQU0owczBaaWVIcDZPT3k0OFBJR0std2VfRnhUQTFuSWJTbHk2VTNpNWJUQURDeWR2WG9rMFFSUEN1dFZXbU4?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Jr.'s Colombia Copper Project Turns Corner With Approved Mining Titles - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQzFRcUV3bGM5MEFTQloyWjBJbjdQNUJXX0VmeG5LTmFXSUpWX2hyalRPaW5kXzQ2U1dSaEE2dTVtb29sajVQWC14TWt3UEhtejBTazdNSzFESEctR3E5M2lRN1hPQ2V3NnE2S2VOa0pwLXg1MVh6N21aeDZZZV9URU4tYTByOURrLXpLOVVvUE5RMkNuZlhVODRBSVVHVWoxVV9zYzhYMlRGRGlIS3BDMGdsZnFxa3BTNlJ4ZVp2MTRENlNrTTJXTDJrYWRUams?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "KoBold starts work on Zambian copper mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUdOUllDLTdpVUxvQkdFVGViMXczNVhoQ0Voc29ib0NfcjdhWndyRG5hY1p2QWNreWxrZEgteldFNmE0amVvcktBbjYzckp3VzBVazBJbkRJMi1VSDI3dmtKeXM3RnFWMDlxamZrZGtUMGh0eXhNdVNQWTREYjB5bnV0Y0xDdzlwQ1NQZEJNYlNHNWM?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
