@@ -10965,5 +10965,72 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-02": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "Cobre Flags Early-Stage Status of Sierra Atacama Copper Resources in Investor Briefing - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVWNxbXgxWHZlSzE0aW9Edk1MRUtlNGJET3NhQjZrY0QxYmRqN0dFRFRzUXVBNXdKZGF5QjFETTY4ZktRbmZ1SkJncDh0UDRmYnR2cy16OHlkaTBXSk9pNU9xR0VWY2ItRFBacGRjRkVBRDNLRk5FV25zNmtUeFd4UmJUWlFmWm45bzRCRmVPRGhwQkpqWlRtZ3J5QVdfOHhpS1BXbkI5RWVVX0l3SzJ2d1RHb1hOaG9NX1VGWXg4bnhUWkw2RmNSVFR4ZHBwa2VfTGJQVVdOWFZURHFMbHJZb1pVYnF6SUJHTnhmS2pibEtVWUI4TlpJNHNROA?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper crisis? Alma Metals explains supply shocks - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ESFJURGppVmxLcVd6elJXWTAwbWQ1a3hoSU50M0pkUUZyRXFjVndsbnhxR3lFVEVNNWZoY3phdlU4ZUdFejRQQ1N2MWhKMjAyRVdwQzBObjRXLWJoelQwOHMxWENWcDNwY1o4TTM1LXlrOE5fMXRjVDVJYw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper costs turn negative for Southern, Vale as byproducts soar - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDNyWlJaOWpCVzJwZEQzVkVqc0F4YkVyekZXazVNdHJTZ2RhcTFHWDllTFNIMDRoVHkzOHpHbzZzdFBvNEhram8yNE5nNENqejZrQkgzaTZrYzhZWVN6SzA5SVZhSlRKNFNKUnUtRHlUVXZGZUhRUzRKZm1YVVNOSTB0REFUeFlvUmpQWUVXOUhYa0pEY3c?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-Gold Developer Advances High-Tech LiDAR Survey in Montana - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXNWY3Y1SFhDX0JxUmlYY3c0Y1FmVDRzNzRaVFpCY21tSnBYZmdOVkNJU0JQS2kwY3gtbzh2eC1oMFBiOFk2NGt3WUwyZ3FxTkx6bVdaczg0OFNPWUJWX2lGY1J2VVduWnNLRHEwV2RnZ2l3VS1PelUyS3V1dklEMUZqeE9JQWpaUF9TaFk3UUxZMWJaTXh6TlJ0QjJjbklKZzE5VHphUGdjN2JCZjlkSnRvek5jNzY1My1QczVYQQ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Products Market Size to Grow at 6.08% CAGR Through 2033 Driven by Rising Industrial Demand - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEQ2a3RVY3FwODFYM01NWEwyT3lQNUxhU1QzZV9iaVVrYkF2cTJMZjZqYV9VSmtYUnd0WVZPYm9PbTFNLWdFbXptbWxuSTI2UnFuWE5abmhaaE8yME9HSnptQXhHR3hCemo5LVMybENPOFVvZGpWbU5VUmdCWTJ6U194Z3ZjeDJueUhJWXJGQmNZWnlGOGt6YldtVDRFUQ?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Study Group shines some light on Doctor Copper's confusion - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnY2OFJIWUpkczhpWmoyMmt5bFdqbTcxNzRXSVRGbUdycmt3VHVKR2RPT0R2ekhjcHVLNEphYkpXd1RkNXRiTXN2ZDlPLTE5aEF2X0Q5QWhqTXNKZlpoRV83OEFjSWM2YTk0RGlzckFFS3A3S0FjRlFaalduQ3F6bEh0T0xHR3pjdDlZeEhLSV9LVVh6Rm55U29lNkg5Skx1a1praDJzdlhiREZlUkkyLXR2VGp3WGdhMUFhQ0I5ZDM?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Meridian raises $34M in London market debut - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EU211eUduZ1AyanF4UmM0cTMtd2dsMS1TUUg5b0Q2RUY4Q0o5aFh4dGFOMzFKN0xNeHZFV1ZjMHNtR0RIWTI0QXNQT3BWRG5yQW9KcFBrazgyb09HV2NzS083bDZVcjVLMFZFMFN0aWNheWc1?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Legacy Minerals hits new gold and copper zones at Mt Carrington ahead of key scoping study - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVXNYeXJhc1Vpb0h2UDNDMmlHY3RzR01ZTE9hejE4aHhEbEhadE50S1cxY1Vaa2RIOEExZHFSbjhkcVJlZEJRZVZpVmVJTUJkVWVTTHhCTWJLSFZpN0k1SVl0ckE3RmdheVRKdFBuWVo4cU5aYTBJSTM3RFNqMThia3E4OW44WGJfcDMyU1NWTTVDdUJ6VURIcDdWVTJjMlFQWVBBRlh3bDI5UzVCel8wVGhZcFVNaE9UNlJKdS00UDZmZFBLcm5TX2FlaF9tZFR3R2tHR2NFaHhycHRYaXN5Vlg1RjMyTmNjUlU3WVpIUzZCNml2d3hOZjF0X3dDRE0t?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "China tax compliance push tightens invoice quotas, slows copper cargo flow - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQm5ESGxCMzIxaFFBejM5VjRkWlZIVHhRejM1TG1abVFIaTJzLXRtRGo3aVdFVlBtQTNCUzVtd1VJRUlIV2VTZ2ZOTGZKYnlIODJQLV9ITmZGN0VnRldkdV9qdWF2VWd4cm56Q3h4VW1ZTFJaZzE0enp2WFRHTUZ1QzR4YWJsMUVWWFVRTFhRWnNTN18xaXQyY1N3Ty02ZU9PM3RmUHMxNXZRaTJmSk0wMmYycFI0RG1wQWdWOWJudXFONUk5dTFNU1B5S1QxbUktUjF0ZkFBRWQxMFhfX245Z0hB?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            },
+            {
+                "title": "Big funds bet billions on mining supercycle - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDRlLWl6OFFsaFQtSnRjcjh3aGNRakp4QlNUUER3MEozS29hQWxDbVF4MTlvZDZfQnBfc3MyemNVeGx4eDd5QVVkdFJ1cUlMYzRtQ3NkWHpOVC1RemlVN2NZdzBJc2QwTG1sNEFxOXRkdjE1ODNNSmRIeGdDYTNZY3BvTWhXNXlKb2JkUGtOMEgzU25zR3V4RklBaUg?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            }
+        ]
     }
 }

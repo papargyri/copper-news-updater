@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-02 07:27)
+
+- **[Study Group shines some light on Doctor Copper's confusion - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnY2OFJIWUpkczhpWmoyMmt5bFdqbTcxNzRXSVRGbUdycmt3VHVKR2RPT0R2ekhjcHVLNEphYkpXd1RkNXRiTXN2ZDlPLTE5aEF2X0Q5QWhqTXNKZlpoRV83OEFjSWM2YTk0RGlzckFFS3A3S0FjRlFaalduQ3F6bEh0T0xHR3pjdDlZeEhLSV9LVVh6Rm55U29lNkg5Skx1a1praDJzdlhiREZlUkkyLXR2VGp3WGdhMUFhQ0I5ZDM?oc=5)**
+  - *Source: Reuters | Date: 2026-05-01 13:42*
+- **[Big funds bet billions on mining supercycle - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDRlLWl6OFFsaFQtSnRjcjh3aGNRakp4QlNUUER3MEozS29hQWxDbVF4MTlvZDZfQnBfc3MyemNVeGx4eDd5QVVkdFJ1cUlMYzRtQ3NkWHpOVC1RemlVN2NZdzBJc2QwTG1sNEFxOXRkdjE1ODNNSmRIeGdDYTNZY3BvTWhXNXlKb2JkUGtOMEgzU25zR3V4RklBaUg?oc=5)**
+  - *Source: Reuters | Date: 2026-04-30 06:04*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-01 08:07)
 
 - **[Copper Steadies After Advance as China Holiday Saps Trading - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxON0VyMnZBOF9WTGRHXzJ0RlJYSDF0REI0NzY5SmV2eXZiU1U4RFUwWDFTZkhIS0tYcDBUcDNQZi1feHF3elRZUEZGVWpvN0pCUHhPWDBTYktaV2xuVmM0czhJa09aYk5rM19JeTlCNFVxaWpHMS1xVW1XVm5hd2s1UTA4QVRITHVkNUYtU1NkTWlURUJ2ckhCSllUX05Ld21oRGhEeE9NNkNRbTd0X1VF?oc=5)**
