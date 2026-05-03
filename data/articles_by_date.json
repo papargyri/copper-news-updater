@@ -11032,5 +11032,66 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-05-03": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 9,
+        "articles": [
+            {
+                "title": "Copper Price & Iran War: 2026 Market Paradox - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHhaZzZNUWxUdFVlQkNUR2VPM25Xc0F0aWNILVNvNkh2NTB6dGlIelFTcmp6OGY4cXJocDJSanpyVi1MSmVzcGVPazBCdGtIckY4Z3VNYXRQU2dxME9NYmtmN2FUa0JBS3BxTTNhM3BrM3ZEYnNKdEU3Qk9VaWFQeHMzbDQ0cXpnMkRjZg?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Column: Study group shines some light on Doctor Copper\u2019s confusion - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2VsX1RYQnFoQWN6NWxXeGVESlZtOUVSdlJsa0s4OEJSUlB3cWpqc3JRaTRCVW53M0xEUUlkcEpzNVdJb3IxZWgxNTZXaHRCU0NDSjZFTnBtWkU1Tm8yX09KY2F0LWVGeWdMZmVMcFJGd1dJQTFYcVgtenlaQW0yX2hUdXdXVUVWYV9ldDJLS2RYYUVEYUhj?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Hudbay Minerals Inc. Q1 2026 Earnings Call Summary - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSndidVRFMWtxLTBoSGJmSVpvODRGaEJ2YUNPdEY2dmdIM1BXcFJJWXhHY1dBTk1XR2pIS3FEb3FVSUtIT0tSWVRBQVhQdW5RQXhuZXY0MkRKRVdGRHRQZHByYW9ZVVU5emFrRGNGV0xaZHVqd2Y2eEhQTGZRYzZYMTlCSV93Y0tPMElvaTNGdzUyUUt0SjA4?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "ICA Day at CESCO Week 2026: How Copper Is Transforming Industries - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0R5ekZZbWtHXzdNWm5ialY2RVFkMXZKQlRGNkxoWVpHZzA0S042eU4zVzJ2Sjhoemp6VGxfdTRlbUtCRXNKSE05Uy1LWjdtcExCLWpxS04tT011MVJaY2EtRVRVdDUyNHdTQ3FTeFk0cmhxUlhKMFpGalNkQVB0SU1KcTNRdHR5SnZvN01n?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Pike Place announces Copper River red pre-orders ahead of season - The Cordova Times",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEt0c3J6emNrQl9qSUlIcXdfUXpMUjRHQkl4MVVuYVJlSnplUU11M0FFSk1EcXdzalRMM0paZW45RVNIa3hSbDRrRExyMGkxNlJ0eENXRE04X01IcXZpb0VLUXZoS0xzMUJHMkxNQXBlUS13RkhWd0VzR2VlcW81NXdCTjZ2Nkk5OU9veHhsWEFNTWpqbGJqUzVYTGRZYTR4b2x2UWd5cw?oc=5",
+                "source": "The Cordova Times",
+                "is_premium": false
+            },
+            {
+                "title": "Vicu\u00f1a Update: Initial Drilling Finds Large-Scale, Shallow Gold-Copper System - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSzh1MmtIWkdnVFhDM25aRDFuNXRNOWdGa3NnVUhmQkFKSjkwSDhjZWkySjJNN1llVC0zeW8tYlVLUDM0LUVlZWRQd0xjOFpWWFFjT0VfeWtOcU9yTnhIcFFrckY4T2FPaE1nZmdQTEF2bGtwLWQzTkRYZUJpS3ltc2xXZWh1N1A5ZHBxZWZydklYRnVOaHIzMzNsWV9mMXVNVHl3cktrTjJBM3NraTJQeTRDS29tUlc4dng5VlhPVXdRNG1MYXJwWnhUVjF0WHk3RVh5c0dyYU0wc2k1VDdfRy1ZNFVwRkI3SDBYLQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Trump Signs Mining Bill to Reopen Minnesota Minerals - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUJjTWZkZzEtYkRranZfNHFqQjdyazJFU2kzeV9TUW5rTXZwNFpkNlVmaGppVjExRmxKMjhfbERZYU04VEQ3YXRPNHpWYjMwN1BPOEFJTDk2azVJc2YtVWxCcVdROHB1UlNvalRtZTYteHBFN2hsRVF4c25MWTZvNGR4Mmh5XzFfLTlzcHBZc1JPZGdF?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Snaps Five-Day Decline on China Manufacturing Expansion - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHE4blk2UnNMa21yeXlZcVlhUXpyaVQ4WmtXeS1DMEppUzV0OFhmTjhkeTd4Q2p5TTdmU2N2S29mbTFsbFBMZlhjd1V2MkVPSG90QTkzVHdnMVh3ZlpnRU1TN01aWTZaeEFPNll0bWRyQXFURjdPdUN1bjhYTmFOVUpUa1hqdWFnWDAxZkVQTG9pYlBBOFpoZktaZzA4X3NpRUViYVNONFVxWU1STFpCMTFScw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Coyote Copper Mines Inc. Is Advancing Not Only Its New Zone but Also Focusing on Historical Areas of Its 58 Square Kilometer Arizona Copper Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHJzNG0zYURzaTIzNjdvdHV3UHdiV3F3dDM4bDFxWGhOckFLZFIxUlJ4VXlsOXZOdUlSQTh1ZXBtclZoalc4cHhIajNZTXlsX2MzS1dtdUVPYnVHN09Xa2pXU1hiZlRqUW5sQzdQWFZvdGlBWHdmWXkxQmQwVXJaenVVaWtKT3doT2xTMXg1UHhtMmNZUG1XU1R6ZkhuMllSdTQ3VjFR?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
