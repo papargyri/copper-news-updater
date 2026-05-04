@@ -11093,5 +11093,48 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-04": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 6,
+        "articles": [
+            {
+                "title": "Hudbay posts record quarterly earnings amid high prices, low cost production - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMW1CdzNic2VwaXdRVUF0bThMckxxeEpQeDR1NU5lOU9uTWZBdVJoVDAwaVJTQU1kWVZhdkNKYnpXVHZIc1RtX0VaZmJnVmItMDBzRmRseXVRMmlCWEZCTjR1UEszRVNqYzk4VlVobG5BVm0zUWt6V0pYYUt6Unlkd0QtV1U0a2VXcU5wZ0Z2bkliZ1lhMUtBLTZSaWpPUEV3SldIdkk0dG5yOS1fSUZpd0dZVUlINmNqcHFnb3ZUXzI?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Opinion | Sen. Ben Ray Luj\u00e1n: Reforming the 154-year-old mining law is long overdue - The Washington Post",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0JUQnF1a2p6T2VxVGhmT0tFWi1UTGdKTHVSa084b0RpcENnNzUzSUZoTHFnQVFES1ZIVDMtWC1UZUMtQ2FhZ29NX3NZT0R4eUk1Z0hXY1kyR1BZTlM5ZmlBeHlMM0szNGdCMHlyeEZQeEoyTktLUEpSbGdCeUVseDRpS25OSmRieGx3RFQ0X21hdXQtNzVKQjM1N0kyMWZvdXk3RUl1R2Rqb0tydWdJSEw4SXE2dFhqMEE?oc=5",
+                "source": "The Washington Post",
+                "is_premium": false
+            },
+            {
+                "title": "Myriad Uranium advances Copper Mountain with strategic advisor - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGVRekJRbVdWakRCVmJtbElIclpvay1IcGFGY3FycWZ5aV9YcXM1RXpaYjJoSzBxVjhrUFByRGJtQXdKbkhnY3VFLVJacHotT2g2Z3B6QlBEbjZyOVVPVGh1NDhTem45LWVUMGI1VVlNb05LZ0VvTkhiOFBPT0RoM1FSSDVGVDNYRTB1NnlR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Sprott Copper Trust Restructure And NYSE Arca Listing Shape Valuation Debate - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1RLVjNuSUhIbzFvSzJhZktKQ0JfU2NGQU96bnJvWUNGWWJmZ3hPcTdpNXVfN1pxZ1JxRThTZjRGVTJ1Um5wSWZuNV91Vi1GNjhfcWhxLVZaVnhscmFWOUtuc0I4RWIzVHFzVlhpbV9WSkhydktrdTNWa0MyOVhhZy1fWm5tMnZHSFVJOFc1MU5xdjVUb3Vsb2UzU0pHcW5tOEhhSmFNSnFDZw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "A Look At Southern Copper (SCCO) Valuation After Record Q1 Earnings And CEO Transition - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHBPNktyYkM3eWlzclViXzNrZ3MwaG5kYlhjOTFxYjg4N19RS1NKVGVoZW5PTGNwZldjek0xYm5IWnhoaFpSUUJiRzFac0w3YXdTSVhtZk9Gc2JmX2MyUThVY0s3N0dFM1ZicDJCNEJpVTdWcDdhX1dwdVEzNVBlWlk3NlNWc1JpM2xzNmNHNEpkLTVnQTNaNmVLNVFhRWI5NWc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Is It Too Late To Consider Southern Copper (SCCO) After Its 99% One Year Surge? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGdUYXA1NWUzT0ppWmYwblp3UjhjZXQ1N0tmd0o5am9EbHg5MmQyZ3A0XzMzb1R1aXAtNUpwWm0xeFpwTUhFb0V1c0s0UWMta0M0Y1pRbjBMTElWRUV1ell5d3psYzVLR2RaWkc5cWxKUDZXQm1NQllUZGoxR1ZDNnVXSkJ2Zm1kdGp1aHNOTFJDaHQxNGdtZHQ3RGdhUms?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
