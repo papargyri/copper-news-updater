@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-05 08:04)
+
+- **[Copper Drops as Iran and US Trade Fire in Gulf, Testing Truce - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzdVUm1KWDFVZVRjOHJWSm45U2lwLVpJWkozblFCeWlYQ3RSWHh6a1F6Z1k4THNLWWVqLVd2MFRoRE1lYV9rSk9XbXFVcVFhMi1mT0hMX3dnclFibnZzdmxEWUtvRG0wOVZlR2xOUTFzYXJ0SmxRS0J6Mkg2WFZ0dldPLVN0RkhYTi1NbkxxRUdwMDFVRjRSWVB2eFotTEVsdThGbDJCVnRRTU9PZTJRUg?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-05 05:39*
+- **[Dominican Republic president halts GoldQuest mining project after protests - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzh2RU1Wa2xXY0hKOEpSbkVrQ24xN0lVejRtQ0dQcURWUnFodEl0dHp1dFJHYWZQQ0ZpdlhSaV90WkVTLUdWeXN2eHFTU2FqN2ZJQ0Vwd3VULUpZTDJVMkdnZE9VazEwUXY0bkV1OEttMzNZNlVaU2c3T1REQlJOeXhoTDNGcG43VDVWQXRSc2V6aF81Z3JwV3FoUVNpTFRmdWtkSHY5eXRvbG05M3RZRkw2NkFtcWs?oc=5)**
+  - *Source: Reuters | Date: 2026-05-05 02:04*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-03 07:56)
 
 - **[Copper Snaps Five-Day Decline on China Manufacturing Expansion - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHE4blk2UnNMa21yeXlZcVlhUXpyaVQ4WmtXeS1DMEppUzV0OFhmTjhkeTd4Q2p5TTdmU2N2S29mbTFsbFBMZlhjd1V2MkVPSG90QTkzVHdnMVh3ZlpnRU1TN01aWTZaeEFPNll0bWRyQXFURjdPdUN1bjhYTmFOVUpUa1hqdWFnWDAxZkVQTG9pYlBBOFpoZktaZzA4X3NpRUViYVNONFVxWU1STFpCMTFScw?oc=5)**
