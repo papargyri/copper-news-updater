@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-07 08:28)
+
+- **[Argentina sees lithium and copper exports at $32.7 billion in 10 years - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeTAxeE0weENKazIwcUFJcGo1XzZzOGYyWFFwZm91MEp2ZEdReUpybjgxc0hBZ3pUS2xGOEg0bU9RMzdRbVFueWI0SUpmQUM1Um80aWowcDVfdzJrOFRzVjJwR0c4V0lFSy1GTFBCUTh4WnhlMmNDOUNiMGxqZDBHSUZITUUzQU9hanRNNTRQN1piQ29JZDlUTVg1V1hQQzBtZGpMYW1pTEZiVWE2a0NGaW5XZWF3dllqcllyUA?oc=5)**
+  - *Source: Reuters | Date: 2026-05-06 17:37*
+- **[India’s Lloyds Metals Eyes Reopening of Giant PNG Copper Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOenVNWFhuczhQMFNLYlZXeGtMYUpIZmJzc2xGVmU2TjlSbV9KVDlLWGQ2bUxYOV9ENHUycS0tZ1M4X3lscDZQTXJ2eEI0YWxwNDdpdVNOMGRPa05VU29selRTVWJwYTVtNjZwZXpadkxKZjduemxFUV9JR19lVFpnZFo5NFFfdjk2MmlMcDhVMnZPdTJNZHBwLXhpNlk0ZVpmMlpsdHFpdzBIQzhPREJoNGN3?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-06 11:54*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-05 08:04)
 
 - **[Copper Drops as Iran and US Trade Fire in Gulf, Testing Truce - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzdVUm1KWDFVZVRjOHJWSm45U2lwLVpJWkozblFCeWlYQ3RSWHh6a1F6Z1k4THNLWWVqLVd2MFRoRE1lYV9rSk9XbXFVcVFhMi1mT0hMX3dnclFibnZzdmxEWUtvRG0wOVZlR2xOUTFzYXJ0SmxRS0J6Mkg2WFZ0dldPLVN0RkhYTi1NbkxxRUdwMDFVRjRSWVB2eFotTEVsdThGbDJCVnRRTU9PZTJRUg?oc=5)**
