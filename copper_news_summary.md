@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-09 07:51)
+
+- **[Exclusive: Rio Tinto considers raising stake in Argentina's Los Azules copper project, sources say - Reuters](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW1TNHpCbC0xNmFZRHRkeE5Rcl9McEhrbVZBaHZvdXpuZ2EtdXZCREMzaW9Fb1NsNnE1ODd2bjhLdUtRYXFkaXRKRmdlaW11MjU1Vk1GUUptcVpMODFrdld0WGRPdnZYZnA5RVhZZ3l2SGxKejgyN2hGUWVOSFhwRUhJdXR3bERGQ0lrVm5HU2RYVmhCYU1HaVRJdWxRRGViaEVyQk14czIyYWxBdFYyWjhKdTI3cHJMN2tUeFRzN2dlbjB0OE9DMGs2aHRsVWJRMGlXRG5yYW1xQ2lv?oc=5)**
+  - *Source: Reuters | Date: 2026-05-08 13:08*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-08 07:24)
 
 - **[Thieves Are Stealing Chile’s Solar Panels and Cashing In on the Black Market - Bloomberg.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaVJzSXlLeFQxc05GYUd0S29RdTlhbkhZZndQUUhfR3JYME1ZbzJRRzlUbE5vRjc5RmlLLXlzaG4wZXZDODVJVWQ1Zlp5Z1h4NFlocTR1MjctN1BFRHNGNHpqb1U2V1lITmJic0ExckxnV2s0bURmU1ZjUXBNUE5faE85eE0yR0VBcUI4NHVMZ3lSU0FZODh1VWRoM1QycE1kb3o4cFdZRl95OGtsdGY3WG42SFhONklHck8xTUQ5d2pIdXNweXNBYQ?oc=5)**
