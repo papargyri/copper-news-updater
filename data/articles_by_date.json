@@ -11566,5 +11566,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-10": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Credo: How The 'King Of Copper' Is Becoming A Titan In Optical Connectivity (NASDAQ:CRDO) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEZkMW5VVnJ6RUpiYVBBYVdJUzlORDl0RWJrRDJoRUs5blhvN0U0MGZYTW1Tb291RmEwOEFxLVQtbm91bTVETnFJMGJkS0Utek1ST3VCMURHS1dvbEVfQS1BOHNKWFE2dEZpQklYdkVWaWdlb3JwZTg0RTNLUzMyNmd3cWFlUVdzSDFFZF9mazFwWlEyRnhyaW1zQmhyUmF1a0lmYlpQVkxhank5bGxNcG5vZw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "How Investors May Respond To Southern Copper (SCCO) Earnings Beat, Higher Payouts And New CEO Appointment - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDFGZnFrOUllWm1Md2hSYWp6N3dKVXl0b1BKZFZhRFhZdUxlNFlPR3VvZ1pKWUNscHJOcEtCRDV2bjRJdEVjN2ZxeEN0WXkxQ0JCSW5ocWlvUlpldTVnWXFScHJVTEVJRDYtR0V5TDNVZEVlc3lzMmtFTzVGdmw5dUc0Y0RaczhIbUUxY0N3aHhuT0pJSUhBaUVVR3N5RnBhY1U2VQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto considers raising stake in Argentina\u2019s Los Azules copper project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmYyUktoczdzWFFTR2RvX0hMNFJRMWJQM2FWaGxib2RPTjJEVzFtelp6ZlBjX3M1X2E5UTJxdEFGNWNldXZLX0dVelJXdjZhMnczM2FJZ2FTZEhHS3o3eWRTUHctLS0xWG5MMUpfSGZ5ZVdFcDNZWXhwbnJzbjNSejFPZXdnRlNxQ09LMDk3eG9LUXBpSm5uZXFCSW9QVFNsekJRekNDZm5MYkVIclh6c1p2VQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Is Consolidation Around $6 Bullish for Copper? - Barchart",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUVDSmR1dWR0dFRQN181N3ppQmJta1J3eEUxU3RTWmFsaFhzdld1QTRteVdvU3l5RGZ0VmtpdlN6VS0yWlRvOHZqRzlxOFp0SDRNUXJqbHZlZVVJMUNpLVE3REVHZjdleHp0TjMtbExRLXAwOGotbjlOREs2VmlvUkRJTVJWYmY5bVRxTXlORmFYQQ?oc=5",
+                "source": "Barchart",
+                "is_premium": false
+            }
+        ]
     }
 }
