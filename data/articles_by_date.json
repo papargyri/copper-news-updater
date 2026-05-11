@@ -11597,5 +11597,66 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-11": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 9,
+        "articles": [
+            {
+                "title": "China\u2019s Refined Copper Imports Surge on Strong 2026 Demand - discoveryalert.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmJma0UzbnBQVS1PbkxxQ1ZUenJBYmp3ZmphOVJ3aUl3Z2lQMjdnc05lbExpckhLdm03Vjh1ZGJydmVMbzI0TjMwU1F3ZGlVRWVzMEc3UGNuNEQ5YTVlUEwwX3dTVWxqN1lOR0RnWXZPSGFyZFZuaHNJYUZmTGE4M29DaWtGaE1qTzlJVUR3?oc=5",
+                "source": "discoveryalert.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "India-Peru Free Trade Pact: Copper Supply Strategy 2026 - discoveryalert.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0xQVld4VWZQcFA4dUZGbE4ta1hVcFJ0enBuZnBqYTV0RlB5SlI3RXFOZlZmZUxaOWlQYmJ4NFdURDhCTmdfTHZHN196WmFSbEJMeFllZmZjdVc5UFVRX05pUTlXTlFtLTV4WE9BVDF2cFVfM0pKMnN5aElacV9HejhiZjNleWM2YzM0?oc=5",
+                "source": "discoveryalert.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Revolver poised to pull the trigger on copper production by year end - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDIzQm9rVUpCUEQ2dDgxbGNNQUZUSGxWZnF4V2ZrcjVOVHBvYTVXN3NsVGxpV3RvZ0QtRFZXdkFvcDB6dFFBV1p2S2MxcGU5QkZiajRpZGdFQmE1QjZJQk5xd1hTbnM2aHlXM1lNOE9fMzRfTS01TFdUMVJLbWM1M3N2T2ZvWXdjYjlCX2tXYmpFUjVHbEE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Shrugs Off Middle East Uncertainty to Eye Record High - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWxiQjlDVFRlbERjZ2t2T1NCQ1pWc19Vay01cjJ1RFFfVVRRU09PWmFveUhETjhOQjEtV1NtWUhjejJjeURCTm9xOWtzc3RFLWhPWWhaQXVhRzdqSXJEMlotT0h5eng4RWhOekpHaWc5TVJwVndTNHFwUzVIMTg3dUFDV3Y5VkVzSUN1clF6WnBCR3FfZl9weWpiUGhoOVZYaXZvd05YYy1fVTNEb1NubmQ2UjFzdw?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Lodestar strikes new copper and gold targets at Los Loros - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObUpoczFKaE43cTdQYWF4M1lhQy1mcUduOC00TGRiSDVwdkpLZjlLV1NEZ1YydGxMdzBtR0xYY3RNYVNQWGFOZVRUa3pqdTQ2RjBjdGNOVmVTLUxnUGtSUFJWZlctVTJTb1QyN1hWdk5aRTZtWXhZdzZzSHJaaEN0NTZUYkw2bzg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s reckoning at LME Asia - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QSmMxVXVfaUpVaDFqcllMNTVuR2pIM3JicGhwZmp3Z3dDUkV1LXpJVmVGV3o2OC1Qbll0WEtzel9naFpjTWJsRHV4WGgtY0FqeXdodkhQUUthaUtVeEpEZ1Fn?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "How Electrification Is Driving Copper Demand - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHRPYjJ5bE5sZHJYYVlsQzZFV1QwVXFZaDBTdUlHNTg3MGEzZE9HRnV6cmkxOEFkc25JTUx3U1JTcjFGd0pWX0FGbUFwZ3RWTFZEMEEtMm9UeVZXMC1HeUtyRzlCdUxHM09yTGxZcERPWXFLU3JBd2YzZ3pWb09GWFUyNnIxRllFRkE?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Near Record Highs. Market Fears Supply Constraints And Bets On Strong Demand - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGNKRDdFeURfbl9qMThOYlRiRTJPbXZqOUszOEdhYi02SDRTZThlMUJPRzlMYkNvQ2RiX2ZNTURJYVVBUnoxQVJZSmlGdDJCSXp6Mjc5aHlaYzlUSTdpYzh5VUNXblNocGJ5Wi1qQW9kUUlzVTBJMnRsa2dYeVA2a3ZmX1pLWE90ZXRwZkdJT21ZWlROSldieU1BaTJaNjctU2I2Nkk0bldmSDhkS0pWcEdLbGlfTHItNEpsSHVBOWVlV3hickxjWm9SUUNBVWZUamNueg?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport delays Grasberg full restart to early 2028 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlliXzVSaElaa2M5bzNGV0twQ0FhTnZtZ0ZxT1RwV1VBeV8yMnJvenFsVWhwbXc0RGlQNk5UNDFnMDhBRHBmWUJYT0lmbmwzLWo0cXd1bG90X01mYW92YW15M2xXRDFmc0pNS1VvYU1DaEpoS05iRTVYRzdwYm9TTg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

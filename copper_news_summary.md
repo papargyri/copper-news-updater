@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-11 09:33)
+
+- **[Copper Shrugs Off Middle East Uncertainty to Eye Record High - Bloomberg](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWxiQjlDVFRlbERjZ2t2T1NCQ1pWc19Vay01cjJ1RFFfVVRRU09PWmFveUhETjhOQjEtV1NtWUhjejJjeURCTm9xOWtzc3RFLWhPWWhaQXVhRzdqSXJEMlotT0h5eng4RWhOekpHaWc5TVJwVndTNHFwUzVIMTg3dUFDV3Y5VkVzSUN1clF6WnBCR3FfZl9weWpiUGhoOVZYaXZvd05YYy1fVTNEb1NubmQ2UjFzdw?oc=5)**
+  - *Source: Bloomberg | Date: 2026-05-11 06:27*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-09 07:51)
 
 - **[Exclusive: Rio Tinto considers raising stake in Argentina's Los Azules copper project, sources say - Reuters](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW1TNHpCbC0xNmFZRHRkeE5Rcl9McEhrbVZBaHZvdXpuZ2EtdXZCREMzaW9Fb1NsNnE1ODd2bjhLdUtRYXFkaXRKRmdlaW11MjU1Vk1GUUptcVpMODFrdld0WGRPdnZYZnA5RVhZZ3l2SGxKejgyN2hGUWVOSFhwRUhJdXR3bERGQ0lrVm5HU2RYVmhCYU1HaVRJdWxRRGViaEVyQk14czIyYWxBdFYyWjhKdTI3cHJMN2tUeFRzN2dlbjB0OE9DMGs2aHRsVWJRMGlXRG5yYW1xQ2lv?oc=5)**
