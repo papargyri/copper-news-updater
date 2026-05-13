@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-13 08:39)
+
+- **[Copper Rallies Above $14,000 a Ton, Nearing Fresh All-Time High - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXlNbDRDLUpQa1pObG42T210c2g3QXpEamdnbXM1REx0Z1ZiSzJWVC1hcnZJYmtmaXA1Ri1IOTN5NE9aZ25uWnIzd0FNWFhKRjZ2TGNzTnJjcXM2RGxtREhENFRnVmFaUjRYRVNpQ0JwNTZla3BGM1haV3R4TmZ4WUgxb3pZUVBCM281TlJnQTVzLVEzV0FOWlB2Sm9uZVlRSWhyMHcyME5ZOXhuQy12RHpn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-12 19:54*
+- **[Visionary Copper and Gold Mines uncovers new copper zone in one of Canada's top-ranked mining jurisdictions - BNN Bloomberg](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUjRUUXY4Mkt6ZlFpVlp0ZEJOMGNYRjBOck1ESGdYbW1EZFpWNEZDMlJvX2Zwb2ZmS0xKalg0eDBfdFJOaDM0LUw0UFRVOU9KZ3YwOTA2V1lURW9CT1NOeVZ0cTF6b0g0MGF1WDNiV2dhWTJxX3ZFRVQ4aFA5TmRXQ0k5MjVOcTM0Vk5BU0ZZMlhxM3J5eGJHSEphQV9xZG9vYU5xcEh4c3ZyejM0M2E2QUV0bnZmV2UzdUV3b3RTV2Y3Q3c0LXJuTzRocks2cFRkSm95bmpTcEZhaGNySVlkQ2JDMUZ5a1U?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-05-12 13:27*
+- **[Freeport says Grasberg recovery not delayed until 2028, stands by 2027 forecast - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNE1jekl4cXRGSWFfUjIxTl9kd0Y3eVItU3V2ek84c1BMMFZ0ZEhkelZKS2NOVm9TaHJZYkYwdXlYNk45UE9aTEF6LUpnMHpYOUZZejRBLVB4NEQwTkxxTVlXVjZkSHZnSWptdERFTVdoRHpOOVlsY09DaHdXb3JLX3B0MkxZRjNIV0FNbFdaT3ZsRWxnSEMxblVVYTlydmdvblMtN08xOGxyeUYyVTZ3TEo0X2tsWjVIYjF3QkFxWm0tOXkzblBKTnRIMVlYdw?oc=5)**
+  - *Source: Reuters | Date: 2026-05-11 19:53*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-11 09:33)
 
 - **[Copper Shrugs Off Middle East Uncertainty to Eye Record High - Bloomberg](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWxiQjlDVFRlbERjZ2t2T1NCQ1pWc19Vay01cjJ1RFFfVVRRU09PWmFveUhETjhOQjEtV1NtWUhjejJjeURCTm9xOWtzc3RFLWhPWWhaQXVhRzdqSXJEMlotT0h5eng4RWhOekpHaWc5TVJwVndTNHFwUzVIMTg3dUFDV3Y5VkVzSUN1clF6WnBCR3FfZl9weWpiUGhoOVZYaXZvd05YYy1fVTNEb1NubmQ2UjFzdw?oc=5)**
