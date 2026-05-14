@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-14 08:33)
+
+- **[Copper Climbs Toward Record High as Global Supply Tightens - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGVwb2xvZXdUWTVMemw0T2NTSi01cjB3dC12MmMwMUp0aGI0c2dhcGgwZXlERlF6enpFWWFwb1IzOVBVSVhyeFhCTFVRQnJfZnVGeDJTektEd2FESlZRSEl2TjVhRVFXQlJzMnZLSGpRRzk2YmxRWG9VaTBWTUs0ZVhMMk5HcTltM1hNR0lVODNMZHpUQlA5TDdqcl9oRVVCY0RKS2lkNy1SWWJpSmc?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-13 16:23*
+- **[Regency Silver expands high-grade gold-silver-copper discovery at Dios Padre in Sonora, Mexico - BNN Bloomberg](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdm9sTDNQRE5Zazk1TDhpQ2NrTG9GSWdfSmVNeEl1NTRZcWkwcFBsM21tOTE2ajFQQzU0ZzJDZU1Qb3Q4U1BXS0FYWEdQMmNFdnF0MENsS093d0tpNHVEcmRIQXVBR0JjcC0zSDNWbzFhSktmdTZ2bjBjVEtiMWNEQ0p1ckxObkhMWHo4STgwdEYwSmJGa3FGc2V4STZGTTBFWDlDT2luSy13a09RVWg5SW91eThEWG83bk13dk0zMmd4R0g1UnVCMjlqTHpTRXVUekUwWUR1WUEtMW03VktaRVFtd29xZw?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-05-13 13:30*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-13 08:39)
 
 - **[Copper Rallies Above $14,000 a Ton, Nearing Fresh All-Time High - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXlNbDRDLUpQa1pObG42T210c2g3QXpEamdnbXM1REx0Z1ZiSzJWVC1hcnZJYmtmaXA1Ri1IOTN5NE9aZ25uWnIzd0FNWFhKRjZ2TGNzTnJjcXM2RGxtREhENFRnVmFaUjRYRVNpQ0JwNTZla3BGM1haV3R4TmZ4WUgxb3pZUVBCM281TlJnQTVzLVEzV0FOWlB2Sm9uZVlRSWhyMHcyME5ZOXhuQy12RHpn?oc=5)**
