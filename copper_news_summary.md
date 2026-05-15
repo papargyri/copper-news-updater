@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-15 08:44)
+
+- **[Chile taps new chair for copper miner Codelco amid production, debt concerns - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2c3LUFiOUFkdEFCLUpJdUZMOWFYZUlaczhNOWc4ZU85OHZXc2RVVGFHbzZLY2ItOUtwdk9kcXlsTlNMd1JqZUkxU3FQX2JqVnhiRGw1bVBvZUhnNGQ1Z2ltdUIzcVJYaEQ1NmRGQjRCcGsxai02NWd0WEE5MzcxbjJ3eUp3ZHc2U28yYVZjMjA0dnhZQmVtZ1NPamVhWkFySmxlYWRBTQ?oc=5)**
+  - *Source: Reuters | Date: 2026-05-14 22:39*
+- **[Appian Buys Namibia Copper Project Eyeing $400 Million Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmdtLWtxdW5BMTgwRnY2QS1HN0ZHXzhhZ3QyYWRzQVdkOURMaFpMc0EyVVhzSjlxeEVxTmRBS181ajFlNkNZd2xNUk94eHUtcVZMZWRwQW5jMk1tMTlGRVh3UmxBSlBySzlaalRvaWstYlczVmwwd3RMTjB0WEFtSGx2a3BJTmtIbTJyVmZTUUMyVWJvMG85VlVPTWNZYldwWUl1c2FaLWpGSnlab2c?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-14 07:30*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-14 08:33)
 
 - **[Copper Climbs Toward Record High as Global Supply Tightens - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGVwb2xvZXdUWTVMemw0T2NTSi01cjB3dC12MmMwMUp0aGI0c2dhcGgwZXlERlF6enpFWWFwb1IzOVBVSVhyeFhCTFVRQnJfZnVGeDJTektEd2FESlZRSEl2TjVhRVFXQlJzMnZLSGpRRzk2YmxRWG9VaTBWTUs0ZVhMMk5HcTltM1hNR0lVODNMZHpUQlA5TDdqcl9oRVVCY0RKS2lkNy1SWWJpSmc?oc=5)**
