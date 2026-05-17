@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-17 08:15)
+
+- **[Hedge Funds Boost Bullish Copper Wagers to Five-Month High - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDdNWjNIWHBScy1HWlBfNHp6aDNQT3RBYTR5dTh0V0pRQko0T2FrSGhXNmEwd2FxV3JDd2gwd2piZ2xlNU1KTDdtN09xWDBEOVpYLURjM0s5RVFCel95Z1NUVVloYnB0aFg3d0hJaktYQTZkQm5XLWZfZFh3RkMweU9yRUN5NEtCWjB2UUR0Nno1TmJqYjJkZkluRzZTOUJuckNucjltaFZpcHdJRmc?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-15 20:19*
+- **[Copper Extends Retreat on Faster Inflation and Stronger Dollar - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXpuUGFFQUlQR1BxNmQ5dnB4Q3k3Qm4ycVpaVjRYa1M1RW54NFdabGRhNlQzdUFLVEZjZF9CS1B0WHNYOTVlWE9uRFhrRkJ3VE1iOGNBM01DMWVmRGUtQnd6UHJHTlJVN2V1UkwxUTJvSWdfcHRaaFIyYWZjU1JmUWg0Y2lGRVZjRzF1S3QweU9peld3WmJWaUxLUWJmOUlXeXpVOTcyaFdMbEVWNW9DQVJvWQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-15 02:49*
+- **[Gold Heads for Weekly Drop as Inflation Fuels Rate-Hike Bets - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUlxUW53MHVoMHpqVnE4T2p5MFFOWG1XY2Nnd1ZxZmpSeENwa0JzV3gyQmpNX3YzZkpscGdjRy01LUk2al9Ob1ZmbE9vOXN3WXZrQk8zVXpYVE1kNmxGM19BZ3JzT1ZlLTZIV0xaaUxhV2dUdjk1bDlpYjhWUGlQMmpaZE52ZEpGaGMyMUpodFZhek1oYkFBeHNyOG43NTdyVUt5M3NhVlhmdXFVMHljVA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-14 22:46*
+- **[Copper Retreats From Record Close as Purchases in China Slow - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFZJVW1peHFBY0ZlMU1NbGxPRFZlVkNyLTBjNWVZY2phdWUxN0VLc0dwNVlPRmFGX1BiUVI2dW85ZWxiV1lUT0QyQ1dhNjFja3M1V05QQWdsZnVWRUo3dko0X2txaFJiWG9wMXBuUktkczJhVTJfNDBJMElSSmpBLXJBZFVmMFNDb1dwa3Z0bkpSLWk3a3lJOEQwZ2xyaGhrQlNtRkRRV2NXNWZMMDVZaA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-14 18:14*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-15 08:44)
 
 - **[Chile taps new chair for copper miner Codelco amid production, debt concerns - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2c3LUFiOUFkdEFCLUpJdUZMOWFYZUlaczhNOWc4ZU85OHZXc2RVVGFHbzZLY2ItOUtwdk9kcXlsTlNMd1JqZUkxU3FQX2JqVnhiRGw1bVBvZUhnNGQ1Z2ltdUIzcVJYaEQ1NmRGQjRCcGsxai02NWd0WEE5MzcxbjJ3eUp3ZHc2U28yYVZjMjA0dnhZQmVtZ1NPamVhWkFySmxlYWRBTQ?oc=5)**

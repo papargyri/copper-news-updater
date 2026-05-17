@@ -12467,5 +12467,54 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-17": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "Hedge Funds Boost Bullish Copper Wagers to Five-Month High - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDdNWjNIWHBScy1HWlBfNHp6aDNQT3RBYTR5dTh0V0pRQko0T2FrSGhXNmEwd2FxV3JDd2gwd2piZ2xlNU1KTDdtN09xWDBEOVpYLURjM0s5RVFCel95Z1NUVVloYnB0aFg3d0hJaktYQTZkQm5XLWZfZFh3RkMweU9yRUN5NEtCWjB2UUR0Nno1TmJqYjJkZkluRzZTOUJuckNucjltaFZpcHdJRmc?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Appian Capital Advisory\u2019s $400 Million Namibia Copper Mine Development - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVVJWWFydVNpVi13U05peDNPbUhQZk00N0lhSUVfcVlhX0V6ZzhzZWVOVDZWSzBHSGctNXJrRE9aZ3BvUkxic1BKOXp6cDl3QzdLSk8wcjhmYW1SUkNJeUNuWHJvNVU3Tld0TVdxUk1Reld4X29uLXFQZFRzbnJjU0hrYkRFZEhIejBKeXR3?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "RANKED: The world\u2019s top 10 biggest copper mines - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzg2Vk40NDNrQlhOU3RGUXN3VUNJVkhKV2swclliVHhGaS05S2NhRmlDNFNhUWdPMHN5OEppYWhvX1Q1TEdZNFlPZENWa2pkdDN3Q1E1Z05CMU1mQk9GNkpxaWhGN1IwNXExNDlLUzdlbmlrb1p6OEs1elJXY3JfTk41cFFDREpkUEhCemczeXBTVlU?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia state investment firm keen to boost stakes in mines, CEO says - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRW5MMkdNNTItOTZFcENFQjR0YnFQcDRRRmQ5eHlhMjd4MGhWMTdjYm5nVm5oY2lacW5meTFlRThROGlPTlh0dmZJQWhyRDFrdDJfRVF4MGY1UmxELVh5Q1BHME1ScElUMXhwcEl2RHQtOFViT3VTWkxMdzB0UTRuRGxGbWRHVXRQMTdwMXJCc0pYa3lZa0pFbVJudw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Extends Retreat on Faster Inflation and Stronger Dollar - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXpuUGFFQUlQR1BxNmQ5dnB4Q3k3Qm4ycVpaVjRYa1M1RW54NFdabGRhNlQzdUFLVEZjZF9CS1B0WHNYOTVlWE9uRFhrRkJ3VE1iOGNBM01DMWVmRGUtQnd6UHJHTlJVN2V1UkwxUTJvSWdfcHRaaFIyYWZjU1JmUWg0Y2lGRVZjRzF1S3QweU9peld3WmJWaUxLUWJmOUlXeXpVOTcyaFdMbEVWNW9DQVJvWQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Gold Heads for Weekly Drop as Inflation Fuels Rate-Hike Bets - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUlxUW53MHVoMHpqVnE4T2p5MFFOWG1XY2Nnd1ZxZmpSeENwa0JzV3gyQmpNX3YzZkpscGdjRy01LUk2al9Ob1ZmbE9vOXN3WXZrQk8zVXpYVE1kNmxGM19BZ3JzT1ZlLTZIV0xaaUxhV2dUdjk1bDlpYjhWUGlQMmpaZE52ZEpGaGMyMUpodFZhek1oYkFBeHNyOG43NTdyVUt5M3NhVlhmdXFVMHljVA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Retreats From Record Close as Purchases in China Slow - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFZJVW1peHFBY0ZlMU1NbGxPRFZlVkNyLTBjNWVZY2phdWUxN0VLc0dwNVlPRmFGX1BiUVI2dW85ZWxiV1lUT0QyQ1dhNjFja3M1V05QQWdsZnVWRUo3dko0X2txaFJiWG9wMXBuUktkczJhVTJfNDBJMElSSmpBLXJBZFVmMFNDb1dwa3Z0bkpSLWk3a3lJOEQwZ2xyaGhrQlNtRkRRV2NXNWZMMDVZaA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }
