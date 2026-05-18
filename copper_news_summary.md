@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-18 09:54)
+
+- **[Anglo American to sell Australian coal mines for up to $3.9 billion - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTVHQWFqa2FFb1hoRDAxY1Y1djA3NUlEODZuVjJZTzlRTzU5amNxQ1B6Z1lqT1otYTFBZ2xBSjRhN1hRZ1hPN0RZY2EyVXM0a1EzRVM2eS1CdzJqWDYtT3l0UnNSZVppM3dXTGlvZGIySndzQ1RlSjBDZGdXZVltcFdObkplaWJUbGhWQzR0SEdMdEdEZzg2UjlXRDNZQ3NSUFBQLThrZ24xTlh4?oc=5)**
+  - *Source: Reuters | Date: 2026-05-18 06:08*
+- **[Copper Extends Retreat as US-Iran Stalemate Fuels Inflation Fear - Bloomberg.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdnN4YTgzU215Qk1PMmp0U25aRjQ2WGxpM0U4T1FQMmlINldNUjA1bm9WY1VoV25Jdmd0ZWtxcHppSU0td2FmNkZHVmYwRXozN3dEeVhkQmQzNXQyQUNUbEd1bDRpdEpEbXFaRFFWSllGdy1lb2RfZXBfS1J6dlFfOVgyZlBqN1B3UVNHWXRZRDVGNG91LXEwWXVpajY0MHFSZ1ZpNXFQSjFva3JnNnFkR0h0RnNCVnRtR1VYNG05U2JaVHM5SHpPMldRYnMwWlhlZXc?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-18 03:18*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-17 08:15)
 
 - **[Hedge Funds Boost Bullish Copper Wagers to Five-Month High - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDdNWjNIWHBScy1HWlBfNHp6aDNQT3RBYTR5dTh0V0pRQko0T2FrSGhXNmEwd2FxV3JDd2gwd2piZ2xlNU1KTDdtN09xWDBEOVpYLURjM0s5RVFCel95Z1NUVVloYnB0aFg3d0hJaktYQTZkQm5XLWZfZFh3RkMweU9yRUN5NEtCWjB2UUR0Nno1TmJqYjJkZkluRzZTOUJuckNucjltaFZpcHdJRmc?oc=5)**

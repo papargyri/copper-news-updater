@@ -12516,5 +12516,72 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-05-18": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "Zambia reopens acid exports to Congo as global scramble for battery minerals intensifies - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFp0bktBS0hJTDBjUFlZRG9xcXhXQ0lFR1lOa09MS29fYVlQSXhPLTdkbGVWRHJlcmdfZGltVF9XR05TUkFELS16SjRrczBJdEpMcXFJd196eHhIbXVVb1NUaGFfSm43blZ5U0NHZlpJWG43VjVhRFNMZ1B6ellneUVtNHpvZi0zUnNlM2t0ZC03ZGpHenNnSS1KNUJWNzBIQXNXclp0dXVOUkhrakpWZFl5QWdyRU1mTGJBelRFRENhZmZHSXNwNHE3bHl2dmJudHBqdGxfdw?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo American to sell Australian coal mines for up to $3.9 billion - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTVHQWFqa2FFb1hoRDAxY1Y1djA3NUlEODZuVjJZTzlRTzU5amNxQ1B6Z1lqT1otYTFBZ2xBSjRhN1hRZ1hPN0RZY2EyVXM0a1EzRVM2eS1CdzJqWDYtT3l0UnNSZVppM3dXTGlvZGIySndzQ1RlSjBDZGdXZVltcFdObkplaWJUbGhWQzR0SEdMdEdEZzg2UjlXRDNZQ3NSUFBQLThrZ24xTlh4?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Hindustan Copper shares jump 4% after Q4 profit soars 134% YoY, strong margin improvement - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUEw4Ykg3OTduQ0VYN0ZFV0FYa1JtSm1EOFNOX19taHJjbEtZbkd5Sk1lUW9SenM4N3czcXRCcHNTNjJHN2p3ME9CSFdSb281Z1A4c2ZPSnhWSzZ5VVJNbDc1WGVsSUJzeGwwYnp6VzRLb3MxUnVGR01sV1o2TGd2U0dLbzRLYnN3d3Q0U2ZPSTN2WXJHbXd3V2M2RVd5aHc5MG50dVVHei0yXzFhbXZMc2Uza3ZtZ2ZFMW9ZcVBiRzB0aUh5UHhUS3VrSXkxaHY3bHU1NjB6RkRiMUxiTU9lNDBGcnB0aVlXbGkxSnllOW9GVVBP0gH6AUFVX3lxTE5fVjFDdE1Hd1RTZzRmakVNVDJSc1AtdXlSdUVBWXRDVGlkb19UNzZrbmR4VjJuVTU0SEdObW5lNHF4RGQ2Y1E4Vng4b1hqd05aMGhBbzlpUHhkQzlzbUg4dUNCUTdqQ0g0NkVqZGhSX1JLLXAweU1BdWlVTnh1Z1JnUzh2bXMyVDRpMHJvdUF6SGpieXktWm16Ul9WVk14U1RBcERwRFdYakdUMXFubk4wdkpSR2xJVGFKTjBRSG55QlM5NmttMHhFVmRabFZMR0REMTlhcWV0NkFFc2RBNEFSMmxfdGtkdEhjU24tV0t6TmotQ1dBSjJZeFE?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Extends Retreat as US-Iran Stalemate Fuels Inflation Fear - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdnN4YTgzU215Qk1PMmp0U25aRjQ2WGxpM0U4T1FQMmlINldNUjA1bm9WY1VoV25Jdmd0ZWtxcHppSU0td2FmNkZHVmYwRXozN3dEeVhkQmQzNXQyQUNUbEd1bDRpdEpEbXFaRFFWSllGdy1lb2RfZXBfS1J6dlFfOVgyZlBqN1B3UVNHWXRZRDVGNG91LXEwWXVpajY0MHFSZ1ZpNXFQSjFva3JnNnFkR0h0RnNCVnRtR1VYNG05U2JaVHM5SHpPMldRYnMwWlhlZXc?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "BHP\u2019s Copper Growth Story: Supply Gap & Rising Demand - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGVDVzhKR29rdU8taXplU25UMGlTSG1FU1RXUlBrcGsyUDhQTm1hem13cDJSRkViVDVHamxzTjFoVEdELXFIX3JpQUhSYno0aE5kQUtXczZNYVR0ZTN1ZV9tcVVaa2Y3alJ4V0diMFFydkEwWTNQNkZGNGswOTNoTmVySFYwSU9qRndhYw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Cobre suspension costs First Quantum $4 billion - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSmtCOUV4NmlKN1lReEtQUVYtb3Y3Y1FKNThYWWszb05VMXVqX2ROQkZiaHB3V3NmaFlWV2dkVy1UZE50UFhrUjdoNmMzcDZrNm82elJoakdteVFvN2JiM242dGJLTnVERmxoaHA1MzkwaGt6dzRmaQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "BHP Copper Price Correlation: What Investors Must Know in 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmJtS1BVMFpDMUV3R3VNU2hGOWU1SGczX1N5TmY1NGxma2FmZmJwa1gzbU5ISkFtRzl6UlBWMHhRUHFjdTNxRzdkVGhKbDVCRVlwT29aWWdndVNNS1lFLTlaT1ZELWFfSmdOclFqRFQ4bU1fZ3R2VXMxTUcwbU9hclNyMFNWZ2hsOUE?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Canada\u2019s OG mining financiers are pushing to develop new national champions - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUEtiUi1abkNmNUhVVzlDTkRmTG40S0VULTBrcTcyLVdQRUxxckp0WnVtSjdJdmtTTlg2Q0sybkxDMGRfZy15bDZBNXBpSUtsd3J0WnBjR0R4ekJrSElVMmo0R1drZFo1amFxUmdZb1hMdnZHdnVRZi1CNWVIaHRibXNJZDdZRFZaRU5RY3NxWi1aTG96R01jMkZ2cTBPYmJvSGtLMEhaSzYxRmNYX1FXdEZZa0E?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Trilogy\u2019s Arctic project gains acceptance into FAST-41 program - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjI2MnJTSFJTNG5rWElrQ2plaDVxSVlmWUx5VHB6bkplMW9Mb1ZJeURSVmJoQWRMOEtNeFBwWFBySUJUejU3U1YwR0xMREowRVBxbGRMS2JYRUthbVptVjBiYk5GRzNSZlA3LVdGQkkzeW9zenRkWXMtbDcxVmVGdWhyZjhQLUNjWmp4a3V3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Qatar restarts Sudan mining operations after war disruption, targeting $800 million copper project - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdnk5cFdiM3BWOHo5NjNZN3hKTzhaNkgyYk5uaVdJeWJrejJIM09fSWdsVFJBcGFDTU40dHo5VEd1TnR3RHRsVWpYRlBjSklvbVlUOXhNd2o3MTdTWU00S1gyNnFKYjJtcWFTV1ZXZ21NVEJWZFdYVGF6M0FWY0VWTTJBZUxIS2YxRWJXLTNXQUJ3TFNHdjYyZVNEM3ZMUE9rVC1HUFRvLXJZRDQ0WlRZLWlzTVpjaC12dXR1ZEU0QkdCclQ2b3BvaVBGWkhIUWk4SEE?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            }
+        ]
     }
 }
