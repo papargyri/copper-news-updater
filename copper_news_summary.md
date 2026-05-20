@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-20 09:24)
+
+- **[Europe’s Green-Energy Future Has a Problem: Reindeer - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPamZ5RUx4c0RkdzNUekRGMmM4czVDYlpqU2hNcS1YVnlrd012czJGc0xBbWx5dTFxS2FIcHpzV2k5SWo1TDI3emZLMVZfZTF2dldMNzhxd2tTUVJvZ0Vpa0hrOVFwNk9fNkxucm9PNGgxSnVsR01xYms4VkxjcUhpT1Z0eGk?oc=5)**
+  - *Source: The New York Times | Date: 2026-05-20 09:00*
+- **[Chile Lowers Copper Production Outlook, Raises Price Forecasts - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjRWSDc0WVU0aVB1Smo4R05pNFZsdGVQSk0wZllGZFoxOE1CUlE0RFgwQUdmUDJyQW9oeDJaOUc1UlgyRWt5SlNuN0hDRWQ0Smt2NUQ4aFZ5ZmNReTl5YWRmMGZWVDB3M1dKV1daQVpWZHREaEtKZHE1emlXMk8zRXQ4V01NdUxNSGlYb2M0UTBTakRHRjFHZEhvODNhTDRJNDU5OEdfVjJxX2UwVDJTSmdn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-19 16:52*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-19 09:36)
 
 - **[Copper Extends Retreat as US-Iran Stalemate Fuels Inflation Fear - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlVVQ0JQVmxHaWdQRTJ5WE1UY3lBMGZyZXd0bFNDRmR4OS1fYTJfdlB3SnV4elItenNnNWRUcUVPay1Ja0pDdUNzV2JQRDVvVThac08taW95NHZ3LTVyN0dhQnJlSU5SUG80ZnppczVscGZCRlRWanM3R1lrUFQ2YTZRbksyWms2M0dBWVRyeHpGWkVaN29IV2xQZm1BeE9ReUdNM1VVbkJVWkhyaWN0VzQ2UzVDQQ?oc=5)**

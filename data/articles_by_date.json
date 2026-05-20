@@ -12674,5 +12674,168 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-20": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 26,
+        "articles": [
+            {
+                "title": "Europe\u2019s Green-Energy Future Has a Problem: Reindeer - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamZ5RUx4c0RkdzNUekRGMmM4czVDYlpqU2hNcS1YVnlrd012czJGc0xBbWx5dTFxS2FIcHpzV2k5SWo1TDI3emZLMVZfZTF2dldMNzhxd2tTUVJvZ0Vpa0hrOVFwNk9fNkxucm9PNGgxSnVsR01xYms4VkxjcUhpT1Z0eGk?oc=5",
+                "source": "The New York Times",
+                "is_premium": true
+            },
+            {
+                "title": "Drilling under way at Vizsla Copper\u2019s Woodjam Project in BC - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmtNbWt2NkNTaGYyRVVrcDFIOFVseUdUdVVHMHc4M05Na3JfREo4NUNpc0l4R255dTQ3TUVJajg4Z2lqd2QyT1pCT2k5QUEwdlRqT084eV9ZdUpuNEREWmw2U25GMFowRVhjZjhMSWw4S1pDUVRET2tocnlyY1Q3bEgzQk5HdG1Kb1p2bXJYR1lYTkZzT2UxUUNWQ0FhRF9CRmNFVg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s Institute of Complex Mining: Building Deep Mining Knowledge - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU21VTjEzWnNJQVRqMF9ZTUdlMjl4UUxGVFpnQy1RRW1TRkx0QVBENHJkRVFyLTc0aEpFd3Uzd3VwbDVNVFk1WTdOUnI5QXN5TGM3bVZnM0pOeGNCN3FWTGxPZDZDSzY4YVNFNi1ZSGdYWTlJUzhUSXhMelV6OXdsRmxBdWZYd1Q4R3BVak8xUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Small & midcaps tumble! Hindustan Copper, Devyani, PI Industries, other stocks fall up to 7% - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWVFyRWF2LXdtNHU2T3RZZGF2c2p1RTZQQlNOSkRMX3NBdlE3U1hNMnlzMkNjWHVvTVZFZlBPZXFxMjRqOXN4Yi10NjZha3JGRkxJSERUb0J2VFR4WVhZY3JKRzZaZW04WE94UFRTXzhNaE1LSzZWRUFBWEQzT2dQdWNXdjlRZnl1a05fdTBlaHc3Z3BrRlRpMXVCc2h3dHpxSkVxWHE1R0ZWLU5IR19TV0NnVjlYdFJ3eDFMdzhCZ2s2Z2U0SUFVOVFOLWRvVGJpOVpwRkdEMDBEUmFuaUVLVF9OQWtBdEN1VmdYSXp1a0M?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Prospect\u2019s copper and gold story unfolds at Mumbezhi - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nSlZKOHN3S3Z5dmE4Zl9zYkhad196ZHBxb19lQWw5anNnRnV5OUNCUjcwY19KN1Z5NmEtangxTFI5ZVZUTVByLUxibzlQMGMtV0t1NFA4NkZPU21DSTgybXFPT1FaVEJocmFndlpLZ0pFWkFpbS0taV9ZZUp1aGc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Nine Mile gets ready to target Wedge\u2019s new copper zone - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTV3UnNBUjJQLU80Uzd6anlmV3BPaDFQRUJoNHY1TmlzRkh0U09jdHRuOEdBYTZlbUxQLXUtZ1VnME1fVThJVGdHTl9aa1RHUGh4WlNhaHlDSWV1XzBLYzV6bEhrdmlvNE5GeVFIcUQ5dHZGMzhyVTFGRTNhd3RlZzV3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "India\u2019s Strategic Mining Push Into Chile and Peru - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0R6MV8tdVFaVEJ5Q1pXTmpVRjJ6bG1scnBmYl9vM3djcEFPdmFrVlNEU1FhRFVKYktmdHc3OGJfVDF3RkxVb20wSnpBVlFKYkVhMHU0d1Q1bXJvbkJ4dWNRTUlTQklBTXdTTXFISTJRUEFTYXppOUV1THlYWjNvVkJyZXZzckw5M1dz?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "UQ consortium targets processing bottleneck - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PamIwMXVCaVh6cEViN1hBT2NTUWpKLXpsbUo0MS1EUDZhaFhQZGZtajk3UGJONVVscElheGNjQkhoR1o5NUp6VFVLMkoyblZUQWM0WFFhQm9kWUNySFZ5OElwUWExNldUT3JfWHR2ZlVkRWNsVURsSUJMTUdhQzg?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s Copper Production Outlook and Price Forecasts for 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWXBNam5ZQlpvZENfQS1QY1pCZ3NzdElCcjcya21vYVo5QjlNaWlseUZlTFZJSzZGT1diUTk4TEZEUmsxUnB1VWdOWl9jNDZRN3Faa2tEeHVpOTd3ekR6czNYSnJUMUZ0NC1NeXNTeVFzSGdaSmdjdldWeWQ5Y2s3azFmdjRNdW1oYmdJ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper\u2019s $319M Cuajone Production Pace Investment Explained - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeW5hdy02bzJOc19JUlNXeU9RSkVFb3pPblU2UDNDbnlKejBuWExqSHZoTXlRenpHRWgzdldyNVhuMjFSdnI5NWRvQ09VeU5XQ3ZsdWF0Vkpyc0x5b0txbUVrOTE2MjhlQzdTMVhuOEc3NklhUFliSW1qMFN5aEllMkFRUXRjUVA3QjJKaEoyUHFVanVLSVVUQw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Cochilco Copper Price Forecast 2026: What the Numbers Really Mean - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkYxOWVzbzdVR0V0LWEtWjhZaVN1YnVaTDk3SXJ5Ql9qdkI0MXlsaldpMmhod1ZaMExNTGp4Z2JET1ZSZmxnZkNrUnFFa0tOMnBKSENjNjdGUzA0UHFCdFBTSkEyNkZyX0I5eVRHalM3WWNLLUJHVWU2NGo0bmp4S3lQdEpMUHBDLWFJR3djRQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Supply Shortage Meets China Demand Weakness in 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEo1YjlUSG9ScERQRDl6QVhHRERNZkdiVWhWcmZVTUxieGhuMUIzXzZrM2ZydGxYcm1ieThEdnZmVU1IQm9nYkxLRkpuRzZRZEdRWEdMR2JkMlZVSWNqZW9MdGM5Ul9Bblc2Yzl5aHd3R0JiSFpoTjlyUkxSVWU1YnlrYko2Rkw4TVk0Yi01R1I2Zw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Chile lowers copper production outlook, raises price forecasts - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXJqdEZNdHkyNW96RE9TSVFTd3kxQndXZ3dLUDNCZW1pM0NEVkRXVUVHRU9hNVJ2TWVuWDZtWmZuZHF6YmU4X1c0R29tVXpYdmxyNWVycjhQb2VyZW0yNnJKSTZuX3NJaGU2aHJnVTVHMHVKUDVCdGxXQmpYc2tNUmdGQm5xcjFiN0xrajVvZTktSk0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Lowers Copper Production Outlook, Raises Price Forecasts - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjRWSDc0WVU0aVB1Smo4R05pNFZsdGVQSk0wZllGZFoxOE1CUlE0RFgwQUdmUDJyQW9oeDJaOUc1UlgyRWt5SlNuN0hDRWQ0Smt2NUQ4aFZ5ZmNReTl5YWRmMGZWVDB3M1dKV1daQVpWZHREaEtKZHE1emlXMk8zRXQ4V01NdUxNSGlYb2M0UTBTakRHRjFHZEhvODNhTDRJNDU5OEdfVjJxX2UwVDJTSmdn?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Cochilco raises 2026 copper price forecast - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FTDVSVGFBZHQ4NVBkZ09wWU9vMWIyUFhxU21PVmMwTDYtWUotY2QtanMyUkJuSUpDMmdkVFc4S2piaXB3RjA0RFB1dlVuUHltdXhMY1pDY0lqM2N0M0ZnWXJ3NWVCVXctcXNleXpvYlo4Qlk0SG9sbFRR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Sinomine seeks $760 million for African lithium, copper projects - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR21oSl9RekVDSU96bEZoeEFtaXBoQW04OVRXeV9YbTNuNUNmVzV0NnBvSG9SNVZFNzA2NXduWGQ4NGs0WHdCa1otV2tKakh2NkxoVHk3YjI5cTIzTV82cWQ1Ty1EaEdTUV9vVkdCTVk4MDROSjNraGpKM3h0OU02RFdoY0VZV3VnVXQxV09wZWNkQlox?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Trilogy\u2019s copper-zinc Arctic project joins FAST-41 - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOam92SWJFajZGVzBSZzJYQ0pETkNud3A2b1NPT3I3bEdqVjNXakRWZ1VQYTZCMGszZHYtVkxiSFJkSklnb0RDOHQ3eDR4RloxLS1NWWFaVjBGZnAyOGZrQ0RrNW5KaDhUNVJ5d0hqRnNhSU5jOGJJbS1NY3hGMlJsbjVQRi1lYm02WnlaNXNpVlJvZk01bnJaZEhzck8?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "CEO.CA's Inside the Boardroom: Hayasa Metals Has First-Mover Advantage in Armenia Gold and Copper with Teck as Partner - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWZ0eVM0SlFoRFRfc3d2bEx1ZjJXcFNscmlGak11SUZ1YXM4enI5dkpDZE9vOTltNGQwMWhucE1BenNRZm1CS2FZREpnelRrNHhFbGllUUNYWVZoRG9ZdFIxTmZXR3FFT0p2c29SNHdSTWxLLUNVckRkaGhfQzVhbF9ONHgtMVZINkg3N01UTjhtTUxfVmV3QmZ0OUd0bTE1Q2pJ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "The Market Is Starting to Reward Multi-Metal Optionality Again - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLUlZWktmOWctM0RIRC1QcVIxZGxNRG82b1h3Tjd2ZVg5cmNrYWpFS0tPSmNRcVRBRzlhMmFxRXFyNnllQUdDMEIzRHNXWXEtWk5Kck5oQ0dLSmVrVVZ0aS03eXdnMjZzYmRwWC1xdFFrVC1iNU55MXh5Q0pfSmVRczZGNWM1c25Mc2tSamNyVDJoOUxxdXJZdjZ2OGFGSGdRM0E4c3BMX0dkcVVzcm5vTnVEOTdvQ2RiVEoxV1FxVzVSS090SVBxMTZ4dTM4T2t2b056eS1NSUY4dGRhcnhZ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Nano Copper Oxide Market Report 2026: Growth Drivers, Trends & Expansion Through 2031 - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2FzYUttcE9MNkhEZG01Y3ZVZGQwTm12RkNSR0pYdUhwejQtT0xHb3Q4dWJGdi1BVC05OU1iUi1OX3BPRTFCMFNWS2Q3NGo5TVRJYnNxaFlrRGVJWEZuY28zTEZkdHZTQkVZUkpOOXNlTGQ5NFYxX1RfN29FcGQyczA1NDNwdktsLW5QeTZmcmF6VFdmanNmSlFR?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Coppernico Channel Samples Intersect 70.1 m of 0.92% Copper and 0.25 g/t Gold at Nioc - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0w1V2dXaGEtV01CeTN6by1GY3B1YTNqZ3VuVUxucmxOWmZLWXpoaFNGak9RLVo4SjJmUFFBc1BqNEpUeTJnLVdZWmw5alFWempUTDNUbmZBQXFWTHhLTXVZbGRoSFN0MC0zV2hWMkpFM0UtOGEtZDBLcjFZMGJDTzlmYUNlMzZudDlZc0puSWFYVkRBMlQweldydnVTNmJrYlo3T2hieGFCY0NucHc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "7N Grade High-Purity Copper Research: with a compound annual growth rate (CAGR) of 8.6% - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaU1TcHUxalBQSkNQVzdoQWJLUHBDdGgweVEzQzhHNmdSZkdzVktiNHNqUHFJeHR0X0VYVmZ3Z2c5Z1M1NzVzRFhIM2d6Uk9XdmJ3cURiQnpGMkVtaHJ5enBQbWxvZDBnUHJ4OEQ1d256dGFRZFFjUTdoUVBvNWdQeHIzVzE4TW5QS1JTdVVwRVlLdng0Znp4c0dqaw?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Mining Market to Reach US$ 13.15 Billion by 2034, Growing at a CAGR of 3.34% from US$ 9.78 Billion in 2025 - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM21aSU1GYkZ2SzEyRkVoZmNHWmxnTkpQYmVMUFl4WHVPOEhVc2RHSDZTTndMZGY1TGUzNTBHMFM5Z3dxcFRkQ2VMRnJMR0RpdDU3eVlDdFhMQnpkaDlzU2Nkckwtd3NtV1BGV2M5UlNNSjNoVDlIMXVCMUtfTWpRbWtTVGdqcDdvelQ0bUhPSTBkanh0SFFWRERHNFRLRUk?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Africa\u2019s second-largest copper producer initiates an ambitious joint gold mining operation - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMUF0eEJvUzJrN3ZTeWZGaG5VbzFUQ0E0MDhvSWtHeDUyOGJFSnpoRHpURnJiSHhCX2NtS2dyRVNGc1ZwaDRxaEJUam5OSzZkVWNzZFB2R2w2QzhzNnR0aG0zWDAwN2RJTHh0bHotV0dkUjJxWDFDMDNWT2VxRFNKamhxcXJWUHF2WEZNTzk3anlnSnhsTEN0cVJ3X1A3OHhqcmNPS2h1a3RqOGVlZkptYzI4eVVQSmI0bkJkY1J5YkZZZ2VyQ09teWg1TzFzU1ZlcFE?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Rio2 achieves milestone quarter with first copper income, gold ramp-up - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGlyODBqeG4wN0VIdnBqdUV6d2xQaXVvdl9BeENLS1N6LXc4UUpDSkE3WlFGYlZPSjFnZ0wwOUxCSGN0SUYtMnVRdlNXNWlkeGNnMUdkaFAzTGtpVVQxQWU0WVVfU0VkeVhmSnM4VXpSYm5id1c0ejFfVG14eVptaWxaX3lJakFHWjV6TC1YbEYzdnllcURWSmsxQUFscEFidklybTNfbUhjRms5Qkk4dmc4bjdkdWVy?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper demand surges but investor exposure may be overstated - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVTZzWnRWU2hoTGdVclc4NDdBdDVfUmFvSWw4ZS12OVdtdXpfVTVraXlZdEpBb3dzQ0RxcVp1bk1iZUxURGFPcDJ0c1Z4SVI4cHlXTW5UM2ZHTDBvSHFQc1Q5eGlQVDFENl9kUXlWUVFDZ2VCdHhrNDNNLWNoYmZHZnlLZDhGZVV6aC0zN3N1RWN4djBiZ2kxc1ozU1g3NVo2YmluRDhPQTlINVE2dmxzUmZIbTBvUGRwZTQzTG05RVJlSzFiN0hGeV9Ia1hob09BVXRtYmhMbGoxaG94WS1kWWhYZ1hRRXlVVldVcGhFX0dEVXJq?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            }
+        ]
     }
 }
