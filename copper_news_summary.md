@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-21 09:33)
+
+- **[Base Metals Drift as US and Iran Trade Threats on Peace Deal - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGNNNVQ2UGpJaHJ4Q1Y4MzVUWFFHQzJxaXpTMDkzSEpBU3M5ZjRxSTlCNFFQZUdEbk4xekd2MmtwNlVVUGdPOXJsS0haZFk5R1ZiUU9JWUNELXYxbEhXaUNhdHNPWW5fc1lxMzlWLUhwT3VPYk1xYkdyNEN3VzV1cV8ycEtTdU1SNGMzaHdZbERZVThKeFd0UjB6VmpZMC1xaWU2SHpVMnZNWlEyVUpXdg?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-21 08:44*
+- **[Mad Max Mining for Africa’s Critical Minerals - Bloomberg.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ29CZFZFY01CQktHTENJVUhlUmV2LWVmNkpQSDZsMTY5VkFVZjB6aWdCVDJnWDM1YzM1ZXpWMlBqQ0tVekpGT3ZPZWs0eFY3a0IwNnlnQV9QU1pnWFhtZS14S3NDcURIYUxUQmJ0UW02TTVydnlJSUZJa0NNOVpRNlBRY0NSY05fRHdwT2dCWVRQMVkyUVhVTXpxU2ZneDVDb3VkRGRkV2FZcE41VHZ5d2FpQWpaRDg?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-21 07:09*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-20 09:24)
 
 - **[Europe’s Green-Energy Future Has a Problem: Reindeer - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPamZ5RUx4c0RkdzNUekRGMmM4czVDYlpqU2hNcS1YVnlrd012czJGc0xBbWx5dTFxS2FIcHpzV2k5SWo1TDI3emZLMVZfZTF2dldMNzhxd2tTUVJvZ0Vpa0hrOVFwNk9fNkxucm9PNGgxSnVsR01xYms4VkxjcUhpT1Z0eGk?oc=5)**
