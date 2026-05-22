@@ -12964,5 +12964,144 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-22": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 22,
+        "articles": [
+            {
+                "title": "Five reasons why copper prices have been on a tear recently - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGFESVdMLUE0SWowY0dVbHBkMlJ2Slp1NWRubXZrVkE3NWVVNnN3QU9KbGY5cE9GQ1NXWHpVY1NwbVJwYWFyYkswODYzM1ZDLWNjbmlWR3FISW1GVi1pN1p1WERxTENVQXhLMkN5YXNSa2xLNzRkc3VuUGNqUVdyWjNGMEpVLUd5eGM3OVZpbWdRbmFJN2RZZjRBcExQT21JVHRfSHBSdnc1dlVpWVJEVGwyZGtqMUZPd0hRbmN5NlVlQzFCZzBHcFNPODhrXzZiYmZfYUdrU1NLMEJEUFZQMw?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco executives disciplined over production reporting breach - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEhka19CcDdNNVhBZ0ZMaUhtcDdQc0NVelNEWm1PY2ZxcEhpc1pfSHlBcURkTi1FQmFFLUhwWlNhd3paRExBd3VyNlJJVmh3NWx1TXdtSjBVR0dXalNsckYzMWE1RXg2d2huOWFTZjAtVG9HcFhwTkZrcHZtNGVuLUpXbEJRUEljaUN6aks3bw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Metals Advance as Traders Track Progress in US-Iran Peace Talks - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGp3UWVEVTVWV0lISHNqWldta0FBaEhBTjF2WEdYOU9acnN6Ymt6Q1IxZ1c4eXF6YVBJTlNDb0tfYnlIQVE4MkxYVFFBTFBFOHZwTWp4MTEyUmJWY2pSVno5c3haTC1wY1BWM1FOVnQ5RFlGOU9WTlExWS1mR2ZsbXl4NFAzY3ZWRmVlQTh2LTNSQWk3bWZ4NmlDTVIzamx5VWxkUXRPZTlLZXVFYXdrWFhYUnY?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Speculators rush into copper as sulfur supply risk, AI drive up prices - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEttd3lwMlB5cllNY0FvbmV2U0k2Wm5fM0JpX092Uy1sYUJvUTdhV3hKNEt3M2FQSkVyZXd4YlpMTllKSjU4WjhoWjlOQnZjc1RWeVotWnhQTXphd1kyWUFaTU5HbTY5SUZ3SExCM2Z3dXNfZ0ppNkRKTHE0TWo5SGZTQnREWUU3VG5rdEw3U01lbF9JcnNfeVNaeDBMeDRLTmp1TVFwYnRiNHBoU1dadWcxMnBJR0Q1bFpyejFFMA?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "NEXA makes 'strategic investment' in Copper Ridge Ventures - National Mortgage News",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUgzZUp3VE8zMk5tRklwOHUwQXlrTmo4RWlDaTJyYVZiZXpnaWVIRWYtOFRwc3pjaWxOWlJHQm5mVURsOEhvT2h1U2x0SmJIaUp1Zi1rSVNUVE1PWUZyRWVMeUxDS2dwOFVsTXZ1bDZYVzdBa1RpZ3c0d29HS2VDVWtLNnpYYlhER0w3UXR5SV9EMzFWZmdUd2ROWEJNa28?oc=5",
+                "source": "National Mortgage News",
+                "is_premium": false
+            },
+            {
+                "title": "CHART: Copper price surge mints 23 new unicorn mines - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUFEWjBuSEh4VkpCc2xkNkRRYkc0bElSWThlREtLbWlHVnQzMUFOUFJHM3ZwMmJHaDJxT2hTcGl1UVNnSjdPSWR2Z0pDMlVDTnBLRlRzWXBLVjVyZzFXUjVqUlFIbUlxS0g1ZVdpT1ZGNkdsMHlpTGJnUXg3cUUwag?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco fires executive after audit points to 27-year output low - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0RteC1CYWk3WHJkejhQYkFYcl9WV0NDR1dKUFRkZ3NoVk9PS2VaZ19tMmFoTHRRY3M0Y0tUNUtaMXhoNnBlanRVVDZzUW9hSjJxQ0ZUQ1NzSmdKWUtBN0c0ZEVoV1ZCZlZaNFY2R3RJMXQ3Zms0OUVoVFBJY3ZZU0ZkWXZtVVpGY3ZMTXFLMnNQUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Price Retreats as Traders Weigh US-Iran Peace Deal Prospects - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdURtRWtjYnVFaFMzb2pLYmdVY3VnSDc4ZnNqb2QwaWp1LWFzN3VRekhxdW1vMThaUXZsSFBrQ2lCc3hjU0xTYm5wdWotaGt0VWl6UUdWYmY1LXBncjdlODE4dzM4QU1FcVFCZk5yTE1SUWViT1laR3VEUE5kMFJ3SUZhN19vOXdGX2txUEZfenFqUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Can Peru Become the World\u2019s Leading Copper Producer? - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzBZTjU5cDdKX3Z4U3JvUlM5aFdoN2owWWNHLXZVbDg0VGVieURNaVA0c2JxUm1qWlpsSUVLSDEtRGRoc0hycU1HamdqamNXMHA4QkdMVVR4SWo2ZGloZ1Q3ZXFuQzk2OW4xdzREcDJtcFpvLUwyZTd1QzM5VVhKcXdIZU1OZk14TmJ2TA?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price retreats as traders weigh prospects of US-Iran peace deal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1BMZHJLOVJ6dUsyRUhCRFh5b0p3R2pfaERNVHNFUFpNcFVfeTZiV0h3NG8zV1I2dXFSTVJ1NEJCSkhQTWJLVkw5T2NDZ3NkMl90X3QxSUpDeFZ5SmNpS0V1VzRaQ1dDY0RsX0tJZFVYQXl5TjhvNHZwcUI3RUVXeUhUS0JoMlp5WVkyby1FVklOQTZ0TzZMMi14SnJkVzg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "How to dodge the Iran war acid shortage: one miner bought its own plant - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVktYMHEzd01uSXloN1VQRmJNaVRmWVZic3ZGWVlBQlV4OExOcXFJcVJIQ19hVVV3NGQxNUx6RkdXV3pNRmF1NThnYXN1d1BPaW1vYWllY3A2T2pfczhYbi1OeVoxOEVvQVo3dmF1YmZFU3VzYnRFNDY1cGdhNTVjOHI0azdhczUyN3F6UzZkSUltSElVSEMwY2RR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia\u2019s Konkola reopens Chingola copper mine after 18-year shutdown - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZU5ldXpqdEp6ZGN3a0ZIUWRmbTA3aTV4N3V6RHRjNjc5Rk5JZGVEMDJFZDBHdUdhV05tcGozdkVSeFQ0WV85OFJFUVBCaFhsYzJhR2ozbmxoZDdPazVmblNBdzVmSW05MzRKSi1ZRm9JaWFvVFpUdHNQSDBQcUg0ZFNqRmdZVWNYYk1kamdxRjFBODQ2eXpnWWcwbw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "KGHM Copper Mine Takeovers: Strategy, Targets & Outlook 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmtfX1djdEVjdHlBWGYtR2RYYlFNQXo1alFLeTNNSFZGWnluQzl3VDluemsxZTktVWR4aTVyVE5paEJ4b3VsOVpfYkc2WmNYWHFyd0N4cTd6NmcyT0d1WWE2a2JBV0xfSDBHSzJ1WFN6NjdIOTFCRkNFazFYZXRhd2d5WjR6LWdHNmZRVmNiSUlWX2tjeldj?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "NEXA Lending Acquires Stake In Copper Ridge Ventures To Scale JV Strategy - National Mortgage Professional",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWtUMmRwVnVISkl5amxMYVh3MXJFUjRpcDJCUUxnZExMbFlwTjBrS21qNENpY0Q0QXp5LXZKT1ctcVFWemVqT205eWZ1YngwNi15UlVieDJaR2ZFUURHTm9MSmlOMXVvNzhMWjF4bkFibVhlU0hJS1k4Z3pJRE5GNGlicHRTSzBKcldPcXR3VXBSWmRodUhqZ1hoRmVBQ0NFSEp6RmFXeGFzNWszejdJM1k5OA?oc=5",
+                "source": "National Mortgage Professional",
+                "is_premium": false
+            },
+            {
+                "title": "FCX vs. SCCO: Which Copper Mining Giant is a Better Pick Now? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTXJiQkpuaWphSU9NeEpOVlg2S3BPeklWVGJhLU9veGVWZ3BrazhvdllQNV9tenUyU09mU1VFbW80SUVrOEFGUmk0MndKMHllbE5ZeVJHSlYwcE5RZTlaR0hMbFI5cHRZOEdia3pEQ1I4MFFqdHl2OEZEMUNTMGhhLUtTMVRLQTdxdzZSQVRNdmRCOF9sb1hTNDh6dENoYk9RaWxiZnpGblc2cnVId2VyZnpDX3ZBZllXMmFMTElPQnRjeFlWYnhmOFZPZUZDVDkwaDNoX2hZcThDQQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "KGHM eyes takeovers as global energy shift spurs demand for copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2taVTdkbkxtVm5JNHpYZFRVUjNVVGJsc1VxTV9DS1RiRXRaell3YTUwMWVCbVd6OTc3dkZONEpPaEJ4ZW1JR0lsSkJDSUJlekZRdmFCRkMtUFZ2c1pQY0w1cUpaRXdaSnl5SDN0WjVKTVZDdEd1X1ZaRkR2ZlRlRnRwWi1YQ19tTkhMNGEzYW5JXzhBQWcxS1ZR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "1844 Resources Launches 2026 Exploration Program at the SV2 Copper System, Gasp\u00e9 Peninsula, Qu\u00e9bec - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0JCbHBJX0cyMXM1UF85QXpBOVR2MDJ6WVp6VUFzVVA0TG5PWFFJT2ZHeXFHMnFKNktVTk5YYU9OR0xPcFFldnlXU1drVl81WUZBd2FRM3Y1OUtLWHJ2QW1TallUck5ZN01fclp5azBiY012b09FTXpjbEVxLXBKOXpPejQ1cDdJODFoU3NibzhHdFdtaF9WWm9ObjRTQ0lVV1lKTGxYSFFya1htTW9z?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper Corporation (SCCO) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXg4dDdiRTUxR1MxdUpCTHhyb0h3dmJyWlh0dHl4M08zamRGbGJCdTQ0enpITVkxV2RLelA3a3dtc3JiQlBxcTAxOFp0dHV0WFZyVVNsdVUxVlJMTUxuX3ZwazNFb0h3S2FuZnN1TXZLeEVXOU9Nd2p2UUtPNGZDcURjeW1JY3JxVUJISjlmNUNDeWtJMjV3?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper plans $319M Cuajone mine overhaul - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wTjlIZXUtbHNSakNlV2ZpZ1liSnJKUW5rdGxoTjlHOTY3cjJfWGE0Nks0UHRHMDdmY1pjNXUtb1YtR3JhM1VpS2NWWk5scGRYZFJRdzNIVGZmU0hGSmJJd0JqYVBMS081X1h5ZW5jZkFmektoWlEzdHFoZ2g?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Australian miner strikes major copper-silver discovery in Namibia amid global scramble for critical minerals - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdjl1S1Fjczl1ekVUVWxHMEJyaGQ4Uzk0ZDk2aHNvYklzX3FuNzBiVjY3RkJKdmdnR1MwemhNYzJFdEY5X0tLVHIweWZkMlNYUkM4WnU1T00xcy1kTWREVzRnWENvX3psZDN1eFpvekJZdzA3RllSQ2o0dU1vdlVRNERzYkZqcGVER3h4YjZtNHpTQWxpMnZOS3V6VlVibnZkUEljeEI3ZERUbGtFMlR2aDRVcU0tbkZ2WlZVa21fSnJyMlBia2pST1BLUloxSk0?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Chilean Tribunal Rejects Collahuasi\u2019s C20+ Development Plan - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnp6ZmdwR25rY2hkNUZ4MndHWXdYMnB4X0pseVg0dm5yOW9Vclo4SlVVXzJJRFVKNC1GbWNxaWRyQ0xQODdJcm01SnpWb09sVERBNUxNYy1RTDNXUzRLeHBaMWJkM0tOSDFxX19hR0Q2aDZHMkV6dVBQekdkdngtYkJKdVRzRXdVR0xSbFhuYw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Sinomine Seeks $760 Million for African Lithium and Copper Projects - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemZfMk5qMlRHVkRiUzN6bkVrTDRJQmQyV0hoY0gzcG95amUxRUFPUTZkMmVjZ25FN0I5YXV2S0JjaG1YdUlYT0tUUnhIeW1pZkh5ZVdfY1lVZVdQZVJQRnMzMGhvOXFHOExtZVRLVU5fcDMtWm0weFF2RHVHZ0hWd29BbVlTZFk2dUFFMnpYTTg2YlZ6LTVmaA?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            }
+        ]
     }
 }
