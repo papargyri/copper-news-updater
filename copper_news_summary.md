@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-23 08:12)
+
+- **[Trafigura Withdraws Huge Volumes of Copper From LME Warehouses - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnNDUE9SWlZyNGhIVTVFd3VBMm9tOGltV29YU1RzdjJaZ2U2NDNHZUVLMU1kWmhleWFmaG4tVjVTSWhOc2huX0JFNDRmeUt2aHhGSG91RWZMVFJxejc3ZzNyMGw1MkJVN0d2Wl9QTURBNTFtejlWOE53bjlpYzBuTmZudXdJR1ZlY3NVT3EyTU9PR1F0ck5vLUtwU2NnMVNNMC1KZTYzZzJ1SnhIU2hidFpaUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-22 16:44*
+- **[Trafigura plans to withdraw LME copper stocks ahead of US tariff ruling, sources say - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVBtMmVhU3loMXAtZGNwcUdEbjhwazNhNkt0RUJKN2NUM0FZUFhOX3ZEN3g4aEU4SmVtaUR1MFlWMkVCZG5CMnVxdnd3UlNjZkFBamFiN1czNkNjdVVCemd6RHRpRmpjY212XzBCQk95TGd0T3B3dFMtcXZWM2t0UGtaYmZPSDJBX0psbEFhZjFUNGtQN1ZQaVNZV0VhcUFIX2lwbVRkWENXb0pwd21sRWduODNubjM1eHRSSU94Yw?oc=5)**
+  - *Source: Reuters | Date: 2026-05-22 13:53*
+- **[Bellwether Industrial Metal Copper Is Trading Like an AI Stock - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1hkdzFXMjh6a0FtclM3NWVzSEMxNnJsMUhYNkkyaFNMek8xVlc4TlUxT213UHhPeUo3dlZlS0wwdmNrc3ZtUk1FYkN1RjBxd0dqcXZrd29PajFRNFNsRGV6bklRX281QXQ2NS1Oc1ExY3BDMC1ieFZwcmMyX1RtZjN3U1Zmbk5rYzRyU3lpa1BJVHRqVDRhUE9EcjdyMXBreF90aE1JS2lRelR1MkV4UC1TYw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-22 11:30*
+- **[Codelco Eyes $2 Billion Gain From Unifying Copper Mines in Chile - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE1zZ29ELXRxZHVCN0k1NXJGdkRrQy1UYlVudklPbF91ZzNWMkNGQllaTjN3VHhzQVJEYnM1b1M4Z1dKOGdQOW94ZFhCQ2h0Q0FJaDliUGJtXzdzcW1JOGxhdE45VjQ2cm5vOXNab2owTGZWckh2WF91WnRRdTV2RDRVUEZNNnBtcHhsZ3pLVUl3dnBhNDdpaDEyblZyUlBBM0Rub3FVTjRuWUJEMHBmODVpeTk?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-20 21:16*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-22 08:55)
 
 - **[Metals Advance as Traders Track Progress in US-Iran Peace Talks - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGp3UWVEVTVWV0lISHNqWldta0FBaEhBTjF2WEdYOU9acnN6Ymt6Q1IxZ1c4eXF6YVBJTlNDb0tfYnlIQVE4MkxYVFFBTFBFOHZwTWp4MTEyUmJWY2pSVno5c3haTC1wY1BWM1FOVnQ5RFlGOU9WTlExWS1mR2ZsbXl4NFAzY3ZWRmVlQTh2LTNSQWk3bWZ4NmlDTVIzamx5VWxkUXRPZTlLZXVFYXdrWFhYUnY?oc=5)**
