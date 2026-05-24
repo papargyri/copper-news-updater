@@ -13212,5 +13212,36 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-05-24": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "How The Freeport-McMoRan (FCX) Story Is Shifting With New Copper Views And Targets - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTg1SHYyeEpmcnQyclU3OUQtNmJ1em1QQWVHY2hyM3VRWGFoZ0lYRUZ4eHI1ZjVHazdROFdnT1J5bHhZLW9zeUVsNUotcmtPdHlwajlpSm9HeThsa3N3NUkxajZJUE53RHB0MDR4SEVYSWdXRFZ2aXAxLTV4dUl2UzdCN1hTNk1GcklWVTh6Z19wV0tJUGNwbnBQU1Jld3ItWkE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Six Bronze Age mines found in Spain may unlock mystery of Scandinavian metal artifacts - The Jerusalem Post",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JTU5GMTdralI1UXV1enptUUlQUVNUQkQ4bVdNeEVGZV9nOFZmY091MlFvT3hiTzU0WnFlY2Nib3QzVTJLa2tEeVROel8taUI5MHNVdHlZZnhYWlRY?oc=5",
+                "source": "The Jerusalem Post",
+                "is_premium": false
+            },
+            {
+                "title": "High in the Andes, Milei pushes Argentina\u2019s copper revolution - Buenos Aires Times",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2J3aERhQmZTZkU5aG9BanNENGs0Z0dxdTRjYXROVG5sOHc4WGFVV19aNzRBOVA4WmVMelJaUDB0dVctblQ5SXc4TWx6VEF3WmtQN2RrTDJzNTBBUkthRE96amFlcjlfR3hDS3p2MGg1QWF2MWdSdGxKSVczZ3B5eGxkR2hneTBBRHNwc3NhSVZ6enRlUGI1ZWt2eHRpMmhsSlBJT3JnU3fSAa4BQVVfeXFMUEZ5YWlIR21OM2FPMTlwbHprVnk2ZEhyTlR2ZkNndko0NmFGcWFSOVRBY0RBTUhJeDVTOVJZbkFUSTdtaWpiSk8yaVFCTGk1cll4QmVQQlk5U2FxV3h3YXJkNEFYaHRIMWl2Z01wcV92RGQzbzVxNGliem1qOXZvaC1RcEFGWWppQ3JKRUR2V2M5WnNIMTR2Y2FLTnhzWmpnX2RrU1ktajBPamc5REV3?oc=5",
+                "source": "Buenos Aires Times",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper: Premium Assets, Premium Price (NYSE:SCCO) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMEszdTVmYkRKQ3hOZzE3TGFrZGtvNUVnRngwWjg4S0lIaF9uaDhtdUFsYThMclVIZ3NyYU5qbEJQWXJVeWs4YzQ0c0hNNEJoSFBxTnlsOTlaclZhMWNSZDhUVVVZVl9IUF9LWlp0R0w1NE5JYms5WUxLMzJIaW1LYVlxQTk4eEtNWHlaVXV3?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            }
+        ]
     }
 }
