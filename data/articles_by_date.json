@@ -13243,5 +13243,24 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-25": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 2,
+        "articles": [
+            {
+                "title": "Revolver appoints civil earthworks contractor for Dianne Project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXg2VFQ4MUxub2ZyUzQzNTd3dXFxWkVaQnpwS0RyMW1UZF9iLVpZeFpXYzQyUlNVMXZMUHRma09PNm1SMDFYZ2ppUV9QV0p2WFdLUk1ySWxQbkpCd3BVTmZmYzFwRmcyTXFpZGNKUGU5eEFONEJVSkpnaHdOUklEU2gxcC11ZXBJWWV4bzUwVlc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Prosperity Success backs Lincoln\u2019s Minbrie Copper Project advancement - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEg4Y1RZUFZJQVQyLUNtRjBIdUlGU0k3YWN6S3ZQOUFnVGRRZmJzb2FhWTdOT0c3SGtqRzEtVjNqOFhyYmRmOXNiNGVYTE9jR2NkSl93eUpBU2JDcS1tRVdUdi10NWZoUkVBNEhvR19RVDJsVzdtVTUyeUgyQU4yRC1pSzd4UlAxc29xUHZrR0Rucks5Mmc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            }
+        ]
     }
 }
