@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-26 09:44)
+
+- **[Strong Chile earthquake shakes mining hub, but damage is minimal - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0NwMEQ0anFkam5iVW9Ob2xEekZpdktOX01zalBKRjhzY2xzbXpUZlBjam9GSUlLYjMwbzZ5emRYZGo0czdnV0UzOERVRmdpRTNyd0FxUTlUZlhNYkRzTnE1aUdxTm13bm5SV2ZiTjV0Y1RMN0xWMjJmUkVWYlQ4Y1dqUl9rdEFodnlyNV92M2ZwSEFWRWZCU1ZuUHYyWXU1dG1nQmh2YXRSdEx4ZGc?oc=5)**
+  - *Source: Reuters | Date: 2026-05-25 22:04*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-23 08:12)
 
 - **[Trafigura Withdraws Huge Volumes of Copper From LME Warehouses - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnNDUE9SWlZyNGhIVTVFd3VBMm9tOGltV29YU1RzdjJaZ2U2NDNHZUVLMU1kWmhleWFmaG4tVjVTSWhOc2huX0JFNDRmeUt2aHhGSG91RWZMVFJxejc3ZzNyMGw1MkJVN0d2Wl9QTURBNTFtejlWOE53bjlpYzBuTmZudXdJR1ZlY3NVT3EyTU9PR1F0ck5vLUtwU2NnMVNNMC1KZTYzZzJ1SnhIU2hidFpaUQ?oc=5)**

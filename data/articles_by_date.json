@@ -13262,5 +13262,42 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-26": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 5,
+        "articles": [
+            {
+                "title": "Anglo Asian Mining returns to profit as new copper operations drive 2025 growth (AAZ) - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGZlZGlmUnNSSVZseENka3ZpNVg5MUtoMnV5YTIzdFVVTVQxSXIwbXBvLVZpYW9pUXNXb2VrSzY3eXJVdndTNUtEUHZvcDFyVFRTeHFJZmtKdGtWY08tZzEtRjFIM1VwWE9sVGpLQ2FLcTlaUGpxUW11QTk3Tk9Fb1lPaW9KUTR0RFE?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Atalaya offsets weather-affected copper production with strong cash position and Spanish expansion plans (ATYM) - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUdGUVBQMk50TXotXzg1b1VueXJkdWxLbDV4RzZhVEtrOGVnMmxic0FhVDNrYlpNNHllbDBrbm56RUVpT0NqQzYxZE5nazVXUTMzUU45aXJQQld1YTkzLVdqYWlpN0diN1YwQnVnNEVjYWptZjh1VjBSellHOVpvdlpqQlVRM2dJR29hM2lQeW5Sdw?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Kazakhstan Launches $100 Million Green Copper Plant Project in Aktobe - The Astana Times",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDdOQzBSbGxqWFp4YklBRmcxVnlFOHJUSU1PaTBWeG1SNVFYSk5UQkNOX1FQelA0LVBoSkJnY2psd21seEd3TUQ1eWtBS2xTbjJkMTBPWm5YdTg4QUc3ZlB2aFphQUw1Q1hmaFpyZS00dC04RVZaaFc4SGozQ2ZrclE0eDVPelJCdXczYzNhM2s1aXlzV0hxRHJSMU13czRCNm1ncFRhbzY?oc=5",
+                "source": "The Astana Times",
+                "is_premium": false
+            },
+            {
+                "title": "Strong 6.9-magnitude earthquake shakes mining hub in Chile, but damage is minimal - The Straits Times",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMU9NTlJXR01lM0poeDlVNFNMeWUweHNJd1VDSW9LWTVOWklzbC1hM1B0VDlyRWJVUUtGUWtmNThpYnNCQkt0WVZPN3p5Tks2cDA0ejdaRXh4OVNXZUlyeWMxTnFFcmtVeXJaOG1VN1NQb0JSQUl4b25RNmNfcFE3RkUxOHp5bFByLVZ0b01zM2J4b3UyOWdNOFBaalZkbUpZMUtGU2dTc3cwWlF3M3ZhS3ZWTTZqZw?oc=5",
+                "source": "The Straits Times",
+                "is_premium": false
+            },
+            {
+                "title": "Strong Chile earthquake shakes mining hub, but damage is minimal - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0NwMEQ0anFkam5iVW9Ob2xEekZpdktOX01zalBKRjhzY2xzbXpUZlBjam9GSUlLYjMwbzZ5emRYZGo0czdnV0UzOERVRmdpRTNyd0FxUTlUZlhNYkRzTnE1aUdxTm13bm5SV2ZiTjV0Y1RMN0xWMjJmUkVWYlQ4Y1dqUl9rdEFodnlyNV92M2ZwSEFWRWZCU1ZuUHYyWXU1dG1nQmh2YXRSdEx4ZGc?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            }
+        ]
     }
 }
