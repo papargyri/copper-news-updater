@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-27 09:38)
+
+- **[Breakingviews - Rio Tinto has cause to revisit a pricier Glencore - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkU3cmFkR25rVkJZZ0FtWHlaZ0ZwMkcyRFNmUlMyNW9GLTEtWVN6LU42LV90Nl96alhLTGJmS3U3a2NtWWU2TXBteTVwS2hGbmFBZExTUTF5TnMyazVwUkpNSmFLVmZha2JKOXdPWEtkN1M5Slg2RW1WQVA1bjVYc2UweEFzMFNwbzBYQXl0QVBsUlh2QUFqbWNFQ1BUakZHOF9JdU1UX0toNGM?oc=5)**
+  - *Source: Reuters | Date: 2026-05-26 10:29*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-26 09:44)
 
 - **[Strong Chile earthquake shakes mining hub, but damage is minimal - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0NwMEQ0anFkam5iVW9Ob2xEekZpdktOX01zalBKRjhzY2xzbXpUZlBjam9GSUlLYjMwbzZ5emRYZGo0czdnV0UzOERVRmdpRTNyd0FxUTlUZlhNYkRzTnE1aUdxTm13bm5SV2ZiTjV0Y1RMN0xWMjJmUkVWYlQ4Y1dqUl9rdEFodnlyNV92M2ZwSEFWRWZCU1ZuUHYyWXU1dG1nQmh2YXRSdEx4ZGc?oc=5)**
