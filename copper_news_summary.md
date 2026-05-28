@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-05-28 09:54)
+
+- **[Copper braces for another round of US tariff roulette - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjZQYkRoYkdwakk0R2I4WUxnZXU4MnZfMzE5UG9yTEJudEhONUNzMWhTZGxuZWQteHhVazZMOS1iNXVlSlhBZE55blBZTUJ1dnluU3plVlJDTFlUTzhScmx5cERGNUVnbXF6cTFDWTVMVVNERVRYYzBHM3lVX2hMUUtPNGZaakdEaE1kbDBrWlhORmpHTEhsY3VpMzAyN1BYNDlURy0zNE1rUzRHZU1aNGRYSWVnZw?oc=5)**
+  - *Source: Reuters | Date: 2026-05-28 05:06*
+- **[Industrial Metals Decline as Gulf Strikes Dampen Deal Optimism - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbURNWFF3Y3hpZTBoTEttQ29FY2QyZmxTWDlKU2tDMXVFTGpsM1RPRjhTbmZKQ3AtaGlLbzhuUHVrR1NJdHphdmNKbHZhcmNySUJqeGIxSVZYbFBxRDJyYmZBRk56cUlTM3dlNXpLc2lqemw0UlI1QVczV2hyWmgtN1Azb3FUTXdOU3AwdVNiNzNrWjhDMUZ4MzRNNDR2amdOV2E5LVlPXzR4QVhXV3FiT1R5aw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-28 03:31*
+- **[Copper’s Giant Tariff Trade Is Back and Squeezing Global Market - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0dSV1B6VGpVeDVvYjdBeE9qVXF3V18xdWk3bDlsUGpOdENkRlZGNVZHNzRJejRXbmpFN1VabjgxQ3ZDOW96MU1RRnAzUGU4Rm0wZ0tqQlhLeV9vcTlLS25oV3lRTTlMNlBQWHcwMlEtdF91N1ZTckEyMFEyUExrUEY1RXJ6RERNT056M2Z6ejVDaHNvTU1ucmxmNzlOeUJWOF9GR0NPbkpYcWhMU1ZMNWZLR2w?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-27 15:53*
+- **[Copper Startup Quilla Is in IPO Talks Ahead of Peru Mining Expansion - Bloomberg.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2V6VDBvTzZqY3hQT2tjMGJ6alRWNEtQQXhNOVVXMTVrWEJwTXU0a3FwUlctOWtvaXpJN2hQallheWN1TzgxX2I2UUlGQ2F4dW9BX0lDTHR1VV9QTkFNSmU0YjItTG1LTFBTYUtZNkxwYWE0eW4yVFJSUk1vQmNGNGUwM2lkV2JNc3hzZjgzQlpETGZrWUlLUFJYb1Ztc1N2VzR5Y0labjdONXNwNU5GRHk5bDNtNnZ3Nmdr?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-05-27 12:15*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-27 09:38)
 
 - **[Breakingviews - Rio Tinto has cause to revisit a pricier Glencore - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkU3cmFkR25rVkJZZ0FtWHlaZ0ZwMkcyRFNmUlMyNW9GLTEtWVN6LU42LV90Nl96alhLTGJmS3U3a2NtWWU2TXBteTVwS2hGbmFBZExTUTF5TnMyazVwUkpNSmFLVmZha2JKOXdPWEtkN1M5Slg2RW1WQVA1bjVYc2UweEFzMFNwbzBYQXl0QVBsUlh2QUFqbWNFQ1BUakZHOF9JdU1UX0toNGM?oc=5)**
