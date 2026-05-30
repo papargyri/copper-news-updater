@@ -13578,5 +13578,84 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-30": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "Mining Co. Gains Major Funding for British Columbia Copper-Gold Project - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2dJMmVReS10cGVNS3JzVU5SRnVnNlJiMF9XM2w3ZE5yOFdPRkZyWndPUC1rSTlsX0NTenNTU2thTVVzVFNVMDF2QjRZMW1ERVlFdHJtREE5OUJXMm1rUWxxMF95Ym4yNjc5aGxxT2JXODdKUEc0d2ZIdVk1eE9iWFpPMjhDSmVlYjQzVEc5OUlLSlRQTG9kampkY1E0cnRyeHhHcldxYnFKMUpydy1fY1VtRjkzX3dEbmFxUXE2TDFHRHYxTDFj?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Broad Copper Intercepts Reported From Minnesota Drill Program - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpMcVMzZlRrVnhFa0pTOEtQMFRHQUtKN3A1ajQzUjZjVEdqcUpFT3Axbkd2aUFvOTViZmItNFFEVnRIaG92WlpiM2RFbVdGbjkxMkFISTVfRkpmSmItd0JsMzlabGVDcEpJV0I5d1pnX0dUVE1oTmNqWlhBUXFpV3FYR2tEUnFLa0NYQ2p5Ni0yOE9uR19DcndFbGJfMG0tc1J5RXZKNG5URzB3Z3h6MUJmb0lQZmI1SWNZ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "PSJ Copper Mining Restart: Argentina\u2019s New Mining Era - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWFKRmNfVkdhbVlkNk5EZGs0UnRnZTZ3TDdjRk9WRC1rQjFDN0tQTzZkam9RWkJSdVdxNVk5UWdzUDBMRGo3dmppMHEzMW43R29mdmVnVGNqTnljc25RU01CQzh6OERfcWtvbnlCLWJCUERFUVJFckNWNEwtd2pMNGZRdDdKai1La0dpUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco\u2019s New Board and Copper Production Drop in 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlprNHRyanJnZGVTWWVoamxsejZkNUhGSm1rRjVuS1V0eExYS0llWk9ISXZQdFdvZERrNXE2d2E5VlEzUm5fWXFlU2k0SmQ3YXJPVGs5MG80X1p2bENsWGZMdTRaUEFoTUN4Ty0td0tkSHl3YWxfRzl5Vm9KNXdUQi1aY2NZdlBDekliV2ZJNUNIVVFmWGNV?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco new chair signals shift toward copper profit over growth - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUoxa0ROZmlESjAwNHc4NGd5eWZJLVd1b0trTmFLYXdzbVRNSEV0MXBzYXBjbE9vbGRqM3BNMmt3QjNFSkJpVEtmX1RPZ3hJZEFFTHJCWE1XUUlJNkd6S0lkNmpMeEQtaUZVLWJ6NEg3QjBHUl9FbEVqTEo3cUZpNHN6THlKZDdTcEFrX01WSnNkV21zRmhZ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDUyNWZkbC0wbGl0aWtDcjBBdE1VRGVZQXNkcmhlRXVqb2w3cEl2NDZ4dS1qY0FzUUtJbURWOEpHRFZvdk5NVUZxZ3oxQ2gySjVyTER4Tl9jUVJyclhnbVN3OGZiSXFnbVRVczladVNFT1JDQnhvWHJuTmpPYmF3VTlqQ3lHVFRZTWZDSlF2MmhaOGJUZGFKSUxsVUFsSXJQNV95ZmZHYUN5bEJjVWVRWXNERE1uR09KR081Umh3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices must rise as supply crunch looms: Giustra - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTBObDJKNUhMLTdUSXVHUUFJa2pneGdHZ05IbGpzYkJib0V6dDdfYm1Yak1CbnhnLVBVQjlhRHlfT2xNX1hJOTlaUzQxRzZzWTRISXc5eUVNVkxzbThWZ2FZUG9RaUpGQjJNdzFjNEE5TTllN3Nvcl9yTzN5ZE55TlVvUGExU0NmNDd0MGhON0dnTjJzTXdKQy1qblp6X213Y1ZN?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Edinburgh researchers license tech to extract gold and copper from electronic waste - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVJYOW52WGk0TmM4eFRfRzZmR05lNEJpdGlPUDF3eHdEeWpJNUF1dmxma3dRaFZUdWh6c09hd2NpMlNsTXpQWDkyTW5HM19ZUDFxVHcyck9fUTduZ0d3SW5tM3hsU0tDRnJQTkNZMFhHWHcwejROdk9SUWZEbzh6bHcxOFVuZlI5S2I4WXR4emlfNlpGX3U3Z0stXzNxNlFHM1Zqa1J4Snh3ZGM?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco\u2019s profit surges as strong copper prices offset output drop - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZy15RGM4QlRGTVpQSTBFRmozMkFNZ3J6T2tJZjRIVWQ4S1l6dGNfUl8wMWZCV0UzWHotWm5VUFNnZmFoMHFmMVpyTGt6RlRRZ0xrM0UyUXMtd1JTSXNCYlNZbkxSQzRwcUZHSnZmbk1nTGpnb18zbjVMejlDUEJraXZTWUduN1k2TUloNGU1NGt4QQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s copper output falls 14% in April, manufacturing also down - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnY5bzk2SGNyajM5TlBlWmxDa3dTcm90VmVkQlR0REhHQ1RyczhDNW4zSHhqUHMybXl2X19RcVpKOUZtR1dRN0RJMlk3a0ZjVGEtTHZIQUhlcGF6TEhwOXB5S0dYeTI4alduNm9Rdld3NTdqcHhienR3V2otZmh5cDRBZFplYVhtTHBXVWVnY3B2MHlW?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Mining's economic edge, mineral rights, copper make headlines - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWS04V01FanlpMHZCQXFZT0NBaThzaVNOVDBKN2t2YVBFTndsVnlWTHRYcHdoVTQzUTFoQzZIdndXZmhseW1QWkRWSUxxbkw5QUtkNFFaZEgzQWo4N0xSY2s1OFh3N2pyU01JeEZwcmxoZDFvWlgzT21SdjEzUzlMUVVmbmlEOTY5MHcxOVRNMTlVZHcyckdobE5ycXhiWUtxUFl6VDM2U2FyQQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Medaro Mining Announces High-Grade Copper and Gold Assay Results from Sampling Program at the Bastnas Project in Sweden - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWlRdmxvT25lamRQOGVSUGlkUkl3djNkeE1tcUFFWFlLdVJ3SUN0a21YZ1QxTE9zWU1McTZCbzBhOUJTYmR1djFqYnd3dGVJbkFtNUxLR0ZHbU1zUmt6R2tWNGNpUFZQZUtoSTBCY2ZmY1FibzIxVnp2MDF3OEQ0eEViRUVpWGFuRm5BSERaY19TQWF4UUpaeENUdkpJRWNnbjlIMHBYdw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
