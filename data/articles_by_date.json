@@ -13657,5 +13657,18 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-05-31": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 1,
+        "articles": [
+            {
+                "title": "Jubilee secures $1.5m investment to support its copper growth strategy - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQblRydk53SzhlaDdFeHdib0JGbmRJZmNQc2ljX1hHSkN5eU81UHBfazFQZE9nNUQtTUVWSmcyX1ZiaTJlVThvV0VQcWtiNjY0QlFMbUw5bTJFdXhDLVlpZEU1dzFxOXh5MUI2X1FuaDdLUzZMdnk4aGtobk1nb2NEZ09MZGtScFh1bjBZd3d2dF9zbzZBYmlWSTlhaDR2cklMaFBCY2RqWG02MVoyZjlEeGJhSXk3aVk?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
