@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-01 11:24)
+
+- **[Copper Gains With US Tariffs Deadline Less Than a Month Away - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFpPOHZ1TW9rMnlWZnR6LXhrQmRHMTJPcVo1LXl2ZkludUdTUXUtSDV4NzEzUTYya2RYT0lOQ1JiUldPUDRVSEVtUVBrd2pmTXNQYVltRW9Pb1h6d01iLVRqX2thU1p5dHRLTy1XYmwyVFU0X21ONXB4c1QwRUlvWTVJejVfS1dHUTN2VVYydTMtcndxaUFNN1RaV3Z3cEUyd1pUZjNCUFczNVRzNDJLWA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-01 07:41*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-05-29 09:45)
 
 - **[Codelco New Chair Signals Shift Toward Copper Profit Over Growth - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWhUTE5XM2puOVhueG5wOGFTeS1TclJ3UEdrYWxiVXFQVWlYNnh4cGVhQnE3SUhRdlF6VG5hR2pOLXV4dHZCZ3MwRlk1VTA5T2U1T3B3WUZkVXhXOUdQTGxFcHljR3BwR0ktY1VlajRNOUlhSERqaFVveC1WT3F1TmNpTkJzS2ZqVTVTNmNMV0tDQXNfRjhKM1ZlVFJuX05wdV83WldJX1RqREtlNnZGMHkwUmJLUQ?oc=5)**

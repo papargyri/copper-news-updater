@@ -13670,5 +13670,42 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-01": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 5,
+        "articles": [
+            {
+                "title": "American Pacific Mining starts large-scale gold, copper drilling in Montana - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbnd5TWFzVlMwOE16dzZOMUdmUEVHQ1ZCeDFlYkh6Y3hnVnZxVUo3YU5SZHl3aFR2YzlqSVRJVmhvZkREb2R1WUtDTzI2NmVVZEIwOG93SVFZLTB2cU04OWZuMEUwcmxjTzFEMlJpam1KRGM2M1YxTkFUR2JicmNXRUx4WktzdDNqbnFER09LdklEbTVWUnU2ZkZoYkZuWm9zU3NBTkdUdHp4azAwSUF4VWFrc0NKalZMZTNXSDBTVQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Gains With US Tariffs Deadline Less Than a Month Away - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFpPOHZ1TW9rMnlWZnR6LXhrQmRHMTJPcVo1LXl2ZkludUdTUXUtSDV4NzEzUTYya2RYT0lOQ1JiUldPUDRVSEVtUVBrd2pmTXNQYVltRW9Pb1h6d01iLVRqX2thU1p5dHRLTy1XYmwyVFU0X21ONXB4c1QwRUlvWTVJejVfS1dHUTN2VVYydTMtcndxaUFNN1RaV3Z3cEUyd1pUZjNCUFczNVRzNDJLWA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "American Pacific Commences 15,000-Metre Program at the Madison Copper-Gold Project in Montana - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNEhaeVBjd2doemxyWWI0U0FKRTk5YW45YmttdV9oX3JBaUk0cmR2bjBRVmk1b3l4Z2hrVTdKVG1tcWZtUXlzQkc5U3FiU2hFOFdyd1ZBNFMyLUpqVFU5MmI5emZrS0prcmNZRVNaakJReWpiem5ub1MzUVhjS2pPMGVIYU9YR1FQQmhLU2NMdDlmOHB5VVJTLUxVVHdWZHhLVEFxYUttVkRaQVRBa09jdjR1bTJUSUJULXU3djZjSkV3dFpMcE1penJsSjFoaWlEcmthTkxSM05Ud1RnRWoyeXhWYnVaY0Q3T0o3eXpfNVliMVVkT2JxVEF2dXZTM1lTUWV4Mw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Resolution Copper Mine Promises To Boost America\u2019s Energy Security - Forbes",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUHU3LThXWEYtdTJPM3FXcFF4WFFXbFVhbVFyVEZmalMtU05SQ2NTNmhiN0JHRFNQVjNKcU5sZW1VTmdhaFpvQVowVGJHSkp1bTd1VDVzU2RvZ0pwZ1RITUhhbVNPeDVtX2p1YXpWOThUdXEtMFhuWmFCOEM0R01GYUhGRjlFSzd3RV9XbXdVVkgwQWNKT1JELTV0UlA0QXY4d1NHbkpqdmctV1M5aDlBQjhMR20yWEhTUlkwMA?oc=5",
+                "source": "Forbes",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo Asian Mining is now a profitable copper and gold producer - ICYMI - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQksxOUhad0hETElhS3cyNl9ZZ2JRM3phOVo4WHdSTjZCemlmOWd0cTdoeXFkRzBzcXRBbk9ZdzY5c3gxSDNabUhwZmQ3ejRvUXFIRm9nbWFjWkxzTGo5UjRyZ1FSOEM0SWZSbEpVcXl1ZFFjMGkySWdYSzlWQS1neFJlUTMySW40ekE?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            }
+        ]
     }
 }
