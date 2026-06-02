@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-02 10:15)
+
+- **[Aluminum Advances to Four-Year High on Tighter Global Market - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTF0dU1WUm1KMzNfa09FOUwxQXFLaGNnM1BWMzUtbzZweVNnX0dfWVZVV2RaVXU1WnAteUk4Slp3X1VXWEZ0WGRPY21Makw3TUVnT3cwU0FvNTJDQVh2SExYWTVXNno3T3I4YW01enpsbDhGMEtUeGFSZXFXLUNrTzY1bDdFWUI2ejZGTFJvV2ptamQyN3JCYmh5eDFJZHduVE90U2dNWTNhcGdwM2dIcA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-02 07:32*
+- **[Trump May Keep Copper Traders Guessing on Tariffs - Bloomberg.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXA4cTZlT2JYS19NNEgyRXNDeXJyOGI0eWRCTkJXclJ3ZE51TGdhRUR1TGVJZV9lTjdIWHowZ2ZubkptNUU2MHlyVHBVcGdtaUhtNEE0NGVwNVVtU2wwd1hmaW9GaWMxQU14eHNCbENqZkJSZnNhT2VTLW0xUS1OeXVla05GVWJtNGo4RHZsR2czb0RUX0lSa2oyemxrSm9WbGJXLVZmbDNmLUowYm5oVTNIbGNhSkNMb1E?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-01 23:26*
+- **[Watch The Copper Demand is Exceeding The Global Supply Says Groves - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzVjb19LRjlZWEJhWXdJd3BNU0lBc3FnLXhpaExTVlpMZ0NWMTMyVjdWV1hzeHRHRVJZSFFhMjR2Q2NGRlJaQ0xadnkxYXJYWUJCU1JuQ0plVmxCck1wa0NUdzFjWGpmQy1sVXZ3dUE2ZTJ1dUZpRVY3c0RNbUdfT2ptWVE4MElITjJFMUZVOUQ2bkd3NHk2clFnM1dHT3oyMl9hUUdFdjNFZzVEbVdXRQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-01 00:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-01 11:24)
 
 - **[Copper Gains With US Tariffs Deadline Less Than a Month Away - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFpPOHZ1TW9rMnlWZnR6LXhrQmRHMTJPcVo1LXl2ZkludUdTUXUtSDV4NzEzUTYya2RYT0lOQ1JiUldPUDRVSEVtUVBrd2pmTXNQYVltRW9Pb1h6d01iLVRqX2thU1p5dHRLTy1XYmwyVFU0X21ONXB4c1QwRUlvWTVJejVfS1dHUTN2VVYydTMtcndxaUFNN1RaV3Z3cEUyd1pUZjNCUFczNVRzNDJLWA?oc=5)**

@@ -13707,5 +13707,108 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-02": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 16,
+        "articles": [
+            {
+                "title": "Vedanta's Zambian unit shuts copper smelter for maintenance - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONVZETXhFb3BLeFczODhoU0FhOVdrclNaeFJWZkR0NnFQME0xT3FvZld0WFp6ckJOdmNLdWpLWS1xd3FrTUxZcU9uRGFTYjAzXzAxX0FmLVZITC1XY3ZwdWFSSkhpNTIwWTRNSEVTMkxkTHVWdGthMzJDVldyTFM5QllnN1hhZ1RkVFdEODlmS0NfdWE3elpQYmVFTU1nOTZrOE9qenlLLVR2TmhocEFvWEFvS2NqRVowQmxXUnREY0o2N2VaelVvczA5ZzFaLTV4SlVSczJReVExcXdQU2VDVGlrZnRadkdKNmZUNTZKaWNFQzBGYXJjZXFReHgtdW1x0gGGAkFVX3lxTE54MFIxOVRLc2ZrVUE2dDI0T3dnd2k0Ulh0N3RnQ3ZGaHJhSEl6WW5zQm5EZ05aNktBVlRicVZsWTA4aW5pSlhvZldBVmxacnFra3I2WUNDaEVwTGctblM0TC1qWEUza1RYcnNYaTFhMXBZY3RUMnZXdExEc2dDTEdtWWVCdGlwXzBBbm93MXRjWUZLaFFSQ0hYZlRVR0xQVUt1ZzhXRUNZZWdIRE1ybGxjZVdjZFNaQ2MxWGY5WDRIRGl6T3llQVVPQ2U4T1dBLWFkcGttajVQQU5PeHA2ZmVURVNETzZkNk54aTVQb3JsNFE2NEJpaUJ3R0VzRmxMNWJVOF9YNEE?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper raises $10 million for British Columbia exploration - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGEzVkV4M2FoUTllQnBYblJEWGlNcUoyRU9CWTRrUHd1MEVDSHNhMTloWTRaY09iaFVfeFU0UkJxMExwbVZDbk1NT0VQN2lsMHlZZnJCejliVllVZHpXMG10VEk1QW45UU9WVEZPX0JJeWJCTFJYVUNicFB5cG5ySmV4Vl85a1ZwMU45SDl5MGg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminum Advances to Four-Year High on Tighter Global Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTF0dU1WUm1KMzNfa09FOUwxQXFLaGNnM1BWMzUtbzZweVNnX0dfWVZVV2RaVXU1WnAteUk4Slp3X1VXWEZ0WGRPY21Makw3TUVnT3cwU0FvNTJDQVh2SExYWTVXNno3T3I4YW01enpsbDhGMEtUeGFSZXFXLUNrTzY1bDdFWUI2ejZGTFJvV2ptamQyN3JCYmh5eDFJZHduVE90U2dNWTNhcGdwM2dIcA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Megado Minerals Targets Copper Sulphide Depths at Iberian Project Spain - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0JlWV9mR0ZTUDZRZ0NZMFZxc2l5cktfeUJOdUpzZWdnRHhoSTAtVi1PSDJjM0tHTkNlZFRKVmtmdnNhNTE2cmEtaVBEUDJLdEtrOTJ3SkpXd0QtZzB2bEUwTVkxTFFwVHI2SU9sbUJJQzlWUHZsRjV5V2VBT0R3YzV6ZjFTNjFVS2RQeFFB?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "True North returns \u2018shallow\u2019 copper-gold from Cloncurry - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEgxVmpyLU5Qb19BUF9KV0xpRGhRcDI5ZnB5X2FfNi1KMzNIQXQ2ZmstRnhmcnRHQlRsaFNVQmRaUjM2bGlhWUZ3RzF1RTJUZTdTSjNEeGxRclUtVjVvZ1FkeVd5dGNIcE1wdHM1aC0tNFhUM2RwQW5DSEZXZXJZTHhB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Revolver finalises Dianne layout with 3D earthworks - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlVjB3SC1TaGV4RXRIWGFESjlBOHMzbDAtVEpSeXJhdFpkZFdoSDFmTFFhWW1HOWdwT2V6bjVTM2tqWkRHVFBtY0laRG5RbVJDRW8xd1YzQ00tUXp6dUFJTHhyaE5TWXFnekZremN3ZDVZYTZfSFhuNXpTUnpmamM?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Faraday focused on project advancement with team appointments - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGwzNnEzYnpBWDBCNXg1RVl6RDRFNGRZQUZYZU1VU2o3U3RjX2Z3Um8tV3JWMXlkVTZGM292S1BwalY1eERlc0kxakRYOERTRlQ0QzNnVHh6SFZOSGtnTEtEbm45OEFYd0JDM2NoOHNFVDBPRFhJWlk1cHp4VDJmUWlJS2NOQ2ZTQnU5eA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Trump May Keep Copper Traders Guessing on Tariffs - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXA4cTZlT2JYS19NNEgyRXNDeXJyOGI0eWRCTkJXclJ3ZE51TGdhRUR1TGVJZV9lTjdIWHowZ2ZubkptNUU2MHlyVHBVcGdtaUhtNEE0NGVwNVVtU2wwd1hmaW9GaWMxQU14eHNCbENqZkJSZnNhT2VTLW0xUS1OeXVla05GVWJtNGo4RHZsR2czb0RUX0lSa2oyemxrSm9WbGJXLVZmbDNmLUowYm5oVTNIbGNhSkNMb1E?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Los Andes Copper Announces Election to Issue Common Shares in Satisfaction of US$9 Million Convertible Debenture Interest Payment Obligations - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQU45NFo0ek1jTlQxNi1fMjM0ZDAwTksyekZQNF9rY0VPOURlNjktM0pOU0k3RmtNYWZxc2x4WFM3QThxZFNCbjNOWktJV0ZMMERtWFhLdmdrUk5EclNWbVFzRWJ2OWxYT3BxbW9ndUFDVlU4cGtvS3dybmFYOXotclR6d05mZ0VJdmpXRjB2QkQ1MW9IcVN5TC13TEY1VlhXa0E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminum price hits four-year high on renewed Middle East supply risks - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3RqbFFhNVB1M2EtUUxDYS13YXBFbTlfQVFfbFBZRzQtbDFuVHVzYXdBandLY2FLYnhrZ2RnVFZ0b2N0bmZfNXBub1dIMFdIVG80VXF2cklka1FHNW5Ic25KYW9WeHFSeC0yNGFOajZIaF9ZUUV5WFdWZGRmajE3WUthSWRkRFRSbElJTDB0UnBJSU83MWxR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Giustra: Copper prices must rise as world faces looming supply crunch - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnJsb2wwc0FSZ0ZtZXFhRnZHTFNGVG53R0c1T3J2ZDM4R1lrNmlQQ2xMZElMRFVmX2ptd2h1clA0SnI3eTZILW12eHdBTGQwMkxkdGQ0NlMtZldBWlFHWUxFYVdfY0lNV242T0dRakkwWV8ydmh1aHBkSnY1UXhFbFlVZWplWjVTb0puU1BQTWRuSldvQ0hPMlBUR1huVkE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman, Citi raise copper price forecasts on supply disruptions and strong U.S. imports - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSEhrSXgwTndja2Q3cGQxcUlRczJEbUlrajRsRGpUb1BkaFlMcEJna3Z0Smo4QVd3RjY4cnFrYnU5SGpMMjVDb2hmU2dUNXljVjFRbEJKX1M4VENXTmo4RTlNMWVLTlhwTi1CX091QmJua21oSWJPUlVjT250RlNud2U5SnpEMThqZlpvRC1QaGhiOC1MenFQLUpXcXpOaVRyeHFzaVYtdDd5ZmxUSmszWU1GN2NrT25VVVlkcmtDM18?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Citi turns bullish on copper with forecast of $15,000 per ton within a year \u2014 here's why - CNBC",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQWo5OTBxQzJDbVF1TnY1bFlnSkZ3WWp2bDFzb2dCUlRVRE9iQXY0WERaOUZOYVc5aC1uOWl2a1Z3bDE2OEptUE4tRXRUWjE1ZXluaXJIeGU4NUIySVEyOHdMS3lrelFmZFN0dFUybVpGLUllNDRrZEhVeEN6dHFDSmRoay1FZw?oc=5",
+                "source": "CNBC",
+                "is_premium": false
+            },
+            {
+                "title": "The world\u2019s largest private metals trader walks away with $92 million tied to Zambia\u2019s copper - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLTNrLU5RaEhVRWd0UVlZY0tSMzVNaGRucUpkT0h0NGJvTGw1alpWVWJJdmtob2FkTFZHbDN1VmVWXy1aV19Vbk5aNDJuREphN1ZQTUx0eXJTTWdyUVdoQmltM050WDVFellGSWg4cEpYM2M2OTVFaEFkZThfSkE4U1NRRkJSd00tZUZnV1U4dEFWcm5zTjFjdGw1ZXJud2wtX1RhUHJFbjJvcXQ4RkpxeFFLTUJoWW84TEFVN3g3anFOOTk2N3BaQ3paVGYtdk9OWk5GVQ?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Copper & Silver Pop while Gold Drops! Here are the Drivers & The Week Ahead | Metals Minute Phil Streible - Barchart.com",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnlfTmxVUzRZZFNwQkNsWEZab3JId2JyeGs2SGFPQTNoMkFfbkdCRVhlOUl5NzRpckFSWTFjRkl4QjlISWJXQUtHaDEzY3JzTF9XN3ZBX0M3NUhDQVVqbjhQejVjbkIxVllRcFJ4U3ZGUzRUMWJhaVdyUVdNS0pyQVNKYV84cUN2OEVtUmJNQy10M0MtV3pmNlJ0WGJ0UUxvSUUxMGxmTDdGY0kxeFFvWTIwVXlJRmE4aEQ2ME13cWhIVk1VTHdSLWxtYTBfUFYtMmVxdXFhSG83UQ?oc=5",
+                "source": "Barchart.com",
+                "is_premium": false
+            },
+            {
+                "title": "Watch The Copper Demand is Exceeding The Global Supply Says Groves - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzVjb19LRjlZWEJhWXdJd3BNU0lBc3FnLXhpaExTVlpMZ0NWMTMyVjdWV1hzeHRHRVJZSFFhMjR2Q2NGRlJaQ0xadnkxYXJYWUJCU1JuQ0plVmxCck1wa0NUdzFjWGpmQy1sVXZ3dUE2ZTJ1dUZpRVY3c0RNbUdfT2ptWVE4MElITjJFMUZVOUQ2bkd3NHk2clFnM1dHT3oyMl9hUUdFdjNFZzVEbVdXRQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }
