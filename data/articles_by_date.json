@@ -13810,5 +13810,150 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-06-03": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 23,
+        "articles": [
+            {
+                "title": "Zambia extends duty-free copper concentrate export duty waiver amid smelter outages - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXFwdVE1OWdEbjJBdF8ySzR0bUVlQWlGa0ozdU53MTFlOGlvMy1kWGJlMXN6ZFlxOVlIdWowTkFCeUhsUmR4TWtBcGVQb0VVTGhsMHFrcWl5dEJ1bWMtS0V0Q0Fxb1pRN3QxMERpVVRyUEI2YkNVUFNnaUh5ZFdNa2J1RnRSZ09qbFVnSFJkOGJMdHBiWmNLNXVQa3dnV3NHSG1Lc3JtVkdXTlRacHJEeTBpVTZKSmlkS2VqRm91cnVWUQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Microsoft\u2019s AI is now helping BHP mine copper - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSFQ5d3I3M1hQNm5jVS1kWFYycHJkVGZ6UVpEc1RGSjZrM2lUaExxaHNTemN3TXY1cG5Gd3NxNFBPSTE2WUlSS0FZLV9mVk1nRkNDcmhBOXpadk9GdTZkcmRLLTR0NzU5TUxnVlBhVlhyYWRYQU05Z0lOaEVXN1VHREhRTU1tc3dBck4tMWpuelpJdUNRRHpNVl9GbzIyZzZBNWl3UXFYLUk1OTdvUjhCMDVILWJ2cG5MQkdhdUxwdzZpNzVWdWctdnhDOHdlSTB1aWVQdWh6TmpHVVZMaUdDaGxUZ2MyZU1YZTQxREZ3TlNsUy1yMzRSSW1aZ2wzRjhBY01NeG52TdIBjAJBVV95cUxQcGtXSTFQX0xYcHM4bnF2OFJaNXBpenhkc1VnQ010VnBMZldCc292dlZCZjNWLUtCN1pUMzBFYkNBc2xmSkFaN0ZQN0xvZFg1WFpsaktLaXN1WTJOZkRiUk9pZVVQR3F2OGVTbHJqVXEtU0Q0TzRBWjdSM2NGZDZyM1ozVDB3QTRDdFRkdUF4bktJNTA2dXhBSWFseC1nS1JmLVhLaDJkWGRQQVFSd2o2LUFyVUNpNkZPN3pna3NsWExHeDh0eXdreUNwX2ViYkNrVFBzd1huMkZuMG01TTFkZ2ZFTC1LN0Y2T25BVW5oSVJMRlRvWHhRYzVicVlOWkgzZTRMVDZqTG9FajNW?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "AI may not be the demand booster copper bulls expect - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRDVxVzR6LXNwWnNTaFNPZlhTelNwM3psZTNaVmZXQ04zUjRJd2ZPUVVEVkZ4SmJjUG1yTEo2R0dMVEoyT1M2XzBmZ0FNMnNud0M2WFl6OTREYUc1Y3FNa2dDcnJTZjBqYkJKelpQUWdpVWtreVBxMWRDRHE5anZIOXR2bnFuQkdnVzV6ZTFEOXZPZ3hPalFwTmR2ZVdxZVFkZndaZExLSFEtRTFaNGZ5SjNFTHNCcDlX?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "CopperTech Metals reports revenue surge in US IPO filing - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QS3o2alZFUERfVDlwaUx2TlNDeDh0OGdFcThCMWZYeVpTU3ZaVGhiR2pMN2hKWGpNb1ZGV2JCZnk3RzdfUWt1cmtkZTJtTDBndUQxazJJNDhjbWZCWjh4RnpHSllKdWNaay03M3hXTjZIWEtHOHREaUhR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Why the world needs more copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zUFV1Q2MydnhTcnZNd2d6RlVZUFJCS2d1cnFERVUxYVRBTDA2WkFma2FyLXNYeEFqXzExVzV5X2hQNGVCbUViQXpvVEFjWUNVTDBzWkVkcEFSa0UxX0ZSVTdDSHU?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Alphabet to raise $80B for AI as copper prices climb - MSN",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHJTZENBTzR1ZjJXdV8wZWoxZmplX0NKa3AwR29aaVhqM2tWNTVpVklJbTRwZmVVMzNhNWg0U0pVN093SkU4OXlvdUdESTZFMUU3bHdLUnJCT2Npc2FUODlXZERwVG1RTkt2RUR3NWZOdkprMmxBU3RuaGFQWUhmc0dUVnBTOVR3Q0twUG1mQXRhTHVKVDBSa1JHakRlbkJPa3RpWUpCNEVRRFJqSFFTNUVJZzhtWldUUHZ2Vl9IV1VHdnZNOG1wME9lRQ?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Copper tops US$14,000/t as supply fears and AI demand lift base metals - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwOXRDclJ6TTdnNS1PVEdsUDUyQzl6am9tQWRzOGE5VmE5YzRrU3U4ZGNRNzRnZTlXNnZuZTF5NjF5T0duNHZtTkJzckt3UTEzSzNwMXUwVmFKZXN3cHNzcUpNUjY4dWJYQkNIelVoc295RmpMcDdpVjZ3?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper upsizes private placement to $13 million - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeERmbndOUzJuZDFyY0N1UVE0VnB2cU5MVUxwU3Awak9YRVFRMXM5TnJEdU5aMTNtektQU1dvdlNDcXgzQVRtM2p5V29KUzBkRlR2NjFEa2RXclowUG1mTXJMUTZCY1ZIQ2JabnFlbHJoYV9fLVl2cm9NMjUzQ0R5UTJR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Great Western begins drilling at Diorama copper-gold target - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGlPNmNUa3dqWWFBNTUxLURjZ0JrNklNT3diUmJlNmgzZkpjME03d1ZNS1dENWJBR0JMaTBlTkdIYWs2UlFiZlFBYU5ZdjBvRzFNaHBwa1dqRkdMRXItVkE4bng1UGZISkdIak81c3lvQXRBSTRCVU43NDRIWXJzektNMU9fenZMQUE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price: Goldman, Citi make bullish calls on supply woes - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGg4QVFKOVV3bUNGeFNYaUlEVVhiRGRRejBFaWpfS1lIQlZ5TFhmYkxrcWFWQUFoVlNLN05LTlpwVURDX3NyaUZvYTExQ3R1azc5NFlLX3R1Q2E1dWNNVGZpb3pxSkJFLU9DOW5hczRBSVI2c3l1Uk1uSjJaODVNdkN5dk82Y0puVFJj?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Star Copper launches largest exploration campaign to date - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RuRmtxMTI5eXY2dl94MXAyU2FIanA0Y0s2Mm1WMG45cHFyZFRmWndYOWVfX1RwSGFSQUFyTzhfMko0c2w3RXZlakF0TnBmZlY3S3NsNmcyVHl3LWxUVkFhSVFvc19JdTZiZWFYVHE1emM3cGM0VVhUVnJ0Nm02T0x3YnVuWVE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Tintina soars on $66M backing for Chile copper-gold project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLU42RGJETkFoVlA3V2FveElvOXMzV0poUjVfN0tLNVlfQ1dBRDlybE51djNLWDFzUGJlVk1RZ3BDZzJDem4tZGF3aUVJaHdOeWFNYWhlYWNHZjh1Y3NvUXBvWk1LNEdNVlFaUThQWHNEME1CMFNuYm9yR2VJTEFyenJ5TEd4NGxkZU1yd3NpMUljUV9wN0dZWnJ3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "How Copper and Aluminium Prices Are Shaped by War and Global Demand - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFQ0OXl0aHNjc0YzUGtlZ0JyaTRkX1hmRHZscGJ5MVZraEc5VHRCM09HNTNuWUJYQ2lISHI1VHBObzVqNG14RzVGR3k0cERkejJVeGE1Qndmcl9UbnJtMF9JODV6MXZZUzJxTnEwMjMwX1pPWlhCTFZDbENYQ25SMjBISWlzbWtPUDg4aw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Copper and aluminum power higher on global demand, war outlook - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmp6SFk5aDdzemZYVm52dGlTdTRabC1lTHZZWTh2VXZ3bDRBel8ta1RlOXlQLWpLY3JIbHFNeC13Qm5RUnNDZ1JmS0R3eTN2QlVXcnVVVUdZSkZjY1JnZDlxVlptQ2UtTUx4S2hLcWhvNEF0dUlFa2xYM0FwQjVETFNJNTVzYm9kX2ZSWk1OTUZSRkU?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "We're Hopeful That Marimaca Copper (TSE:MARI) Will Use Its Cash Wisely - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSktyTE9WckpYcnJJeXpSR21jRXpnM3hfOUU1ek1YTDZrWnd2MV83X1ZaZk11MmNjMjlDaHQ5YkR6d3AxRWhBWFV1bXMxWmJXZU11alVZT2RIZVotS1gzNWVKbTRob1YwakZQODluTmt4dkVjdnBzTU51SzdBMlRqQmZ4LWR3S2FITk5IZHdRMW9TeWl5WjRmVjc2U3pndw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Vedanta\u2019s Zambian unit shuts copper smelter for maintenance - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdll5Y082bmthWlhZYk5ybHF4OU5CSVEtSGdOcVcwQVVDWVhIMkF3eXZRRlR0MDNrYm9BTndQR1FKeW5JSWdSMXdRR0tKcDhTODZOQ2VkZUZuOEozUUxRaFJoVkp5M2EyRzFkQnRfQ3VBY2Q3RF9Cc2kwcl9fRlA5QjFPM2FrWlZOZmZvOHB0RQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper, Aluminum Prices Rise on Global Demand, War Outlook - Transport Topics",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16cWNXcmhtRlk4cDVFeDFzMzN5Z05vYlBXY2FfRHRfN2ZIQ2VpRW9NTENpNDFLMUNGd1U2cVBFYU1VZkdQREVIbDA2VzhwbnZKelNMMVNWQmtXcEowR1hUVzE1NWczdm1MaWVz?oc=5",
+                "source": "Transport Topics",
+                "is_premium": false
+            },
+            {
+                "title": "Copper 360 reports improved underlying financial, operational performance - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWVEUk1OamxyWDdnNFZNbDVYS3k3S1BCNWE2YTJVT3Bod2kwcTc1elBQaFJJM2w3dEJfcjJrWHJzZy1WV3VzcGNYMlBBUWxJNDhIQk55T1Z3Y296Qi1JZmdwWnhMZjhZWS1KZE8taTFDY3F6NVRBWkJ0QlhPdXp4WlBRaGt0OEdBX1JLRENUMGY4SDZVT3dqLU11WUMyV0MxYmlDeXEyOVV0SWY0d2drLV9SLW0wcFJHMkRmZQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Historic Copper-Zinc District Gets Fresh Drill Push After High-Grade Intercepts - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaTh3S3lBRkNWcHlMX3lGeUxKbXhIQ0RhMWlsU1l0eGNnSkhBM25XQzFkZFUxVVBuaFZLS0o1TzVCenhPcmdPdVpGd1Q5LWlSNWFzZkVDU0ZLbDFaa3B5UTVOOW5IeEJNcGF4YVJjdmxDU2xvZl9vdDRxYnI4QjhHM2lZdnB6V1N6c0ZTVW1YV0VFYWEtb1oyYjRYeVg1Y0piZTJiME5nblRTV3NpMnZ6ZXRmRjZ6M1BJYUduMnczMnVXR0VCRmcyS3lrLXYzTWJiTmtZ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Surface Gold Elevated Copper & Strong Alteration Mark Initial Drill Results - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0RtUlFER3psNGZyWE81ZGZxY0lrcFNyUHFuV2hieFEyMHBNcWpJQnJhSjdZUkVjZFE0WXRWRWE2YUgxMFRxb2F5eUNlalpKLXRrdUY3V1M4Szh5MU5FYjVUX0VfekNEQjJHMlNqeGlzbUFXM2ZpZnBoZUxrM1M4OGg5a0tOY1hOc0NhYVdsQnYyVkdkRDZBNlpxd2RTMkpqYnJTWkxwcTVBWk94NlRnLVdPMy05OVRtbE1WWHBHZXpmcG8xZUMxakpJMTI3anhv?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Central Asia Metals Agrees Cygnus Acquisition to Expand into Canadian Copper Sector (CAML) - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRXFWUlpkSzdVNzNYQjFObXlVUGFvZFhZUWpfOG9IZFY3c1lBY0hvQW5Sci1JeE52RE1WWUxYRTRxdjk2bW1CSHpPcWRZUFVhVXF2VF9ybHdQSEVxZlBLaW5qZkd1SXZKV2taOXN5bk5ablhDSmxla0VsZlozVXdTMWhyMVZUZ09QeHc?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Trump signs proclamation amending tariffs on steel, aluminum and copper imports - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlRYdWdJWnhlYmN4SVM3ZEozdW9KYzZ3V3IzZnVBMVVyZzRIcEhYd0RxNEVjTDhEZUJPU1BzZHhaX3czVzByZjliSEFuY21CZDhvVWgwQmtNZFBpVGg5YU9rLWVaajI5NUZZT0tIYlZUU1VVWkkzUk56M3doUjJ1aENmel9JWU5qdGQ5S2JPYWxjaGNPRFhLUkJyZDUxRENnZXdJY1ZiM2Q4dw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Japan\u2019s PPC integration deal finalized as copper concentrate squeeze deepens - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQi1NYWVhZmVrUmktb0RqTlAwV1E4Y0tzVTNUMnhLdUdRS3Z3YU1zSWcxVmFqUWhESmE4c1hVNHN6MWlsMFlzdUY0SG9DUmNTOXNGazNpX05Felo4VHJZeEVkYzZuX1dORVlMM2RYV19WeXV6MDFiaHRFcmpBOE9YV3BCRUptVWthLW90SGRQdkd5Mm9hcDdEallZQ3NwVERwTm1OUlhOYXZFY3FtRTZ0OE9HMA?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            }
+        ]
     }
 }

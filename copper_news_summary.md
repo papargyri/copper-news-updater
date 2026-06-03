@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-03 10:51)
+
+- **[Zambia extends duty-free copper concentrate export duty waiver amid smelter outages - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXFwdVE1OWdEbjJBdF8ySzR0bUVlQWlGa0ozdU53MTFlOGlvMy1kWGJlMXN6ZFlxOVlIdWowTkFCeUhsUmR4TWtBcGVQb0VVTGhsMHFrcWl5dEJ1bWMtS0V0Q0Fxb1pRN3QxMERpVVRyUEI2YkNVUFNnaUh5ZFdNa2J1RnRSZ09qbFVnSFJkOGJMdHBiWmNLNXVQa3dnV3NHSG1Lc3JtVkdXTlRacHJEeTBpVTZKSmlkS2VqRm91cnVWUQ?oc=5)**
+  - *Source: Reuters | Date: 2026-06-03 10:21*
+- **[AI may not be the demand booster copper bulls expect - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRDVxVzR6LXNwWnNTaFNPZlhTelNwM3psZTNaVmZXQ04zUjRJd2ZPUVVEVkZ4SmJjUG1yTEo2R0dMVEoyT1M2XzBmZ0FNMnNud0M2WFl6OTREYUc1Y3FNa2dDcnJTZjBqYkJKelpQUWdpVWtreVBxMWRDRHE5anZIOXR2bnFuQkdnVzV6ZTFEOXZPZ3hPalFwTmR2ZVdxZVFkZndaZExLSFEtRTFaNGZ5SjNFTHNCcDlX?oc=5)**
+  - *Source: Reuters | Date: 2026-06-03 05:04*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-02 10:15)
 
 - **[Aluminum Advances to Four-Year High on Tighter Global Market - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTF0dU1WUm1KMzNfa09FOUwxQXFLaGNnM1BWMzUtbzZweVNnX0dfWVZVV2RaVXU1WnAteUk4Slp3X1VXWEZ0WGRPY21Makw3TUVnT3cwU0FvNTJDQVh2SExYWTVXNno3T3I4YW01enpsbDhGMEtUeGFSZXFXLUNrTzY1bDdFWUI2ejZGTFJvV2ptamQyN3JCYmh5eDFJZHduVE90U2dNWTNhcGdwM2dIcA?oc=5)**
