@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-04 09:51)
+
+- **[Trump Tweaks Copper Tariff Rules Ahead of Refined Metal Review - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGp5SWZwcW9Rem1BT2FaOS1GVklUeUQ0NnRrVTc1eEpBdGFZZWdrRWw5X3M1VEdTZVFFb25ST1RsbHdId1ZYb1JMVE5FN0lfazRtNjc1cnB4ZjBqZklXZGx2VllaaDVsT0dTTmdoNUF1RGh0ZUd0Zm5NRmlYT3VRSTNXd2pLRDA5cDl0SWV0MWlUTjljeVlUZWVSaGM5Q0lRbGhWNXhtZW9hc1VFYV9XUWkxMA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-03 16:29*
+- **[Vedanta Unit Targets IPO in New York to Fund Zambia Copper Mines - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFA0SUZ4NWMtbkQ4VFRXYXpjcWNCNXVYc3hGeGIwN3UtdU5MUDEwVl9BVE9RX0VKbHlPMktUZkd3LUFqRXE0NWZZTDlDcVFzOERjbkhycF9RTnhjd2g3WGdxVnJCTXNtdThwS2hhOE50dFZudEN1a2hGWm5Hd0dGYTVKMW9DRk9OMTN2ZlV2T096bFJfbmJURWhpaVZfRFRpWEtXTktHSktTMTFySkdmbFFBSWdtUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-03 13:05*
+- **[Copper Declines From Three-Week High as Traders Track Iran War - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzBuRVB2RlpiY3pLdzQtTC1Vb0t3TlFSQlNKczVyZ0UycDJtRjRvU3QzM3M0ZHphVmo1VmJsQnpUSDBQZU1qcC1idzVURExlMlotX2NPLTdET1ZmaTYzbkRzTDVFRGRJTVlveHBHa2dVUDdZc3BiN29IRjJVOVFNMFE2X1hMNC1ybUlqd01RV0J2WjNrazJXNHRiU3lsZzJBUjBaeEpoVUo4Q3oxX0xwT0kzUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-03 09:31*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-03 10:51)
 
 - **[Zambia extends duty-free copper concentrate export duty waiver amid smelter outages - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXFwdVE1OWdEbjJBdF8ySzR0bUVlQWlGa0ozdU53MTFlOGlvMy1kWGJlMXN6ZFlxOVlIdWowTkFCeUhsUmR4TWtBcGVQb0VVTGhsMHFrcWl5dEJ1bWMtS0V0Q0Fxb1pRN3QxMERpVVRyUEI2YkNVUFNnaUh5ZFdNa2J1RnRSZ09qbFVnSFJkOGJMdHBiWmNLNXVQa3dnV3NHSG1Lc3JtVkdXTlRacHJEeTBpVTZKSmlkS2VqRm91cnVWUQ?oc=5)**
