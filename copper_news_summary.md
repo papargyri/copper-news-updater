@@ -7,6 +7,22 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-06 08:29)
+
+- **[Hot Picks: Copper growth and silver strength support materials stocks - BNN Bloomberg](https://news.google.com/rss/articles/CBMixwFBVV95cUxNODRXUk1wM0xtMzROQmZsdkVUSkdUZTNJa0tvOEtpd0tSUl9UeklkRldaRWRyeGRYVU00N0pueDh1ZUdjd0xIRzNRVUJyckhrclpfblc1Q044Z2REWG1NTDZqampVdXpWSUw0TkpRTWlPZ0hSQmpMTlBOOXMzQ3hSRC1BdXNtN0VON0hBUktGWE5Wb1c2Zkx5dVpFZzFuMFVvMG1YVmJRejJkclFRUmlwa0tTX0JDMkZSOVpERVNsbE8tTWlobnpj?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-06-05 19:07*
+- **[CMOC Congo Copper Mine Offers Bonuses, Threats to Stop Strike - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTFzVzkzUGRsQzBKaUo4allyMnlpMC1DQXVPLW9tRGY4eXE0dlJMeHEwbXpLX1dRaHdFMGpNaGZDMjZodENXWDV5VDdseGE5VHE0c3RqcnNkWXJxNm9xaUM2THRRMmo4em94WDhGU3pWWFpQbHFObTM3OVJDRV9yYXlwRGlkUldpNUZsNjROWk0tczdWeDF4WktkWDZyV2R6c0JvTkVSYXFhMWxFYi1oaQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-05 15:47*
+- **['The U.S. is attracting all the copper and rising the price for copper worldwide': Pradier - BNN Bloomberg](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlMtT0FvZFdyd3dmTzFJOFpEUlhHeWZOZFVITlZoTGtLUzdpdUc4YlJzU3A3NzhyRzFNTEJmVF96MTRQWEFpa0xGR2dNZmZfY0ZSNEVFXzhKRXJHcmhpUXVVcFR6eU90d21KYnA5LXU4U19NYjF0VWJ3d3ZKWmx6TUdLVUJyMEtxWWRTZ0hFYmdqQktrS2ljVDh6WEI2T3k2eFZDcjgxTnBmQlhVekFXZkxpVW9UVU44TDg1N2o2eV9kc1pXaF84WVNjV1pQa280RU5oZFhFWWpZTzNPd09Z?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-06-05 15:07*
+- **[Abu Dhabi’s IRH Turns Down Zambian Copper Concentrate Waiver - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEg3TUxuU0dmYkNuR2p1N2F4VFdmelV5UTREZmhoTU05WWVvSE4wMlhvMWRFUTU5ZU5jVlpyc0xVM2taQW9XbUJHbEZrRVUtV0tOX3pwVzhkTHJNT2ZMZTg0ejVVRmZUWTVoWEFRNHhQeXBrZ2t1a2NtSjRSb0dwU2NfNjNUVXR5V2VpT2s1aW8wQmdhOFJ4cThLWE90MzQzaUtnVUhKV2JnaC1ZTnBMRA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-04 12:48*
+- **[Exclusive: Chile's Codelco copper giant names Jorge Gomez as new CEO - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlBXNGdKWDVncVVYeG5VdVMybGQxRTFPSUw1SW1DUGtWZTBXajU5UnA3UFNHMnp6LWViVWtiYWpCQmY5WWN4UmphTzgyV1ZlWlI4UHZXTkRrNFdJa1dPaXBTRmxhWmVZd1VZRDBQTTJ3ZldEZjFScFpkLTlBb2pFWnFwZ01ZRjNXMGZCLW5xWlJDcHVjYUowdG9mdWtya1pzR0pSVC13?oc=5)**
+  - *Source: Reuters | Date: 2026-06-03 18:35*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-04 09:51)
 
 - **[Trump Tweaks Copper Tariff Rules Ahead of Refined Metal Review - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGp5SWZwcW9Rem1BT2FaOS1GVklUeUQ0NnRrVTc1eEpBdGFZZWdrRWw5X3M1VEdTZVFFb25ST1RsbHdId1ZYb1JMVE5FN0lfazRtNjc1cnB4ZjBqZklXZGx2VllaaDVsT0dTTmdoNUF1RGh0ZUd0Zm5NRmlYT3VRSTNXd2pLRDA5cDl0SWV0MWlUTjljeVlUZWVSaGM5Q0lRbGhWNXhtZW9hc1VFYV9XUWkxMA?oc=5)**

@@ -14191,5 +14191,114 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-06": {
+        "price_usd": null,
+        "premium_count": 5,
+        "global_count": 17,
+        "articles": [
+            {
+                "title": "Assessing Faraday Copper (TSX:FDY) Valuation After A Sharp Pullback In A Strong Year-To-Date Run - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0poQndPaXBONWotdXhoLUdoaFRiSHFuWWRlLTBGTXY2WnJUTDhWdFZjcERHa1JwaUphRFplM0tVYi1kNG4wSHNIQ2dLeS15M3BtVmJkOTBOLXVHTnZvMThIQmZ4NTFZZUZnTWJjdk5UUF95QWwxNmRfWnVtenp6RFBVa3NvOUlaR1Boa01UWnRCOUxFSXlaZmFaWE4zdw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper (TSX:CS) Valuation Check After Recent Share Price Momentum - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1VPdjJ6OUhSbUgwdVFzUGNCRlNsUlQ1aENIbVBHMUtFQ1JDZzdfWk9JTXd4RTlmbVpicWxFTGxzZkRySnU0MTJmcVNQTG9GT21HLVlOb1ptT0pWVElnNjZxRzJ5el83RjZham9PbDZPT2hvaGN4UXQ1LUlJT1NLTTllOE5VSUU2MEdMR0xibkVPSGR2aG90VDJxZUp3UQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Hot Picks: Copper growth and silver strength support materials stocks - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNODRXUk1wM0xtMzROQmZsdkVUSkdUZTNJa0tvOEtpd0tSUl9UeklkRldaRWRyeGRYVU00N0pueDh1ZUdjd0xIRzNRVUJyckhrclpfblc1Q044Z2REWG1NTDZqampVdXpWSUw0TkpRTWlPZ0hSQmpMTlBOOXMzQ3hSRC1BdXNtN0VON0hBUktGWE5Wb1c2Zkx5dVpFZzFuMFVvMG1YVmJRejJkclFRUmlwa0tTX0JDMkZSOVpERVNsbE8tTWlobnpj?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Column: History suggests gold price will drop more, but are new drivers in charge? - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFY3QXowSkJ5d1NsdHhsTmhNODdJX2cxU1c3WmRXcTY4TkEwQVlVSHM2TGVub3FIOVp3Uk1UYmhFZkR6bnB5WVljeGc5UTdmSUxFTHV0dzF1NWtzeWk5TFBCZzBpakJUcmJzb3JtMDc1ZjhvelJlOTdUVU9NTjdhOWpJbk1HQ2RBeXVsZlowUGxFMVNjbjJhN2QyWDBjWWIzbEkzcWl4V2hRdEk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Can Copper Still Rally After Reaching a Long-Term Target? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjJIdVNTelRtZEd4ek9ZODFtR0lHdFhoN3JCajExUjZibmFRRkJnTEtPY3Bkb1RyMU9YVl9ZcFJhbW1Jek1KemhLRklaQ2FqTVR6QkRpdGVlZkdjWjdjM2lzX0NWN1VrVUJWWmNwbV9WTE1BS29wVjJlLTc4UmhIV1VSN21RQzVhQ3BlVHo1cmZHRHRtQ0JOVE5oUHFKZjZXdzVYeQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "CMOC Congo Copper Mine Offers Bonuses, Threats to Stop Strike - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTFzVzkzUGRsQzBKaUo4allyMnlpMC1DQXVPLW9tRGY4eXE0dlJMeHEwbXpLX1dRaHdFMGpNaGZDMjZodENXWDV5VDdseGE5VHE0c3RqcnNkWXJxNm9xaUM2THRRMmo4em94WDhGU3pWWFpQbHFObTM3OVJDRV9yYXlwRGlkUldpNUZsNjROWk0tczdWeDF4WktkWDZyV2R6c0JvTkVSYXFhMWxFYi1oaQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "'The U.S. is attracting all the copper and rising the price for copper worldwide': Pradier - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlMtT0FvZFdyd3dmTzFJOFpEUlhHeWZOZFVITlZoTGtLUzdpdUc4YlJzU3A3NzhyRzFNTEJmVF96MTRQWEFpa0xGR2dNZmZfY0ZSNEVFXzhKRXJHcmhpUXVVcFR6eU90d21KYnA5LXU4U19NYjF0VWJ3d3ZKWmx6TUdLVUJyMEtxWWRTZ0hFYmdqQktrS2ljVDh6WEI2T3k2eFZDcjgxTnBmQlhVekFXZkxpVW9UVU44TDg1N2o2eV9kc1pXaF84WVNjV1pQa280RU5oZFhFWWpZTzNPd09Z?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "CMOC Congo copper mine offers bonuses, threats to stop strike - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGNEbHRDdWVVT2xkNElfUGpfN3BCRnBLOXRFdUlhUC10b0ozbmh5dVdTcDJTcGwwelU1OHhKNXZlYkJKSW84Yk5HTmFOeVVGR3oxZ3BtY3pfX1l4RUFHTnV6YXRnLWk0Y282TkdZNmtaLXkwSS1uVEFmOHFJc2pFUnpxUzQzalJUc2ZoQm83Q3dhUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Top iron ore miners seek Canberra\u2019s help in price fight with China - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHJITmNOcmtScXEtNERaSWZNMV8wZ21BT1lOanhiM3RrMTV2N2JadG9IMDFvUmU2U0NNWS1kZ25mMGxUM1V3VnhZT3dHZ0QwUTV1VlpqelE1MEp2RFRPd2o5d3JSS1JIaXdFbFBCdkRidFJfOE5sc3BSLTlOMF9tRUthSm94dDJVREJkQzJidXA3cWZFX0JLTQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Mining Explorer Discovers Polymetallic Gold-Silver-Copper in Dominican Republic - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHdkOVNlSVozeXdSSUhmdzZqWUV4Wm1VdFg5dnBrcVpUSng3alRvdWhlUFhQR01MMzdLRWMxaEtveDkyZVJwUEY5MkpCSmg2NlV0cTU0SlNNd3NTMkFDbk5HTnRWNHpLY0hRRjZZMmU2VlpzQXNibDRpQnVPTWlWSTh2bXhWdklFNUNkS3FMWWk2LXVsRVo1ZUd2c3gwNGtrYnYzc3g4cFJfVE9fLUhnYXVNSGJ4OWszaThtMENlem52anFqMlBTUWhVc1JFYUJTTXE0?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Northern Cape copper drilling provides clear scale-up path - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWZUSmt5Ql94RlhOdU11bHNhaEhHTF9rcjNhcTdQdWh2aTZzUkxfd0RBSmNsV3lra3R4MkR2eFQzMkw0d2tUX1hlMmdhNFZGSm5TMWhRQWUtWUViUnh0ZUNhOXVEUVFwaDUzRDdoSmVESGNnd0lqZnZtX1NMS0ZEMnN3MzZTNW9rNWpud1dVXzh1U3MwVEhxV3BiOVlLNTlMMmtZaEZReVNuQQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Exploration Budgets Hit 12-Year High, But a Thinning Pipeline Signals Supply Risk - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd2VBYzJ5SW1VUzhkVWNnam1fQnotUUZsOHlmdl9mMEpnTW53VjhSUVcxT1hIQVdicTFXZHJrUDlNbW1WZ2JmTnhBUjNQZGdYQkczZkx6Ym9SbkdwN2FyTU0zY1R0OFdPODZqcWNneHRNN05MOGJjTDJoMmtmVFNBR25JX09JSU84TXhpNG5pZTE2SkxHZEEzZFFraGxyamY0eTZJcG1LXzJ4VkJzclVGN3A4RDZ5bGtuOF84VklScDQ3cXlEVVJ1dUJoejRJQnYxeFFjUEVXdnY0MDZnbGxSM2J2T0JNbVRmRlFaa1J3eHNJeF81a1RlOG9n?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            },
+            {
+                "title": "Is Agnico Eagle Mines Limited (AEM) among the Best Silver and Copper Stocks to Buy for the EV Transition? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSThPRktNd2VwSlRmdzcwMHBCYUc3ZWF4QVZnOTBtWGNWT3k4RkNvS1IxeTBWMnFxanBmWTdUcFFLM1VOUjE4NnVXM0tLM051QXRQUEJjdHU5MG1KaXdTbk5RNFcta25WLXN0bnpIeVdlcWlyT2FuRkpWWU5HdDdQdHFERmdVNklWM2xhM3dGTEpZSktPQWNoUmNXMHdkOC11ZWc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Abu Dhabi\u2019s IRH Turns Down Zambian Copper Concentrate Waiver - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEg3TUxuU0dmYkNuR2p1N2F4VFdmelV5UTREZmhoTU05WWVvSE4wMlhvMWRFUTU5ZU5jVlpyc0xVM2taQW9XbUJHbEZrRVUtV0tOX3pwVzhkTHJNT2ZMZTg0ejVVRmZUWTVoWEFRNHhQeXBrZ2t1a2NtSjRSb0dwU2NfNjNUVXR5V2VpT2s1aW8wQmdhOFJ4cThLWE90MzQzaUtnVUhKV2JnaC1ZTnBMRA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Portfolio Diversification \u2013 Why Copper, Why Now? - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanc5UDA1NHlJRkw3OTBvd1FWSzlwYlktbGFKeVh4OUNsNFNwZHF6R0ZiQWktNDVMMjVJV2M3OXBSZEhKWFVuVXg3SmpWbnhncFdyZGViU2QzUkRveVFQVWJSeGVqb2d4Nk9pX2x0WWtEMWMweG9mS0l2SGU3S0hPU2NaLU5rZVFSS29JaVJ0Y2RfellXM2Nj?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Exclusive: Chile's Codelco copper giant names Jorge Gomez as new CEO - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlBXNGdKWDVncVVYeG5VdVMybGQxRTFPSUw1SW1DUGtWZTBXajU5UnA3UFNHMnp6LWViVWtiYWpCQmY5WWN4UmphTzgyV1ZlWlI4UHZXTkRrNFdJa1dPaXBTRmxhWmVZd1VZRDBQTTJ3ZldEZjFScFpkLTlBb2pFWnFwZ01ZRjNXMGZCLW5xWlJDcHVjYUowdG9mdWtya1pzR0pSVC13?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "China picks state firm to help coordinate mining deals abroad - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjRhOHZEUVFTR0x3Z1VBTkpCM0dsSDVNS0RFV1ZxenIwbGhZakpEd1UyaFVHME1uY2xHTE5mVUFUZzJIVno3RWktekR6OUNvNXNTVkhRaTA5dDlHTmRMNzhWMnBKNlJEcWIxWWdmSlFRcURONUZVVnB4TXdQTFVGUjNvNW84SFgyenMwY2NJaEZYRzA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
