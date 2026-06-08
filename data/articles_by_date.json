@@ -14355,5 +14355,24 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-08": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 2,
+        "articles": [
+            {
+                "title": "BHP, Microsoft working to extract more copper - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHE0NzBZNTY5RWM4Z0Jhb3hrTmZfNmx3eDBYa0pwdDVlMU5UWWdTMFNxZy12d3BlcGpuZ2lJTUxySi1FWVRnRWw5ZE1VdWVHWVgxNWlDSElTckl1d2dTVkdkM1JYOGZpZTNfcHFOWmxQWjhmV25XOFNoMzlnUnN2NFVMbjBkZjVMVTFNWjdYZmFhLWU1Sk1Z?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Rebounds From Friday Slump on China-Buying and US Flows - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0p3NXR1TnJwMng1d1RHbDU2X0dZYU13TXpYMUhwYldjaE4tRVZpdXV4cVhKZXg2UjRycEJTVHZCaXp5QUJ5YWU2bDkzcHdwTktxTXFZTVVscmJKMklxaHVWeWNYa3BuNDQ0blg4QU5tY2VsRUFXN0tSVFMwdnZ5bWI3dHpOWXdrRkIxemZ6S2hpOElkdTZRdUZ2ckNaNmp4bE1CSG5JQU9mM3FQd3BMZFdIdw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }
