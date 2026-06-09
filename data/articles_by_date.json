@@ -14374,5 +14374,84 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-06-09": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "PolarX reports more \u2018hyper grade\u2019 copper at Caribou Dome - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHBLbHhUanJlZ3QwcjdRQ051aWFJQzQ3ZWgtYWJ5bHBVWmxmS3NBQy1QV3F1SWx4ZGJ5VmlMU2FVX0l1Wno3WjA3eXY2WktDc0VzWHNIT05ZZDEyb3pLcEtPQUJCYzdGX2ZDQ2lFSUZXRVF4azE5WDdHVmhFMXhpdHBlMA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "A child's tooth and mysterious green stones expose a 5,500-year-old secret hidden in a mountain cave - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdkhLR05yVVBXRU1OMU51MmZ4aWlwNU9RUEpoX0YzQjZwOTZNY284RFVfcl9jMl9ORjJOLXVXZVpHdUVqaEg3Rjd5Ml9FaXlJSURoOHJGbG1hak9HWFdGa1AtZjJ3YlI5TjhOU0hmNlduLXBrR0h5c1ZWQm5lcVhUSW8yVnFLejdkSUxoQUhXMnltYTdvZ3NxYWNjbXdZZjFOaElDLUpnTTg1TE1Wb3BsQk1WWnVfUVJuMmo1aG52anRFWFdMcjFpSVY5U0JCWUdTb2gtSktZYm4yWnpHWXpfdjVlZGhNM2N4Rl9MNjFXaTV5TnM3dzZQWDNPWWNXR0otU2hDRWdXdzMtZUFj0gGSAkFVX3lxTFBsR3dzZWlacnprTk5YNlRSR0xOUi05MnFhYTV3M2FUNmdoQnh5S0syeHFqVU1Ia1VOeDdpMWtMUlNWbHZ3SmNQcUZLYjRlZFljeVZOUFNOT2szNG04UFRlVlA2OFlZekc0Rk1GSEJLMWk0eVo1UncyaUZaSmMweTFtN3NUazVCM1p3UEhEZllQTlJJbERPSm1oa3ByZXMzRzJzNUtzTVZfSjU0QTBTM1F0Y1ZYUk5HZlQ3MDVTNVpwRGdFNlA2S3VLTW1YVHNUbUt2TThoMWtHUmdSaGVyUmhWNzRZUklXV1AxODl5YWRMeFF5YVdFa0Vfa3llMG80R1M2WS1QX0xQNXFxMDJjNWVDeXc?oc=5",
+                "source": "The Times of India",
+                "is_premium": false
+            },
+            {
+                "title": "PolarX hits more \u2018hyper grade\u2019 copper in Alaska - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZGlTZlU3amV1OW9jM0RFZGxtV2VLZldTOGZCNDJmOEZHbWIwcG1OVE0teXpmYV9FWnhmMWNIUFh4d1ZpazczQ1Z4emxFTmc2MkxqMG5GRUJ6bHQ4VjczS3dGUklEVWkwdXNPV2Zlem4xR2dXZk0xUU5KVlFoREd2cVJLeHVQTkhwbFNlTjBSbGpnUkZYYW9lV1d6dFBHZVlKcEkyVkhCZ0Vpcl9nYVJxOXY3VGVCX2dsVVppMk9UNlFkREhPVEhkTi03ektjLVBBajc4RlRpaGNnTHctLTdhUDZzczVtOFRsSjUxRVNmTHhQSUFxLUZiM2NkbC13blJWS051cnV30gGLAkFVX3lxTE1oS0lzZTlYLVZUa2hPNnZhbGh6MjJOODVvSmNKQ2trVkhDbVNoekloN0w1cjd2NHp5enVSZVZ3bnZGUU13cFRkLUNBeDFmRUx4NDd5VEluc3lUeFRkZ3N5SWhJbjRvV2Z0VWhvMGRtTEdQSHBFMXpEMHpMM3VqOU80cUkxandhWEZsYTE1OFdsa0VqZFdRSmhKTUNORG55OG94TTFTRkdUdTVHVjF2ekN5UVpoOXBFaDZoa21PSFB6clNBb0lWUUw2TTgyeEUxR1V0bEhRcFV5WlpjbnZoN1h0SmtaVFpDOU51TlF4OUVnczRZWmxZZG1pWTFFSXFna3oyWjF5Zm9EMVJZYw?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Mining: Project Execution Speed and Capital Access Explained - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnZQRzNKYjNjek5LN1lBTTlZWThVR3JBSm43amRVb0FOZm44YlUwamJtOXRFeXBTSnRONHNxZWdPdmw3RzV4Tl9Qc3IwUUt0bllBQ3E3MkRMMDRQM0pDUmNRZU9YdGhiOThCV2I1cFpweGVwTGFYRHFuN0NobWJCZzI0Rm1oM0p2SVRuYmxzd2JLXzBjQjdWMjNpSFlKdUk?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta Minerals\u2019 Zald\u00edvar Copper Mine Extension Without Continental Water - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEhTY0g2TEJJcVFXV240RU5IRXFDU003QjZDNmdnUGdzNWxCOEFTcndWR3E2VUpsWU1MT2Z5SlYxM2hubjRtR09mY1Y1WmRaRVFrM0wyVFpyQnRBbzYwb0pZNG5UVEM1Vzd3TVV2SmJueWNlNXJVVnZYQTJSUWFrSjlFTE5LZ1RuejlaRWVxM2lJQQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Marimaca extends bornite zone, shares jump - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDlad0todWszLWkwMUFKbElNSHI3WC1aYjdfQkhodThDYy1rMVNmUk53UTczMmJJWUs1ZFVOLXFocGtwWGlwTERHY3V5cG5NcG1JYzQzSVI3ZmVsZXhwZ3dDRERSZXpOWWVxOGRvcWFLUjUzdzZ5MnJrakRmdEx1XzRkMXZCd2dfU0d3aDlPZUl2UQ?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta to spend $900M extending Zald\u00edvar mine to 2051 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmItcmY5ZDQtZk9hWGkwX1JSYjZjVldfYkQzS3NwdGlVM2dQM0pTenlrTnMyUFNlcEVhWFFXLVdnVEdqSGg2S0JONU5pU0hYYWxIWjhjSzM1MEpUbng1N0hQS3M1Mk43VTQ0WmplaFk5TU0xUmVrSnVlX282MXRMVkNPZnBmRHNr?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Eldorado\u2019s McIlvenna Bay starts copper concentrate output - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjk3MmcwZ2c5dXdjX0tRTVhoZVEtUS1KdWlER3ZYNW10bl9uV2hqRno2V0NkUm5CWmhXUjVYcTUzVGVuOXFyWjJVUEJ2TFRTWnV5NDdnLTlaRlZLbFp2QjRwOVRfRmlqS29UVjVsTVo0ZG9lQUM1cGJ6ZkFWcFc3VUwzUnc2NlU?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "The AI Boom Runs on Copper, Yet Its Latest Record Hides a Warning - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDl0YkxVZGVNdTBZek9ZeFpIcFh5WlBQU200amZwSThFcXJuRkNMZ3R5UjVCYVJkVXZJX2ttbUZGNHFFMDcwemhTbFlpaVNRNWxMa2xhSW1lTWlwNUdOMk14NDRkb29zdUUwVjZBRUhSOXkxdkFjQU5YZVo3ZHNfY21pNXBWbW5EZ3hkWV93TGFRM3dHY09naw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "US copper build-up intensifies on tariff risk: Hotter Commodities - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFNDWFlUWXkxQ1VPTDg4T0wwTWJUNzdfbno2SFBVNjV1TEFyTk11SEJjQUw1TnpmRHBvLXpRODdFNjFkeWJ5bXFGeUUyTWtJVDdUTlZnMEM4TGhxcnNhS2JnTnd4RTlFMnR1N0otVkU5NEtYTnpGeHNjT0JubmwxQ0dPalY4YUduUTFHVEVJejVEQzU0Z1JUUTlfRmtpcE40UmI3cg?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Sandvik to supply equipment for Khoemacau Copper Mine in Botswana - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDlnT1U0NkVrSGJCcXkxbXAyalBKZ3ZPRjFYZ1BNdV95VXVySnBDUE4yaUdILWJXZ3FTOFlsZkFNLU9Kc2NfSFA1UkRaVVNmaVh3SzB0X0MwVy0xZktLbzJhSFhBd1NnMWtRVjFxNEJIWmd4eXNOOVppaFVXSmVld1VfN3k4ZkZuRkwwNDJxTzB3dkN2Z0JhUzNVZGp2QXBWZXlJeTIzQ0VKeWpUR3NMVg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "UMR notes progress at Namibia copper project, despite delay in concluding legal documents - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWpsMi1YM2VzYjNpQ0RiclJTM3lGS1NGR0JuYmFyX200XzhkQk81a3R1ZE9WTlN1WHc1YnRPM2JrT1B5SV9aYkFNcXZtendUTTN6Z1BPRHZsUG9ld1hsNWRET0E0dE1xUEVLSnlYRE82UnpuRnVtbmlpSjB2NjV5NjdKNXNtazNaT2xSV1MxSEFhRGNWRnJfVkxZWDBXcDM1QUN4dm4tdWdWaHRITGZnNDh1eU9aQzNqZU5pWU5KYloyVkkwNmVpQUNieVJXYjlfeGc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
