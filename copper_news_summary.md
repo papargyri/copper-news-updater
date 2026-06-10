@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-10 09:51)
+
+- **[Copper slips as macro concerns outweigh US tariff fears - Reuters](https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1Nodk1IRDduSFhtZ2FfVmFLTVJSczJUc2F5bDA4bGpSd0xXTk1IVmdmWUFQeXRPNk5nbkpCWjBUa0VueVB5VVdDOUN6WjFpRU1EeWhQTWliTlVob0g0ekR2T0dsd3VZczFDMFBOaUdFOWR6ckdwYWVUZ1o3WThnelBnenFRdFRnYTA4YkZLOXFzYjMwaE5mZ3pCdmpwUTB5dWY4?oc=5)**
+  - *Source: Reuters | Date: 2026-06-10 04:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-08 10:45)
 
 - **[Copper Rebounds From Friday Slump on China-Buying and US Flows - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0p3NXR1TnJwMng1d1RHbDU2X0dZYU13TXpYMUhwYldjaE4tRVZpdXV4cVhKZXg2UjRycEJTVHZCaXp5QUJ5YWU2bDkzcHdwTktxTXFZTVVscmJKMklxaHVWeWNYa3BuNDQ0blg4QU5tY2VsRUFXN0tSVFMwdnZ5bWI3dHpOWXdrRkIxemZ6S2hpOElkdTZRdUZ2ckNaNmp4bE1CSG5JQU9mM3FQd3BMZFdIdw?oc=5)**

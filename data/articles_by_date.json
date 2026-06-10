@@ -14453,5 +14453,84 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-10": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "Copper edges down as macro concerns weigh on tariff support - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDYtQ0xrdU1Lem5XaUJZWDV1NS1rTzEyemRyZWdxRWNHMEpIMHh6UEtKSmhoMHJIWG1Xak9LYkh3VTNBLTNQN3R1dTlEVXp1MjdUY25zMjIxNkJOTkw0YmpaTTFXaWJTS2RJME1MVUxPQXVHdVRqd3VrUGtYYkhuZGdnN1FpU2R6bUFaZVpxYnd0Rl9vV01FLUl3Nlkxd0JOX0tjVG5uZTNlUUQ4bHpSMlBOZkJFbGw1UWdxVkJCa1dmenVLMk5HVkIybFVjWFF3WVE0?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Copper slips as macro concerns outweigh US tariff fears - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1Nodk1IRDduSFhtZ2FfVmFLTVJSczJUc2F5bDA4bGpSd0xXTk1IVmdmWUFQeXRPNk5nbkpCWjBUa0VueVB5VVdDOUN6WjFpRU1EeWhQTWliTlVob0g0ekR2T0dsd3VZczFDMFBOaUdFOWR6ckdwYWVUZ1o3WThnelBnenFRdFRnYTA4YkZLOXFzYjMwaE5mZ3pCdmpwUTB5dWY4?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "PolarX drills 3m of 11% copper in Alaska - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaGt1Wm1fRlhfZUpuejR6TUhBUDV5SG9GQzVpRWRaRDNsSmthZTllY2tNclFWb05YMTR5V2xmdHFSMnhaci1TT05PTUFSNFJYNTJaVnZ2eWl1dWQ0U2N3SjFMajV2WGo3eUQzUFh5WnRuRjIwN1pSZlJhYXRGLXZuQUhHWUYtd1RHVkJMeENsc203YjZFR2I2Wi1FWDdZSlJRZjRGaWI0SmVsT0pTRkxaVWdGbXhOVTJLTVU0?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Triple Flag: Record Q1, Copper Acquisition, And Insider Buying Are Bullish Signs - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmttenBSNS05N3NMTDJNbmNaNU1mWTNnekZVMkphSFJmMktadTVlVlBqRzdPQXBNdE1uZ2haN3FEV3dkZVhJY2FJRExMeFk2eWJJS2hxWEk2aTEyVUdUNWswcGtOMkozZmJvLXdxTDVaMGFQblFrLVJKZFM3WFI5alo3NWpxd0ZqTG9sVndyYTlPNkIyRlowcDZsd3pFQU5KMVVqOEhES0xjUnloME5QTDVSNWFLVE12Y1E?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "How The Southern Copper (SCCO) Investment Story Is Evolving As The Analyst Narrative Holds Steady - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG1WbUhKcGs4WWNPS2VTcERyUTVuMklXY2JaT0p6d3dOMG95UU9OemtmMDMxXzJFTGZ0S1hjeThXX2hlTTZqYVZ0X0h0Mml1dlkxZnN4eEdmQmZLR19vU3k5d2E0Y2RKaFJIZkdVRnFpVTFpYkZ6TGpYSENPNk9vRl9hS2x5cGF1QWo4SEVPM25BVUw1b3JTTVFTRFI3MWpZeUEtZw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Video | Copper demand in an electrifying and digitising world - Wood Mackenzie",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWx3SHpUTjZJSmFxdU0tSmpEb3FpNmFNemstQnhoaS1GR1NsNE9sengtVjY0bXllYUZBUVRPSWF0dk53Y3hhc3lOUkEzZHlZV0ZyVXBCVmh5b1EzQ2lWcTR0WEk0Q1FOd2Q0SU12MkMwRXZvVUNvVUlUZi1ROWppcU1sYVIyaXFMVk1QZjBFb0RFbFR4T2ZGcFVxeHpFYms?oc=5",
+                "source": "Wood Mackenzie",
+                "is_premium": false
+            },
+            {
+                "title": "Is It Time To Rethink Southern Copper (SCCO) After Its 87% One Year Surge? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUk5mOFpYaWVwZUlxVnFoSUlEYngwbVBZT1MxUVMxSURWWi1CdHB6Umo2MEI0X242MnJvSlctWUtJNEFJUUNYT2I3OW9Wdjc4VHo3YmlidjBDaDJRQVN5R1hqZGs2cFZRcHJPQW0wRk9icktfVkdWTnhRbm5vOGRlaDhNX25Ha0ZGNFZTRERFbGZ2RW1xMFAzM25nRWNQY2M?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Why Copper Wins as an Investment for Retail Investors in 2026 - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGxXQmpseU1ob01GVERzVDg1akdLbWJMSmpOYzd6bEgzSkwyejZpS2NQQ0tkaGhWV09TZ2hoNXhGVjFKVFY3TGx4cXhzZ3N1OUM4ODU5aE1UNXpNQlQ0Y0ttdVU5dVRMOS1aVlNrU1VmRWNfV05vTS1hdFN1QnpzbkJUUGtmTVMzTnV1VXo5TTU2Z3J6d19XckpLOEF5c1N3V2JCVVRPSGYwNGVCN3dPZlYyQUMtSjlhclQw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One Resources Positions for Growth Amid Rising Copper Demand & Strategic Acquisitions - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHNseTVORG9ucnZabXBFbEY4Q1hrR1pWcnF0dGN4R1A1M0NuR1VVR05KZENOTTFGYWR5V05OWndyUkQ1bmI5bng2U2VDSUVoaTI3U0YxSTVkVHozalVMbjBvZXlSWTFlM29ZVzZqUzF6bW5MOHZ6a3FBMDUyRk9LVnU1aEhIYk9PYWFwRHlHZFdnUUZ3Ny1PWkQ3ZzR1U0V1WF95UXBwd2FSdm5lbVBVY0FTX1RLZlpaVEFLZGVzQS1GRnRNQ2dUQzZxak9oSko2YnhYNXpfSlppVEVPUzMxODBuQWVkYkk?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Explorer Expands British Columbia Footprint With 100% Property Acquisition - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbzNBS0c3cGQ1ZC03YnRTc2thSHFpWFVJM2l4c0JwYW9OTldRSnZvSXB6V0FvMm1SWl80aHFHby1lRkRKc1N3Y2EyMDFaVkxpMUxNNVREcUdycUxvMWt6OEFoUmxlRVI0NngzUTdxTWJ6ZHB1NU51S1p3WEtUZDFTY0p6RWhyRGkwWjc2X2ZNMExvRzktWlVEcWZ6UHhrU2pQc0M2UHg1UDdXX0p2UmR3VkRXckhJZGZ3WlNjXzNWTERrQnp4M2JZNTI4c3VHMG9oeURJUw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "3 Multi-Metal Stocks for Income and Long-Term Growth - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU91TWxOTUhubDVHX0tVY3Z3bC0zVDlTTEE5aGdEeEdXUC1GZlNxd1FwTHE0UDhhRjRWVDdlRXVobmc5Wk51SURnd3NWVzVPUkhPRFR6aW9STGZzZ3RRSHAyN2NTQ0RKVm9rRDdtbFN2ei15NVV5d01sXzZGVmVqbjB4dGZmbnhyQUFfVnFYMk50WXNmeUhNNkhmRkVtUQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Broadcom Sneezed and COPJ Investors Lost 11% In A Day And Learned That Copper\u2019s AI Story Has a Pause Button - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUTdwT1BWNFNobU1WOWxFT0o5NkEyNU8zaHVXd2JrdWIyYVpOVUVHZHlWdmd3dFlmZTljRUp4M1p6dHc2NU9xQW1VanZmQVVhUlJUNmVrdkpoTnppWHcxVUFTd3hYVmZ6SnAybmVDVzlJVGJpQS1iQjg5Y0gwQzFINUVpNXJfOHBxUnRCMFY5czdSbjhwV3U1d2IxOFVGTTNMMTFz?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
