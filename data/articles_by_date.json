@@ -14532,5 +14532,126 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-11": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 19,
+        "articles": [
+            {
+                "title": "Troilus hosts Qu\u00e9bec officials at near-term copper mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzZxZUUxNHFnM0tjU0hIejVvNF90eWU5Uk9ZQzB0NVJWYlc1eE1KazlpZ1ZNYUctYTdTVTVmeExHS1EtbFRDYlplLWtiWkE0V2lVUVFuV2h3Njk1ZmhSRlM0ZTZ4Zk81M2tVajlmT29oS3lBaWpRcWpPOEFyZldYY01FaG5WeW9RWWZlNXowc1VtcUdiUzhIWjgzTmZzYVczS2pqVQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper deficit could unlock smaller African deposits - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0plcmlxdE1BbjZ2QWV6SUQ3Qzc4b2pqa3doLVkyZmNpamF3QVZhYXZTLW5qQWNERkFWc1Z4MThmVkktVUs5WVpHazZNUzJoeTRnNDZhaWhOMEhXbGhSOG9wbWhoRDVIMkszVXZaLUJTNXFYUTQwWWhVZzJKS0dZR1lQVHE5R1hUZ3JobVpuaWFJWm5IRkhORnpXWDlTUkRwaHc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Africa's largest copper mining complex launches Europe-bound trade route with first Lobito Corridor shipment - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMlZLU1JNQjVsOXJPbGpmdVh2SGJwV3BuMGFSejVSTU1EM2I0ak1LVVJMQnZfSU83ZjBqNUFvQVJ0b3RVWE0tTWFzNHh3S3BVeEd5eGNIWDhqZjBIaFJmODY3ZWZyMkJYeThTRmNzTUVkZlUtdXNkV0ZmVFZoR2ZLLW9HcTlfdFhrdGNKb25ZdVRmZnFLckhHOWJMWmREelk5SFU2aHhWUno5UmVFM2VVY0pUWnhXUVFYM0xPaG9zY1ZCSVNwNkQtYzhaNFJkRHVfTTA1SEp3?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Nvidia takes PCB material competition upstream as HVLP4 copper foil gap widens - digitimes",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGsySkZENl95X1hWVVJsa2F0cmpucWVTWFdaN29jSWFaOUV6eVNIRUtsMUVnNlBkTThVN1JUX0tkejRCSlp6SUhIUTF6MzliemtwcGxMa1FIXzZFY1kzWFdSMGxKQjZQeHF3S28zems0Rno1a21YVFlqZ0RfaVRtN3RRcllpeHhma2wtQVR0TEltOUlCZWFjV3QwTVhVQQ?oc=5",
+                "source": "digitimes",
+                "is_premium": false
+            },
+            {
+                "title": "Revolver rides copper\u2019s supply squeeze toward production - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkdySWFGVFlqRkYxMTVYbjZuclNMT204WUdhamVmajBYdy13LVVxQ1lXN3RyeHN6YW9uS1duZHZLTEdQS0d2aTRMYlJSU09DWnBFTlBnenhsaV9WXzZwdXJDUlptZWxZUXVTbEVlTnpHSTV0dEJnbmdsME1RVlJkR0NiNFo?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Iran war tightens \u2018super-squeeze\u2019 in metals markets - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnNpSFhkZi15Z0ZiMndxbUcyWnVRZXpacTBRZ2ZLNmNqOUJQVDg0TVN6d3dpNko5N3ZTNnVhcVU2REFKREJIMnZSc0t5NDFhelhKMUdCVGlLMnBPNVJaZGg2UnZwRlpjS2R6WDE5UVBaUmRPOTZ3aG9OcDBJUnhBS0czN1g?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "From junior explorer to US copper leader: Faraday\u2019s district-scale vision - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWg0RndBSG5LbmFfWVVDa0daZmxzVHNCSmxRWTlSMzBiVzdHZkRVc2JHZ3RhWkNhSDQ2aU9SY2EyREQtd3lGZm9tYy1Qd3F4RTZMZFIzYjRud1VsWFFrZEM1WlJyaGJoalZSMlNPcTlZLWdfWWdYYjFmZDVXMWlXYndBVjE5T0V1Zk5wTmdCRWRaZXNfeW50UnpR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Golden Mile Fast-Tracks Sampling at Leviathan Copper-Molybdenum Project in Arizona - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTEJraFl1dWpXZGRwY1NOZnhlQ09nbElHOXFyUHpXSkNnNWprQzhtbFNfcHQ1bzZLbG83d19ZRzl1UjRjSDV2bmVmYk12Z3NpRXB2MFo5d2oyTlB6cHhYODM1T2s3NUlEYk80Qjg5T0xaeE5rbEM2Z2JacmdJWmJVd09JeXNPSjVzQWhxQ1R5cVRzTjdvdWprZ3Fja3I0TlhzeHF1MW5Nd1BxYnNXMk5NclAzNnpxOEFDc1pROUcxVHVaOFZOSXM3MGx5ekh3SVI3X3Z6V3RJNGlteTYyMTkzUEd5S3BGMDNLV09WQmxkR1V2UU0tSlE?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnR1NV9WNWEtV1M5dTBjZDRBTW1EOUt2aUdldHpweDF5U2lTRHg1b0VGbFB2eXpwUkpETXlrOEFfWGsxcXZ4REl3Vk4yTnhNNWo2OWxqRHVLUDJMVnNhcmg4QTU3Nm5xSGZpaXZKSmt4OW1lZUluY2RCckE1Tlcxalo2dkNWa3hCM0Z3WDZxME1FTEZpX2RqQmtJTEpoUmJRTmdJRA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Understanding US Copper Tariffs and the Domestic Price Premium in 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1ByVEZnUVdpY19aLTA3bG9uM3ctTkhmZTNkRVRyeF9NLWtBNVowYUU2SktNd2diMG9iX0pYeXZyaGhlampxQ1pGZ3VDU2txUXJKNGh3VFhtcG5Ed2JsaXFKOVMtdmZ2RFV6ZGp1R19ud3JTWXFVc0lzOC1ZTzJzakJMT1RRYjZXSnMySFJmZ3oxdEU?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "China's imports of major commodities show price remains key driver - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnFfckNXcWNYaXBqQVNraHlTdzJucHRlM3p1bWhzSElsWXMwMUJ5MjBsX0UzYjdoZGN5SVdwSzhTeXc1eHZ0Z0hBWHBiM3RKeFBxZlNyTUNUVmxEY0VFUjNtWi02bXdTbkFXQno4QlBSOGs2dUYtVTY4bjM4bzU4WEdIS01yUXZEaXhhT1BmQ293dTlTdmpxZE1RNDBtRURacHFPQ0pSblVfUGdUcTFmRWFvVGptUC0zakNvOW0xbWpHNGplQUlTMEx2TQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Central Asia Metals\u2019 copper-zinc production outpaces last year - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0lZTTI3ZnQ4ZHdsU0pJd0VrLTJOU1ZoSGxIaVl2ME9iU2hGdm5xYXBZNnpXQnJvVE9hQ0o1RVNWekt1OTRhVTJuU294anp3ckZLOENWYlNKSHJBcUV3S29USTZWZnlGNDNQZDZEc3p1dkF4V1JIWi1DN1hUWDdudnlaTlZ5WkluM2FIQ0NR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile copper mines pursue tie-up to cut costs - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqcE1xNGlWTk01S0hHaGpLOHhfT2F2TEFaZ0p4bnlILWt0SkFqamNvelJ5ZmlkcFZOb2NaT09pSlVXVzAwMGtpWGNUZjM5cmhVYUZFbWVzNU9KT21fYXlZX1ZsbE15Nng4alZ4cjNvb0dMUzZLcEprRQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "White Cliff advances historic Nunavut copper district - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdW9fWFBzTlJqUGttMFNZWnowWnRHLTlGTUhhRkZoUmlvamF4N2tyMDR5YURWMDdXMmQzaXRHdGVEenk5Z3Y5S1MtcmU2S1JsY1J4TXF2MG8xd2FWZHF4aVNGd1VjN3g3SF9JZWR6Y1gtUWlUb3ItdzFBMEdGZmlLSHFMQXBOR2V1MWRLYjFfbzhBNFdiNExlQXdkTmVaZw?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper sees resource growth potential in Brazil - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTVuenB3LVVtLVh3UHBkNFU1UWI3dDlXaER1UmdoQnllMGRFZndRVTBHdnk4SFhEN2VxajVpa1pQc0p3LWE3RExHNzdGQVBIMFJjOTdURF9xTzEta1F0bHRpZUtKSjJCLThaYWc3VXEyM3FMT0otandTdDAzYWk3Wg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Yerington copper mine, Lyon County's largest underground site, to reopen - Northern Nevada Business Weekly",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa1NKZ1pEWEtTa2stWkJZSi1aNHIxZi02VFFBMEIzXzdjUXlKdEo1TUFIUGNKbkpUZlkwc2dlQnF5VlRDanBLZ0tkdVlEUXhHOGEtSWR5aHpsRmJVR0wwTnluVFh5ZjR5RXhmMEY3N0dKMk4xMUhUVUl0LVN3R0NId0NYSFpPUmN1WmkwaVViOGJvdTQ?oc=5",
+                "source": "Northern Nevada Business Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Weir's Warman wins high-altitude China copper deal - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazE2UnJBcmE2WGZNTkFxc2h0UkNPWllCTVp5TG51cXpLYkR4Tkw2bm1uc2FqUVVGWWcwekNGSkFHR1cyUU02X0pKOURjcmxqQmduMWRWMmRfTEVPdElHaXJ2UzZ3SlQ2eTc1eU5Xek14TE80YWVmT24wWU1ZLVliYTJJOWZTMmN6UE5rME5qVEMxcGVLeTNMUjM1R1MzRE5tOVQzanNRWklxcUg5?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "A Look At Southern Copper (SCCO) Valuation After Record Earnings And Higher Production Guidance - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFB1SXNkd3Z0UmZTXzFlZ2JLcUdpYkwtUUlVRzZ4cXdzTXRFNHZqLW1tQTI0WjRwUkJOUjZLY1lDS21IcmdTZnlhai1wRmxGS0gzVjJSMF83eklzczhjX2EwaUt2M1I5MWVISUJWZWlZRGJYTC1OOG1ZdDRpc1hrNDQyNzB1SmFfVDFaLUN6YzZjTXpuY0VwcTRma0xweV9hd1E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-Gold Junior Begins Drilling for Source of New Native Copper Discovery - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbU1IdWNDMGc2YjRTNmYzUzVzelZEandiQ2dPT3NhSW1tSzBoX1NKU09vR013RU53RFFFT2k4eTV6NmhpcmJzTTBPQ294VHg0NUhidmJWZ08yQ0FNUkJxcmhrYmIwRlN0aVFHZWdOY0RJeS1WRFpTREI2Vm1DUEpiWnVaRGlYa0FUMF9NOGdBUkE3MVZteHVNdFhRVDl4WnZJeTNBM3FUZWVKZkt2b0VhYUtnUjdwd2ZsbWpJdjJNV3VPNkZkalpEU2YxVWVpZGs?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            }
+        ]
     }
 }

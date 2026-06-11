@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-11 10:16)
+
+- **[Iran war tightens ‘super-squeeze’ in metals markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnNpSFhkZi15Z0ZiMndxbUcyWnVRZXpacTBRZ2ZLNmNqOUJQVDg0TVN6d3dpNko5N3ZTNnVhcVU2REFKREJIMnZSc0t5NDFhelhKMUdCVGlLMnBPNVJaZGg2UnZwRlpjS2R6WDE5UVBaUmRPOTZ3aG9OcDBJUnhBS0czN1g?oc=5)**
+  - *Source: Financial Times | Date: 2026-06-11 04:01*
+- **[China's imports of major commodities show price remains key driver - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnFfckNXcWNYaXBqQVNraHlTdzJucHRlM3p1bWhzSElsWXMwMUJ5MjBsX0UzYjdoZGN5SVdwSzhTeXc1eHZ0Z0hBWHBiM3RKeFBxZlNyTUNUVmxEY0VFUjNtWi02bXdTbkFXQno4QlBSOGs2dUYtVTY4bjM4bzU4WEdIS01yUXZEaXhhT1BmQ293dTlTdmpxZE1RNDBtRURacHFPQ0pSblVfUGdUcTFmRWFvVGptUC0zakNvOW0xbWpHNGplQUlTMEx2TQ?oc=5)**
+  - *Source: Reuters | Date: 2026-06-10 17:31*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-10 09:51)
 
 - **[Copper slips as macro concerns outweigh US tariff fears - Reuters](https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1Nodk1IRDduSFhtZ2FfVmFLTVJSczJUc2F5bDA4bGpSd0xXTk1IVmdmWUFQeXRPNk5nbkpCWjBUa0VueVB5VVdDOUN6WjFpRU1EeWhQTWliTlVob0g0ekR2T0dsd3VZczFDMFBOaUdFOWR6ckdwYWVUZ1o3WThnelBnenFRdFRnYTA4YkZLOXFzYjMwaE5mZ3pCdmpwUTB5dWY4?oc=5)**
