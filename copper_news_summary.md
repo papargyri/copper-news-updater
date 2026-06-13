@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-13 08:52)
+
+- **[TSX adds to weekly gain as peace deal hopes lift copper prices - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWhuVjVscWZseVlva1FaNVdBZ3hkTVlUSmpvMnBtRWpWSUpHd0F1RjZabjRGYXBtOURIWFc0eU5SSVprQVg1Rng4UmhqYkcxYkNOQ0FPNkU2UzVZSUpzdEJRdTBycXNLU0VtNkVPd3IyaDRzZG1oOFZVNTdfQ1Vuc3l3blR3TWNRVDdWb21FUDlRQXhLaHZJVThDMDNGdDI4WXRMOGRPUQ?oc=5)**
+  - *Source: Reuters | Date: 2026-06-12 20:29*
+- **[Copper Rallies From Three-Week Low as Trump Flags Iran Deal - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmVMUnRtSmo0WXJsREp0bDZBeFktSFlxQWFGT3lXSWc5ajNiOElaNGRxV2JBV3VEcktKdW9GQkJJR1lZcVBwNkxKOHJJZXhpOWFKaXlYdE4taGU5OVQ4SnpvZ3F1czRkMzBqUDdzZDFpLV9ROWxleWF2V21yRkctdE9uRmJfZDlic0NsMk5UajFqM2FXMnZuMEN6M1lEbGIxenpJLUlUSm1kaWh6NEdn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-12 11:14*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-11 10:16)
 
 - **[Iran war tightens ‘super-squeeze’ in metals markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnNpSFhkZi15Z0ZiMndxbUcyWnVRZXpacTBRZ2ZLNmNqOUJQVDg0TVN6d3dpNko5N3ZTNnVhcVU2REFKREJIMnZSc0t5NDFhelhKMUdCVGlLMnBPNVJaZGg2UnZwRlpjS2R6WDE5UVBaUmRPOTZ3aG9OcDBJUnhBS0czN1g?oc=5)**

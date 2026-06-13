@@ -14732,5 +14732,72 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-13": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "TSX adds to weekly gain as peace deal hopes lift copper prices - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWhuVjVscWZseVlva1FaNVdBZ3hkTVlUSmpvMnBtRWpWSUpHd0F1RjZabjRGYXBtOURIWFc0eU5SSVprQVg1Rng4UmhqYkcxYkNOQ0FPNkU2UzVZSUpzdEJRdTBycXNLU0VtNkVPd3IyaDRzZG1oOFZVNTdfQ1Vuc3l3blR3TWNRVDdWb21FUDlRQXhLaHZJVThDMDNGdDI4WXRMOGRPUQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Midday Need to Know: SpaceX makes historic debut, Copper rallies & more (SPY:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjVGRTFLcHp1QXljMGpMTlczQnlZaUV3SVdiWmNPUkwyd1YxbVZ5MGR1d29JVjR0WWVodHhVZ29hY2VsVy0zdlhZZFVFckd1RzdLMGlReWNDaGw1WG5kTXFFdlpDNWpid2RCTTFSbms5SnFoQld5ZWRJRFFtMlBSNG1KdXlBaU9vN2NIaFhBaUhqanlMNmZpem9pbzRuTWxLazMwTE9nMUE?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "China copper smelters chase \u2018fool\u2019s gold\u2019 in hunt for more sulphuric acid profits - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNald1bWpBVzB2S2t5Yk1LVFVSbDN1OWhQSHB3S1ZnYkJoLXBLVTZkMXRBb0p5VU9ZeEU5NmVQanBRbGhFZEFoUGE4LVgzWk0ydUdTYXQzY2FfSzlLcGVZR2k3aVRWMWRtSlM5X0lhSWlnVWlnN3FwRF9qZ0kzTVp3X2FWMy1waVB4Tl85amNFY1VFNEhTb1piVTcwLWRkNkdxRmxETkZ6bWZSdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Why the biggest copper production bottlenecks are now operational, not geological - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUk5QzlBczluR1VEcjQ1TVhaSmtEWE1tN255R252c05NRlpPRlEyUGhRVzNLVE1JbE05RXdaWG40NUQwem5UOXNwUGJyQzctUnNVaXJuSDNiRFJKc3pqSkpRTTNpVFpXcFpFdll5X2QzcWZkVVJ2dWdTVWlla2hMQnZNYmppQ1pkWEtPMHZtWi1maDNsSGNtdUJTWllhU3BZQjdlbmVWNHFiRnRxRFBUTXM1NHFKWmNxTUFFY24ybW5YZw?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices and miners rise on potential U.S.-Iran deal that could lift global demand (FCX:NYSE) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMW9oTF8zandYcll2WEhNMEVZbFg3NWVDM2tlVGdYT3g0UmxOUkpJNFhMY3gyUENZX284R1RQcURtdDVpVkxmTlhRYmttZS1nN3A2dnhaRGNRUWNiM0luVE5vVjEweXF1NlJ4cEprUFM1RDBObUs2NUZwbnlLWnNqR3RxbUo0WDZoOF81dHdVc2ZDQzZOSDllbzhPSEJqVE5hZFZPbDY2XzBKNzNTTUhjeloxcm91Y1hsR3d1dkpjV3A?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Rallies From Three-Week Low as Trump Flags Iran Deal - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmVMUnRtSmo0WXJsREp0bDZBeFktSFlxQWFGT3lXSWc5ajNiOElaNGRxV2JBV3VEcktKdW9GQkJJR1lZcVBwNkxKOHJJZXhpOWFKaXlYdE4taGU5OVQ4SnpvZ3F1czRkMzBqUDdzZDFpLV9ROWxleWF2V21yRkctdE9uRmJfZDlic0NsMk5UajFqM2FXMnZuMEN6M1lEbGIxenpJLUlUSm1kaWh6NEdn?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Is Copper Leverage And Policy Support Altering The Investment Case For Freeport-McMoRan (FCX)? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmJETUw2VlM1czBmOU1PMkpDdWpDOEJZUUNjSS04LWVZSlk5aHl2b3l0Z2M4S0daRGJkSEpOc295N2ZTenhPMktuY21ORUNMZTFRTkZEa1VPTENzcHZTcWZOUXA2NHF6N18yUzI4YUFXMjNPbnEzV0taYnZFNWJ4c2c5VHBvYzdlZk94SUlYZ3VfWDJFb1RyTC1JSVNIT0h3TGFnZ0dIRUtmQ2xOYWc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "What\u2019s Next For U.S. Copper Import Tariffs - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS05tWkhZY0ZiNHNjTEVDUkV5NE82aXlycjlKcGFtVlU1XzUtRUljZFdvWWVReDFVZjZYODdXRHZVX00tV2JQRi1lNWJQUHNOLVNaNVF4bXRSakkxMWhWenl4RDRfa094X0tPYmRKNkp0ZjJud2VQc3JfTU1kSXl1cTdnbG43WmhGR0lmTFpXTEVyXzZPdHdmZkUwYjFPZHZQc1dhb0lMUQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices surge as traders weigh prospect of US-Iran deal - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVoxd1BMcDFHVHgtSmV6UWxvVDRLOXZRVk1nc2VlNVl6MlhTV2JnVS1feGNYVXo2ZWtpNUZLWTJHd2xjNW82ay1QSkdCckFLem9CTFltMlRHYzdyaXNMLWxIUDg4OVdWTGJabVpPQ1ZsY20xQjhpem5fdzlzLUE0WkJvR2JMbjJfckZ5MF91QjBCSXlabjdxWlNYdG9ObTZ6ZDNUOXhPdDVPSDZLME11LW01empRZmNBeHBQc29IOC00LTYwNXZvNnozOUJaV2dob3ZZ?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "On Argentina\u2019s side of the Andes, Beijing builds a city for 5,000 miners - Buenos Aires Times",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDRvd1ppN2hJdC1UVC1TakdTQ1Vad0FpRHEyTnpTUnBlaWpkMGFRY1BTQTdmTHUxbFVJcktOOGVXZzRveG1IanoxeHFJODhJekN4Rl9FQXJSVFFtdEgybGlBWGNiaHhaVXNqNjhRVXRHLUhSUnlPVjl6dXpqcWZyVE5XTDVwaGt4M2Q4U2NFMjliT1ZfdUJsVUVJRzZaaWstMHR6VXFBcUpFOW95R1NKc3NWbzVmQdIBuwFBVV95cUxOMXZKclFrbkFsc0RHN2F3bDZpMUpkMEpjYjRDUW9HRkM4QmNEMUF2UHVtcjk0czNJTHBnNk80S05INUlDZ0J1LXk4ektFa3ZiQ0JybU9fMldudHVKckNBbVhZX3ZnVzBLZTBvZktpRjNWcWJYM2hiNHFSeUJEVS00Z0xOZjNNMnNaY1VOUVBsdkVRR3dXbWk2Q2FnSE9fWDRwdDBmYUpzRU1LMWlBeVpDcDl5SXp3ZmFyS0lr?oc=5",
+                "source": "Buenos Aires Times",
+                "is_premium": false
+            }
+        ]
     }
 }
