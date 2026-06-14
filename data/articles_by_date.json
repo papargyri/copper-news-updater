@@ -14799,5 +14799,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-14": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Chile vs China: Who Really Dominates Global Copper Supply - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHR4dzZLcmN1bnpfOGFaYWVvc0N2S2pNQ2swZndoeGNUdU80eGE2cml0Ny0xdTBya0NQWElGcXhYbV9RSjlJdGRPOE02ejZlVEdiMnBtTl9tOTVCZFVCVzdveWVDNnBkTXhDMHprel9yaGhCNGNya2NyczdubUhUR2xhTWNSN1FEUnBrczFTLU4?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Arras Minerals Delivers Major Copper-Gold Porphyry Intercepts at Elemes as Global Demand for Both Metals Accelerates - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUUlzX2tXZmpzMGJJTk5mVnFzcHVhT3pvWFdMMTBVeDctdVQ3Nl9ZejBIemQtckJFSG82VWpiLUo2SHRGTjUtNktMdVVwdXFUZm0xLUo3dWFEaWg5cHphTndDd0NMTnlfYUJMWjBacWxBT3ZlQzZybWxUWjJrZDkydEUzY1VnY193bENuQnl5MTFGNWZwTXVCenVsMlo0VUhZN04xNnBlRU1ibTJHTC1QQ3VPYVktNnltYksxaFRCTDc1ZUFnTFFtN05EMEthZGVUVlVzV2x6ZTRIbURBWVJwaFFUeldBTXZkVjJwVm91TDhnbHE3ZDBZOWxPLXcyVzZZbTZMUQ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Midday need to know: SpaceX makes historic debut, copper rallies & more - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjY4NjYyTDRhMm9FNzdveENUdHQ3LU5pYU1zVUJpTEl6SF9GRHZxRDFVMzRMOGo5NDJ5VkR3Vk0yVWw1eElHQm10bGIwN1Rfak9lQ1lnOS0zN0RoUmdWTXVxMnJkLTV1VW9XZlRYUlZvRWVEQkxhUHNvblRLNnJDRUpmVS11ZHd0N1gxQ2pTWWhIVGQ0Sm9zMU1tMWdBZTYwaVJGc3ROUXRGUmZ0S05vdXR0MHNDNU93RnhETDFjUnRaWnJvMjl0eHdqQnoydXJWZmJral9IYWhkNXVFZEE?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Troilus hosts Qu\u00e9bec officials at near-term copper mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2NvVVVGWWJPR0pBSWtzMnlWVzNHYUJfYkdNRGhNQkhNNGxHSHZVc3lJX2lzMmFWLXFQclZIRlM1NWUtVGc4VmlNc0tCeHN0N3FNNGdiWGw4VTVfSEVHc29tQl8tUFN1TkhwYS02S3NCYlhQR0lzYjZYS2ZuRE13SEpjSC1nSWJlVXNrRllnN1g0cEt5OTdKSnhoVTk1d3haeEE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
