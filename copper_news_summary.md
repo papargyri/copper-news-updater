@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-15 11:56)
+
+- **[Copper Pops Higher as US-Iran Agreement Puts Bulls in Charge - Bloomberg.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUxYU0ZHbHVWTUN5clc2d0tMT0VzS2NadGloQ3RTMGpId0hOdWNIVnNkYXYtWjhmRk9GSVh4aElvVjB4cC0tSURodDdKN2VubUx2LUdYS3J1d3FseUlYOW9sV2xZdlBjSFR1Tngwakw0T2FuN1ZqMkJNZjcxajV3Z3NBaGduS1lOX0FGSjR6dUNFMnZPVDZINHBTZXZ4LWx3dG9pbktaVmlOcFpQU3NIbGtiZ2NXS1M0ZFVkVA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-15 02:18*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-13 08:52)
 
 - **[TSX adds to weekly gain as peace deal hopes lift copper prices - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWhuVjVscWZseVlva1FaNVdBZ3hkTVlUSmpvMnBtRWpWSUpHd0F1RjZabjRGYXBtOURIWFc0eU5SSVprQVg1Rng4UmhqYkcxYkNOQ0FPNkU2UzVZSUpzdEJRdTBycXNLU0VtNkVPd3IyaDRzZG1oOFZVNTdfQ1Vuc3l3blR3TWNRVDdWb21FUDlRQXhLaHZJVThDMDNGdDI4WXRMOGRPUQ?oc=5)**

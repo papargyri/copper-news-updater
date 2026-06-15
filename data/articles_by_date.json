@@ -14830,5 +14830,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-15": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Midas Minerals reports more \u2018high-grade\u2019 copper-silver intercepts at Otavi - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON04xWGE4ZFBfa1pYeG5qS2pRVjNpVzNIRFBoeGptMnl6UHVUbEl2OTE1UW9tXzJjWUpoLTFRV3ZNUUFSTUxqQmEySWV4QmRyV2w1dS1tbEdyRHFmUUZjd0tyMENMY19PRm9vU2QtRFRxbDdUR2xGWW00a3Rtb2puQ1lMNW4zdWJfaDUzWHhiSk1JbWtHeTdCcXlLZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper rises higher as US-Iran deal stokes optimism in market - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3ZXcWp5MEM4S1FTMDU3SGNLelRYY1ltZm5fV19WMjZIMTZUTlBrRVV6Y1UwZGd2bDlRVDkxR0RqMmtjSDRvMEZjVUdhZzlGQ2o2ZjZrUWFsaDZUWC13TFpOcGFFaXNFRUxlTThlSWNITE92RTUwVVdDQXpPRzFtQkVCbTZBb2hXbENMck1XXzVVM1ppQ21yZkNMNXVOMkU2Tk9iNzR6dTRJTFlHS3lkY2RXQVQxMVg1SG85QzZVeXVRR1E2b3fSAcYBQVVfeXFMUF92V3FqeTBDOEtRUzA1N0hjS3pUWGNZbWZuX1dfVjI2SDE2VE5Qa0VVemNVMGRndmw5UVQ5MUdEajJrY0g0bzBGY1VHYWc5RkNqNmY2a1FhbGg2VFgtd0xaTnBhRWlzRUVMZU04ZUljSExPdkU1MFVXQ0F6T0cxbUJFQm02QW9oV2xDTHJNV181VTNaaUNtcmZDTDV1TjJFNk5PYjc0enU0SUxZR0t5ZGNkV0FUMTFYNUhvOUM2VXl1UUdRNm93?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Caravel secures additional $15 million for copper project via royalty agreement - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEZNRjhPbTh4aVBYRDJFQ2tXY1pmVy1NQmlrY1hNVEVqUEtVRk1iUWM2YVJ4bzVxeE1hbzE4RUEwZnB3SDNHTGJVZDJtNklVcFo4dnVHR05Ga29ETzh4al9fd0g1Z3JMdWlIbmlPaTVUZEVORFdTYnoxdm1ZNjU1NjFEeVdZdlAwRV9CeXNtWVliTjlzTlNjOFhaQXZVTHRaSlpj?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Pops Higher as US-Iran Agreement Puts Bulls in Charge - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUxYU0ZHbHVWTUN5clc2d0tMT0VzS2NadGloQ3RTMGpId0hOdWNIVnNkYXYtWjhmRk9GSVh4aElvVjB4cC0tSURodDdKN2VubUx2LUdYS3J1d3FseUlYOW9sV2xZdlBjSFR1Tngwakw0T2FuN1ZqMkJNZjcxajV3Z3NBaGduS1lOX0FGSjR6dUNFMnZPVDZINHBTZXZ4LWx3dG9pbktaVmlOcFpQU3NIbGtiZ2NXS1M0ZFVkVA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }
