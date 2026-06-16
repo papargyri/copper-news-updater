@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-16 11:04)
+
+- **[Copper Pops Higher as US-Iran Agreement Puts Bulls in Charge - Bloomberg](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2thZzQtejAzVmNlT01BTk1OazVUbjRRS1QzU2RBTnNlMmJ1c1hsNWQwU1JrNUZLNmt1bFVyaDEwQnZNOUVGQ2I4ZGp2N3o2QVB1WnNrcHo4WmZwNHg4VGRaYzVZSHAtUGZYUFhwN0lsazUtdGNNZTg5TVk3YnhvdktwcVlCVWpDRlFrZ0tfbVNrQVFTWjVuaV9XSGNpcHEybTZHeGhMQ29IZmJRS1AwLQ?oc=5)**
+  - *Source: Bloomberg | Date: 2026-06-15 17:35*
+- **[Watch Ivanhoe Electric CEO on Copper's Tariff Test - Bloomberg](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlE3VVUyYWJrbGFkS2NBZG1QTEEwTHpxSG9lR0dSRXdQdFpTdWVSYXpUTG1pdVQ2Z0RvNzFDQlIzeW5aMTlIbjdBTGtseWtoOG5mbHRoRjJXZkFtbTMxY3duMnNxOGo5SVFYSzBNbEkxTVpTcTRtTE51ajlnbU1YWldjalhiZGlMNzBZaUxDT1lfWUc1UzAzcXRLQzU5aUJE?oc=5)**
+  - *Source: Bloomberg | Date: 2026-06-15 00:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-15 11:56)
 
 - **[Copper Pops Higher as US-Iran Agreement Puts Bulls in Charge - Bloomberg.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUxYU0ZHbHVWTUN5clc2d0tMT0VzS2NadGloQ3RTMGpId0hOdWNIVnNkYXYtWjhmRk9GSVh4aElvVjB4cC0tSURodDdKN2VubUx2LUdYS3J1d3FseUlYOW9sV2xZdlBjSFR1Tngwakw0T2FuN1ZqMkJNZjcxajV3Z3NBaGduS1lOX0FGSjR6dUNFMnZPVDZINHBTZXZ4LWx3dG9pbktaVmlOcFpQU3NIbGtiZ2NXS1M0ZFVkVA?oc=5)**
