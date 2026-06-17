@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-17 10:48)
+
+- **[Poland Floats ‘Copper Valley’ Idea as Lumina Metals Surges on Warsaw Bourse Debut - Bloomberg.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWC1WVVZnUVdTVGdkVFdGaHNDWTY4bExNLUMzME41U09XMENUaHFlT1NXX3Uzb2FBM08xZ0NQMnYyVXFDUFFNR1VxeG5nZ3ZqeE5BVDVZR19zNlRzbkUtT0p3SnpXOFZEa0lLdjJvSUp0ZzY3cUhjVWdueDhyMWdZYWdwdVdNSHpxQVN1R3d5N3kzbVRTMEFMSWk1bDEtTEN0Qnl0NUZnOFVLLTl6Uzg1X0gxVTZ3Y0NEWVRBVW1DaDNsOTZheURieQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-16 12:18*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-16 11:04)
 
 - **[Copper Pops Higher as US-Iran Agreement Puts Bulls in Charge - Bloomberg](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2thZzQtejAzVmNlT01BTk1OazVUbjRRS1QzU2RBTnNlMmJ1c1hsNWQwU1JrNUZLNmt1bFVyaDEwQnZNOUVGQ2I4ZGp2N3o2QVB1WnNrcHo4WmZwNHg4VGRaYzVZSHAtUGZYUFhwN0lsazUtdGNNZTg5TVk3YnhvdktwcVlCVWpDRlFrZ0tfbVNrQVFTWjVuaV9XSGNpcHEybTZHeGhMQ29IZmJRS1AwLQ?oc=5)**
