@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-18 10:15)
+
+- **[Sky's the limit for investors seeking some copper action - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzlTVWdWZDhvaXUyU3JSOTdReUtkOHUtTllSM2d4NTlSY1hqNEF6SVFTaWRwRV9rblFTSzJXcWdTTS1RVm5yakdYekU5X2o1dkh6N3hacUtwQVJqTi1LMXd5Ni1zd2NkUkhIMkxrLWpMR3ZzTmpjMXo4R1pIRG56WUhZYzVUeTZjSHJseV9Eb3pyT21JWS1Zc2hUUmp5SUgyNUUyTlY1b2lQZlhlQ01WaHhYU0JJTlE?oc=5)**
+  - *Source: Reuters | Date: 2026-06-18 05:06*
+- **[Rio Tinto Resumes Copper Exports From Massive Mongolian Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2NOUzZfdFpIYXEtOUV5bUcxOGMzOFkxYTA1eTNTaFhtdHpFREpaXzd2UG5rRFFTaGY3THl6dkhlMFJaZTlSVkJ0UlVpQ19ndkx3NV9JX0lfb2xudEhORE4tekM1dEMtVk52eS1BOWY4SG5DRGFlSDdpRWxZTkk0SEFIUTctaU1vTXM1MVprcVNzQVFvYnF1eGxYVFJCYkprcVI2cE1NZkw3dE02N3pNNg?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-18 03:50*
+- **[Copper Miner Antofagasta Seeks to Link Ore Sales to Spot Market - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcW5sY1d1d3RqRTUzVXNnQkdxTWFKVW1oN3didHNBZGZMbUNSZmNIRVdVU3FhZHo3bEg4d25sdkUzWEtqZDhyUF90eFdjaVB5aEI5Yi1aNkhxU0lXd3cxUkhESDdGSDNmZGdqVzJhb0NjU2NpbVppZ3QyU0VqYmtrdFlwT2VPQnp3d3FTQTgzYWNta0NnOTIxdS1iQnJVVS1SQ3FWNGhCUE9BbG9rWkZmSjI3VFQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-17 16:25*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-17 10:48)
 
 - **[Poland Floats ‘Copper Valley’ Idea as Lumina Metals Surges on Warsaw Bourse Debut - Bloomberg.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWC1WVVZnUVdTVGdkVFdGaHNDWTY4bExNLUMzME41U09XMENUaHFlT1NXX3Uzb2FBM08xZ0NQMnYyVXFDUFFNR1VxeG5nZ3ZqeE5BVDVZR19zNlRzbkUtT0p3SnpXOFZEa0lLdjJvSUp0ZzY3cUhjVWdueDhyMWdZYWdwdVdNSHpxQVN1R3d5N3kzbVRTMEFMSWk1bDEtTEN0Qnl0NUZnOFVLLTl6Uzg1X0gxVTZ3Y0NEWVRBVW1DaDNsOTZheURieQ?oc=5)**
