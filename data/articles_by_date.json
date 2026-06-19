@@ -15260,5 +15260,138 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-19": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "Why Southern Copper (SCCO) Still Offers Scale and Pricing Leverage Despite Production Pressure - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDRzT1dHOUhpQ01vUGFSMk9KNjV0dTdKVWx0NXRtMmJQMEFXVHZmX0xWbmN2SHFnRkJEMzYwam5zWjZ3b1VaMmFxNEpTUnRNVGZCaGlRYzJVWUJfbUkwNmdvOURFTGNITHBvSzl4TGJrdTQzQU1fRXp4aHFkUkxYODItUGNGaGJ1WElSNlUwaFkxVjB5MmFiMU5yQQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "How BHP (BHP) Is Using AI to Improve Copper Extraction as Supply Gets Harder to Grow - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXpTTmZDMGFVMHgwWUZXTWo5V0hPODRLY2hpMzFrVzZ2ZVFLWVpWOTM1eUZnWTZkcVdLU1N6UHlrMjVNN2pNTEpHX2E0U3JRenlaOHFpZEJwYWdDUWpYS1dnM3JfXzY0SXItMXh0ZFp1RHl2UXoxLTFBRm95LTNfREQ4NW91ZWxORkNzZ1hoRkwzZw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Why Glencore (GLNCY) Remains a Strategic Copper Asset as AI and Electrification Demand Rise - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVMtekhUS3VpTFVvY04wS0RfYnhHRVpodHRqM2x3MEt4YnIwSmhOcldUVGFxLU1wVGNoZlluYi15b0Ztd2I0UFRmZFBIbTRPNmREMDVqbGRCdkd3dkh2bkgtSFZWVHMtU3NXZFNocUc1VUt3dWhOZ29oRUplZmlRWFpJS0owV3NxWFdZVGNoXzZOcTRFZ0pZaDJTMkxXQk9xWldUUGh6T3V3dw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Phoenix Copper Restates Prior Accounts Following Investigation as Empire Mine Development Progresses (PXC) - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFdvUzNhSFR5UC1ueDllMWFDR1JfSTNRa3d3NUlEWXF6RVlZQUgzQVowT1dRbjk4RXRyUHZaR2NDMGt0OVFobExZQVBmODdjXzhqTzdCSnh4VVEzYi05VFlPREZjZVZHSmdmaFViRnhUNmhCSHNXRjBvQVRPYWcwM0NyVDBpbzRXVTFneHBvNVk?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Brixton Metals drills Langis silver, Thorn copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUh6MkhBanNUMUlZNEVYTWtxa2tNeWN4Yi0zd3NpQmVGOUZqNEd2U0RDb0tCYUlGZUlIMDhib0hUbERRTmJFVEpOUEJ6OWZMWks3cUtsNWpBTkZSY0pBSkVIR1ZGR1ZMMlEtbG1ha0N4Qkx0MHNRcVBBdVlEN2pxWUc2Q2F5SXNwYm44NEFJbw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Australian Gold and Copper targets growth - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41RUpURzNKMnJWdWtuRFpQM2o0S0xlVVE1MC1hMmNhWUlXalgxamZlalRPX2NoZzFjTXVvZTc4RW1nNGZ2aFZHS3dlTWlWQ2NjTXRCdm96VElXOVRyRENUYnJJUENVZzVsWTlUWk8zSzNuUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Austral confirms blind copper system at Canyon - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDeUg5bHZZREZvVmdPQ2l3NHBOOEpVcVJ2blVBTUZPVTVHSGJOUDJ3VnBCdzVmTkU1MkJfMUxzUTcwcEJCM1F4NzdiaXZGaFN6OFM4MGMyTlRmem9ELTdUT3FMS2VrQVFCSDcyTl9oc2szU1RHZC1MLQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Trump\u2019s copper tariff decision hangs over global metal market - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWFZqUk5aazNXTHU1S2FnaUJPZFc0YVExbWRGZnVqb0t4NGlHYUhxMHladU5tVzZWWDZpTFgwM1I5WGhoc0ppemJzMEplTmpuUkswaTAzR1lYWm50N0NZQUtXZFBGVFhEOUx1bkxDQ2p2cjlIYm84dm5LUjBoUHpSOGJJSFA0QnFVdlQzQ0oydEJqZFRLVFhVdk1vZEV1ZW5Zd3JibnZkVWVvbDIzdUxJV0JNYjh5OGVTcmFvcTVrUlIweWdrVjlpaTVIdmdmZVl4VjJqS0ZtSW5mdDQ1cDdMSFpDRDZQNFnSAewBQVVfeXFMTXRXSmRZbUNWWXV3NThiejNNWHZHRjZiZWFKbGhxNFh4aEF6ZnBkLWV0Z2NzYmh6QkEzWHo3TmU4SDlvSjZ0ZEMxXzZKTHA5TzB2N1JwQmFwb0FVNEw0TnVEZ1pnYnpaT1VpRkxwZGtHS3NjcjlfUGszc3lJdy12YzNBRGRrYnpuejBXTng5VjBZVGdmT3p1V2wzbklyeE80ZmpUc2NxUE5rVzlqMlIzallTLVpNNFpvWUpWdHRsVHB2Mjd4UHpPQi1pdEJQdFhNWGFIdXU4X3VDY3UzcFkyY2VYN0hqajNPa2JYM0Q?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Mandrake advances gold-copper drilling at Berinka - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkeEQ4TGpmMWZoOTlFdGZOUWN2Zzd4TGdTTmpzbUs5d0ZQUDdVZURmdnZXb0M0YWZyZUZIRlNfeTVNTFBuN05sd0dVRE9uUkRxb1A3b0p2dXFwT2E2eFRNTld0TkpJdVc3QjROdk9TTjdvYk1lZ0xDcDZMNHc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Gladiator drills shallow high-grade copper - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFhZdDc0QnRDMHQzMEc3a1RaN0lTQldIRmpXRGxPQXE2WVlqaXdXeE4zSFRqRXo5T29pRF82eFRTSXdENTNDWjF5Um9ET3d1Zy1BUnBoVC15WG4xSmxNWkFCckdFUlBvOEx0NGJCcXRwalhWd2xoY0VxSl8tOVVNWWluX2stMldRYnFvYzlzTWNQeER3eWY2bWFPT2NZY0EyX0c3OFRoZEQyQ0xyS1pCRTFaWkZsbzZ1b2JQTA?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla Copper begins first Palmer drilling - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG42dWFxaXg0NVdlVk9nZ3Q5QmZpNkI0N2wxVDYtMGtvVHJIYmJkVDhyZGpEa2ViTFFUdlhlZzlvMHZ0bDRNRHQwYmZmRGc3ZGVuLVQ1V1VKcXFlTkZzZW9GSFdFM0JiM3ZkTHFicHI0aFI3QmxmOEd4VzdMaWg5VUx2NXI0ZWRUZWtDU3hEaTJ0X2d1RUp2OVNuTWtCVWYyY2wxOFhYNnJyanVpSW9EYnVjUl8?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "CEO buys as Koryx Copper consolidates under 52-week high - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkx0TU5kNnhiSlR1eFdKeDZfLVNyZUJKY3hRVVRKa1gwcXB1ZnpWcHBGR1d5UGluc2V5NTRTMllvMEliRlBfMV81QWNwclRwNnBIMnJndmxvZmJiM3ZVc0NCc2lPTzBjMVRCdk50R015bTZfNWplV0FpN1JVTXVNN0hSMDVQazRqZHVBWFpzLUFBeWJMQ1BSMmR1SlR2bU1tOHFCYWQwenZkbko4?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Trump\u2019s Copper Tariff Decision Hangs Over Global Metal Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmVCc001bVhTYzJVRUZ4YW45bko4SUhXQ3k2SGoxdU1rQ3dfekQ0YXlGTTluZjhJNS1fR1RhM3VINE5mb0ZGelpiRzBYNEtQUmtUQmd3NnZDb0NkOW9IZWMyRnB1NXlGeGpGNmFiWnRnZF8xelJRZ2xEZ1NxVXJVeHAxdGl6dWZmSmE0dE40T0N0a0EwU2o2WGxLX2VtR3psQlV3VjBjN1VVbFZKckVWZzVn?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Rio Tinto\u2019s Oyu Tolgoi resumes exports after Mongolia blockade - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzZoY0czMzM0MzM1ZUl1V1Zwa3plcmpiS1BIZFpoODFJcUdGblp0Wnlsdzh0ejFzU3NRTTZFLTdfX2hHRndFOWQtVU5zSFhjNXRNZkFNLXp6V2NLMmpyNFFSSEd4ckJqamhBMWZYek4zTjdocnZ1cHJ6dUI4UExWQkxmYkZxYmJZWVI2dzFR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto resumes copper exports from giant Mongolia mine after short protest (RIO:NYSE) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnd3VE1ITEdKdXNNaHFBUEdHYzZUbTR3QlJVd0h4QzFsekhlMVQ0SURVQ1lGVFd5andfamZrNG8tTVYxbXBubzQtSkdwalpHWEUtejEyZl8xNlE1RGljTVVXSy1pNkN2WTlWSmpRck8tSE1BNE4tSzRmNnJ5VnE5VGRHODZ3a0hlOWg3bGlYbThYZWJSWnpzSFkxY2dFNUFKU2MwVlhmdlV0TDNneVdCQ0FpS1hXUQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Lake Resources Ltd. Engages ICP Securities Inc. for Automated Market Making Services - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHRFRlFYRjlKSnBoMnE1THo2ZEV2d0lQSHpDVkJNVDBhaEtvaHhROEktT21VdzZBcGhQZ241YWh3T2xSaHcwYkM4VXJwVVFjakZwX2Z1c2tQUkFPdElhbmxsZ2o1OUN4LXllLUhMcFNKcU1rV2FxSm8wSU1DZmtER0wtMzRub2F3UXE2TGlKeVNXcFJneEFScExzdmhqamc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Regency Silver's Dios Padre Drilling Success Positions Company in Strong Precious Metals Market - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOTNCY09ORUU1MXFzUjdiTkhBdTAydjh5WlpQUHRfRnBxdG5VNnRiZHlGeWxYWXpPRDYzeGQzOHZTVE5Nc3lvVWprNGFnZlFKd1pvWGoxWWVibkVhTlloQzQ1WUJZVzFyaXFJdHEyQ092OVZleXFNWUExdkFnSVR6bUJqd2dfRUhVSnBPTHdDOElKRlRIbE84dlZKWGhrM0E0dlpLZFcyNGRFckVBcUgtdUhITXF0UUhnZDlxTmVZVjhFWk4xcGhDRUpQMHBXRDF6SjEzZUdUdW4xV1otVTJfV2FNcjhiYTQ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Protest blocks copper shipments from Rio Tinto\u2019s Oyu Tolgoi mine - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazRTSGpvOGVrSmJmTEZmMWtpQ0JRVWdNek1ZZVNER1gybjd3S25EcThkdVVqY3VaUGs0ZGVQZmVIbGMxYmZuRmVFRDJkNWx6VWtIV0kwaEZCOVBfeVhXc3dTZEtGWWhnVkZNWERPVzdqTDdMYkN4aWFMZ0pVNVJrQldKTEp0X1NOamZxVmxabnpNZjdQYjlBaEdZamk4Wi15TUo0OGh3NFM?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Kristi Noem joins B.C copper junior as advisor - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcG84ajJkS3BiQXZKMzFHTWFCOUNNR3FZWDlrTXJKaV9BM0E2LWFveWpMMElPRWNRd0VYN0h0MG9FeE16Y2dNaWtmZEhKeTFBaXRwUFNWelJXMmVRcmktYW9HcmtFd2dpQmlxODFwckJwa0VoSGh3S2dKd0VTcHNocGVyaVctaHQweEUtWDl6VXR5dlhueWlzWg?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Protesters block copper exports to China from Rio Tinto mine in Mongolia - ABC News - Breaking News, Latest News and Videos",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0pRQ0NYSWZNc3ZQRjhwRnM5aTNpVTh4dlNkV2g2WUNtQXdubEJPeVhpc09Dd183UXhydmhpd1hiNHQ5MjFDSEZ6MDd1Q1drMGJCNmpkQzNjOEFCYmhBMHFqUEVzVGZrN0JNZEFzYm0wYk1zNzRqajRMbktpRmJQSXR2ZVA1RnhCR2NVM2JjVElUYWxncVNxakFDTDM4UDlwTDJPbWdBb1MtUdIBrwFBVV95cUxNYmROR0t6aFhseThwcTVhREVlRmFYZ1M0dlBEaTRCS2hDQzRBcWlmb1lWTHo4cGY4cGk4c051NVZfYUJSNl9PUDB1bW0zN2I3ZWJHV1MyYlhLNTJWMUhyaWN5UENaMlJsUUdJSV85VlBqVlNBV2c4aUZnWDhOZ0k2cDJnZ2NiS0tyU1VkcGZNQnJhd3Z4R2NtcXMzYXZ4UmE3M3JyX1ctYjViZ09Ybm5V?oc=5",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "is_premium": false
+            },
+            {
+                "title": "Protests at Rio Tinto\u2019s Mongolia copper mine disrupt cargoes - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY19nLWg3UmVTYXlKQ1pURlFuQ0oxQll0ejRhdHhmMXRlcUM2OW9JRlYtVHBqNHJpbF9HQzhvTFNTcVZLNS00WTI4ZVhxdnlvZ0tqUHJSd3ltNWEtV195ZXNBWWFVckNvUDZ0TWlsaDNCUW5iVGYxUUl3dDlOX0JHOG5hMVVlS3VaTW9RQnZxNVJlR1hSQUNSRzA5RkZPeFBkSXpkYV9wLWRucG8?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }

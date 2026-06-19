@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-19 10:20)
+
+- **[Trump’s Copper Tariff Decision Hangs Over Global Metal Market - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmVCc001bVhTYzJVRUZ4YW45bko4SUhXQ3k2SGoxdU1rQ3dfekQ0YXlGTTluZjhJNS1fR1RhM3VINE5mb0ZGelpiRzBYNEtQUmtUQmd3NnZDb0NkOW9IZWMyRnB1NXlGeGpGNmFiWnRnZF8xelJRZ2xEZ1NxVXJVeHAxdGl6dWZmSmE0dE40T0N0a0EwU2o2WGxLX2VtR3psQlV3VjBjN1VVbFZKckVWZzVn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-18 19:59*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-18 10:15)
 
 - **[Sky's the limit for investors seeking some copper action - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzlTVWdWZDhvaXUyU3JSOTdReUtkOHUtTllSM2d4NTlSY1hqNEF6SVFTaWRwRV9rblFTSzJXcWdTTS1RVm5yakdYekU5X2o1dkh6N3hacUtwQVJqTi1LMXd5Ni1zd2NkUkhIMkxrLWpMR3ZzTmpjMXo4R1pIRG56WUhZYzVUeTZjSHJseV9Eb3pyT21JWS1Zc2hUUmp5SUgyNUUyTlY1b2lQZlhlQ01WaHhYU0JJTlE?oc=5)**
