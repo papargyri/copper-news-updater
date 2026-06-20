@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-20 08:49)
+
+- **[First Quantum's shuttered mine passes audit, as Panama weighs restart - Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmlPbVJpWldRSDc5V25TMFlfNWoyRlV4SWlaZl9qYU1ObWRlY2NMQTFQbmdYa3MwcVBOYklsVElPbXE4R0VSVk8tdGIzQmJkWHB1Rm5JNUZBTHpBMGZsQkQyTmZkV0xwRnM2MmppbjdoZ0poMkJMTEZVZy1nXzNwXzZyODg5MXZkVnN2OVl5M1ZjNF9odEduZ3dhZ2E5UmdjWjJhRjJkdzlJZ0ItUWhiQ1lJU1Rzckp5RWdtRm9ZQTZyd3ZFV1VQYnF1cXFCbUZ0TXlN?oc=5)**
+  - *Source: Reuters | Date: 2026-06-19 19:05*
+- **[Panama Says Audit Found Broad Compliance at Idled Copper Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYl80RTI4Q0s0NUVkNlo1Z0dxdW5iWUlXN1dxVDZYQWtOc3pJSUVLZm9pb3hrT2dIN1RXaW9kN3oxQUVrdkF1a2NkMVJwMDFfbEhNTmhfUm9vblNSVlgzQWVOeEhicldSN3JoVlJyaTRGS3lkN19aaEVtR1oxN0R1XzlESUozOWJDVGJhdURWSE5RaUN2bWJQLUp4aUJnNkpCdFJQemgxVUtEcWNjX0JyTkdn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-19 16:53*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-19 10:20)
 
 - **[Trump’s Copper Tariff Decision Hangs Over Global Metal Market - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmVCc001bVhTYzJVRUZ4YW45bko4SUhXQ3k2SGoxdU1rQ3dfekQ0YXlGTTluZjhJNS1fR1RhM3VINE5mb0ZGelpiRzBYNEtQUmtUQmd3NnZDb0NkOW9IZWMyRnB1NXlGeGpGNmFiWnRnZF8xelJRZ2xEZ1NxVXJVeHAxdGl6dWZmSmE0dE40T0N0a0EwU2o2WGxLX2VtR3psQlV3VjBjN1VVbFZKckVWZzVn?oc=5)**
