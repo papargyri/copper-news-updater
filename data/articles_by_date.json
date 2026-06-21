@@ -15574,5 +15574,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-21": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Nobel Resources Positions Cuprita Copper Project for Growth in Chile's Dynamic Market - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTERDcVJFR3RMeVNmMXFYaXhIeHlvZmFjbXNhbFVJWV8zQUNGbTZ3Q3h5M0dQYXU5ZXhpaXA5cWVXRUo3cDZTelFxTTdRZ0c4ZzJhYWtYZmNUcTlpRFNaTDFkU1N2d09jdGZhUG9EaER2MWZybEg2YmtTTE1lOGt1QjZhQkl6ZlVpcUQ3NUM2Vk1aZ3ZDbGYtUXVXQkZ0ZmE5NEZhZU5zMHBycVdWOWZmOHR2QVhjSy1YYkFYODViWnBPRWhKMTVlX3ZqU3BkakNhM0J1ZFJUbFM2UQ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Hudbay\u2019s Ingerbelle expansion breaks ground at Copper Mountain - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWd0UG9zQmxGV255d3BNb2JHRlA2QXhYVkpkSDRfOUtrU3k4QjBDcVMtaEFVa3A2TGp5T1JtdFhsdnE4NnROSXBJTW52NG5lTm9kTVMwdFdOZzFCcnEwQ2VVbFh5N2xYTktOR0JpWE5rS1M4NVNPRjJ2NTJiY1BmdzZTQ2RXZjA3Y3A0Nw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla Copper begins drilling at Palmer - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LT2JBd0QwRzZHbEhGSm54M3ppUlhJdWtxaWxmdHl0UXk0amVteTc5aFBEMVNKN19MTk5KQ2ZLSkJFTlRrZDBjSkRXeS1BZGI1ZjlfQmc0VDg5Tk9FUDFqaGZhMnpoYUxIM0dCbWFFZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Mining Co. Focuses on Cuprita for Potential Massive Copper Source in Chile - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdjYwMDM3RXFtb3JFeHZhZ1ZVM015N0g4UzZnVnF1c1FGOFhLc1l1V3g5VWU0Uk9OeFpKdTZITzV4Z3FGUTJCbUtadVRUem84RXc3TEN4OWJTZnFqeVZmY0Zzb2ZNY2hFYzllUHB5YnZ4d3R1ekExWk9TbFg1Z2tTYmxZcjNEXzliZnhUMU1nSmhjZ2hOVVJmdHdOdjJKYldxQU1LNXhqcmprSHFWekppVjRDaFhSR0xodjhQWlFoRkhGY2w5UDNVWTluaw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            }
+        ]
     }
 }
