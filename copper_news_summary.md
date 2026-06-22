@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-22 11:45)
+
+- **[Mapping the Market: Copper's pause may be setting the stage for the next leg up - Reuters](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zVU9aRWdNOUNGeFpMaHZfcjAtc2U3Tklwd3dIUkxacERRSjh2MUFNdjNjLUExejhMdVdfYi0zdklBTGF5YnpkcU9JZXFybG9CMDktVDI5Z3BlVWFPRXNYY253ZkFuSTNGRTR0U1ZqQ0ZaY2UxVTNTQQ?oc=5)**
+  - *Source: Reuters | Date: 2026-06-22 10:15*
+- **[Capstone identifies major groundwater issues at Chile mine ahead of expansion review - BNN Bloomberg](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMFVzRkFHMzF0UHQ4cmpwNXcxOEwzMUE4cDhsQmsyUEJjRkhJcjZiUGlFb1lQVjZzb3oyYzNSNmVLamR3STZsQy1EZlNWckRkWVc2TVJPeTJCVXQ4R1RlTW5tRUtIQUhHb0E5UGZ1eDk5OFdiMC1kWjNHWU9hYnJNalE0ZHN5cXViN2dPUVJhdzFkV2xkakpGWGt4elgxTFFGTHFBUjFRbkdjWmlWNUQwenUxbnRQODE2WVcwdGRzWGRhQmtBemRQTlhoSGNpQ2c4dFZUM3BKZjAyc2tpTjBN?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-06-19 12:10*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-20 08:49)
 
 - **[First Quantum's shuttered mine passes audit, as Panama weighs restart - Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmlPbVJpWldRSDc5V25TMFlfNWoyRlV4SWlaZl9qYU1ObWRlY2NMQTFQbmdYa3MwcVBOYklsVElPbXE4R0VSVk8tdGIzQmJkWHB1Rm5JNUZBTHpBMGZsQkQyTmZkV0xwRnM2MmppbjdoZ0poMkJMTEZVZy1nXzNwXzZyODg5MXZkVnN2OVl5M1ZjNF9odEduZ3dhZ2E5UmdjWjJhRjJkdzlJZ0ItUWhiQ1lJU1Rzckp5RWdtRm9ZQTZyd3ZFV1VQYnF1cXFCbUZ0TXlN?oc=5)**

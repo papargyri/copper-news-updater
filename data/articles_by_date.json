@@ -15605,5 +15605,90 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-22": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 13,
+        "articles": [
+            {
+                "title": "Mapping the Market: Copper's pause may be setting the stage for the next leg up - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zVU9aRWdNOUNGeFpMaHZfcjAtc2U3Tklwd3dIUkxacERRSjh2MUFNdjNjLUExejhMdVdfYi0zdklBTGF5YnpkcU9JZXFybG9CMDktVDI5Z3BlVWFPRXNYY253ZkFuSTNGRTR0U1ZqQ0ZaY2UxVTNTQQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Kodiak Copper Updates on Progress of Previously Announced Transaction to Create New US-Focused Copper Exploration Company - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeE5BV1E3ZTJ4eWwtaTFsMmZoeTA2S0JLVHFLTlk4VkhEak5zOWxQRkloT3pBamtNS1pWSVJ2QmYzMlB1cGJYNVM0S0x0ZHo0MlJtN2c4T09aV3paLVl4UEhxUURybEdXTFBBMGZ1ZHBCQ040VGFaRXNwWDgwcENkZXVqNEM2dzc3OGVueWE5U2pwak02cFBnWXgyR2FiLXh4ODZfYmNmMFZOQQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Why the Copper Investment Thesis Is Stronger Than Ever - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXRqRnNMQ3hFMURRSlhUOFRfNnRCNWgxWlZ1WG42TENaNTIwcTlHOXZmbDRfY3hDSDBhTktXWXVGQlBxOUMzNVZocm9UVTVaaTNMMEo0bkhJMWR0VHlTaUw4VGZ3OEMyRUdDcllOeGJEYndqa095MEc1QWtpaDZJV0o3MmZEYUdyYkdwa2EydFZIZw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Western Copper And Gold: The Market Has Recognized The Potential, But Hazards Remain - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDJwckEzRWZfb3ZIbGVSdFlUQ1prdGhrMXNLdFVEa1d1T0ZFV2p1MmlONUhaY1ZRejlYUVpsUlVQdUdCZ0JtdEU0MHY1N0FZUmJQNjBLbmpjS09Ncmp0MC1zM2hTZ0l6OTRma3BZdmpiSWJCaWxfblhHelpHbkNuSlNPY3EwaVAxdGRJR2dvODljMkdGM0hVYy1kS2M3dU9NblQwZ082bW40TlVHb3lyMEd1MHFXdFlLUjBr?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo Asian Mining Appoints Worley to Advance Azerbaijan Copper Development Plans (AAZ) - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2E5S09ZWTlzallQMl9CN1V3RndybU1pLTNDLTVJaXFJd193bkhYeEcxYlRELTg4YnZjVTJHSlpDVkZSNVNRQmMxMTRQUDZUcy1WbzlzZjFfVExIZk1jS0xQclJBR2J1M3Rud0RJRWtPTVR1N091bFF1RDJDUVhqSC1SeXg2TlhKQ3Iw?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Raptor confirms additional copper intercepts at Chester - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjM1eWotVzRuaUgzRXFfdE5USDR6OHN4WmtaZ0Rpd2hsOFRwTkdtQnpTSE40T1ViQV92NHNHc0VtY0JSYmo3WHUwRmlrSVF3UkpKVU1UdWt3UU1DYTF2S3lzWUw2bXVVRnl4V1lNSUxqWktqd3NpZk9aRC0xV1pPNmRMWmw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One makes changes to Majuba Hill acquisition - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbldsSnEycGVtUURldUpoTE9zckxMbmVjN0hEdUFOeFlIMzBoeTBzMmw1ZXcyVnlMY1R2bkJ6Y2x5UlZOejNTWUl0TDlKTjF1aWNIS2RkSVFsSUlSNWVabkdMY2JCeU13MW5sZ3JOQ2YtbzRJbXkxZVJKajFJZVk?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "South Australia\u2019s copper boom continues as India leads demand - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmxxVnBUZ2hCSUZNY2dkWGI4WFRXb2phOEtweUx4aXRqOGY2NUpTRlh6V3FoV3VEUTVmRTJPbGhER20zbGpWV1FhYW5uQU9VLXNUdElVUXkxVUdKeEk4SmdlcHc5UFMyd3ZZSHNYXy1nT25jbXVsdjZlNkRBRmlyd1g3RkY5bGdMdmM2X2FBS3VYbXQxSEE?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "GEM OIL Confirms Copper-Bearing Sulphide System at Hanson Lake with Drill Core Assays up to 1.145% Copper - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTmp1OGYtRjAxMkZzeFRGRmJ2VElELTZfZF8tUTQtUVloLUtxeklfZDZ2bkhyNU02ZlpTNS10b3JRMy1kRFp3akowT203dm9HYW84NkNIamd5VU9hc1dLMWQ1YW52Z0VLWmVvZ3lEWnh0dTIxanMzVUxRcUFjb0ZvOW9TbU9IcTdJYlZmcXZCQVg0Ql9nUy1hbWpnNllaNUliVE9SVGpWTVRVVzBEWVR2c0ZRS0J2X0dqUnJETkJoUEtFY2ctS2Y4anZxNkg0dXIwRlRQVDBmeDJDWGZCbnpQdkw5V1ByRU1xRDV6MVNWS1pCeUhKT0dRTlhHRE9zalFtVzU2Z3Frd2Y4R0prLTN2QXBKYw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper targets resource growth & new discoveries at MPD - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmJTRkR6ZjlISElzd0lYY3Y5Sy1HQW84R3Zka3ZveVpzWDJ2REtjLTItMVI0VGRldjZmY2QwWWxBSjlURkhLekZ4dERGXzh4VWpEU09CdlJoc0JRVndjQWFidkhyYUtYdHJ6dWxFU3dHZ0RzdHV2OS1HZDZnRDhlSnpGckxMbHM1ZWNr?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper Announces Labour Agreements at Mantos Blancos Operation - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORThNblA0alJ4UVBuY1ZQdmJxd1ZsZlp4QWV4aGFBWDhaMVdmenJOekY1LUt2TkljcU53VjRTZFYwYjF5RkdBY1dwS0M2RUQ2R0VpMjZRWkNxSHJhMGx5TzZkWVZoTVNROEJXVzU2dXo2LVRmc21Da09jUFMxZjB4WHgxa1dsak9uOTVvYm9VOHBRSl9OSHl6V2VpVzIxWElSamdQRVA5NDBLRFVFc1dWNjJhS2diMFZGZldWb05oaGU3MnQxLU5pcFd3U1FpM3BVX2U5NWJ5MWZuX1BtM2J4STcxRjF5aC1VVERmZ2tad3o?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "A top banker tried to sway Pope Leo XIV on rare earth mining - ABC News - Breaking News, Latest News and Videos",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjFWdHBOQ2twVld4cGtOSzVTOVYyYTBPeWxZSjU3UzJTaGxXdzFlX0xaZWRHR2ZhdDFoQUhEMGJVWVJmZ1ZOOEN1WEdyOFAxRFV3b0U3LVdCLUM5cWZxNzJMTzViVXZLZlZKM0ZSOWt3Z1duS0FKajBFYjhYeWJyNWNhUUdUYjh2eUNtZ0VSblNKYjU0Qk1xdnlB0gGfAUFVX3lxTFBWZmZGUXZKNmtVQTF0TWYtcXlfYXU3Wkg5MFlsdkhwQzBoVzg0dmdLNmFVVkItazB6UTJNRkN5alE2ajdyVWxQTHMxZzYzNGNJSDVZZWNNODdYWjl5bjBsaTlJU1NvNGdDaWhfTm83Y3JyUGxpSF9Fb2MtRnBLS2laSWttOVBlN3RpZTVyV0liY2R2eFhyNDRycnpuQ01SOA?oc=5",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone identifies major groundwater issues at Chile mine ahead of expansion review - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMFVzRkFHMzF0UHQ4cmpwNXcxOEwzMUE4cDhsQmsyUEJjRkhJcjZiUGlFb1lQVjZzb3oyYzNSNmVLamR3STZsQy1EZlNWckRkWVc2TVJPeTJCVXQ4R1RlTW5tRUtIQUhHb0E5UGZ1eDk5OFdiMC1kWjNHWU9hYnJNalE0ZHN5cXViN2dPUVJhdzFkV2xkakpGWGt4elgxTFFGTHFBUjFRbkdjWmlWNUQwenUxbnRQODE2WVcwdGRzWGRhQmtBemRQTlhoSGNpQ2c4dFZUM3BKZjAyc2tpTjBN?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            }
+        ]
     }
 }
