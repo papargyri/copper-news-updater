@@ -15690,5 +15690,96 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-06-23": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 14,
+        "articles": [
+            {
+                "title": "Copper Giant stretches its legs at Mocoa - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81OWVOYkFZenFpNU1tTGZkRzZlMW5BQkhpd092MllUQy1FMjRCVVdmaXc5eEljd2FqV0FRRHRwc3Frd2ljS05yZXBCb1FNTmdEMVE0aWlaWG1xSDZqRFBFd1F1MUdvT19ZZGlGRjdoOHM?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Star Copper Extends Copper Creek Drill Hole Beyond Planned Depth After Intersecting Mineralized System - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVnhPTGw4dlJVSE4wRGtQTk1sendFTWExNDFVZkNFMEJ0ZG1BRjlRejV4T3NkYWNweUxLbmZWMHFqYnNoZ21fYnlUQmhnaTM0UXE5T091ZzlhV0VhUGpldFM0dDl3OENiTk1haHAwcU1nQ3prQWpWSTBwZkdraUNUUVM1V1BSQkJ0S1BjOHF4MTRISm1XVHk5VHA0TzJOYVk4bTB5MW9iYVZEN0VzbW5tWVlDakRldVBWYVBRRno5dTRPMGVWeWdfeEh6YTgyRUVucHpvZGZqOWtJZmZJUThlWHRpNFNQbTVmX0pKNGtGSWUyZkNFQ0NQc3BwdkhQcGhGS2NTb3REbHhKc3VTcEdqME91am1Qa3I3LTNBYQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Bioleaching drives copper recovery for a low-carbon future - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUdvY2NTYlV4Ykp2bVhfS2VfeWkwbF9LcjJycm5wc1RsZXo4Y2kwNVh6NEs5c0hPSGVRV2VqdlFrMjV5Wm9DVkZRTURQeXAzM3JrTjBNMlpQVzZ6QXRUb040SFVQbVpidnBIU3E3S3FOUkZMTElrcGFGb05YTXR0bTU3eXJkYVZT?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "An energy-intensive process: Copper mining - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92WkgwMmloMUVtZ1FmWEQzekxlTVVkWmIwVTBDWDVaVXhGWk8zbUNfTjk3UWt0c2stM0M4T3NLYkZKNENKaEM5UUdzaTczb0lVSTA2ckVQXzh4aDlNbUstQjhIZEFaRmQ3Q2REM1hpY1N3QQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "$3-billion Red Chris copper and gold mine approval advances BC.'s critical mineral strategy - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNVM1VUExQTdjeldsWFFtMzVXX2ZiNnlidkQ1SlgwcjkyZHoxdkY1R3dlVzc4c1RER3NBbW9zQzZVTjZnNkE3Q1NUcVRDcjBOOGNSSlUzQjFkdklfU0hvemhJenZBNlVCZlUtQllvQ0hIQjFqZVdNRFRnYWxwYlA5Z3Q3U01WREtFdDVXcVFJOFJKU1pGbm9FR0JtTWpDVEgzTXMxRGlhNURMamw3Nlhac1lZUW4zQl9SUHJiaFBkN2xZWmRoSHBCZlNVQk9PcUtOdndUb0N4U0lwZlFMUnhlX2NPOUswdml4RjktX3F5SGpMU0FFNEtSQnhPQUZYWU0?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Declines More Than Market: Some Information for Investors - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVFfT1RrUDZaUlZFdk9hWTYzNTJxdExCU3ZNMHVDZ3hfYlNqSGxIUHUyRzFwbEJkbVJFTlNkbHg1TF83V1ptcFNkcWg4ZlZsQ1VGQTZiRWhEVWlRX0ZHOXU1SHRXZ1FFb2gza25YN3pCTGs1X18ybnFfWGdqbzVlUWVkTktvOXlSemd6dW8wNnhiWXI3cm84WDd6MTRXdF9K?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Auro Metals Intersects 705.7m Grading 0.61 g/t Gold, Including 235m Grading 0.97 g/t Gold Starting from Surface at the Santa Barbara Gold-Copper Project, Ecuador - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeE1NUWZtdEVNc0c5R09wbFpjQ2lMcFFnWXBOd2ZTenQ1eXoxSUE5endjNWVkelpEMmtMM0tzUm92YWlqMldZZ1hnNjFnNFhjcW04Rk1FUVdjVjFRb2ZlOTVCN3ZkNjA3eWpZRUYyNnZ1V0R0dmNxQWdKYnFBc1VJT0plY1k4NlhmeHZwN0d4Q1NYMkkwbHJBMWtfQWFySGp4?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Cobre Panam\u00e1 Reopening: Key Milestones and Scenarios for 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWZyNkRMUDktLTJvUHFoWkt0QlROS3ZMVk53RnNJWDh6SHRHWGhjdURuWFFmSGF5akh5Ykd6dUYwZVpnSVFqQnQ0ZjNNZlF6R0hCQ1dpVXpGeFluYVNJVWd0cmt2QkkyYTVLcWhJbk9yUXpwSTFUbHBycmFfYWJtTVM4R3BEXzQtQ2s0LWl3?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Canada Infrastructure Bank commits $200 million to Generation Mining's Marathon copper project - Northern Ontario Business",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNDhlaHhqRlh4REhKcTFFUEpodzRsSk1JdHpyaGFhVDRrWTdRalpQM29hS0RZZzl4cG04NFFhVFZndnZKd1R2TzVRQTQxMldmUlA4ZnRPNS0tMUxWSzgwd1ZERXJ5Qk1MR0tyYy1lY1lhby1CY2JWWTFpelRhSFJlcDZPTVNmT1RBTm1iT3lmczJVVW8wS3QwbTFvNy1iNC1iQUQ3dFhfZXlIb19FRzY2cGFnNXBqMHZaOXJkT01PMUNJS0tpR0J5V0ExNGxBb0plSDVpRThuUE9USUFsaUkxQWtPQ0FWVms5elo5QmZVeF9rYTdY?oc=5",
+                "source": "Northern Ontario Business",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak progresses deal to create new copper explorer - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSThKSEtzeE1PU2VsTnZqMm1Ib01HVFVvdTN5SnlyOUNTSmJpTlFGMy1naFBaeFY0c2w1VlJpT3k3R2ZJMnk4NE9OcEZDMm1TRVVqNkc3TVByTFV0WFhfNGd1NVpMdW9mdnJHRm91QUV0VW9rWkQtYm1WUHVfZDkzag?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Worley picked for Anglo Asian's next copper mines - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1VmRWtwLVFIMnFQek5UU05JbHJNU3A2SGxWSDRmNU4xbjJ2OXhKZmFkR2JQWW5KYk10OGgwcHhObEpMajVZdXdSTDEtUk1iSTNsQnpzUThlam40Vm03M1duU0lTOFEwcDJsS0hQV2VLc1c4ckNUcmVaUjRvMnJ5QmdRYVJVS2ZGYnk2WEVtQkhDOUplSWQyOVptVGY0dm9Lal9FOA?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Western Star launches drone geophysics in Nevada - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OZFdJbHpqQ2dBNUlHdDRHMFIydEY5STNtUkg5a1lJejRPQnhIc1FmRXdPREF6MlZpUnc4VVlQZTVWTkh0WVVQNVR6ckljZnlFSzBndkdMbTVRSHBFQUFySXhkc09STzhaUzVHUjh1czlwemFaR05PYTBfbw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Magna Mining Intersects 29.7% Copper Equivalent over 3.4 metres, consisting of 9.4% Copper, 2.3% Nickel, 19.8 g/t Gold and 8.8 g/t Platinum + Palladium within the R2 Footwall Zone at the Levack Mine in Sudbury, Ontario - thecanadianpressnews.ca",
+                "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQOFpuUVE2YVBvUm9kWVVwWEpqaXZTQ1lDRkJ4ZUJqenNPR01mbE4tSUl6emlUQU80WTJud2gwZFptTVRnazh1R1ZnNmtsVkpoNFRfeUNhSkNuWmZaaVQyV3BZa2ZucUhHandrM1NPWFNZdlRxVzRPc3dOVnVERHNEaFRjYk1DWVVYT2REbS1nTGdFY2hsdERReXFQOHR6UkFRR2JQTTBuS05sc0d4Wlo0elA0YW1ibm5BZDJoQzExZC1qTTU1ejhYd25lNExzcmx6Z2dFcU1NRV9SX05jRDhxam82Uzk0V3JwUC1jMktrR0pyMTVVVTJtQUFWTDAwSWFZa2VhaGRrUWtINDJucG5xVEgyNUF5TXd1X01yOTI4Slc?oc=5",
+                "source": "thecanadianpressnews.ca",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Supply Shortage Driving the Next Commodity Supercycle - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3JYbTExOXBINXNTbHQ5NkFkbW9kbnNpdlRjckI5c0lVZVRqWGh6Zll3WnR0dEJMOVhYWkxGUHUxN29UVjRrY1FRRU83ZkJmZTU4VkVFbTcyQ2UyUjdGVGRTTENaTUozWFBhOEdVN3lfRzktT0dmVHc3M21IczEydldqRUhTd1haUGRfYkYtRS1uTXV2TlZn?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            }
+        ]
     }
 }
