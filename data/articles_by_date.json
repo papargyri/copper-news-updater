@@ -15781,5 +15781,126 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-24": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 19,
+        "articles": [
+            {
+                "title": "Konkola Copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFdNcWZvQXM3dTBXYTZDVFJGcW1KdFVyby1uZC1BdkQtajFBNFJpUm4wTjdhZ3FYTnRQZE5NVkFrZ2RoV19CRXpHczVmUzlzTG9pYWptOXV2dGlROTBycGxhbDB0dW9iNVZ1UGlfcF9wdzc4R0V0NmE0QzFIeXIwRm5pRzRMRGpqc19qNXRIM0tTQXNsVjRrVlZuVlpFeER4emZJSVZzSHktVkRhcnQ2MA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Coppermoly kicks off exploration campaigns in Queensland - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZzNfWl9oN2lLUTBBOUJyMm9FaDlpNVI0MWZRT2lvM0wwRG1YTEQwSG52cElrOUw4LVRma0JpRTZWSlVzNjVYQlhBTXFtZmhHMGFpLUdxZG1CSU9OdHVWV0JJSG5lLWp1X0U2ME9IaEYxU25pbzA4WnZOSkJkS2xGT2lmcFRFQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFM4am84YXp5UWNacXNrUl9XcWhjR0xwOXBsMkY2aUZIZ3BlTFVRUnRGNG9YUndCLWJmbzNGWkRWUDZVYTlYakVKd2tITHp4M1NOX1ZyUHpGdEFmemxfVzRnTjRZLTV2ZUd2YTFHNnpZWHVDemJ0N180V1JtRHVjM3V0YXhIN2N0LU5ZR2liU2U4UXE2dTBEM3dBVHUxZnBBZkVBSE5veFh5dGVEWmpYb2JR?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "FRONTERA AND KUPARI ANNOUNCE COMMENCEMENT OF STRATEGIC\u2026 - AAP News",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fYTg2UjZTdHpoXzRINnJ5UGtSSDlaQWtCUFBrZ2dDVENZT1dtTnFGVDBZNlEzQlg5VzFLckdrWVNlMHNxZUFqNnBSUVVrdDNnQTY2ODBHZHJ3OXF0VXRJZklUMzJlcGV0SzBHYg?oc=5",
+                "source": "AAP News",
+                "is_premium": false
+            },
+            {
+                "title": "Sponsored: XXIX Metal advances Opemiska copper study - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEx3SHlkUGZvQmdYS0pmNE8yODNEVkNJV1ZwejBaTXpSV3RmbzByQ2pFdGlWYl9scGF0SzFRdkhpajM4ZEt1UmI4TXZWWnA2Mi1jZWJSeXk5WHhJUjN0Vm9yZzlwaHBNZU50NXlHR08zYUVkbnZUWENxa3gtdW5XNDNnMlBCcEtoU0haTXlkOXpwcTQ3UmJQOGZQZw?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto sees lithium as fastest-growing division, executive says - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlZRM3NYWTFGNEpzNkFFVExLTGwwTzBhX0htR21ldS1zbFdTX285ZnZlTXpGNWUweWlOLVhxZng3VTMtSTJHV280OHFoMHJJeWphMVlERDBLUEZBZFBaNnhHX24zMDZZd3FKQlc0Z0tLOUt3dGlSZEFaa2FLWVhrZk1HdEFQMndSU3BBbFBLR1NfUVBqYmxaZw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "A carbon challenge: Copper mining - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LTThXT2dXWmJDWHRzTmRQd0RhRUxxdnBuLTJTMGFxY2gzNDdha2lFRTdFTlNUb3NnU2lCQkpVSkN1VG1BdTFrc1RLWlZoT29DbXZaclhrM20tVGhPZG1YdEFtNEdldw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "From the sky to the ground: Garnet\u2019s presence beyond mining - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb196T3NNcnFPYUJsQzZwTzNDdHpsUzhHQWxpTUhmc2ZTclVva3dzM2JFNlpPM1M4T293TXJHTlR3WDg1YTBDMDUwMlVlSXh1RDFxOUNEa2tZWG1SdXgzckhPUk5WOWJ0dXF0REdKX3dINWM4RER5eHlleW9ZWXFIY3Vic3k1OVU?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Why the US remains \u2018fragmented\u2019 in a critical copper clash against China - South China Morning Post",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnhpa3o4QXk3dDFHWWhjSGhJcjQzajd5RzlkamZCaHZYbnBGSmF4S1p6VFlwazIwUnhMekNaOUhIZVc0UzAwdUhWclhQUUVXaVRCMDd0OG45N2ZmTnN1UUxDUmxPSWNYMFplbVJqNE02NElrTGVlTF9BZG1lOU5URlRCdnR2N0hqSjRwbHoyYTBlRmRiVUo2SjhIcnMwSzhJU1hGR1Z2Tzc0TEhPTnJiczVJR3lrUGZPbVZXZEthOFVVYTTSAcMBQVVfeXFMTk40NmpsYlV3WjVVTGhzYTFMdjQxOWlab29xTmY2MVVwNmVjM2pObzJZWW9UUTlCLWZoRU9BUUItY0wwdC1udTRpY294SHpQZW4ydXQzcE1Xcldvb0ZVcnB6ZFNoVDFYcTZGQmR0TVhxRml0cEdxNU40WHZBUlFCX2x5ZVhUdUVyN0NETUx3NzdEODZqblllZGwyVy1XSVRjNXE4SmlZZkdlN1RtRG00cDhrVXAzNHRGUkxIc1RIeUxiandJ?oc=5",
+                "source": "South China Morning Post",
+                "is_premium": false
+            },
+            {
+                "title": "Vedanta's CopperTech Metals targets $3.6 billion valuation in US IPO - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0VtN1kxV0ZXRHEzRFgtTlFBdWs1ZElpOHpTQWh0RVN5RUU5a3RKZWtIZFctS3JRYUdQOGhxYVBPbC1iVTZsNlJlUVZvaUpUWVpSSGc5eFZGeUpSWEFIbjVmUVdyeU4wNnkzR0hkTm45OWU4VV9ycEVGS0tnZkwyM3J3RVFTV2o4ZHJSWU9yRzNGOEFrSC1qbmpWdUp0WUk5c1JRVlhiejRZTkVpYmQ3d2hNWUxZUQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Vedanta\u2019s CopperTech Metals targets $3.6 billion valuation in US IPO - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGtVdVlMQkpZMXJ0VGJESHk4WkdXUkQ2MHN3QUExZ2wyUzdMeldlMkRqSUJzXzA1dE5ma29EVm55QjJYS1BZSDN0UkpoenR6cThkQUw4M2w5YnFjdHVDVXBTdzdwSE9sUUpJYXNIVkx1QUFmMHpyWGNOZnRkOEFyV3JTazJPdjBXXzF5ZEdIekFpTXhjTm1sbEFB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Gold, Silver or Copper: Which Commodity Looks Best Heading into the End of 2026? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkdtSXVEMlpQUTc1U3ZudjRqTVYxWG03MWlyUmllY21hU1M2RGphNDlUMTNibDMtRU9QNXd0dXN3TFJMOFRSSVI1TXZwbDRpLU9xVzZveTdlQzdYb0lOUzZDVG56TGFsRDZvSDZVYm4zZ1MtenNZYUpOcHROZXVORXQtd1BOczlBVnBqaElGaW5IYlNIRkExQzhPMXRWNkwxQlRqdzZodw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Is Ero Copper (ERO) a Great Value Stock Right Now? - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXlKb2dGdEdya2taeFZ5Rkk4QkdpZ0xJOW5sbkZfNHlFTWJxb3VyX0tUY0cyX25sdnhPdm1QMmV5TjdmcVV4djZvZ2laQ1pvbU9QeXJ4MU9GdzZLTkJBNEVENkFhRW5KOGl3eHoxZFYxNC1kdjQtWFhYbTBMc0RnZQ?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Vedanta Eyes $372 Million Raise From Zambia Copper Mines IPO - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1I5WGRQeExwM2lTTlI3ZEdVTEZMaHlObnpQRWdKRWFITzVqS3FfN2tSZ3p0bTRYNV9Bc25FX2dXemtJSF9ZQzFyZ0gtcnhZaUFpZ0xrRk1EQ0ktLWlCRnduVWwtbUR1N1ItVEI3OUdHcUw4Nmo3YVFjaHJoQ3B0ZnBueDM2RDVZcHo0YmNkS2xDOUthLV9vTjZlcTNScFJnVkFGbjlhb2l0bTgzOThnRVFoYw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "FCX vs. BHP: Which Copper Mining Giant Should You Bet on Now? - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mQXViWG1DVjNlXzIxRU9uQTBEUGlPWmxxTUtVMWxOSjhUYTVIdDRWZXBpdTdWam1mTklLZzcyaW9Ud21Ma0Y1QTRwcGxJUHgzNE9xX1pTVGp3czdBREFrV1FZRzhHV2tPRThqaWlGOFFZMk14S3BOa0FnOUdtdw?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Beats 2026 Output Goal And Plans $20.5 Billion Expansion - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm50MEtrWWVpMFZySUtaZGs0cFdMaDRld05ub1k5MDVFM1lvcUNwcmozYkFZdmVEd3dSQ2M2ZFJnUVBRc1FPYjZwNW1sVE1taVJGUzBlUWdCZ0hobHJXcENsenlzcjFVWkVINFFUb0FMYUdzOHFfU0s5YW1PLWE0dGJDZ3JBVUp6cVBDWllTTFVyeU5pS1VlR3oybTY?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Trump gets major win against China in African rare earth minerals race - Fox News",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWw4TEE5QkhhY2h3bmVvY0xfdmZWektOUW44blRMRVExZjQxb1RlcE5hRG5lR0sxX0hTZHUtUlBsdk9UeVB2TDhjbmsxZGRheGItQUtIZkVvUzBRSXF1RGM2MlRyZXlVcFhhcXZkZXQwZEFIQjhXQmY4c3dXOTZWZUxRM1hEdUQ1OGYxNjVYaFhnMWxWeXNxZXVfV0QyQdIBowFBVV95cUxQXzNLX1QyVk5CMEV6cHZKa1dNNEJ1Slg1aXU1OEdVdTQ4ZTAtS3I3a1VJQ3pSMkdFWE5qdnNia05BbThXZlBvNGJJM2hCNVRmX0Rkd0VKVkVjcG1MMTRmSGlGTnZSd3dwbHJySzJMTjI2NE1OQU5pVGozZTlNdDdUMlF2bkFSSmFJazlzSExxdnlHRkJBQm5pUXg4UkNwdnBnVklF?oc=5",
+                "source": "Fox News",
+                "is_premium": false
+            },
+            {
+                "title": "$3-billion Red Chris copper and gold mine approval advances B.C.'s critical mineral strategy - Vancouver Sun",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLVBZb2ZOOG5yNVBTLThlUjNnRnRSTWhhOU1ZQVk1cTlPd2NvdERtb2EwdzM3TGx0NmJ4aTBtVHVtWFcyX2Vlcl80NGxJb2dhY09ISU1yMnA0aWJHbjNOV1Y4bVJ6U0R5bU5waG1aVEoxR281M2hJbE51T3pDYmdtUWktNVloSWY3N0ZxZUlxa0IzUFJVTTMyNVFydkNWYU9hS1B3WUkzRGJWcnVKSGhqemRhSTVfb1M5eFFtT0ExN0phUQ?oc=5",
+                "source": "Vancouver Sun",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Prices Advance as Supply Deficits Deepen and Electrification Demand Accelerates, Reports Price WatchTM - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVVJpa3hGdGJ3VzdKdTU3YUNkcVQweTBfZFQwODdyZ1ZiN09oTV85ZEdqeW55OWFaejI5Q1EwZHR3WWZiYUcyTnRsRVh6M3RCNXRvdWVsQ2tVakVweUJ3YzZlcG1YSjNmclU2NEJwR3p4dVViWXZWdW5ETElvSll4cjFHV2ZmVnNNVFVN?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            }
+        ]
     }
 }

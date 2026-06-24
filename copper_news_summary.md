@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-24 09:21)
+
+- **[Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFM4am84YXp5UWNacXNrUl9XcWhjR0xwOXBsMkY2aUZIZ3BlTFVRUnRGNG9YUndCLWJmbzNGWkRWUDZVYTlYakVKd2tITHp4M1NOX1ZyUHpGdEFmemxfVzRnTjRZLTV2ZUd2YTFHNnpZWHVDemJ0N180V1JtRHVjM3V0YXhIN2N0LU5ZR2liU2U4UXE2dTBEM3dBVHUxZnBBZkVBSE5veFh5dGVEWmpYb2JR?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-24 03:30*
+- **[Vedanta's CopperTech Metals targets $3.6 billion valuation in US IPO - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0VtN1kxV0ZXRHEzRFgtTlFBdWs1ZElpOHpTQWh0RVN5RUU5a3RKZWtIZFctS3JRYUdQOGhxYVBPbC1iVTZsNlJlUVZvaUpUWVpSSGc5eFZGeUpSWEFIbjVmUVdyeU4wNnkzR0hkTm45OWU4VV9ycEVGS0tnZkwyM3J3RVFTV2o4ZHJSWU9yRzNGOEFrSC1qbmpWdUp0WUk5c1JRVlhiejRZTkVpYmQ3d2hNWUxZUQ?oc=5)**
+  - *Source: Reuters | Date: 2026-06-23 17:20*
+- **[Vedanta Eyes $372 Million Raise From Zambia Copper Mines IPO - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1I5WGRQeExwM2lTTlI3ZEdVTEZMaHlObnpQRWdKRWFITzVqS3FfN2tSZ3p0bTRYNV9Bc25FX2dXemtJSF9ZQzFyZ0gtcnhZaUFpZ0xrRk1EQ0ktLWlCRnduVWwtbUR1N1ItVEI3OUdHcUw4Nmo3YVFjaHJoQ3B0ZnBueDM2RDVZcHo0YmNkS2xDOUthLV9vTjZlcTNScFJnVkFGbjlhb2l0bTgzOThnRVFoYw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-06-23 13:25*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-22 11:45)
 
 - **[Mapping the Market: Copper's pause may be setting the stage for the next leg up - Reuters](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zVU9aRWdNOUNGeFpMaHZfcjAtc2U3Tklwd3dIUkxacERRSjh2MUFNdjNjLUExejhMdVdfYi0zdklBTGF5YnpkcU9JZXFybG9CMDktVDI5Z3BlVWFPRXNYY253ZkFuSTNGRTR0U1ZqQ0ZaY2UxVTNTQQ?oc=5)**
