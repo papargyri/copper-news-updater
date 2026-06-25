@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-25 08:54)
+
+- **[Copper Climbs as Lower Dollar, AI Rally Counter Rate Concerns - Bloomberg](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWRqY0d1cVpJdHAxMFpWZG95blEyUHc5eWhWOTZGSktNZU5PU091Zk45OWJqVFY2dFhHYVMxYm94WlFVa1NUb1dkZDJMU0JMeFlPeWxDRGtRalJCUnhJSUg0MmxEZ253XzhDZFdFUll4YVVHejRNX2Z6ck1Tb2VnVHZmQTE1Rm5ybjBhNUcyaWRDcWczQUlEb21DYWl0LXR2N0JSaWVNZTBiX3FZekx4dA?oc=5)**
+  - *Source: Bloomberg | Date: 2026-06-25 07:33*
+- **[Chinese Copper Supplier Says US Demand Can Bear Trump’s Tariffs - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdlBuaTNNUHRCUHJCN3JaWlczMTMzX05VYllGZF9pUDl2d0VkcnktZ2tHXzRlRVpBcnJmTUpSaGFyZTZhSVBiRENDZjlJdV93dnpLbkFwcHFhQXdka0lyZDRCSFhoQ3paUW52X08tR1FxWE9iMDAzVXVwdjNUUGROai1EVG03WUdkcVk4ai1HVk0zNWdWLWo5OWxMSzJ4d2FoZ05mSFZTRERqc0poUzc1LWF0TGI?oc=5)**
+  - *Source: Bloomberg | Date: 2026-06-25 02:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-24 09:21)
 
 - **[Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFM4am84YXp5UWNacXNrUl9XcWhjR0xwOXBsMkY2aUZIZ3BlTFVRUnRGNG9YUndCLWJmbzNGWkRWUDZVYTlYakVKd2tITHp4M1NOX1ZyUHpGdEFmemxfVzRnTjRZLTV2ZUd2YTFHNnpZWHVDemJ0N180V1JtRHVjM3V0YXhIN2N0LU5ZR2liU2U4UXE2dTBEM3dBVHUxZnBBZkVBSE5veFh5dGVEWmpYb2JR?oc=5)**
