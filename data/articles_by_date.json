@@ -16053,5 +16053,138 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-26": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "Cyprium\u2019s copper restart gets a technical spark - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wdlBJeGQtdXRHaG03Snk3SUFxN0s3dS1FNmxiVVByeVVJQVkxNzZNUlA2WTJjX3JlaHVsX1pmNHozWWJwQkNEMmRHZl9IdS15bm1PSzZ1V0hCRFF6MENJZmNmbGNBXzBSRUxzZjRCYUhHTmc0RkRfdA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Solstice delivers \u2018exceptional\u2019 copper-gold intercepts at Nanadie - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVowWk1hcFdFc2hXU0k4ZFhwcEJfNURla1hQaGR1V3hCVXVLbWFNN2ZaS2oxQUEtRlIzSGxSQlhBRGtnT3pwOWtNZFhOQnY3T2V4Rll2clg2bVAzVHV0Z0pSSFBWRDFnaEsxZUd2SUlJUnVpQVJsNE9vNGJhYWZjQXJvdW5US2hoWDJwTTNTdw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper soars but smelters can't bank on it to survive - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGg2dU52a1NwMzg3LUJjUzRxRDBCME9EX1RrbGRzOTI3cVg4QnlfQzAxNjZyQXAydzV6OHNER0lFcXdpdTEtWXdZZU1NZzFfOXpodnNQNndCUVhFVnhJRlRTWjV1cUxGb3NJQ3VCUDExOWFORktCRUZlTmZSYkdjRUlkQkNZYU9YTFI1bFp2Z2N6UUhCM0VSY2Z5YjlIdEVNX0E4ODJwbTFKNDNJV1BfdQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Red rocks yield coveted minerals in DR Congo - MSN",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGg1Si1WMHJ1bm5ablRSSVlHOXNOYWxfaUFPVzdNVy0wc2dkMDJQTTI3dUVYMk1yczRjZFFzeW1sbTI4ZUlac0ItRHVRcUV6Vm1kRDJXMDlJSWt3cGh6dGhCTXBFaHdFV05md0hxd1dyX2VfOUZ3TXBMcWMwTWpDWE8yMjNsbDdKSGZ1RWpNcEdTZGxNanN0SQ?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia\u2019s state-owned miner seeks to revive London listing - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUtlTEJhSEMtamtFTDZ1N2tjNG9LM2RCM09XMG80OW5NRW03OW82SzdpM1FEaERLMTF4bUtmZjQzcXVNaXloUVFxdWZkQWlQc3pOckRkRzRxTmpHMlVHSGM5d2JxaDB0X2xGT0pGRDJJRXlyME0yLUVITl96c3NwaGF4TjQ?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Red rocks yield coveted minerals in DR Congo - Yahoo News Singapore",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qNUVDaUI2Z3BHYzRPU19Bd203NmluQmw5dGlpVDRpemtiWG9kRWVqempyTlJBNnB2RTRQazdLbHZsdUxOWGJjUGdtOFB3TENjTldZMDRwRjI0dzQtZ0NBQWdxcjFvYldkZlBFcjFOUHEtNGlhU3dDcXJ0OHBmUQ?oc=5",
+                "source": "Yahoo News Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Plenty of Paterson province to go around: Antipa\u2019s prime position - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2tSZk85TFAzcWZITFpyemJROHlNWng1ajFNNlJxczQ0OGtUVXVvMUxPSjNjbVlHRGdoOUNZU0RpZ1MxeXZlWE16bk9BeHlJaThnQnFubzVCaXN2WmUtQVd5TUU2aGNuSVowUnBMTkhhWlFZWnlzU1oxWVYyellNU3RLdGFYQkFMSlhMcy1Vbw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Canuc Resources reports East Sudbury drill results - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzQk5NZV9tWjJPSlRua3cyMFpUcTNwZUg2WkZIWWdBRXhNQkNXNGRtWkQyOFJiVVVMejljWVByNTUxV0laLVp2TDgwa01MaS1mQ0d3bmhwLW9QVE85YmRPaURndWx5ZjdzdmV4cHNSbndHNlJUZkg1U0RyVDJwdw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper closes oversubscribed financing - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SempyTEMzZkRfMjMwOVVtWmw2Mjd6TTJkaEJGdlRydUlPSkJSOGUwb0pYN2lIZzhDWEg0TTNVM3RGQ2xRT3VDYlM5TDhBM2dtSV90WDB3R0ZIbXAyQVNpWWJuTjE3MFFSdnNnVjBuMFh3cDNjeVZn?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Recycling Metals Could Supply a Quarter of Global Copper Demand by 2040 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3Y1Q3BydWZwRnQ3TUkzZWNYX29Jb1dtcXBXakJzcXcxUjRFOFlGdDNPbEJBUVZTcWZrR0JDZ19UVC1uOTZSTk4zQ0Y2b1pXekhBek93V3FRTlJhekZWazZxMzhzZHhwcUFiVXJ2cWl1Z2NZdGRIdTc1NFhXS09GWFh6V3NNWGs2UHBtM1JJNm8?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Giga seeks copper in Turnagain's Attic - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0R3eGJuTXZRbjlOM0t5MzZSUjZqZjdrV1hjbElSYjR5cFZiVW9tajM1amZIWHFTWDB1TG1nZUVxRVhTSjdwMm1Ra2MxaDJwTFJyTUpJVGUwWndyN3pjNDRfM2w3cm9sTUNGU0ZZeEt6ZThoNGZ3cnNRX3h4aEZsRFY2ODlsWEEtTkl2bzhTYW5kRF9jVGJFZ2tqYnYzbkt4SC1BemJSMFpabktJaFp6SEpLR29CUQ?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "US Customs Blocks Copper Imports Over Allegations of Slave Labor - earthworks.org",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWYza0ZWQW10ei1UTXFiTXVNWGc0SlhCNmhuUUZHSVlCaDE1aWx2RDQ3b0tkN2F1UnRubmY1a0tlR1FJZ2ZkR2c0QXM2T2ZwRGtZWS1pQk85TDFvUGpFVnNZYk5xS0d4a0E1Sm1aS3ZPX0w5aEJXbzhqdlZvUmZzbDNrcGwzelB0bWlnbTlpSDZwS2M3cy1sZg?oc=5",
+                "source": "earthworks.org",
+                "is_premium": false
+            },
+            {
+                "title": "Generation Mining nears C$1 billion copper project funding - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdC1HTFNDQTFVdWV2MFVHWUxPV184V18yYjNfWVBoajNodmlhQ3hhdkhtS0RCekFXdHR3c0ctMGdnRkZUeGVvT0pubjk2OWJmT0dnYldxb09VOU5CRlJfSF9lNDZ2Z01nNTJqaU80bzltejdBdnMtRFBRTUlyV0kyOVZiT2ZLRjlf?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chinese copper supplier says US demand can bear Trump\u2019s tariffs - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2M4OFkzRHo5ZlVETVBvQmtnSHpzaDFPNG5mTDFsQVpLV1Y1MzgzeGpKOVlWaUFoekloSUpqQ3dHdFh0MHU5ZnpBbks5UThjWkd1MnY4T1ZDM2lNTjViTVNRWnRzbkZZbFBJZ3hBMXc0bzNEOHo0ejFrMnkwMnE3SE5lQ3BqZF9OdjdxRjd0N2VoQzhI?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper rebounds on bargain hunting amid softer dollar, firmer risk appetite - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd0RaTzI0ZHVRVTM4cm1kU1dkR0lrOUgyS0JzU0ZZVFlkbkJKY2R5bm1uWHc0MUpFVEVndzVkYWVySTZtSG0wWGUwRjd6ek9sXzFTR2N5NHZZQ0tjOXNmWkFxNlZrbmVMYzB6Zi02eFpUU3dPZC1RdTlEcDlGUzh0VjZXTEJaTnVha3NVRXp3Nk96RENpbE1aZUFTXy1fbl9BeGFld0tWSmlPVEpnSTZMem1GTnRwbHVlaGZMcGk5Wm1nX3VVMEI2dHZaRl9qTXdVVk43bE5sSmZKRXExNllaTVlXM056ZzdJM0ViMWNmS21ud9IB9wFBVV95cUxPVHBlSjZjVHpMbVhtY2E4cWxhR1lUUDF5VmFNbnlyTWQ5cUdISzRZZ0FiN2xiREFuVnF2b0wzZ2hJb0R0WXNTRnR2elRyTUFjaFVMaTdtbS0yMjJ0N0dadGcwUnNLbllKaVRvTERLQ2VDX3UtcmRTUnQzOGxsQXJBTmk2SWdiaWQ0SURQNEZkNWF3Zm50Vl9jQ1hhYXZ3LWdDVXJhYTdNNUp3WmpTcDJxYU1uOThaMFRlVm8yQXU2WnZKcEhpYTEwaVdFZ0lsVzdnR056bVFrUmkzN0lqWjhTQTZQYmdiY2JaYzNBMmRMdkN0eXFWQldR?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper Corporation (SCCO) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNEphU3lTcG80Q0lBQV9KTEpYcFhPNWRCTEJ1U1RsbGlWLXdmVkFsUW56WUxNSEpNSzd1dE5SUHNJNV92T0wzWUV1bUxtRVV0anp6LS1oY2YxTi01T3N3RFprb3hKckFDQmtMNHdISnJ3bUNrR1lIbjdkNzhlSXdyQUxZWkNFZFM3WlFXTFRERVR3WTI2T0JfNFc4N0FRUVdnZHJaQjFBZHFkUWFx?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Getty Copper Advances Highland Valley Copper Asset - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak1PeUtQdjBVdFhYTGtIUWZzQkNBUVpia1lYMUJnZHhwQ2xSdVlpWHB2T29JYXJNSVpyT0k1c3Q2RDRTXzMwMUFTOGVsWXF4bDFEOU5EV3JLWHpUNmo3OE1vUU0xcXVUel9CajItbjJPekNTVUtMSGVQQXVQRkh6eHNfNHdyZFliNlhvbHBmaUt0NW9nQzJHeUNMak8xRmIzOXFrYWRxd0hBdG9p?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's Codelco to consider asset sales, partnerships in investment review - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlNSQTI0MDk1S3gzdEdaTVFmamZEWVpfUFJXb25aU2xsc1ZzYmhLYnlIcXdTQmNRRTV1WUlGaE04Q05ocUcxQzNEbzBxR21CZExzdXJ2VjVaOXhmaVB6OUMxRGo2Nm80dlhRUkVkU0hsYkZjSlgtejgxb041MDVlM19jdklSYjhBR3pOZ2N6VGtKa1pVcFVXYVhiSnZLcFE0X0xYdmx5bVhVNDVyRU1RSmRrRy1ySVh4YkpaMg?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Pirate Gold Corp. Advances Major Copper-Gold Discovery - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXZSWXAyaGZXQ0dsMFZ2dTVZWXQzajZEWG9jREdtd0g5R2VSMnNQR3QtTkhNam5vSWNHT3lyT0F5R1VNZ0VkbnlUV1NYN3VQYnNpeV95TjdlMk9jcUJGVEg5cU9yVnRSS0lkT1ZEZzAxREhra3VoZDMtOFhjRzBFcU85bldZdjZ0T1czWVlEVTBqZDNHTW1aaTdSWkNwd2lKQzRxaGpoN2VqR0pfUjRzOA?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "New Copper-Gold Discovery Delivers 180.8 Meters of Mineralization in Newfoundland - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMlpqcXJlNVVETWpJaWZUT1dmVnRzd2tFOUtvRkNOLXcxM3VsejJwVWNMcGp1LXJWUE1ESjVGbXIxeksxaERpX0tMLXFla2RlYVI3aW1sME8wR0Foa2hKQnhaWXc1Wmk3Tk96cGNFSGtCUEx0UWdDTlNZUDA2dEtwaTN3NTVtcEo5MzBIeF9LSWpXeXQtQ195a3h4YTJKQjZ1cGlDYmhTRE5zWkZrNGhaTW0wQ0VQcDJUSkl1cTJvQkdPOVN4NGFKQlMtRHNnQmJkcE9rN2xn?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Vedanta\u2019s CopperTech Metals targets US$3.6 billion valuation in U.S. IPO - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY0R5WTdtQ0FtbnFXSXZKZy1LLXZGbVhLalFDQV9FS1ktYVUxZkFEbWU0OHVsVENkdjRtNGRVdWR3Z0pIbUVRMEh0QndKTk5DUm1VOXFFM3V0RjU0SXV4LU9VR0VjQkJIQWxycVgwYUFlRU9ieGtWMm9ZMkQ1YnJycUh0UllWYS1IQUtzaEdKV1U0alRKOFZxTk1peFhBQmF2cVRabWhlWXAycjRTS3o5cHU5dk9URHRPTzRua2NsQUkwNHNhZlBfdg?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            }
+        ]
     }
 }

@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-26 08:57)
+
+- **[Copper soars but smelters can't bank on it to survive - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGg2dU52a1NwMzg3LUJjUzRxRDBCME9EX1RrbGRzOTI3cVg4QnlfQzAxNjZyQXAydzV6OHNER0lFcXdpdTEtWXdZZU1NZzFfOXpodnNQNndCUVhFVnhJRlRTWjV1cUxGb3NJQ3VCUDExOWFORktCRUZlTmZSYkdjRUlkQkNZYU9YTFI1bFp2Z2N6UUhCM0VSY2Z5YjlIdEVNX0E4ODJwbTFKNDNJV1BfdQ?oc=5)**
+  - *Source: Reuters | Date: 2026-06-26 05:11*
+- **[Zambia’s state-owned miner seeks to revive London listing - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxORUtlTEJhSEMtamtFTDZ1N2tjNG9LM2RCM09XMG80OW5NRW03OW82SzdpM1FEaERLMTF4bUtmZjQzcXVNaXloUVFxdWZkQWlQc3pOckRkRzRxTmpHMlVHSGM5d2JxaDB0X2xGT0pGRDJJRXlyME0yLUVITl96c3NwaGF4TjQ?oc=5)**
+  - *Source: Financial Times | Date: 2026-06-26 04:00*
+- **[Vedanta’s CopperTech Metals targets US$3.6 billion valuation in U.S. IPO - BNN Bloomberg](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY0R5WTdtQ0FtbnFXSXZKZy1LLXZGbVhLalFDQV9FS1ktYVUxZkFEbWU0OHVsVENkdjRtNGRVdWR3Z0pIbUVRMEh0QndKTk5DUm1VOXFFM3V0RjU0SXV4LU9VR0VjQkJIQWxycVgwYUFlRU9ieGtWMm9ZMkQ1YnJycUh0UllWYS1IQUtzaEdKV1U0alRKOFZxTk1peFhBQmF2cVRabWhlWXAycjRTS3o5cHU5dk9URHRPTzRua2NsQUkwNHNhZlBfdg?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-06-23 18:49*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-25 08:54)
 
 - **[Copper Climbs as Lower Dollar, AI Rally Counter Rate Concerns - Bloomberg](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWRqY0d1cVpJdHAxMFpWZG95blEyUHc5eWhWOTZGSktNZU5PU091Zk45OWJqVFY2dFhHYVMxYm94WlFVa1NUb1dkZDJMU0JMeFlPeWxDRGtRalJCUnhJSUg0MmxEZ253XzhDZFdFUll4YVVHejRNX2Z6ck1Tb2VnVHZmQTE1Rm5ybjBhNUcyaWRDcWczQUlEb21DYWl0LXR2N0JSaWVNZTBiX3FZekx4dA?oc=5)**
