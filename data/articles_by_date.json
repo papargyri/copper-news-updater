@@ -16265,5 +16265,18 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-28": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 1,
+        "articles": [
+            {
+                "title": "The ultimate AI proxy trade isn\u2019t a tech stock\u2014It\u2019s something more humble - thestreet.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmg4R21pU2ZMekxxTUw2YW45QlFMUGxNUzYyZXRSeThNcnhqYm1HTkx1blprYnJVLWcwRnVKdko4aUU4VUFraU50Yndya1NjUGVvdGhMcVFJOEtHNlV2N2UyajJkcE9mY0JMQTdkb1NUcENoQmZ5NHFWcENGSUMybkdpUTZtQThQVzFTZmZPZmRpWEMxbG1uZ2VrVjlvTlRWY2UzNzllenZ5R1E?oc=5",
+                "source": "thestreet.com",
+                "is_premium": false
+            }
+        ]
     }
 }
