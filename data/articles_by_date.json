@@ -16278,5 +16278,72 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-29": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "Copper Fox Announces $3,000,000 Non-Brokered Private Placement - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHB0OTNkTlJiaFNQU3NKcEFUWm5iaFgyVHBNdElfT2w1U1U0WEpqQmd1cHVqNndIVWtlcFpJV0ZxSU9jNTdIOW81V1ItV1U1b2tIdkZkNEczWHE5MjVwX19SbDZUTllBWGhUd3N0Wlp5YUNkZjl5SGdwaHdrczlGbFlaUEpiYWJIU3liSXZvdzhNMlJqd2c?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Northern Cape becoming the copper gift that just keeps on giving - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3VHUm80SHIxN3RfMmZPbFZqVnY2LWdIY0dzX2tpSEM5WEp1clpyNVVsQm9yT2JEM1BYZVhiZmRJNURmYVVWTHMxMVp1dmwtRURxT0l2NHJmeHdITXJKd0FQTmpuYk9ma3JmenBzaFA5WXNPaG40VEhGNzFJaDJJTVJqN29CemwzVm9FNTNmWjR0S0tzOFNqRkdCRXRXbVg3RnBiY20zY3FNN0p0ajhzSTJ3?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Chinese copper smelters baulk at spot-indexed ore pricing proposal - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3lDRVVzUWtLbTdXb0tFOXRPTU9VNHMxZjlnX0JQbG0xa055WHRSUWR0bzJQNnJyOG9HaDF2ZTFESG9reHNmeVNzMWx1bzNLVHpKRUh5ZDdfY1hmdW1fNDY5cDVVSlBYTmNvQlJKVzZ6M0xPNi1ZNW9nVHFLZHpnUFN0aDVRaUhKem05WDZSVGRhNXVJbkFaOWJFakI5b3E0WkZoU29jcmFWa0x2MDJ6WUlvYjA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Cobre expands Chilean copper footprint - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hU1NGNkdiNUd1ajRCcGZLTTA1U0Y2V1J3NnMzRVBuSE9fanhqTXprSzhmMlpwblBCODJRbFhZSG80VGVLWjZXa2R4djRvT1VTYmpNTnk1MzZGa2xCd1M4c3pEOGM2anpjOTNHMXRR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Catalina wraps up copper-lithium acquisition - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iVmZOeVBUZ1d4Y3haSHVQRF9aZnpzVVQ0bk05N0RaaG8tdjl6LXlvcFcyTld3MDE4ejdlNzFQNy1BOWdxMFA4VVpGS1dPWTQ3TEw1THFxVlU4OFRsYzktaXdrS29oMTNZa2hveVRmbE1wdHR1dFE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Gunnison Copper strengthens executive team with new COO - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnlFa3Rsb28xUDQxYnE4RXZYZUFkLTdOR2dMbGZTa3JPdE85R0szaVU5OEdrS01ZSm5PSDBwMy1XVUZabE9YbG53ZGdDZnV0YlNTRWhpQWZONEpHeDlWaUl3aWY2dTBQbzYwbmduNlh5OUJLTnVVaElhOHhhR3FOcFJHUHQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Nicola Mining confirms porphyry copper potential with first Jotun drill - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2UtTXdqN2NMdDJ2Ynp0WjVQMDROLVRPUno0Nzd0QzJhWDBSVFBtaW9wSDIxZERXNll3R01KeWVZdnBNd2xZQzVEbHNyMnRleTRZQ1lfeW1pdThJRXM4U21iSVZDZUpwMzc2eG42V09JWTl4d2pTZ3RxX0hNbC1YNVctRjFycnlhajk4Z2VOdGlkOGFZMHQycUl3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One launches AI-designed drill program - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLYk93WDFHemZDbzZaWlJrQVc3QXFRTTNuLUljLWZ1S1ZlTGVYQnRDNWNfWFgtc0xmY1hhWk1lU3BrSzlmQTBfY2I4b0llWlAySWxnakhpUXRDNnNKVzg2TUphR3V6RHlTaEtuMnc5bTRic0IyRzFN?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Creamer Media IN FOCUS: Copper and the Next Phase of Mining Growth - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSzA1VnNnT25VRjBIcWtKcUFJd0FIWVNjeW82dVR4WWlXUFZhZGhvNllIRk9CaWVhZmd6T205RHlNeXVIUmRwbWI0Z1BMdHo5ay1lRnplRUtVaEs3N1k3WUVfQi1GcVMyTGMzZGxtaFF5OVJlWjZaOGJ4bk5rcTRpTVE4QkxQVzFaMTQxdlZscDJzLTg?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Grupo Mexico: An Intriguing Asset Play If You're Bullish On Copper (OTCMKTS:GMBXF) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVA0VHBJYkNjT2N6RGx1Rm9zREVjVVdMVzRSd2w5SldFSVRMMWVxdlgyaHVBbHRNYV9FSmtvSng5NTVOdkxJZVRpaGUwTGFGRGdiUzRvSHNYVVFtckVVbTVQaWFqMnFUUGEyTU9YY2U4aDFPWGpOR1dadmtRbjJIbzRFZkZmUVQwd1lXZWFGcmtnZlMwVjZaVHJuaEo?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            }
+        ]
     }
 }
