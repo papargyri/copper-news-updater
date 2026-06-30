@@ -16345,5 +16345,96 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-06-30": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 14,
+        "articles": [
+            {
+                "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2lPRHR2cWFNZDNkUldYQlBkWnNnU0dZU1VMQmZGMHZIWW1YamNpLU9SNktDc1htRnJIVF9QcFVlY1pzNkdOYjZlckduODlyZFdrVXRpSWNHNnEzWW5PblV3ZWFZV3NOUkFoRlZkRnZUS2FabGNvM2xqRXBjZFhOblI4LVRlaEItTmlkclpFbmdBXy10M21ZT25ITXZ5NW1xTkI3ZVcyV1p6enBxQy1jcmEwZFlIYVdGdThGV2pzWV9jaU1L?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Why companies are swapping copper for aluminium - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU01ySzZTWkhvMkNfeV95V3FRWTlhVDZVZGxkWmFXelBVbGdmVUNMWWNodnZQRFFaSUlsWk1CQWFrVTEyRk9qOU5lQTFQSlMybjNaMV9SNk9wbXVaXzRRdDlxeV9wUjJxZ1ZUVjNTX3lOd3BWSnVXMkNmajZtMUdpM09yRGFwT3pyakU2VUZMdUtSVndsN2pOZktPR0FVbUZzSnAzeUhGV25hQjNkTVE?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Buxton finalises Copper Wolf JV sale - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90azdyNTdESHo5UDFELXF2cFp2U1J0dzY3VTY2dl81ejhpSFBLOTBxc01oQ1dBWThrTm9CZ01TTzY3bTRmUHZsN29aVzhtbXc1MEpianV6UjIta2RXQ2Jsd25yUlJDZkRvSGlB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Price Spike Likely As El Nino Weather Conditions Develop - Forbes",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUlhMXzVzYTZ0UDBhYk01VUFGbmdPQzZOemhRUV8wczdOWkh5aWpfV3VfOGlxWmVWY3pHS1ZnMmQ2RTJGenc3Yk9oUUZFSHB5bnVSZ1FQT2FZdUZMVkgwZm9rRDRjUDJXazRETDg4dF95SDh5eXptU0tZSlNoM1JMRWtpeWxUMFNWYjRqTFBPOVdocjRCNVF6QlJoME5qaGd3TTdRSWNIb0s0U2FGX21XVTBFZkI4UmlE?oc=5",
+                "source": "Forbes",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper boosts 2026 MPD campaign to 16,500m - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92Z0RPQmJGSlRuanJtREJwcjVnN0dFWGZsNjhIcnkxZTdIT0Z3b3FrVC1yRjVyYkhnV1g2blJHZTRNQ0s3NlRWbnhCVGc2bC12aUdObGMyajhFaUdPSTU0S3MtMG1TTGlHbHlrNmVyVVpXN283RE84a0VIYw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Talent Tuesday: Executive moves across REEs, uranium, and copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2JVUEFYUzVRcWtsblRENnlnQ19ucmtMNXFqTmVNbEo0UG1velhEWEtac3RGTS1oUU9kZ3VveGJIR2h5Vm9xT3o1TE9nalM1VTRuRmFSYTBRTTVQQ3RYaEFMX0tsNERYcnRFd3JXZW1ZMzhoelNzZjFrM3E5dm1IWE5SZ19wcVEzdnc0UGkzM3pFZWRhV254VUs3cTREbjE0dnBMMTY1NjFGcnRfUWFB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Can copper prices keep pushing higher? Some financial giants suggest they will - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWF0QUVIeGQ2ZGVITTNZdXpraWhFUGxEVzVrZHBrUHZVb29QQ3p2NjBnZ25sNWRTUkk5TmlZMjVRYjhOczlTNUVjRUFNdHhkVTlTVFIyTHJweW1oczhERWNZY1Q2OUJ1eUxlWS1tcnBFeWI4QTh6QmtLY0lyOXJHeTNGX1BNQjlpZ1dNOEwtRmd4TUthOGV3VU5OTWhmcEl2eFdXZnZ6dzRkM19SQ0otN1ZTSUVBQVZheUg2WnU5TTBCYlg4cFJ3LVI4QzdvdnA1?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper has broken records this year and AI data centers are the reason the rally isn't done - Startup Fortune",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQk81SlFEZlNqY0hGQWUxZUY5SG9xREFRZ1BBWXI1RlQxSHpnNTM0ZU8xN1k3aXlJdjU4VDVjcXJ1X19QYUZ5bmg4OHZ0UGdrb0pCTUJaS2g5QWJTcXdqUUN3eTRyLWtpXzlyT2NJU25vZUtrZzNYbjNvM0hlSnAzX0d1TjBPNWlGS3oyWXFFMU04WVNnZFM4eWYyR1B2NVhBOGdnOXd6ZFB4S1lwbUdpRDlGMlJvUDNNVGc?oc=5",
+                "source": "Startup Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman Sachs says the Iran oil crisis is just a preview of commodity shocks to come - Business Insider",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmhDb0hXNXhrN1BIZEsyZ2tUY1pycTcweFB6UUY1OHNTQVhMUjgxd0RuTmdJQXFJZWhXeVdtYWpOai03LVNWYUpWZ1RvaXpBZGdGeUtxTzMzanU4ZVNsOFpZcjZSdnlTM1FPcVFualZFVlpxLUY2T3ZvYjZINDA3aGM1QzNremc2akVWM3RXcVlJSGRYWk5ndmxsQ3FTNE1MYmdYWjQ1STJiUG9U?oc=5",
+                "source": "Business Insider",
+                "is_premium": false
+            },
+            {
+                "title": "CEO.CA's Inside the Boardroom: Nine Mile Metals Hits Unexpected High Grade Copper Zone at Depth - Barchart.com",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWVpraEE0bE8xQ2FYU1JkWXdSMFBPS2tRQS0tWmV5WlV1eU5IQjhJdVVsRFpYTm5rS0piX3NSQ196Z1ZuRDdoM0o2TzRiYjZaMkt1bmw5azhpX1IwQ21jWGd2NVdQRDFuRXdqWDNfNmg4R3lTcy1PdW9TZTBRaFFFN0o3dnE1Ty1aa1JFMV80aE9qZUZIM2pwNVQtSzRxN1A5YnNsN2RTbmRxNXdTNVM5M29wN1pWUF80S2t5Tk9sdXhCMmZQQnZDZndYSW1xYnNLcFpLbA?oc=5",
+                "source": "Barchart.com",
+                "is_premium": false
+            },
+            {
+                "title": "Fitzroy drills 1.7% copper, expands Chile program - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXEzd2EzVHE4cG9nUEhRV01EdUEzY2h6SENjMjF2Nm1VRzdxem9KMkl6cER1TXMtUzRZQ015WDJTeWRlZE5JeEpRV0h2MWdfNWJvR3VTRjV0S2VNdER4VV9PM2RpSUlqMTZ6N2JxaEV0aXVHWURzRkRDdFZlYU5keVM2bFNZYWZhTUtmdG1iMkxIVmxzNV9uaFV3?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "The five largest copper mines operating in Australia - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDgtNndZNlpMNEdxVkx0ZUtmYUZXcm00dTA3SWZRTmdROHhRRzdvcnNkcEhvU1c4WDE5czZZTGJHYUxGWjVPcDU2bnUxMzJCUW11MmZOeGlCU29ZbDhUNllRaFpiQlAxMElRWHIzZWUtMkpXVEFhSTBWT09OQlk5MA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Chinese copper smelters baulk at spot-indexed ore pricing proposal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVExb3o0alRzWm16R1M2Yk9XN1ZRemQ3YWdzaXltak5CQ2FQN0FvWWY3Z3BYM3JDWXpnaHRQY2xKUkthRXpzMG4tY3oteS1IQ3gxWV95OGhiWXJZMzAzM2pDd2g4RE5INjMtSkdvN2tad0JwQ19TNWVKdmhTUUgwbUJad0F6eW5WWlhPVVBQODJGOXhuRkRPUzN3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Ecuador copper explorer Sunstone welcomes investor DGR Global as major shareholder - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUl1ZXdEdnZJaklIeWkxZlhlV082UllZeG5MbTRjdkQ4SE9TSnRaNm5TSG10MXRVNGQyMlNsNjdiYVZmaXl5YTgyZnZDWGN3cU1mWXh2RzBNVUk0ZEwxcVpQaEYtdUZiTkMtdkxxcTdPVUVvRGx3TEFJZFBBRnd3eFhJdUwzNnFuT0l6Ukk1SExQUktRVUFYS0tEYWQtc1VXN2ZuTzJnMmtHSWxrdTd5OFZDYUtFMzFiSGhrXzFzLVRtTF9KUjk2bGpB?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }

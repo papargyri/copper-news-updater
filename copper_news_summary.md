@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-06-30 09:27)
+
+- **[Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2lPRHR2cWFNZDNkUldYQlBkWnNnU0dZU1VMQmZGMHZIWW1YamNpLU9SNktDc1htRnJIVF9QcFVlY1pzNkdOYjZlckduODlyZFdrVXRpSWNHNnEzWW5PblV3ZWFZV3NOUkFoRlZkRnZUS2FabGNvM2xqRXBjZFhOblI4LVRlaEItTmlkclpFbmdBXy10M21ZT25ITXZ5NW1xTkI3ZVcyV1p6enBxQy1jcmEwZFlIYVdGdThGV2pzWV9jaU1L?oc=5)**
+  - *Source: Reuters | Date: 2026-06-30 07:56*
+- **[Why companies are swapping copper for aluminium - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNU01ySzZTWkhvMkNfeV95V3FRWTlhVDZVZGxkWmFXelBVbGdmVUNMWWNodnZQRFFaSUlsWk1CQWFrVTEyRk9qOU5lQTFQSlMybjNaMV9SNk9wbXVaXzRRdDlxeV9wUjJxZ1ZUVjNTX3lOd3BWSnVXMkNmajZtMUdpM09yRGFwT3pyakU2VUZMdUtSVndsN2pOZktPR0FVbUZzSnAzeUhGV25hQjNkTVE?oc=5)**
+  - *Source: Reuters | Date: 2026-06-30 06:14*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-26 08:57)
 
 - **[Copper soars but smelters can't bank on it to survive - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGg2dU52a1NwMzg3LUJjUzRxRDBCME9EX1RrbGRzOTI3cVg4QnlfQzAxNjZyQXAydzV6OHNER0lFcXdpdTEtWXdZZU1NZzFfOXpodnNQNndCUVhFVnhJRlRTWjV1cUxGb3NJQ3VCUDExOWFORktCRUZlTmZSYkdjRUlkQkNZYU9YTFI1bFp2Z2N6UUhCM0VSY2Z5YjlIdEVNX0E4ODJwbTFKNDNJV1BfdQ?oc=5)**
