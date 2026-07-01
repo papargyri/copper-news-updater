@@ -7,6 +7,24 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-01 09:38)
+
+- **[Breakingviews - Aluminium deal births copper takeover target - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVV5WEVCaWZKakZrUkVyR3JqRTFfZjJGUkMwWTNpM05jZnMycWpHWFhhUVVkaU9SMm4wTlRJYlh4OFJMNndkcVI5LVZJMG52Z3NxTzhGZXdpYUFGM2JUa1ZxN0Q0aFIwTm9jOGhZWFpORndQOS01TmF6c3V1WUN0MGpLSHg4d1kyQ25HLXpVY3JERWQtMWhEUGNPODVGUlRjSUxGSEZOdFA?oc=5)**
+  - *Source: Reuters | Date: 2026-07-01 07:49*
+- **[Copper Traders Gear Up for Another Round of Tariff Turmoil - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTBQc3lYdmVyQ2JRVDYxOVM5X3hEVnAxX0pjSUk5YU9tNjV6d0pZQUtKaHpsRC1ibzJTeVFnejd6VUVid19BbVl2TUhwOWVrQVVOQlV3M1dQLW01Q1l4bndUTDZyQ1k2NUFEWDV1RFdjZDdxOXI0YTdLQjAzVUtPeTJOSVJjb3V4YnY0RTlpWkpDc2NVc09BcVc1Vzl0QmhuXzBLelkyT0h5TjRKQzZWYlJR?oc=5)**
+  - *Source: Bloomberg | Date: 2026-07-01 06:59*
+- **[Aluminum Set for Worst Monthly Loss Since 2008 on Supply Outlook - Bloomberg](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmFpeXpPb2VpZ1pJaXlDYlY4TXpGUlFxUHFmS1V2MjFLeF8taU9mcHU5TmlYYmtjOTltTEVQYnBOVlBkdnRabnNnTklfUHdaZWNYMVduUTB3N1FPSXZ2eFBWM1cwRE9Ydi03azhVYVlZUC10UUMwZlg2c3B1dDlNLTBwM0hNdURFZWExd0E5UzRQSDlfdU9JTEs2ZWJCVmlpWmpldlJaYTRZTzFNbnZWb2cwSktTZw?oc=5)**
+  - *Source: Bloomberg | Date: 2026-06-30 18:58*
+- **[Vedanta pulls listing of copper unit day before IPO - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZzBkRE05QUU3Wl9wZEN5NFVuTDk0M0s3aGFON0plZ3ZBSmdYMkdjcDZEb3d4NTJWU1VObEVoYjh6N3dxZklTcEFCR0dwTHY2elR5VjRFMEh6NC1uQWhKc2l3clFQam5OWjM2OExlSEU?oc=5)**
+  - *Source: Financial Times | Date: 2026-06-30 17:36*
+- **[Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjRWV3F4bnhCOElySXg0ZzNFZE5ETVhyT2dLX0VoOWJsdncxTDNVYW52dVNyb3RvR0gteGFveHVMbk1CVmxsYWtTbk9aazlZYmFfNzJ0VUpySllTZnZfZTVJaHNHaHhVN1htaWo1V1cxbC1kUEVVSVU4VGtHU0FNLTBXLV8?oc=5)**
+  - *Source: Financial Times | Date: 2026-06-30 13:14*
+- **[Copper Declines as Fed Stance and Strong Dollar Weigh On Metals - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxPT28temNiTUI5REtVbHhTWVM4YmFodV84MDFNaTVDMDJhdXdOanpZemZlUWpWclg4X3BlR1gtNUoyeFZuUEhGZ2xsV2huWXJhVHVMajFpU3RUd3FZREtBYXRkazJGZ2NpSE01bG9RcERPaDlSc0twT3NtZkpIVFBnT0ttMWV4T0E5cVNDWS1USEtaSW4zWU1zTjNGVmQzTEVxRnE4NVVXNVNLQm1JN2dLb2ZSZ0M?oc=5)**
+  - *Source: Bloomberg | Date: 2026-06-29 18:03*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-06-30 09:27)
 
 - **[Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2lPRHR2cWFNZDNkUldYQlBkWnNnU0dZU1VMQmZGMHZIWW1YamNpLU9SNktDc1htRnJIVF9QcFVlY1pzNkdOYjZlckduODlyZFdrVXRpSWNHNnEzWW5PblV3ZWFZV3NOUkFoRlZkRnZUS2FabGNvM2xqRXBjZFhOblI4LVRlaEItTmlkclpFbmdBXy10M21ZT25ITXZ5NW1xTkI3ZVcyV1p6enBxQy1jcmEwZFlIYVdGdThGV2pzWV9jaU1L?oc=5)**

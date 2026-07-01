@@ -16436,5 +16436,144 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-01": {
+        "price_usd": null,
+        "premium_count": 6,
+        "global_count": 22,
+        "articles": [
+            {
+                "title": "Mining Explorer Returns Outstanding Copper Assay Results from Project in Chile - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYlJ5b05pNktLWXJsaEp3Y1pQZHJjV1A3d0l3VnktWGU0dkNLMWZ3RUpUR3M1cDVPMDI2UkJhcENGTXBUOEhhekpUbE4yZ0xkbGxzUkFEdzNxN2xVZloxS2pfZjZOa210akhPanVPWUd6dUd6UWdfZGRjMlI1YjZ3ajVSMUlzUkE5WnExY0JZR3dZdERtTVNYRWRkTEdBaXBIYVdITFR3R3Yxb2lJbGlZYXdkZlVNWkREcnFtd3J4UEo1ZkdQV2M5V0w2LXBPUTJNcUE?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Brixton extends Glenfiddich\u2019s copper-gold-silver run - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEY3NURmZWtRYW5VaVJkQ2t4RVFHQUJYQ0tybGNfbDFodjVyV1U4NFBTMkZheXpFcDNYZzRWeVhCTFJwS0pRZHNUZnN3VDlBZ1ZkMEJaMUJybWNTOHlreXhWRm1rX1o2VmY1VWkwUk1Oa0NndkMyRk1nRzB6N0U?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Breakingviews - Aluminium deal births copper takeover target - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVV5WEVCaWZKakZrUkVyR3JqRTFfZjJGUkMwWTNpM05jZnMycWpHWFhhUVVkaU9SMm4wTlRJYlh4OFJMNndkcVI5LVZJMG52Z3NxTzhGZXdpYUFGM2JUa1ZxN0Q0aFIwTm9jOGhZWFpORndQOS01TmF6c3V1WUN0MGpLSHg4d1kyQ25HLXpVY3JERWQtMWhEUGNPODVGUlRjSUxGSEZOdFA?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Traders Gear Up for Another Round of Tariff Turmoil - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTBQc3lYdmVyQ2JRVDYxOVM5X3hEVnAxX0pjSUk5YU9tNjV6d0pZQUtKaHpsRC1ibzJTeVFnejd6VUVid19BbVl2TUhwOWVrQVVOQlV3M1dQLW01Q1l4bndUTDZyQ1k2NUFEWDV1RFdjZDdxOXI0YTdLQjAzVUtPeTJOSVJjb3V4YnY0RTlpWkpDc2NVc09BcVc1Vzl0QmhuXzBLelkyT0h5TjRKQzZWYlJR?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Column: Copper price soars but smelters can\u2019t bank on it to survive - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVFVYmE0VW9nRXRPYS00OHhXb3NfSDVYeDBUaEtDUEFucFhEUWJIUkhvZE9SYzdPWE96djdjT1FQVVNHMnhhcmxfVTI1YzdnaHRmQVhhSEk4MEJCVDM4WGRwdHhVNGJGeDRpXzkyTVFKaUlaZjhQSlRBc2tQbS1HRXVDSzRYdEFDOER3TTlGTmVrNnhsdWRSYw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "PH7 secures C$5M from Natural Resources Canada for copper extraction technology - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0dXeTZPWlloUUdWbnc0QXYydHg1YUhwUXpZRFgweHpYTmphLXJvcmtiR1Q1LVZCaUwwVFlDQUlzWi1WcHVGUFpYbjJiWklfTmhISTlxNU1pTmJfTkdzVEdiT1JudFAxZElYelhraUI0cHlIR3lYTzNVWmVsQkk3X2NHUTMyU05lVjhyM1dnVk1KVmp0UmI4WGdkaElxeTN1Y1RySA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Alma Metals ramps up Briggs Copper Project with major drill campaign - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYUtWNXdtYkJGQTZRQnNrU1pkekM5TEJSOUlabzBmcFdxRG56U0xMeW9PV1FXbzQzQzI0anhJeWczMWoxWDZickhXUnZNNmZ5WTFoakNMWFdLSDFDUVVkN0s3M05weTFRMzdUWFp3cGhuNVB5azM4WG9OT0dQcnFrYVFuVFBaemZnV0h3U3hWN1BNaUN3R1E?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Critical Conversations with Rob McEwen - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXZtbUdZYjdJLVdkTnIxN29LMXdHOEZWak9wYi1LVjFxOFpkYmwyU2g2MGhmRmpvdVRwSVBmb2RmeW80YjRlYUFKZUk5M2o0bzNLanc1N05HTnF0Q2RhdmZRSi1Ocm5hMHp6TTRUSlVjRW1RcGNITUQ3b2duakExanMyRE5xMF8wOS0waDdlanFqY05TY1JvTlF1cm1UdVdRRGdDaXRPOHp0ME9XQV9pRHFmN0dyY1ROcWF5SQ?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Sponsored: Silver One advances Nevada silver restart, copper plans - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXlPRGdjanczaUdRd251TVJlRmQwQnlVZnBtMEF2UnR4eG9QX2FFR21ETm5nekZvLU5QckNjNHEzejV6bjN3eWd6R25KWG5LZHVsQ1dSLWV0RGhaSF9oVzQ5UlZZaGE1ZmFRSVIxTUdTNWd5STRIOFZhNDhESHZIVXN2eG9BdzR3Q2dGYk9WbWIyQkdlTDhudjFxUDdTeGx1NGw2akFRNVYxYkl6Nng0a0U1VS03OHBLQ1FTMWdybU5kT0NYdEtSTjdn?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminum Set for Worst Monthly Loss Since 2008 on Supply Outlook - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmFpeXpPb2VpZ1pJaXlDYlY4TXpGUlFxUHFmS1V2MjFLeF8taU9mcHU5TmlYYmtjOTltTEVQYnBOVlBkdnRabnNnTklfUHdaZWNYMVduUTB3N1FPSXZ2eFBWM1cwRE9Ydi03azhVYVlZUC10UUMwZlg2c3B1dDlNLTBwM0hNdURFZWExd0E5UzRQSDlfdU9JTEs2ZWJCVmlpWmpldlJaYTRZTzFNbnZWb2cwSktTZw?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Vedanta pulls listing of copper unit day before IPO - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZzBkRE05QUU3Wl9wZEN5NFVuTDk0M0s3aGFON0plZ3ZBSmdYMkdjcDZEb3d4NTJWU1VObEVoYjh6N3dxZklTcEFCR0dwTHY2elR5VjRFMEh6NC1uQWhKc2l3clFQam5OWjM2OExlSEU?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Koryx Copper wins analyst support after Namibia assays - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWZRLUhYZm9CNk8teXFoYU5qT2RuYWw3QUx3WkFxM2NsRVEzbXpOM09vRWtSa3lFd2k1X194a0dXMlNJTkNRSDJtRU1WellwZ3FGYVhJeUtMOFllZHpoYllMM3dUY1dFQlpOejkxajgxamhmMVl1dmZ4QXhNSHdlUmZfak0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Super Copper fires up first drills at Cordillera Cobre - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0Z2UzBvVDBISmlocDBMS0FHME9yZ3lybG1vYkJIeUt4Ykx3T0syWndrYVF5MUNaNGFFdVNIV2JuekxqN0JIWmxrRVowU1hHN1dyTW1lZzV0SjBIbU9wcG1oUXBMYUJ4MnozaGYxRU1PN2FISDh2Ymg2cm9lc3VLWHJmdlMzUG1NYkxocTBfLTlYUE4zNHZHMTdzOTZoRW8?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Vedanta\u2019s CopperTech Metals delays US IPO citing volatility - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCY1FLUlFRSDNDT20zUl9iQThlLUVlTm0zb2YtbU8tS1lINnJQeEVlbnpjSlF6YTVFeGpxVDFFbV9ObFNxR1JHWGFmbnVWQWtvcnhZWmZWUVFJVllSWDdPZVdzVUlULS1uTnc3UlN3SUdWb19lXzU0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Celsius Resources concludes sale of cobalt and copper asset in Namibia - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3o3dElmR05wZTdmczd4X0QxRkZibnlxNXVfVEtCY1JndHYweHRRZzRZQ0MwaFhLV3VhQ2J3V1gzNktQWF9TX3psc2ZVMXdsUUlDMFFISFJmWFY2T3pORkFuNHBrMFg0SFFSeGxMTWF4ckdsWDFyU0pCV3N4TmU4RDZUVFBkT1RxLWozbU5Oa0dsR180SVp3VUZWWnowRHVrTEFjLXIxTnZreS1pYW82enMtbGh5ZUFTZ2c?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto agrees new financial terms for $18bn copper mine project - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjRWV3F4bnhCOElySXg0ZzNFZE5ETVhyT2dLX0VoOWJsdncxTDNVYW52dVNyb3RvR0gteGFveHVMbk1CVmxsYWtTbk9aazlZYmFfNzJ0VUpySllTZnZfZTVJaHNHaHhVN1htaWo1V1cxbC1kUEVVSVU4VGtHU0FNLTBXLV8?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "BHP Invent, MIT spinout trial copper and gold recovery technology from waste streams - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM01ocGZiVU00aWNEcFpjeVJ1bXVBU053T2ZJZ0h3bVhReXdZenpIZnZmUW9SQThENlgzUVBkRmViUEdKRzV0bEtpV3hwdXhSZ25hODg3c01pV0tBNTBPMmptSnNsZ1FUZU1jaDBfYkZlWWxiT1lpY2llYVg2TmZEMXl0NERmZWpiT0M3SEJIdFhhRmFTNTg1S0p5dzJEUUU5QVF1ZkVYTmNXeVU?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Barlow\u2019s Research Roundup: Attractive entry point for these copper stocks - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWhvNUVCQ3h4RjlJWTg1NWM1VkhvSzBzV1pSa3Y0dXRIc2NuSHdlamJiT0RvaElIUjFCUXA4UXpaejRvem9kbnVucHZLOTZkUlN3Z2JSSUtFYlRhbXFnSEU3QUIzMXdkd0VYbFRfTk94bnFXS096TXcxa2lDSmIwZWY0a3N5bThJcjA1Q1Y5YXZxZm9PMVhITFluSGNFOU80X3FBbmpSX0RLZFFMRklVeEdQaGRTaU9UdjRMWVVndzRfUjNFbzJldWxUZ2VaaEZuY1V5c1dlZUg?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen: When Copper Optionality Starts To Matter (NYSE:MUX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWJ4ZG9yT2lMMFdZb2psdElOQlkwa1hFNk9jSHdnR2s4UWNJT3JRWFBTTTl1dXJsVXgzMVg4UFZtNGc3RElWZjh6RXJzMGRPMjVWQkRmaG0tOVR0WTIzNGowR1pZcXFRUkxUTW84UzMyVUc3YnNYZU84NTByeUJtbGg0UmZ1bVhSN09wTkFlMHFRUQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "AI review uncovers historic copper mineralisation targets for Botswana Minerals - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS2k4Q2l1RkJBcDdweTROTUVHWldnRFVISjJEempWOTR3VDY1RmxhOEdtS21KYUtBaTIya3czOUw2WUJJbEstbk9tSU80TFhNend3QXlFWHZxa0M3YmxWVHAza29iTmc0X0dCd29QTVo2elJtdnpkemZXdlg5S2FfbllZcE5ON2paa0JmU2xrRHNGNFloRnFyUEh6R0RRRDlZZXdjcmUtSkd1VzhZb0hIbGk3Rk80Nm41dkk3SXJweVMtXzhkSmc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "JPMorgan Raises Southern Copper (SCCO) Target But There\u2019s Still a Catch - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2tTWlA4VUlDcmx3S05peU9TUDZ4TVNtSjdCR1JDbWozOXZ6OFhuUV9JaUtDZWJ3R2M5SHBWTGNrX2xoNmZXU3owOVlIQnR6a2RrOFZ5c0pkMEZaOGcyaEJDcnk2cDNQQS1NcXNtYS1jQl9lenVVYjVBZHdpUjNqNEk1QkNKMlBuS056MG9IQV8ycTdhdWh3NVZmemR4djFFeWRV?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Declines as Fed Stance and Strong Dollar Weigh On Metals - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT28temNiTUI5REtVbHhTWVM4YmFodV84MDFNaTVDMDJhdXdOanpZemZlUWpWclg4X3BlR1gtNUoyeFZuUEhGZ2xsV2huWXJhVHVMajFpU3RUd3FZREtBYXRkazJGZ2NpSE01bG9RcERPaDlSc0twT3NtZkpIVFBnT0ttMWV4T0E5cVNDWS1USEtaSW4zWU1zTjNGVmQzTEVxRnE4NVVXNVNLQm1JN2dLb2ZSZ0M?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            }
+        ]
     }
 }
