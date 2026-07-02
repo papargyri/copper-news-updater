@@ -16575,5 +16575,90 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-07-02": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 13,
+        "articles": [
+            {
+                "title": "Hillgrove Resources halfway to reaching intended copper plant run rate at Kanmantoo - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGJzcUR4THJyWEtOSHJITm9qcmVvS1VvZTlUZTJVOUJmSHFlSXF5WHpJQUNsb2dReHpVWlpUVzZCaGV1SnN6VUZpZEJFbWs3bGxPVzgzbWM0NnNDdjRLOVRlZVUzamxsTmNER19RZVZaVk5HUGpsdXVCOU5VUTZmbF8tREJJeHFadEJhRU40UU1lQjBZTTZWc28ySlljZ0xFTkxGSkRjeElGMWFXTklmUTNsdE9mUVVGUDRiU09CMzJPYmFtQ25RWUYzMA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Live Cross: Aircore rigs at Lincoln Minerals\u2019 Minbrie Copper Project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGtjb2NLdG1LanYzd3A4aWtqa2M3YUt0Z0ZRYjFxSzVjQ3g2QkVrR204WGoydnI1XzgwbmdvcXVGUFdrdHpfQko4LVVXMk5mWjFxbjIybE96cWlsdmdMQ0pTWkN4eFp3OHNBZUx2UGJKVmVfSndRVzdKRllaelJhR2Q3U2M4UTdnUnA5aGVFdmNaQ1E?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Idaho Copper Corporation Announces Pricing of $18 Million Public Offering and NYSE American Listing - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWDgtQjVUZ1BybGs4dFhGTWd3NWk2WG9VcHJXS2pJQ1dVVjdKNlh6WG1RVHdGQlI3dk1fRUtrQVdlQl9GQmpVUXpvLUo3VFlDc09LcEpmZVhOQkVRYmw5VGZjQl9zUmdrQmZhUllFNlNtOHVCNDhLSVZSS3JUcWdGTkNuRzdycjZScUhOWVJHY0xRN0hPa1dDaUVqMTlNVmtfb2NwSGF0THQ2QS1zcEhXaGNtdEhpVTdVeTVGemUyb0ZreVlTeHhINFlhejdQa0xCSXVlaTJnMmE5SnB1SHMxZWhfTWRVbUpMa255RnhuMHV1SVd4ZkxxbkNSMW9EVF8tSHfSAYcCQVVfeXFMTmtIbXdUR2F1NkFsamNZZzZDeXBXZVRWXzY0N3JtLWRfZlZKNDN4bEhrZ3BCeFBYdnpZLUg4WV9ncnV2RjdPSVNOVEdJcXU5TmVUXzJWbFh6M3IyNWhQamxNYWhmYk10YkRHOVlWb2hUWXlTRlI0ZjRNdWVpbTNoMWNMUjR3bm0tNDgtZ1FfWV9FNHBtTE5mSy1GSjFnRHFMU0JCUlU2NDdFYTVOdjFxaHJiM0NHWENOUTJvOVZzUzY5QThQYjhrYTU5aWNIWUh0cjhPcjhxQzM4WHc5YlF4MWpaY202T1JIQ0RqNmE1N1FYZEl6WjUtc011WnE3TkRZUVdXZ3F0NmM?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "BHP bids to reopen Chile copper mine at a cost of $1.5b - The Canberra Times",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXpxSHBFdlV2V2tWVUlDTzJvOWZsZ19hSVJ1eFpxbjNtMTF2Tzlvb3FHMXVVQzZnOXBwb2NvOUZjOWhHRW1rdVNCd3VTWFdaNEVjUS1rVHFhdVpURHV0NEZUeW80NmZpeWM0UWdJNWRQZHBvSkExQUwyUlJ2MVhvam1CZERKRjVQUFdTT3padWNjOFBtUGR1djdpODJBbjRCcVl3?oc=5",
+                "source": "The Canberra Times",
+                "is_premium": false
+            },
+            {
+                "title": "South32\u2019s new CEO looks to focus on copper after aluminum deal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTDI3R29BOUJtQjV1Q0ZHcDNkUzA0ZGFmRG9FbVlKZ0t5eS11dzJRSFpxM05sZ016MnY3TjJuTzh2RnRHS3JiaUppSUh2NnNlTlpQVkZZd0J6X0dwNlBRQm9vNHBVRUVUS2FCZGZNREpwZTd3OTRjZVN0SkdFa2hoelFxcw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Argentina Metals closes acquisition of Mendoza copper properties - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUMtS2FaQ1Y4QUdxeWdueHN1VFBSa1pINTAtQzdUS3lseUpLSGYycFFJcktOQzA5cjFrQ3pDcURrTXg1MGItUkw2aTVJMFR1UjJsV3FreGtSUFFzeFJtaVFjNU50QU5PZ1dMTmF5MHVSNU1tLTVpUFNmN1ZVQTctM3RRSjl4Rk0xQzkweVl5OS0?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Canada funds pH7's sulphide-to-cathode tech test - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVV2Sml5MEc5Z0U3RVFWb3VhOVJERFBldkpjWXRVVUh1cGRfRXF4eGg3NUpsbG94QTNIa1JVNWNZYUNTUnU4OTNtSE5GZFItaTVBbWZUTC0zS2xwMmk4bTNSOHVMZkltc0xNQzBGTFhwMHRFSVNXR1MzQjN3X3ZPb3FTWURWMkpRUDdUY0piTHk1dy1IOFlQcDNmLWhTazNpV3d2MGhlSVdZTFRW?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Investors are rushing back to Zambia for its top sector and economic stability - Citi - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWN6c2xkNkM1a3dLUWR4dDFWYTRLRmVlck8yYWxTQTEzRnlxMThTM1JPbTdTVUNqX241RU9va2w0elJTOGJSbWlCLW9ZOUE4Uk5LYUdKOFBIQ2hsdHZ2SmFIOFo2YzExYkE5Znd6aERleGJoeXhMWTVReTh5WVRXbXQtblRLUWpLeVctdHlwN3JxaWRRaHFDMFV5T1A3Unk0NWh4c19zTWJCbmpaM09YWUpSbVFoWVd0bDF5cUo5dHlnMWh5d1RXQ0JranpYdzltRTktR0F2SQ?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Alara reaches fifty-first shipment milestone from Omani copper mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFVNbTZJOXRWQVZDNE9GdVc3ay1YREpSUFFsM2g2RERENl93S2JJWDhpc1JUV0Rqc3VfcFJkZVl0LThzUEdJdUJub2hLY0EzWk5WU005TG1CaU90QWVGaVlHV0VWNGxJOVdReDF6ZTZmaTJtUVA3RVF3WHVXaURQNFJPZXlPVG81MTUxZFh2MmNEaU55VUx1VmZ0Y0ctZTdKaWVYQk4xaEh6U2V3UFNBNWJkSTJvZw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "MIT-spinout verifies breakthrough low-cost copper recovery process at BHP operation - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1RRVnI3OC1uU2ZCakZGMEZWb0tJVVhOa0UwSW94dXNaT1B4V29INmhjOUdobnlwUXpnQktNUV9wNTZ2c29IWkhEREhGeERiMGE4aUlOYVc0Y2lsdTFzanZqSGdxcDhKUVE5aC1obVpwTWlMd3dGbEFPcTRNak12bXd3ZnlGcFgwbmEweEpBNjNWamhzaGNlNkVZU1ZERTVrR0c2OEFtTEVXTlhrNDFOUm9RZEhrUDRKREE3bUx2NDk4UjFoeG4yVUtENA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s copper output, manufacturing production plummet in May - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0Q4ZExOUVNDVHJOWURDRlZWOFY0QWVJZ0k2dkR4cWo1UjJMMU5wYmE4U1RKYVlqSVdDY3VLMjJzNE1FbUNfVmlJVVNZbFZXcmJHbHcweWVtVkNVWnRPOENsUHRDNG1kbkFFY290MGRaVVdlR2hyZUQ0ZWdUdUZSeDdZMXFjbzlxX1lCdFMyNHBKQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Vedanta pulls listing of copper unit day before IPO - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTlCS2pyQU5HSWFheEcwdlVPd1NWR0gxTjNkRS1pb1o5Y3N4SFAyTTI3UlpWU2Q2TkxrTzdQSDJZcUtPdEdxbmFXOFlYMG8wYjNBYVVTai1Mak5UZ21kVUxxTmdydDBTSWhCOE9LLUVYSFlSVmt3TVE0YVlWMm5nbFJTbWI?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Lion Copper & Gold Announces Application to List on NASDAQ Capital Market - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkpaNkxrWVVEX1ppejJjV2o0cS01UllGMmVvVDNHSUhyX2FKVlpIWk0wUXYxaEw5ZWNrd2EyeEJ0d0dJY28wdWJBalJET1NVX1ZVVnBZU1lRQ3BkRWVITVlCdWVlRU5ONlZhbnFoZWVGZ1hSQmJYVHBlWDZ2YUtlYXlGMHdGajEzVlZiRHhoT3ZfQmpsdHZEdzRqNS1ja25oTVRrTmpR?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }

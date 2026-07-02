@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-02 08:50)
+
+- **[Vedanta pulls listing of copper unit day before IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTlCS2pyQU5HSWFheEcwdlVPd1NWR0gxTjNkRS1pb1o5Y3N4SFAyTTI3UlpWU2Q2TkxrTzdQSDJZcUtPdEdxbmFXOFlYMG8wYjNBYVVTai1Mak5UZ21kVUxxTmdydDBTSWhCOE9LLUVYSFlSVmt3TVE0YVlWMm5nbFJTbWI?oc=5)**
+  - *Source: Financial Times | Date: 2026-06-30 17:36*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-01 09:38)
 
 - **[Breakingviews - Aluminium deal births copper takeover target - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVV5WEVCaWZKakZrUkVyR3JqRTFfZjJGUkMwWTNpM05jZnMycWpHWFhhUVVkaU9SMm4wTlRJYlh4OFJMNndkcVI5LVZJMG52Z3NxTzhGZXdpYUFGM2JUa1ZxN0Q0aFIwTm9jOGhZWFpORndQOS01TmF6c3V1WUN0MGpLSHg4d1kyQ25HLXpVY3JERWQtMWhEUGNPODVGUlRjSUxGSEZOdFA?oc=5)**
