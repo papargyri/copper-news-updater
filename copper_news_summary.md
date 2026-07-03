@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-03 08:56)
+
+- **[Chinese copper foil maker Londian Wason New Energy Tech files for US IPO - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlE0YkhOM192V1Npa19iSmg5bHJZSjhZNzFpS3FOcTIxcDFRVXg3MnhjSjZqcmppVlNuYUV5VzBTTVlWWmNPU0dtLUJhd0VvN1lNUGpVYUY5RV92TkRYLVBwbC1xTlVETkRPX1JaalBpMzZYTnIyRXI0S2FtUTJEc0VwVFBTOFhWWE9PcG9ZUm52RXh5MnFHV2lqbm9XS1phZ3I3TlNjdVlXTEs3YUNzeDNB?oc=5)**
+  - *Source: Reuters | Date: 2026-07-02 22:33*
+- **[LME metals whipsawed by war and peace in first half of 2026 - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxONnpZQjdPMnRxa3Z1cERaLWo2c2t2SUFYQldzNjZNVGhkb3Blb3NWbEoySUxmQ29vbjE3REhwRzhPNDNqeHFIaHlTQVhlR0l4MVk0bE5tZmtGdlBuVVhLdXV5a1c1dUs3NmUyd3hWSUdsVmlyUXVBRFFzTm9VbFN2eDk4aHdyTXl6a1BJTXd3eU5CRVQxaUNoQkVBZHlMNlNWRnJiczR1cHFDd3dvU3ZPWXVpMUNoZl9yZkE?oc=5)**
+  - *Source: Reuters | Date: 2026-07-02 13:45*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-02 08:50)
 
 - **[Vedanta pulls listing of copper unit day before IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTlCS2pyQU5HSWFheEcwdlVPd1NWR0gxTjNkRS1pb1o5Y3N4SFAyTTI3UlpWU2Q2TkxrTzdQSDJZcUtPdEdxbmFXOFlYMG8wYjNBYVVTai1Mak5UZ21kVUxxTmdydDBTSWhCOE9LLUVYSFlSVmt3TVE0YVlWMm5nbFJTbWI?oc=5)**
