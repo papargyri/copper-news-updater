@@ -16914,5 +16914,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-05": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Phoenix Copper launches discounted equity raise to repay debt and fund US mining push - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTnRmYXBHTFNLSlo2dF9BbTFaLWVkSU0ySm5Jd1EyaWYtVVlLVVFfb1ZTQmxMNXRZTFpRZlZQUkxpNkltSWpjaTVkLVJSd21BZy1KYTBnYWl0TFlkZmMzUnNLUXdua2J3eHZieklINTNQUncxa2NVNGFvUTRhTUx1all4NDhCLWhRQnRYWTRJUmJCOXVhdkRzTkFtZVYwUkxpVmFkbHgzY0wyZ0FKMXhlYjF3QllJTE1obmJlR0I3b01YeWVaX1lIdGFfSEpsSTMyQWN2RXlPcnpYRjlEVk5mc0p4bHFqVlJiQWhldXVVUGhlS3hDalQwdkxn?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper's Next Move Depends On Washington, Not The Strait Of Hormuz - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUN1cnZ5QU9aM1Faa3Q5b2dXMkVXSzZBNUlUV0tRSldQUkROTW01S3RSY25ITU84YnQ2QmN0OVlRLWZMTGtLbGVZV0JxZ2VudnhhSlpmOEEwV1FfMVJBNjVidFdiVUtZcUFGNXNiWWxlWUJ5ZHh6RjFSVXB2cGcwd3hqQzZuNHJTZzk0UFZlaklTeWhMZ0txR094eGJpV3JBSmJremJlN0Vndw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Unicorn Mineral Resources secures \u00a31.25m loan - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0ZkeFVGREVaVjVVU3gyNzVyUGlOWjdXRXlVN1hEanBIb2Y4TTd1MzNmWnh1eTBoc1I2NE1TWEVBcDctZXh0cXV0Z1o0bmhKQ3UtTHVXOEF2aTN0bHVudGRfYlhWd1JfekJ1U3pEUDNsZmo0ZDJxcFByYWMzUnlIdGZHVi13VmNXYTZSeUM5SE9KcHZlUnc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Sponsored: Silver One advances Nevada silver restart, copper plans - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORk84d1lzVkNYblNlSDZjejZVRnlpLUk0aF9pTDJYS0ZHVDJheUhveGhJVm45cUZGOUVPUUtKRFRBaHpXV1E4Tnc4X0lRT3dxRkRZZ2pNd0V1UWtwRjV5Z1BsYU81dXpkdWs1X3A3VHY2NVFoS0V3VGlQSmJpNUstNE1JWE1kbFFhVDFqbnFvbVhPMUdhTmtHbk9SNFZUNzl1WTdESFVvclVCZEs4?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            }
+        ]
     }
 }
