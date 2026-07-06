@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-06 10:09)
+
+- **[Copper and Aluminum Advance on Fading Expectations for Rate Hike - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeW43ck1IYkdDX0xpQXNxTFppcTRCb0ZxT3psTkhfMmFjclpTNWlxTVJYaGZtNDk0OU41dDEtMW4tU1QxTzZSc09MYTJFaExGSmRYdXFhNDBjYmZ3ZEFrMTg0bjNaMjhQTW1QcTlPWXZhYzA5UU9tb2Fpc3ZTSk1Dc1hsbmJHN3VKcUVTV3pITDZlNndXTEtQSEJVMHJaenRtMm1wakxXMDBHZ3JKYWprSFBZOWNRdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-06 03:37*
+- **[TSX near record closing high; mining shares up with gold, copper - Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxORW5FSEZnQmdMVmVYbkN5QmhDNlRPejliYUJyTEpZWWJIWE5aRlJ2RmNmQTJBQWd2RG5hOGhsOEVrU012Y3F6MW9rV2owdDhVUjNpOWk5V1RnQmpnQmF4ZWNXY0lVYkJzY3ltaFNycmZua1J6VTRNTTRWRWV2MkQtMWUyU1dwODMzTVI2dWJ6MVpQRGo2eHJTQVdIajhGV2M?oc=5)**
+  - *Source: Reuters | Date: 2026-07-03 20:26*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-04 08:31)
 
 - **[Copper Climbs With Industrial Metals as Rate-Hike Prospects Fade - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGNEb0d6azZuN3c0YTZTaGpYd2pvX1JRSDlqMUJxdHVwd3ZlNlJXalloSENEQ0RLdUMzME5DUEk2cG9UbVFtYlBQTzlpc0d1QmxSWTBidnRYa3c4OFY1T1lGcU9JNHk2UzNnanBpNkROSW9Oc2dlTHp1TjV5dDdod0NORzE2NXBkUlVFVjR4S2hDcnZaVjVwZjNPNm5lY1pVTXpwd0NtNVJHYklxbWFCZWRhTHVJUQ?oc=5)**

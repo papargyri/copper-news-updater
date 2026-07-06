@@ -16945,5 +16945,60 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-06": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 8,
+        "articles": [
+            {
+                "title": "Zacks.com featured highlights include Cenovus Energy, Five9, PagSeguro, Ero Copper and Par Pacific - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTG9DVUdxajNUbHdwQmlHc0ozVUJpU2htTS15NmRxQ3RDRVcyMXpYNHVOUWw5bzhXVFJ4ZUZEU0lXdlA2NGI3Z2xsWUl3VGJ3VzhxY0tSTWZpMTVVMlY4SUVUeXZLdXRzY3VmWEZseEdOWkNIb19Kb29MZkRZNjA2NTI4TGlHa0xWTjlCdGRsQQ?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Culpeo begins drilling at Chilean copper prospect - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HVGJ3QkVEV3FoMTFEZ0NYZzdnRWh3dkpKSDhZSXhqRE1VWmxfa0hWaFdJUFNJZUd4ZDlYSXFQbThvcFo1dXlEZmw2TzREVG5zMVZscDlKMGFxUWlIWVNTMnBHcnZ3eDdtaEh6emxTNGNtVmdyV0VJbWhqSVU?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One resumes Majuba Hill drilling, targeting breccia - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXdCLXZwRGpTQUZOSXlHSVlDVy1xUGZoSlJISTc4cW1UMFczTjBxRkczQzQySjZnZmt3NGhrbWVVbTg0cVl4eFFxR1BnQmJHcl9FS2xQcTNqTnd6NEM2NWdKVklTeUlvU3NETzVhcGtyTGxyT2F6ZFJNdUJmemE4WExwelFzek0?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper and Aluminum Advance on Fading Expectations for Rate Hike - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeW43ck1IYkdDX0xpQXNxTFppcTRCb0ZxT3psTkhfMmFjclpTNWlxTVJYaGZtNDk0OU41dDEtMW4tU1QxTzZSc09MYTJFaExGSmRYdXFhNDBjYmZ3ZEFrMTg0bjNaMjhQTW1QcTlPWXZhYzA5UU9tb2Fpc3ZTSk1Dc1hsbmJHN3VKcUVTV3pITDZlNndXTEtQSEJVMHJaenRtMm1wakxXMDBHZ3JKYWprSFBZOWNRdw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "A growing resource, a growing opportunity: Kodiak Copper\u2019s push to scale up - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUQycVBfTU5sYVdnNVpQNjAwUmZyRDRmc1g1V2lhODZ4aDZLRXF4VVg5WWhlOXE5NTNfTWZWblBOdHFIQnJnR0wxcmJFTVhwVDN5R1VEZ0xIYU5ROE56S0JUdWFvMExvWkpob0RzUWw3bTlza2Y1TFlFd3pCamsyS1ZySk9IRHdVUWJZdXJ5dUQxejFDZ3o3cmQ1Yw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "$4.1 Billion Deal Shows Why Ferrari and Tesla Are Ditching Copper for a Substitute - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2R3al82aXZVT2pVT0ExOU1xQkYxczZuaUV0aTR0Q3p4WFhSd1hwZTFwWGgweFN1emRYbnQ1aVJpZWtqRWJ5RzlVYjlsaW5MTGFrN1BJWGVBZDdXYWhLOWdmaG5VRmVkYllkZjJjdnpfamRFZkVWV2xBeWx2bEpsejZYR2w5M1g0ajQxZ3ZnaVhIMVpoaG9r?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Mid-Year 2026 Market Outlook: Oil, Gold, And Copper - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUndwSXVMUVNzdzBDNExwWnRGZXVsN3lTcWtKTjFJUndYS19WZTJMTk0yLW5ncmhJNXdrMnFUdEJfY0RPMGVrY3JMSFV4TVNWOXdUN29oR3VkbzJvc0p3eEVhc1J0RDROS0w5OW1FcWgtNlk3a21XeEhPVllUM3FUcEs5bTJNYlZmQUQtU2gxQ3RTdkE?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "TSX near record closing high; mining shares up with gold, copper - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORW5FSEZnQmdMVmVYbkN5QmhDNlRPejliYUJyTEpZWWJIWE5aRlJ2RmNmQTJBQWd2RG5hOGhsOEVrU012Y3F6MW9rV2owdDhVUjNpOWk5V1RnQmpnQmF4ZWNXY0lVYkJzY3ltaFNycmZua1J6VTRNTTRWRWV2MkQtMWUyU1dwODMzTVI2dWJ6MVpQRGo2eHJTQVdIajhGV2M?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            }
+        ]
     }
 }
