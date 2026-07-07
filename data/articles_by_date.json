@@ -17000,5 +17000,138 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-07-07": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "Global PTFE-Based Copper Clad Laminates Market to Surpass $0.65 Billion by 2031. - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUG5rOHlkeDVKMzdjeGF1TjNLNERDeFc3WHVCeDlYdHBsc0FsYWdYY1F0MTdzSDJJbEZyRlJjVXM2ajA5WnVXWC1RNjBhTlhBTUFMMmxEV1c4aWpzc3EyUEJYamdRSlBLczhxLTJnY1dXbkdWLVFaWldZal9NOTZpbjNsVUo?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Canada One Completes Phase One Exploration at Copper Dome - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNG1FcDluZFFYUFdLYUpfakxFNjVOS0N4a1k5MFVUTmxlNkVmczBudTRBekMyNVg3bGZ4S3NhRUNpc09iRW1vVk4tSUhFSmRXT0ZxaGg3cE9JLWZ2MndyQ2RYNjkzQVZFN3ZkSXV5UXR0QVl4WkdoWUNha2ZzWW1wMS1za1kydzBCR21ZZkJLRTFDQi01NzZPQWZ0clFnTlRoTS1Vc2hYamVGdnlRQW5LRE9lWDFYSzk3amhkalFUY19KYVU5R3BLTUFxMEhkTEpOck1uNg?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Marimaca Copper formalises financing process for namesake asset - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjZBYVJDcDJ2UVBWWHlodVp3alkxZzR6Q293dEFYMmJIVGcwMDRfeVJhRzM4ck5VSThNdXJIa1VaRlFldXZsMG5lM3RBcVhRQm9JbjJiQWFtY2hDb3FhWVI2Wm90YngtbjNaeDRyRWNscFdBdmVsU05GTXFKQ0c0dWhEMDc0MncxOWZkSmpfRQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Pivotal grows Horden Lake copper resource 42% - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BVHV0eV9xbVQ2ZnkyeXlqWDFoQ2lwV002dUNoOXpjNFc3S2NzdlBGdnpFYV9ZUGlHRDE2UWJhQ09sZlhDNXlFcE9vdmdqRXZjbFdRT0lPRnJ6QmFaRVBCMGJtSTJLeUt6c2dMWWlRbjBpSmVDOWc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Infinity finds \u2018high-grade\u2019 copper at Hillside - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QRWh1ekRlZ2NDSlZpV3g3UFBpOTFyQVlrSjJzaHBKaWpWM0FCRFZmVm00QXlzNFRpMkxwdW5odXgtMlk5RUZJelRuUXhDcXVuZmdTVUgtQk1leGowQUlZQnl4YndsMjRHb3JjZWMwa2F5NTNJemc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "BHP gets approval to start $15bn copper expansion in Chile - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS19wRlRqaTRqNzZ0LWlhSmdrc3BiTlNEZGNkNkxqeUZGenU4bzNqdkhoT2dUeHpKSGxCMEJEamp1ZGlRN0d3eVNYWjZDQ2JUVkpBZ2FBXzk1NlR0S29fcnVuNUZPN3NsR3hDc0FNMDJKOWFjazdabkQ2eHFEX3liUjdib0RHZjd3d2FDbmw5cWllcGs3eE05a2pZa0lIRGRYWXFQQ1JScE8?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Australian Gold and Copper extends Achilles system - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52ZkNaUW1EV2xfc0pOOG45QjNmRDNyQWNLX01XNFAwTzBHNWNXYVBBbER6cEhReEpvaUNualNiRnEtNnNDVUZTeWFlZWJRanFUMWRZSVBTckRvMW5BdVh5VGltMHBFcy0tajVVWkNvZzhpbkdyZ2xQQ3p0OEp0UQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "MST fires up coverage of TNC - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdGVUVUNreUkwQ1VzeVhfZVFEOVBGYzJhbnhPZmtyVld5cE4tdTk4SFpsRWdNc1JXZERIMllEVEhweHBXQmo2aFVNWUpRWnBCQnNHaUcyWjAxSWhEMDdyaVdyZGk0eGVnWDJJTHpkQ21IUG9mWUx4QTRZaWtwRU9PRHdCYzNyQjNBd3Bfa1IybV9zOC1WRlQwVmtwMUc2YUhfVG1ZUXRQN0FqTE1GMEhOZXVsZENoQnZLTTBncGtkUXZmSGMxdHVjZnlLa1FZODcwVlliUXAyVzVKSWtfSFJQMEtRZl9VMTA2UUZYaEtlQndtSDI2c2ZLUWR4NkZCTEhjOXfSAYcCQVVfeXFMTml2NGpFS1RHTEZKdXdLVVFYOVBJVmNMcmRZam42QnVtNTI0aWwxWXpnbHd6RGRDOUdtcVhCYWt0VTZQRGV6VVdBcnZTWXFia2NSX0lfeC1NQ2Etc19JbGlmSm4zWXlqVkZuTjh0SnNXZC03ZGFhZTBJMkhaVzBLeGJMUzJCNWZ0VmJVeUR5SC1vLXhnVkJsUlE5bVFhZDNNNHcwd2w1Z2JDbnZVeC05S18xSDZneEFIQ3dGbklaNUVzbmVkSFhGVFg5Mmd6TGlVQ0N6ZVkzcWRlWGYwUVdTNVNITGN6NmtHTXdKcWlaRjJDdlRmYjdTYXNzVEQzZF9LcUY4b0I4cmc?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper to Release Second Quarter Results on July 30, 2026 - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWThSQnFUSEJqZXlkdUJyZDNUVTJMUWRzR0RpUTRCZnlGT2xkM2UwTjZyTEJnTi1UeEhFR2xKN2hzdnZkaElCV0RHell0RERqYnU4bGd6M1ZJTTlqcVJmNzNkdmtaM1dXcmZiV1Zfa0xWLUtrOTM1M3poNzZTT0NRZXBseVQxb2p6MV96bkYtYS11WXVwT3A3aXZnTkNCb284ZnF3SUJxb2xMQ1JxNzFwbUNoSkVEcTRON3VvcGwxbTNueWRIUEZhQkZDV2JDOTNJNXc0SGxkUC1idk9xZ2VMNHNsRFF2OWNs?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta upgraded at J.P. Morgan on superior copper growth outlook (ANFGF:OTCMKTS) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJMWjJ6b0t0MjZLbkppSVpDUGludHdodmhobkxVWEpMZWo5TUpjNWpqeVNMVzZSZG84bTdHNTV2cnBCMzBlMC13aFhXV1ZwYjNhUkhhbU5DUXNqOGpfUnpVTGpZRkFnMUF4aUhXNjNsTW1WbVltM3MycmExN3hGSW42MDI1R1NfT0dsd1VVaHgzMFd2dHJWTllqSnlNT1cteWJoZERUNDlLQQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Midnight Sun Mining Expands Dumbwa Copper to 6.7 km Strike - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnBUUW5jT0xBdGRzM2N0V1RVMWNxOUM4N2J5b1lzamZGd04xWXUtMEZ4bU9CSnpTTmtqS3JHMGhtMG5OVHVvZS1FOWJxNlUxeWQ0Q2RxTkdGSDdRMFNucU1vcXQ3RHZuWnFpR0ZLRzNTTkxZbVB1a1ZUYzVOTHdiZmROX29EZlJVd1pCWFU4WHhEYW5VV3ZJQ0V5UjdLOHRWOGhqNV9Yc0VucHVnZGVncXd0UDl6QVk?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Koryx Copper Advances Haib with Strong Drill Results - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmtTQXExOTFfR28yR3MtMVk0N2tBaDVsQnZuZzRXR2F5UzlQUFdGYzN4UTVfci1zd0JqcTVZcENuRk1sdHVmQ0lsMDZsYlFwWWRhOHdnMVpldG5CN1pVMFhFNzMxa2ZrNTVnZWttYzVHNFpNZERpR2lGZWlNTUZmWEpSM09jSjVZMGtyZmJiTi1wbHpaa01mdUdoVlItdEk4NkVneTJMeWktTmRTOEZr?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Green Bridge Metals Advances Serpentine Copper-Nickel Project - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkZTTWVQekloejhWb3FYTnJnT2NUSV9TX3NlLWoxTEhYT2xxbE9xT2JjeGFYd2l0Ymp5MXhNZ0Q0MXp5Y3ViSUE1WFlKUnkzaG9VMHVSSGRSdzgtam5FNWVDVXlYMmN6dmpSRklnZUhrTnUtQnRkVFJ0dWRBc2ViLTd4ZFl2U1JsS25IcG1Wd00yQmZ3OWdaUE5UYUxNSjhwNmVBaGduTzh4NVR5eXU4dzBzbktacEpVSEkw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Op-Ed: Molybdenum and the geopolitics of substitution - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2VMWGQwWFpZX2s0N0tvTkRKVjNkZWRvV0UwckI0ellRUEV0dTBIQXZjMEQ3Xy1Md3Z2SjYwek1WbU96bEY4NnJVXzNsUFRpX29XR1pVbFBQa0Y0TnU0VnNZVVVhYkpxZnM3MnYwTjRodVVkTHpwWjZqTWlDck51Zlhn?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper System Grows to 6.7 Kilometers as Drilling Pushes Deposit Farther North - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWW5POHhTMGVucDdraHJ0Y0sxcjZkRUMyR19RaFhYd09RLU90TUl5NXRqenIzWno3LUhHbXo5RUx1RmpNSHl4aW9UdVd4aGgwNjZFOVFRT204SUZQcTdMREo3bHUxUm5rRTNob05tdnhjRmJIYS0tLUVIOTI3R1Z4bjc3RWxpdW1obnRrUnFRZjV1VE1oaFpCajFBTmpvUjJVejVmcmlsZ3NWOFEtVnBmXzFkWjFJVTBEc1VFbXRNXzRnNWhxVjV0aUhDcUFZbnJfR2c?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "The country behind over 70% of the world\u2019s cobalt says Middle East conflict won\u2019t derail critical mineral supplies - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUFqZlh0eGYwcktnNVRuWlh0U2h2TWFteDVwbUNySGlXbmEwT2xvVWRKQzd6MVYyWjZxY1N1dlNSbllfdnc2T0VwS0xTWmVHLTNWTzFqQUFqaXBPV2JXLURfVnI3Q3AteVVqVVFTY0E2QnNGbTJPWFgyT0wyalpkZ09yb0k5QjFVZFdLaEtvbUNWS0VPdS1qSGRuLUk1YU80WmF6WDJpZVVpVGw3VzlBV3NLMVVBeXdMNTEwSVE0WnZ1Y1hVMXJzb0p1R21ENGFtcUd5UWpTWnlKUQ?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Op-Ed: The copper the world needs is already above ground - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0o3VUp3ZThNUUNGSXRsd0Fnc0NaZGktVzF2VlZ5QkxXb1JZVWNlRk0tNUV1dXFXaFl3Y3BEcFREcjdtVHdXWGJrSExlc3BvQzhXZEpOdy1WakdiN3JLbzBTV1RYOW1iem5mSnNESDNraThuRlVhU0hfWC1xbDVPZXZaNEM4bkk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Congo sees no major threat from Middle East crisis to copper, cobalt output - CNBC Africa",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXpMbW5vOVhCZlF3and0dVJRb1VJMGRlNUY4QzktcWYwdml3ZmYzc1hZVVphRFMxZ2t3aTJNUGdja0VaVFlGZUZodzdOQ2QtbHgtMnBxeDg2NTRuWTFTeXp2VXRRdUFPVU1SSDlxZ0gzblp2enJfN1ZlZ3FHYnRkUVhmczlOUkVvdTBYcFNIa3MtY1JSNUdLNER6WFlxY29zQmpaN0N6Nzg1R3M?oc=5",
+                "source": "CNBC Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Congo sees no major threat from Middle East crisis to copper, cobalt output - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmFrN3JHZlVLZzVUSEFfRm1zNWtPWFp5WjRVYkNibXRIZjJRdFRrWlFYZmV3dTRvVFNFandPbVQybzBUejdVOVZSYjh1OUI4ZER3RW5ZZGNWUkl5NjYxMkZXRW9VQk9MYkxfVTFyaWRyZURMc2Joc1JDOWkyTHQ4UVl0N3VVMFBGcG5KbkxUSG9OUEJ3cW8xa0tqSmNNdzY4RUpENGxTbFhwbldNWUxfQ3o0VnRCOWRrMHdsczkzWQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "China launches multi-agency campaign to crack down on illegal mining - Global Times",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yVS1lbklzejN0bjdROS1mREtJRlQyVi1PNTJfYjJwdmNrTlpESWdtazVEMFJoRDExX3hVcEJ4LWhVWW1GRVI5V0tyV2wxZmJyN2o5ZW4xT3RSMUtmRjdZdHVR?oc=5",
+                "source": "Global Times",
+                "is_premium": false
+            },
+            {
+                "title": "Cobre achieves positive cashflow from newly owned Sierra Atacama project - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFNBa3hCQkR6M1EzZUwyQlZUTU10SzBFU19hZzZnYm1zVUdoQmhkSTFOR3I2UElJNXBOLThNcmNjRklUMmdNQ3BSYkQxYWQ4TzRCamJxUV9OUml5VGszWVYzbllSZ0ViZVo0dHg1Ulc5VkUxUmdzSjN4bTRKRTd6VGNsY1RZampKLWs0OTZfdnp3NGdveGhNTmpPYVNPcFhiLXZibUZjUDI3NnFITFFKeG9ibGNkQ1BpS3d3bQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
