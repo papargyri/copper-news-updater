@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-08 08:21)
+
+- **[Copper and gold explorer advancing Newfoundland VMS district - BNN Bloomberg](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDhOUUFrWHVDYzNaeW1ESExVWUxaMk1LZ2dQdVNQd29WN2JqVnlTTkRVRmdpX3gyT2VtaEp2MENBT0R4Slg2RGtsam9RV3dEN3BvOFRIYWF0ZWhYTHJGR1VQeFZObzFLMWJ6eGNnYllMRzI3QkluSUNWQm9mQXNoYkY5Z1E2dHA3Y1dWUEZsQnJUOExrWlh2UmROR1AzNW9lLXI2MHExcmFjSG1zWXl3WFA1ek92Z0VhNmc?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-07-07 13:00*
+- **[Congo sees no major threat from Middle East crisis to copper, cobalt output - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0hTMzFKeEwwdXhSY2pGWmd1WDdieXlIRmd0UHZhVVdDOUVwWEItMUxER3QyWndRVnZkSDJ1eURmM0M4VWFlUE5VOEtGanloVjJZWmtQci1oQl80SXhsNVJFMVplcTJXRWNWU3RtWWJFcFJXS25jZnMxSFpWMi0tMlc4dWFrU3VleUFQZWFhcmdTSkFoZ2F3SjhfTC1nMi1IaUtPRk1hUDRjdUptcUFrYzd6X3FrQQ?oc=5)**
+  - *Source: Reuters | Date: 2026-07-06 14:25*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-06 10:09)
 
 - **[Copper and Aluminum Advance on Fading Expectations for Rate Hike - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeW43ck1IYkdDX0xpQXNxTFppcTRCb0ZxT3psTkhfMmFjclpTNWlxTVJYaGZtNDk0OU41dDEtMW4tU1QxTzZSc09MYTJFaExGSmRYdXFhNDBjYmZ3ZEFrMTg0bjNaMjhQTW1QcTlPWXZhYzA5UU9tb2Fpc3ZTSk1Dc1hsbmJHN3VKcUVTV3pITDZlNndXTEtQSEJVMHJaenRtMm1wakxXMDBHZ3JKYWprSFBZOWNRdw?oc=5)**
