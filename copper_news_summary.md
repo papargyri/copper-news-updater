@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-09 09:31)
+
+- **[Copper Rises as Risk Assets Shrug Off More US Strikes on Iran - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1JOUnpZTTBhekMyWWhuY0phRm5nNkVDbkxXYncybFVhelZrYmZIQ3BIeWtTeW9JOGtVQ0pJd3FhYVlPQVI4V2Z5bV9CenRHeXNZMnBLc01BenBBZUFVMWk0NGlCeDJ4Y2FCa1Q2amw5ZXBLWDhPeUtxYk1TTzhWUDkzNU5rM1J3Z0NvMW9EdzB6WXBmamRNdC1iZHdfbXFtTkhfNkxhQkpCNzVHTE90T29B?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-09 06:13*
+- **[Tariffs to keep U.S. copper inventories elevated: RBC - BNN Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXN4UkxFSlVPSU9DWGt2b0N6Q0o3OFNDWGZFQ2JXOUZUeWJwdVdzamNBZUFsWWx0QlVnYTZaSFpORDR0al9TR195dmw4bTZnbWphMHV5MGt5dW5GR2Y2MVJ2b0s5ZmlPcHdTVTIwQjBGbjVxMnd5eTBBMUVROG5sdVdpZER5R0VOMW5jQVhWaGRNQWlvelVqSzJaWEtGb195N0JMOXNLY2p0N2Z2eGJLbnZUN1M?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-07-08 19:34*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-08 08:21)
 
 - **[Copper and gold explorer advancing Newfoundland VMS district - BNN Bloomberg](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDhOUUFrWHVDYzNaeW1ESExVWUxaMk1LZ2dQdVNQd29WN2JqVnlTTkRVRmdpX3gyT2VtaEp2MENBT0R4Slg2RGtsam9RV3dEN3BvOFRIYWF0ZWhYTHJGR1VQeFZObzFLMWJ6eGNnYllMRzI3QkluSUNWQm9mQXNoYkY5Z1E2dHA3Y1dWUEZsQnJUOExrWlh2UmROR1AzNW9lLXI2MHExcmFjSG1zWXl3WFA1ek92Z0VhNmc?oc=5)**

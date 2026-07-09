@@ -17242,5 +17242,126 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-07-09": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 19,
+        "articles": [
+            {
+                "title": "Cyprium finds extensive copper in Nifty waste dump - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TQ0hfQ2RTbHcyUXFXVEhMLU9PeTV4QVpQU3VtZlV5U3VIc1ZlZnVRTi00aHduQUk2OUpwaDRraTFKMURucTNzX3BoLWFCZTRxYTEtZ05rN0lqQjRnbzBUcHhXX3YxSXlhYndKd1FLNUxHM044c05MX0FuNmg5QQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Can Lodestar unlock a new Chilean copper-gold discovery? - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2wyZTN1YmFhN0hETkgyckxqLXktZVpyWDlmOUs4UWRieE1UMG9oQzY2VVAyT056RnZkbnp4ZzlhekFJWmlJT1I1eGotRWV5R2JEdkUtajNtSHJCR2ZhVHR4d2JEU2dWZHptQkJTSGZ2TWw1Sjd2TTNlY3o1OWN2cUdobDc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Rises as Risk Assets Shrug Off More US Strikes on Iran - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1JOUnpZTTBhekMyWWhuY0phRm5nNkVDbkxXYncybFVhelZrYmZIQ3BIeWtTeW9JOGtVQ0pJd3FhYVlPQVI4V2Z5bV9CenRHeXNZMnBLc01BenBBZUFVMWk0NGlCeDJ4Y2FCa1Q2amw5ZXBLWDhPeUtxYk1TTzhWUDkzNU5rM1J3Z0NvMW9EdzB6WXBmamRNdC1iZHdfbXFtTkhfNkxhQkpCNzVHTE90T29B?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Ivanhoe Mines delivers 64,000 tonnes of copper in Q2, prepares for H2 ramp-up - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjktSUV5dmtmd2VSVy1jcXl1cDg1NXhvcmJfdXRtVHpOdFNKNEladldHalZyYTNZdGxVR0hYd2hmVnJFdHJpNk16Sm95ZW1xZ0JtNW1hMGNxdUJDblIzVDltR2pHN2R3MDNpdkdIRi1ZeDZNSnZlRlhkWHdzbkhrWnZ0U2Jpa19jem5jS0VDSWFnS2pHVWFKQTVIVnNzWlk?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Cobre secures $90 million for Sierra Atacama - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05QnZXdFRmektGT01JdFhDOGhpWklBZ1Jsdk05QThqQ2l2dk9ZRmpURDZoMG5Zb3k4NjJYVDgwWk5aYmktWnU3M0VpdXFuU1Y1VWhnOVJUNFRTT3JKc2ltUDNBaFRXdUE1Y3VrZDlCT1daNkdh?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Why Australian Gold and Copper is taking bigger drilling risks - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjZ1QWxRMlNNYVJmcHc0Q2M3Rzc5RUw1MnhLT3NTM21rbmprb0p4M2gyeUN0bFlIN1Z3dmNLcTFFcW5VVmJXdjNtbnZWWFFLb0dPMVQyby1pV0djYTZyZEREYUloVkNmOElNazZscnl2SkRBWGtsSEFERzFXOGdfWlRGTTk5RUR0WUdlV09R?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Larvotto exercises option on Blockade Copper Mine - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fQWR3VkN2RWlPX0dqd19kc2Q2Y3Itdkt1SnYwa2RXTlNmanlTUno3T0s4bjRuWGtLQ1ZKZXViQkdMZUlxVjlONlRQZVpjeDI1Z0dXbnkycVFfenhScjl2Z2hxZ05jSW9LZWUwXzlraTd4WTl4bzQ2b2RCRWg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Demand Set to Slide as Rising Prices Bite in 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejAycmZYd0pUd1lZUFZpd0NERWgzaVhLRUQxNmVudHlZMUR5VE1VemdGczdOZGZuWUE2NENqMU1TYkptMWc5Z3dqUUY2ZmpsZ1dxcmxpT2hpbENtUzN5eWpCX1VES2lCd2tBU1NWbmYwY0p1aHRUNXZQZ1RucDg0NjU3X0UzeFU?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport McMoRan (FCX) Faces Grasberg Output Pressure As Copper Demand Stays Strong - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGljXzRhT01JY1YzTDZaR3F4ZkIxRnNLb1l0TGxmV2RzdUc5dlpnWlpYNV8zdHAtYXY2cUVnS2xKZXEtSWo3SkE3VDczckt2dndHeUI4VG1CMjQtVkEzSDIzRmNELTc2T3VWRWtsakZFU1ZPZmt0WHRYYWhZck9sNEx0LTZQNllOd2JRZ0g2cTlnMUlDN2ZHU25MOE5KVU5QZmlucGVfZVQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Here's Why Southern Copper (SCCO) Fell More Than Broader Market - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NwZG16X09GM3BBVEdkd20zOWdNRzd3eDltNXhoMWVEQnM5VmFrdGNweWlweDVWVTlfNzJhdkw0MHowV3lmalZwSE1UbTM4Rm5MX0h6amNYblJmZld0RjR6ZF80QVd4dDJkeV93TGQxZDlDa1FFM1dLenN2X3JXbnp4UXZQOVlHQnJiWURmOTIwS2hJdHJUZHYyMA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Best 3 Copper Stocks To Buy For The AI Boom - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGhFTXNrMFBCci0tRUtzV0QxZ1VORVM3a0FROXo5YUJuS0tMdk1YVWNXUFRfb2xVMFpCTlJuZGptbWlRb1RoYnY0VUd5aW5RVzZGVGFSS1A3TVpRdEIwNVFzc1RJOTdaZmg0ZnNuYjd3N1l5STUzdnV1ZjV5VmotNzZTZXJhcUFCcmdzRw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Tariffs to keep U.S. copper inventories elevated: RBC - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXN4UkxFSlVPSU9DWGt2b0N6Q0o3OFNDWGZFQ2JXOUZUeWJwdVdzamNBZUFsWWx0QlVnYTZaSFpORDR0al9TR195dmw4bTZnbWphMHV5MGt5dW5GR2Y2MVJ2b0s5ZmlPcHdTVTIwQjBGbjVxMnd5eTBBMUVROG5sdVdpZER5R0VOMW5jQVhWaGRNQWlvelVqSzJaWEtGb195N0JMOXNLY2p0N2Z2eGJLbnZUN1M?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Pampa Medina potentially offers mid-tier opportunity for Marimaca - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGhNRk5ISWV3NUZSRDhPamNaQUoxWUpUZW5jYlRGLTl6b2JHOWhxNEdzN1FCUVBUc0Raa2tkVjVCbmF4cGFSYmlfcGcxb1BpU1RjVjFzaFk1XzRtZy01bDJYQS1uaE02V2dOdnBuampHeTFhVGE4RHJKbmNZUk5tZXFfTE5naUZvTHNJWlRXM0ViZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-gold assays boost gravity of Jupiter at NGEx\u2019s Lunahuasi project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGlScmFMd1FBY19RUk55ZndhZTc2X1phdFhRMFY1RzBNTFlDbU5yd1FNYUJ2QlNIYTNJb2g3dTFLRjJHMTBjUFhDOUIwLXRCVU8zcXFyV2VIenRlTU14TlhPdUZkZ3ByRWx1dkhsU3hubDFfTDJRNmNVbjlQVVVVb3BwSHM2dmg4Umx4TU9YeVk3UjB6V0E1TUpn?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Newfoundland VMS Explorer Rises 10% as First Hole Traces Potential Copper-Zinc Feeder Zone - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONldxME1zMXM1cUlDaGZCbU4tUnczcG9ONUxQb0o1cFg4Rl9mYTNCZTRkelJDaVgxUUd1Y1RJMXhIeVdhWElrbC1rZnZRY250dGF3VzZuV1NjV2FJZVIyYTRCdWhmei1zYWkya1BWVEpRY01LcDNkNXpOOWtIWUFLLUo1WnRzMVJJTE5LcUZVTzZseVRmUjRjMzA3NVVwM3lHRmZhVnlwbFBydFprQ2NmVDlWbFRnQnN3YXlnRkdCYXpKS0EzNEtxcFJRSEp1WmJqOHNWcUFoV1REV0tiZjNiZy1OVTlyRERlVVVKRjdReHptb3BjeFlpbVVLQlc2WE4zRkZn?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe sees Congo copper output rising in second half 2026 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUJPYVloUDdIcnFBNnY2cGdQaU9IZ1J3THJsNTV2YnNYY0RwRkJyNnYyalFuZldnQ3A0M2ZjcmtYeUJzdHpIYlphV3JMblU1ZkVRUFNVYTNadFJGTVo0V2FuZnh0U01KeXpmNF9yZEYxSXdiX3JpQmo1elVxdW5ZczhvdjBhMFZPbWQydXdfTmI?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Lara drills Planalto toward $1B Brazil copper test - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6N203LVAtOVFxLXd6TVZkUzBQYlN0OE11VVk3QTdQbzBSVXRoM0RJRDFqa1IzMmpmaE1yWnVzM1U3dVM3eGdPZHdGVkFTWEJ5ZVF1dFg0dlh2V1ZhVzlyWGtWa3VrcURrSXV4ZVYta0RGSUp1VXJwMkVaT3J5dw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe Mines Reports 64,328 Tonnes of Copper Produced by Kamoa-Kakula in Q2 2026 - Barchart.com",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnF6ZF9GTnNCV3RIUjF0Q3BwRHBDcEhrVFRSUXhMbGtLNGV6VEowU1oxZ3VMbTk4T04tU0FHSEJ0cDZDZTUzOFNnSjhWNzZXeV9zTzhIMXFXV1RWQ19OY3hOVm5acDFIRkZ5REVEVEZSNkV2bkoxek1MMzdqeS1GYmd0Zi1DV29WVFd5U2k5RlJ5QmNQVENsczBKdDRqNEF3WWtRbGFLeFZkYlBJQ1I1eFhUUjFEM1dUUmtURHRGSFdNbW8?oc=5",
+                "source": "Barchart.com",
+                "is_premium": false
+            },
+            {
+                "title": "Faraday Copper signs definitive deal to expand Arizona copper play - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmR6cVJ0cVNuQktqVXlFY1pqeDhBX3p5aDR3TkZFekJHVWVQNW5zUWRjcDFyWWZEMDlGdnh2NlA2R3NBRXlwVVpVQ2F6Ym5ULTZud3JDaDczMEc5b0FndkxiQmJhWU1RanpyZVQ1YWJaTXUxQ3lscXhKb3FqMHNNcG4wcVF2ZF9vUkhLWVlVMEh1SEU?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            }
+        ]
     }
 }
