@@ -17599,5 +17599,48 @@
         "premium_count": 0,
         "global_count": 0,
         "articles": []
+    },
+    "2026-07-13": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 6,
+        "articles": [
+            {
+                "title": "Estrella discovers \u2018high-grade\u2019 copper at Timor-Leste - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GTWJsRHlTU1luZ0UxQWliRUdqRmg4T2Fybm1Mb2dtOXF3YzhlT2szcVFqZVNXNGNFcm5HUGVGb3p5emlHT3hzZmJyajI3RFlYVEtfSW9ueTdFZ3NpQmJOcjlKZXlnbE5lNjRmY0g2a3Q2ck01a2xwdWg2ZENGbEU?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto faces copper production gap after 2030, UBS says - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNczBFcHoyV0JnbzZYYUFZYnd0M2xTUUExSDExXzdZOTRjM1FWRVZmdEw4cVBZTW5IMGNncGozRGV6alNOdnBuaENIa2NDTFJGMHN1T1o5ZlNINVc1ZjNoSmdzRExkdHRQOHE3TXY2MllVVjVfTEdkaUtSUmxjX2dEMU9mckpFbkE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "New Frontier confirms \u2018high-grade\u2019 copper at Mt Storm - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFd250bTdGSUxKY3k0cE1HVXExczlMSExDSE1vZlVVMklWRm5mWWFQeVpqdjFQX3I0a3RENFJqSjNPXzNibDBNRm9pamVoYVJOR1UwQ3N3T0JNTkdfYUthVGhLSE5VWlFJMnpqRGY0Y0o4QklkQVBnSFFQZWdEVHc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "COPX vs. CPER: Do Copper Miners or Copper Futures Best Play the Electrification Squeeze? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXlUeFpfUTh3UlpMd3FlajRDdkpCWmU0NzdnLWduTHJsQzBndmpDZmZsQjlqYzNoYnVvUlhDcDBMWTRGUnV6eG1ub0VYaWRrTlFlWUxmd1FaNWIySzJnWm02MU5YTl9ta3ZjOUZSVHAzZW1XVWsyZWZYUVNhVWlFU1VCUWtmSVBtQlJMTXBkVHJic1VoMG42QUkzLUY?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-Gold Explorer Finds Massive Breccia Expansion in Chile - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnMwRUhWSlRieE5FZVhpOUdQb05yclFsQmhtSXljZmJsQjM2cC16MG5KMHJfbHZvdkg3bnBmWWxNLUR6VVVrWHZ6eWkwMVBzM2M1YVY4TW9kcm5uVnB3amtFcklmRjZUZXJiWkx2a2ZTd0w0aEJfRFd4dnhzYVhTaUh2NWZrbkVFdG5TeDVZdzY3RTYzdWxhUm1EbjJhbjMyLXlEQUlZdnBpMXJtMXgza3pBdl9jMWVMS2RJ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Congo Tax Agency Seals Glencore Mine Offices in Payment Dispute - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkNfbFhtVDYwZGgxTWV1WVg0Q1lXSjR4UlBOT21OVUk1cmZWdmNMTTZhS19tb2hZRGRILXFMZTBEWDczckVEbGI5cm1PVlh3Q3dYeE5WazFtdTlObmlkdUJDejFIMVh6QWNEUjZGTEtMTllIWVpHeU9ocWdoZEoyZTZBOTFGZm1QbllGcXl5RDhaUmFUMTVDS3BYMk1HcjVBS0JRLTFCZ0Rwck94dnZyQ1I0c1g?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }

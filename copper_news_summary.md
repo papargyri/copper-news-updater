@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-13 09:17)
+
+- **[Congo Tax Agency Seals Glencore Mine Offices in Payment Dispute - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkNfbFhtVDYwZGgxTWV1WVg0Q1lXSjR4UlBOT21OVUk1cmZWdmNMTTZhS19tb2hZRGRILXFMZTBEWDczckVEbGI5cm1PVlh3Q3dYeE5WazFtdTlObmlkdUJDejFIMVh6QWNEUjZGTEtMTllIWVpHeU9ocWdoZEoyZTZBOTFGZm1QbllGcXl5RDhaUmFUMTVDS3BYMk1HcjVBS0JRLTFCZ0Rwck94dnZyQ1I0c1g?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-10 15:55*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-09 09:31)
 
 - **[Copper Rises as Risk Assets Shrug Off More US Strikes on Iran - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1JOUnpZTTBhekMyWWhuY0phRm5nNkVDbkxXYncybFVhelZrYmZIQ3BIeWtTeW9JOGtVQ0pJd3FhYVlPQVI4V2Z5bV9CenRHeXNZMnBLc01BenBBZUFVMWk0NGlCeDJ4Y2FCa1Q2amw5ZXBLWDhPeUtxYk1TTzhWUDkzNU5rM1J3Z0NvMW9EdzB6WXBmamRNdC1iZHdfbXFtTkhfNkxhQkpCNzVHTE90T29B?oc=5)**
