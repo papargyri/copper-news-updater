@@ -17642,5 +17642,102 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-07-14": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 15,
+        "articles": [
+            {
+                "title": "Tintina raises $93 million for Chile copper-gold project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZm5FVTJaakIwbTFJeVJneWxfeVRubXJSUkhudGZUbFYxWm91RTV1WXNfMlJ0MGV2My10WGtUQnphZU1TS1ZlYnF3RUdVOTZnUTJSTF9lcVJSXzdMUkMxNmNzMUUwZVpfRThhdEJ4R0JpbkkwVmg2RWRPMFc5eTRBdjdxbms?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Arrow Minerals advances Yarraloola copper project with new surveys and WA grant - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcXhIUVNGZGNEU1BZMV9Yb0c0d09jTzZGY2YzeUhFUUxmMG1wTmQxb1JfMk9hZHZtcTRtMF9VTWlfMUFDYmMtTjk4dEUzT3ZNNHlCdmFRTTY5Z1Rxalg2QTF6RGZuM1ZmbkVxcURfSndtSm1VOVF1U3dpdkFrcmxSSTZ0TlYyX0dRS0pnNDZBMjl4SnNqR1RyZFB4dmFVaHhobFJuUF9YMVBiV2xvbE40dllteGJtVklNYk1JeWh0ZlR6NmxHTEY1WloxRVpiMllZZmVzNjNySmp5cDgxX3o0aFNJY1pHQ09EbVVNaWpCekNYQQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "New Frontier Minerals Confirms High-Grade Copper at Mt Storm Prospect - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdmdrOHdvdmVCUnc3a2FoNWxKZVpoVURvOGZlRnZhUEV6ZXFKZGk0V3JBTDNRQzJoZ25hZExEVnRLSEt2RzR6bjg2QjdXcWRXZVM0Q1ZidDVabzh3N2lnWUFUMFNCUTEtVWZabDJyampFQTZQbWtkeHdqUEE4UTBOV0tzZk05ZG5EbWF3eEJmelFiRG1BaTl4b0FXZF9DNFRfMlFySldDRDR1eUdfRG51VzY0QmtWTXhBd050Y0twUkhqcGxLZ0dwbnRwR3RxTEJxSnU1dmhGTUxoOC1KclRYQXdJODI?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Iv\u00e1n Arriagada: Chilean Engineer, Shell and BHP Veteran, and Chief Executive Officer of Antofagasta PLC - BBN Times",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3pnc09OQlctQzBVSUN2SkdTMXN5MHdTazBSVmpSWkhKWVJQQWhlOHpCNVczdXYtUVo0MXpnNEtLSXdNcUhadHduVE8ySmFiSG1qR2VYNEY2dkFQdXZRZFZoRnRsMXo0dVBxUksxejdqdkI1ZkVWelBnY0JZTGltQnI1ZmN6UEpDdGdSREdQcTdvNzZ0bW9saGpWRXlkbE5CZnV6RWtBQ1gxREk3X3BzaGJlSXBObHRpaHlTZXlOVFpLcDVUMENiaDRaMjQ4RXJs?oc=5",
+                "source": "BBN Times",
+                "is_premium": false
+            },
+            {
+                "title": "Auro Metals Intersects 625.12m Grading 0.64 g/t Gold and 0.10% Copper at the Santa Barbara Gold-Copper Project, Ecuador - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1JRRkZZQzdaUTR0Y01EWG1yM2lab240REdXT2lQaHROMW5tUjRrZGtqam45akZoTExYOEltcHBzVHREWnZHTzVPSnBlVjhKaEF3NEY1dUI4dFg0S1VFMXRFWFh3d3JaZ2xRTi01TmJBNDZVMEk2UU1xMzZZT1Iyai0yd2ZSbkdTVjQ3aFV6dWl6eGk1ZzZBbGFFX0k5UFRLZXc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Mustang Closes Sale of El Cobre Copper-Gold Porphyry Project - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMDRUSUJfTXNLSk1ZSlZSY3ptMmlWZ1pUQnF6QWZCdk1yTW14d2liQldVSXM5aTNBR1JoS0NMVmdVTUJXcTQtN2lyVjZETGRXNlVVUXVaLW10UHZ3aVc5a2ZHb2JIVElCOVNnb1lWWDBndk0xbFd0QnR3Mm9pc25rVVV3NnNvSnhkVWRmSkpzWXA4Q1ZkalZtZGxsUlUtWVY4aDdFZ3RraDBfNVNTVDhhdDBvS05weFdaY3Q2cmIyMFpKbVI5M1lXa2dSQlhOZ1FQY295blBTdlQ1N0hYVGxv?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Mapping the market: Metals and mining shares may be perking up - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFRxOVpXYzFranVGOEZYcEVISmsxMzJPV1VUMWFDWS1rVlcwNDJlc1g1dkpZamk5TzJjVnZkNnBRQndsaklzX3ptdzJzOXRHb2trQUp3VlZBcFhoTEZTeG91TWlYUjRnaWV0c0picWgwQ1lrMHZsOGdUbERLdzNheXpvSjF5a2tDRVFpY2oweHBCZWs?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Centenario Gold Delivers Spectacular Copper Hits at Los Reyes - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0NOd3Q0VXplQTJXMzZoZzZ1ZVhWcWkxblJ1Q25wSV92RXNXTks4NlpBbjYwaHBpcGRxM2RzTXBSOE9YVmcxYk1JNUVMRVYzQUFvSHJjcVI2YXAyTzNtLVFURkVJa2xpZ0RvV3RUcFBMX3JJN2FZc3FVYjd5TVZGMmdGbnFaQnQ0bm1nVGlOX1J0bVNxRzVIT3ZOLTY1eHN1UnZYQlY4eVY0OWQ2alhuV0lLN2xiVTFjd29r?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Prices and China\u2019s Demand Growth: The 2026 Paradox - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTlzMkg5d01mSm5jZlJSdlBJVzFrOFpfMUFxXzNXUkxYbWY1bGtWV2w3a1Q1ODBNYkwzUU1Hb2tndzhLaGZobjN6OXg4dFB0VXc2b0tjb3BaVjlrRVp6WWdkTDNnTGVpcE9QSVRIbHptM3pWdmcxS0EwUjZBYlA4N2M3YnFmQUtJWGc?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Base Metals Decline as US, Iran Flare-Up Clouds Demand Outlook - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lwR09CSGI0VWRPbGFvdk9fcG9SN0RXVE5oTUZ3Y0N1dGlOT25TbzkzYkFfMnRSMTZ2VkFvZnJNbEdZNGV3d3BlazJYRnN6Ukl6VkExM1dYRGZCQVNOY0t2azdnZEwwSmpMSmdzeUNQNGxuSnM0aXFZYWxPRkM3OC1BZ1pncHNaYlJrVzM0c19zMmx6SzB2VExybll6SG95WjR3WDRoMWRNQU9hRGhsOUFR?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "ATEX Resources Strikes Massive High-Grade Copper Hits at Valeriano - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZU9idzU0VGtxMXVEUTRuZEh4dXdvUXpMY01QX3plc0drQXFxaVluNXA3cnFVYnhFZmRZam9yd0NfYlJpRm1wYlJVVnE1aEU3ZG8zaXBKUjgwb2FnY1luVTdKVmM3Qy1IQkxRNi1faHFGN25jNGc2dHRCbWt3X3ZXVnBzbEdjeFVYam1mS3I2VGNCWGRyS0tWQmtMY2dhekgtTlhIUUlKbTQ0THdod0pJUTh2c1NkQ2xPbjJtb29sLXgzUQ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Congo taps Portugal\u2019s Mota-Engil to revive copper rail link - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVy1CMFFwZW1RWDFKalpKaUwzekpjWE1IUU5YLWE0WnV0UWJfNWNPdFFOZlRuQkxndmNSOUVBd0NKY3dteUtvQWVzNjA0WHQ5U3A1Wm11UXdCdHVqT21DVVdnNVBMQ01ZQllWbFliX09ISU81V0xIU0dTX0xtV2RQY1E2VWF3dUFfUFdUSHBQTQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco chair puts profit ahead of copper output - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VNHZTeU9lazNCQUdGRGoxaDY0cERKZGVVUEpjTHZMdHA1Ul83QlNMbk5qZmdJQXFJdk1TRjJpdnEzOHg1dlA0cnU2NVFJVkRYY2VBTXVJYTBId3ViTDVBb0lUMmJKczY5RFdDR0JsREhOM3RKZU9VYy1jOV8?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Amerigo Reports Strong Q2-2026 Operational Results - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSTE3X1JEZGtJR0tZSlhlcVY1TWE0dG1MQS1xcXk4SUNkV1Awdk9XRDhLQlBpTERSV3lKQ1VJY0xlUENidHdvajJEaWxZbjNsRXZobDVlTTYzTkRPZGV4ZGNjVkZvaW1CUmtucmF1TlllWC0yWDdWRXBTOG1QZFhoMlJrLW5hS3lrU1ZYV2RRR1Yzc0ZUNVA2T2hKMXBrM0ZwZUYzR214MnJpbm1SUXNyUDBESzdaZTduekpCeFNfQVI0NEFGQlRUQ2dwcXNPQ0tMOUE?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's May copper output falls sharply across top miners - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVNlM0Z2dXFvLUpST2w5aGN5a1ZGVmk2bTAwX0swT2NSdWhNMVQyazNFY09FalN0UVN5Nm5CclVVMno3SVlpc2dEc2FwWjYzTk5odzNqWTFNN2VhY1ZqOUZnaXlfSDk0RlJ4X1ZfNlZ5cjBRdVhyMDhlRHY3RlJQYWt5TXNzZmVoV2xQQ05BcjhHOXZ3UmRvRkJtRHRlNmNUWDFSMmZIYw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
