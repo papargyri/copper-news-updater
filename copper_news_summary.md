@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-15 08:00)
+
+- **[China-backed copper mine threatens Pakistan shutdown over security risk - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT040bGthSm8xQVF4NFVyTGgyQklnTTVVbTQ3bmhvX0dCRUhPUWtlUjBmelQ2WTZkb3hsbU1YVHBBdUJXSHFzYWRVREJPaURHYjVoU3dkLW1XY2pIa2pOcUIzVENXTXVZSVJGdFdYWExVbGg0Q0lIYlRZb3FhemQ1dzROdmY?oc=5)**
+  - *Source: Financial Times | Date: 2026-07-15 01:28*
+- **[Giant Copper Mines Brace for Winter Deluge in Top Producer Chile - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0YyS0FKc09XRGZqT1o5UzVVSEpiSUNSR0daUFVfenpsMzBKandfMm9nUmhrMm12MmxWWC1IYkxmSGtLWVBmVUhlVU1mek9LaXlsWlVSVGNLN3piOFpmOUp5NFd5cld0eFQza2thNUJVcDNiYkxYWWRrNVV0a2ttdHRRWmNSbm9tQm5OQmdGbFNGQUZoVEJONmNKSWZhb0d1T29rU0luT2JEeHlDRGowaFQtc2drZw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-14 21:30*
+- **[Congo's planned mining law reform could dent investor confidence, industry warns - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHpDLTFWVXhjdjRDbmxCQ3VpdjhJQXFnMnZuN085Wksyc1FYdlo2N1VrRWd4SHNFM3lJYmV2YWtRQ1VCYk8tODcxZmJ2Z2E5VTJ4RHhtSWw1UDVCeFUtOWNsQldnTG85LVdzTS10aGFudUN3Zy1MdGRGU0RLUzBKdF9GblJDa1pISWxQSEhWZlJWRFZ5N2E0T082SkJzYnlHYzlkTmlZWWJHS2hBU01xeFlMTmtySVFyQVoxWVlKMk5hRmtFdXc?oc=5)**
+  - *Source: Reuters | Date: 2026-07-14 10:27*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-14 07:55)
 
 - **[Base Metals Decline as US, Iran Flare-Up Clouds Demand Outlook - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lwR09CSGI0VWRPbGFvdk9fcG9SN0RXVE5oTUZ3Y0N1dGlOT25TbzkzYkFfMnRSMTZ2VkFvZnJNbEdZNGV3d3BlazJYRnN6Ukl6VkExM1dYRGZCQVNOY0t2azdnZEwwSmpMSmdzeUNQNGxuSnM0aXFZYWxPRkM3OC1BZ1pncHNaYlJrVzM0c19zMmx6SzB2VExybll6SG95WjR3WDRoMWRNQU9hRGhsOUFR?oc=5)**
