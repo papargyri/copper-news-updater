@@ -17890,5 +17890,138 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-16": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "BHP approaches its copper cliff at the worst time - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQS1JSWEpJN2tMUUFRc2VsYkZFRjljOEtsa091Uzg5Q0RmTHdfZ1M1M3AtYzRNMWxFUjFGZHphU0I1X3E3cFliQU9TZ0xSOEFmLXVST25FVWxzYk5YNG81RlFPZGpoamlqdkxzMTJkWWNzd2VDMGlab1hMNEVUZGJETU93b0JDWm41X2JuaTBkU1JaX0F4OXFUeDRkTWdFdmt6ODlsS05PQzl2WXpPTGNvS1VSbzI0NjkzQ1E4cVJiVk9ZQk1VOVBKT2U3bUNGUmlZSmlIUFo3NWtCWnhxNjN5UEhLRjBKU0x3emN3cUVrSTA0UGNLSGJKODJWVllrck91a200dF96RlpfaEph0gGSAkFVX3lxTE9pU283S3piMkVqZVF1WFFSeHN4eTUtTGxZUG5mbmFGUjNjUll2N1Bsb250ekJHd2VRX2VJYTF2azdIOVdKUFotS1NaZVoxRTMyWUtoYkNlMTVYQ3g3Ukk1TzBBdTQ0bmROVkNHSHFTbXk1VU9LSnV0N0dNR1dpMldQQlVZOThtSWtiaDBUUFZieG1kN3VuR3luaHZYSHJoZ2dYU1ZXV0tidExGbEhMTEI0TElQR3pfdFNjakFlUmtoQjliZVBNTkhEMTNzbzV5UEt1Q01LbUZzOWpnNVAtQmh2bnNKOHRSQTBsdFFoSW9wajlWLVZ2UzNybXM5YzVhUi0zeVFreGFZVWY4MFdnc3M4MkE?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Pakistan\u2019s largest copper mine warns of shutdown amid unrest - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlZDdDdaaVhCcDNQRG9mQkJyMDJDZ3NUOGhjQ3hlc1dyODFOOUZWZUJXLUkydUs2NjVoV1dzMVN5eWJHYkoxUFVFNVdzeGJfX3RfQ3ptLWg4eW1YLVlzOXExSC1KLXVwWkpfVnZxdmNxdTFiMkpjdzVBTnlpRmVLNWRULWxsUGV3Snc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "BHP copper output slips 5% in Q4, flags further decline in Chile - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVZ3NjBXQVFHeFFRUUlQOV90MTBFZ2NDRlkyTG9FMDRKR2w3dGlIUnNLZ0d5TlVEdG96TlBiU001YVBQbkpISnRzUF9tbVRiQ1lOQzhuT3NYNmZiUmVLeU44U3ZSeTFQWHRSbzVxY1R1cll6eEdGSHJpVmhpLUxtdlQ5TW81NnEyWmRCQzlNbw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "BHP wins higher quarterly iron ore prices, overcoming China's buying curbs - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWJIekhFZWNNcG1BamFMLTQ4eXJRRmtSdFZKSEthcnlyenl1VnRFRmlDV0Z0THpRZ0UyaGNwSVpsOUVucEpIYTY0LWNENC1FSWltajJ4aUJ3cHFDWmtLT3puTnhCX3B3clNBNllId1ZuTk5jaEdGN25McklzRlhwUnlJQmxsNnRGdUY0SUp1alZNbTFYaUZzcEdOZkd2VFplNkxEWXFDV0ZsM2VFZ3l2YjNlS2U4Mnh6dEtsZmhRLVRqcU9nTHc?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Chile cuts 2026 growth forecast, raises copper price view - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUW9lVWczVVNqTldwNFkwaEI4VG1vNlRBQUlVYlYyblZzdXBrSkR5YXpFSlAwYmY5ejJES2lnOGFDZlVIbWlIaXhJQkwwcFlSYmE2dzl6Z1IzUExsbzFuejFLcGhqYUxfNEpCaG0zc3dzR085S2hfaFZiLUxFb2VsUk00blg5VVUydmJMUg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Pakistan pledges more security for China-run copper and gold mine after insurgency warning - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdVhqMkVZdDljUmR3Zk1tNmpmY1UzamdDMmJTUGVYZkZqQXBxSV83TklwNG4yYmZ1SXRWWi1LTTJkbHZNdzVoeGZ3T01jUXdtZTdrekN3ZVUyXy1aZmJObTZaR1RYYVg2eXFiOWhVVUliVU9udE05elA2Vkp1eWRPVWZiU3cweU9KZWcwMU5oWEl0d3V4SEt6NTAxazJxTnlBTmlRM1FERktJTWRtc1FvSHlBZzNIVlRGQTVFQXgtajJQaXRjdUFTMHNLYlpKQ1gzeFVQZA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco\u2019s Flat Copper Output: Global Supply Implications Explained - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZW9ueThxb2xUNFZPYlQ3dzhOdlU4X3dWZUxLSzA4QlVFTEZSVDRjSUxpRkR6ejdTcDVTdER5Y2JKWGVCbVRIX3NTWHRETC1hWDQtYXB3MWVva0VOY3JVanFQVGtwVG41aU01cGNsRlJ4QUpjUThwUEpuZklyeHhNUC01UF9pU091bERzUGdiRQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta banks on stronger second-half to hit copper goal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW9nWlpZZy1HZnI4dEVuNzJpUFZzemZsS3RWVXFDRkF3c05CLWdDZTM1TG43cHpqTkNXUXhLM2Y4eGVWVzQtclhIcGVtTk5HampKaGFRM0FnQTRScmZfVVVtQUx5bmVBbkNoVi01Q0tRekZpNWhKaER5NFFSTzExeVc0UWFELXBtNE5XXw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's Codelco expects flat copper output in coming years, chairman says - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1J6bkNlMjJCTDQ3U28yYThZaWdxTUczTU1zc1pwaWRZdHh1a2dqQnBBX1RFREdIelY0MFhqWUoxN3g4M1BjUFdHa20yMW5Jb0lRNEE2M1Rpc1FlaS1BemtXZEpWZzNXdzRwQTlJV0lXU3dmVG9hMkFNV0cxZGVVazdFYzByQk5tMUQtZkVYNVFYODdLU2xOVEhJWkZvVmZDbGlfczIxVmN6RURRZkwwb21VQV9IUnB4V2tKMA?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Copper is shadowing the AI hyperscaler stocks \u2014 but wait for a dip before buying - MarketWatch",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1UwajMwX1JUSWZZb09tamFuWUNSeWplNm9SQi1hS2o2LTFJWEsxcjU2OV9PR1Q3c1BUX1hrYkVHRG1TSVQ3elhEQzM2WXFaUkp1anVlbElQVzlWYkI5NWdxUnR0WDEtcngybkhPdFJvY2I5a2RnMG54YWpuaVV6NjBFbTBWSlJqdHhhTEVBMkN5MzFSb2laTlFmUGVMX2FLLWNlamxLWGFGejg3Rmk5V1JyRnNjYUtub1E?oc=5",
+                "source": "MarketWatch",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One marks milestone in evaluating Redhill\u2019s potential - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbGRNcHJTSTQwb1hfa2dEdEE4bGNlTDNYN1hkZ2stanVPNEJlelczSEd3QVVJTlBNeUhGUlQyLWR4dEw1YlMzUnkzZjczdmxzQzFxYTI3ZkhiUHFPM0xYVWhWMHVScWYxb1Bzd3o0eVpiaW9zeFp3V2VtTmFBZGNiakd0a3RWR3ExUWc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Trekor produces 36 million pounds copper in Q2 - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3hFTjJSekprb2d2enlSeWtDTHBUU1ZCVWdCcU8wdU5BT2ExZXhMOGpnQkJ1SlVZT2pzcmlUWHdSQUZOZVl4SHVvNkVmNG1QS0hnT2EyUERCN01rc2ZTT2hIUnVBT3dxWXNrT2tOaEt5REhIYmZ5MS1Cd01BNFhQQ2kwVnRna2M?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum explores Taca Taca stake sale: report - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWmV0WVhDenBxUWZ5R3pJRDRqZnlmTnB4SG9yN3U5eml0TktPUml3TDRmcTFPZFBySnF4NE1UVGpyRlQ3NndHb2dDNmJuRjRSRlNIRF8yR1EtRHRVYXpVM3UyNHpTTGdKNV9aZHNIa2hyVTFZdFhSYm5vcnJ1UU0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta affirms full-year guidance after H1 copper production drops 9.5% (ANFGF:OTCMKTS) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUtRaDJYRVNQMDY0WUJXV2YwZkNHZWEtTHIxU2xkVkktMGJZakhLTVR0VXVvZW9KMHZVbWRmUHlCTmFtdHZKMmhXbzhSTms2dkpYWmw1V2RZQ3VHVFBhY0NnYUUxcUpKSGxMTDR6UUphcGh6NmFWRS1vYVRyT0x6aDNYREtaUUlrTFZaek50OFlXQ0VsQm1VaWVRWUhYdEJHUTJucTRxZWMycHJTVGttQ2tn?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Valhalla Metals acquires Yukon copper project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBURUYySFZqUVNCOFNaSVJENVVHMjdoaHZGelktU1JMS3QzdWR4bVIyUk95bnY2bWo4RmJJbDd1aUN5c3RZZEQ0VU4yVjhzd09XdlZRX3dDNEsxUXZVR25hamE1UkRnR1RENDNUTC1jdzF4OUZtVF9V?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum Said to Seek Sale of Stake in Giant Copper Project - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGo4Mk93MjFuSXBDTW51RHR0TlVVa0g2a0tpbDdWOUVnZVpsOXZKdWVDTktXQ2lNZ2RNM19aQXJUUDFrNXdJZjUwdXZkU2h3ZktYTFV6MUVGVkVyOFM3b01ndVhxSFNEY3FmbG9XZExDcnBJb3JkSWhNeDhpTDRKenBoZUktM3JtV1FoNnZrRlhQc1BOT3BkZ3ZKLWNwWHRINkQ5XzRBcHVYNGpaTTdUVXJlVmxoUQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "First Quantum Said to Seek Sale of Stake in Giant Copper Project - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXJJQ0kxaUE0bUlWUHRCY080c3JDUngzdDh6a09LLWdWaEpqSGQ0bzV4SWdUM3pYbVpaVTJqakI4SC1IOFVKY0lDZ3dacGtCeGppRHVqbG1fZlZxUFV3bzVTemdUYml2MExKaDV2M1FHcHp6ZzNjOHRnYXlSWTNqM0VyMkUtSnVpdEJYeWhiQVJqUzFmeGdPMVh4Wjl1VkR4VWtwVjNVOVFHMzB5RXpDakdhWFJYNld6bkhjc20zc25EYnl6U1dpUFp5bEc?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Anglo Asian posts meaningful copper output gains in Q2 - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekRvM0tfNnBkbXE0bXppcTJKNzhXNlhsaHptWUtsZVpxWEhkcWpiRmEtRWVfTlU0RDhTcUpVajZRTTNKekRUVWxxY3o3RG53N2RQWV9kQnpFdXVOeFBDS3kxWjFRRnV4ckhoOC1QekVJVmtaenIwZFNJQzY0NDdjZGxfSFpKa0pPTjVxSWhQQjRmUTRvSmZPaGtEU0VOY1lCSEd1Uw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta's first-half copper output drops 9.5%, uptick seen ahead - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUtXTmQ5SUsxY2hRckJ6ZnQwdHpZX0tBT0tFM1dRa1NPVEJhNjc4WVM3MW0yaXlaWk5oM2k0ZHdFUlZ0aUxMZ3lFazBLSDlpWTM4X184MHpkZDRieUFfV19jZ1V6QnZaQmYtUEVnaXVJODRXZXlWTnpMckI4c21YX1lncUVubXdWVF9KWmZWU1E4eHdkMktHQVhFWjhod0JBOUZDTEJSVDhNa0VHS2syOW53?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Zeolite SCR Catalyst Market Report Published, Profiles BASF SE, Cummins Inc., and 18 Other Industry Leaders - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnJJejd6TUJOR1pkOGQ1VUtNVXlIaHhna0ZCdGNLcUhBMG9uTnc5UlhOYkFvQmd5OFN2X0tpOGJPZWhtRmhvMkNlWlctOXBkTUFtX3o2Zi1yT1lJZy1uYlVhOTVwTTRtbjRCQnE0ZnZ2UkVuX3N2QzlmWGdZR3VwUzV5UDNpZkMtMERSNVlqRE5tbDhCVFE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Kingfisher Mining hits 26 metres at 2.57% copper in major Copper Blow step-out - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTc0SEh3OG9ucEt2TXREa1VGVVk3ckgzQ3dtWmJZSHp4a3lMbDNxY1NnT09vS1AyYVpIYUoyUjlxcmN0QzdOUDJZSzJjWlRvRThQZDVXeWpLM1VfQXhUVTZzMWZIY19aVktRU0VfaFVLdUlWTHpjZEJydnlralFnaTE1VW1ISDF2?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            }
+        ]
     }
 }

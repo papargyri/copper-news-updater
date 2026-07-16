@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-16 08:05)
+
+- **[BHP wins higher quarterly iron ore prices, overcoming China's buying curbs - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWJIekhFZWNNcG1BamFMLTQ4eXJRRmtSdFZKSEthcnlyenl1VnRFRmlDV0Z0THpRZ0UyaGNwSVpsOUVucEpIYTY0LWNENC1FSWltajJ4aUJ3cHFDWmtLT3puTnhCX3B3clNBNllId1ZuTk5jaEdGN25McklzRlhwUnlJQmxsNnRGdUY0SUp1alZNbTFYaUZzcEdOZkd2VFplNkxEWXFDV0ZsM2VFZ3l2YjNlS2U4Mnh6dEtsZmhRLVRqcU9nTHc?oc=5)**
+  - *Source: Reuters | Date: 2026-07-15 23:17*
+- **[Chile's Codelco expects flat copper output in coming years, chairman says - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1J6bkNlMjJCTDQ3U28yYThZaWdxTUczTU1zc1pwaWRZdHh1a2dqQnBBX1RFREdIelY0MFhqWUoxN3g4M1BjUFdHa20yMW5Jb0lRNEE2M1Rpc1FlaS1BemtXZEpWZzNXdzRwQTlJV0lXU3dmVG9hMkFNV0cxZGVVazdFYzByQk5tMUQtZkVYNVFYODdLU2xOVEhJWkZvVmZDbGlfczIxVmN6RURRZkwwb21VQV9IUnB4V2tKMA?oc=5)**
+  - *Source: Reuters | Date: 2026-07-15 17:42*
+- **[First Quantum Said to Seek Sale of Stake in Giant Copper Project - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGo4Mk93MjFuSXBDTW51RHR0TlVVa0g2a0tpbDdWOUVnZVpsOXZKdWVDTktXQ2lNZ2RNM19aQXJUUDFrNXdJZjUwdXZkU2h3ZktYTFV6MUVGVkVyOFM3b01ndVhxSFNEY3FmbG9XZExDcnBJb3JkSWhNeDhpTDRKenBoZUktM3JtV1FoNnZrRlhQc1BOT3BkZ3ZKLWNwWHRINkQ5XzRBcHVYNGpaTTdUVXJlVmxoUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-15 11:13*
+- **[First Quantum Said to Seek Sale of Stake in Giant Copper Project - Bloomberg.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXJJQ0kxaUE0bUlWUHRCY080c3JDUngzdDh6a09LLWdWaEpqSGQ0bzV4SWdUM3pYbVpaVTJqakI4SC1IOFVKY0lDZ3dacGtCeGppRHVqbG1fZlZxUFV3bzVTemdUYml2MExKaDV2M1FHcHp6ZzNjOHRnYXlSWTNqM0VyMkUtSnVpdEJYeWhiQVJqUzFmeGdPMVh4Wjl1VkR4VWtwVjNVOVFHMzB5RXpDakdhWFJYNld6bkhjc20zc25EYnl6U1dpUFp5bEc?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-15 11:13*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-15 08:00)
 
 - **[China-backed copper mine threatens Pakistan shutdown over security risk - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT040bGthSm8xQVF4NFVyTGgyQklnTTVVbTQ3bmhvX0dCRUhPUWtlUjBmelQ2WTZkb3hsbU1YVHBBdUJXSHFzYWRVREJPaURHYjVoU3dkLW1XY2pIa2pOcUIzVENXTXVZSVJGdFdYWExVbGg0Q0lIYlRZb3FhemQ1dzROdmY?oc=5)**
