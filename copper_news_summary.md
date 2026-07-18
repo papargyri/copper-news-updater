@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-18 07:42)
+
+- **[Wild Weather Disrupts Copper Mines and Ports in Central Chile - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFF4TmZPQmJQbnlRcmdXUFlHdlZKR2xiMENEOEh5ekdYSGdObjJfUXl1cElfcXdPb0xyOTBNZXBKMmtyQ0xPLTBmWTZrRWpFcHBWVTh0cngzNjh0eDhKYW96cll0aGIteFNsOU9OM2N5bTJkUUFiM25handLejYzQ2hQeWxldXU4dzExUWEtWW5EVFFpWG5pNXppOTlHanhBN1ZXa1VKdnJwQ1VKdmMwSVRB?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-17 14:54*
+- **[Industrial Metals Decline as Traders Weigh Fed Rate Outlook - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHJFYS16d203TV93UTQyYTBYaW5lY0xjdFV0Tjhodnpjb2piNHBDZUt3QnRrbTNNY1hZbmw3NVBjOEtfM1RFS245QWs0YWMzNkQ1RWVEMHVNVDdsTFRiemxneTBJQUVfa1BxUHZPcFhOOUYwZWVNSmFPVkJzLVAtUFN6ZThzeWIyZEFkTGE3c3V1Y1NaLUUyOWdXc3hsaFZxOW1XNmRibzA5MGFJN3lr?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-17 10:25*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-16 08:05)
 
 - **[BHP wins higher quarterly iron ore prices, overcoming China's buying curbs - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWJIekhFZWNNcG1BamFMLTQ4eXJRRmtSdFZKSEthcnlyenl1VnRFRmlDV0Z0THpRZ0UyaGNwSVpsOUVucEpIYTY0LWNENC1FSWltajJ4aUJ3cHFDWmtLT3puTnhCX3B3clNBNllId1ZuTk5jaEdGN25McklzRlhwUnlJQmxsNnRGdUY0SUp1alZNbTFYaUZzcEdOZkd2VFplNkxEWXFDV0ZsM2VFZ3l2YjNlS2U4Mnh6dEtsZmhRLVRqcU9nTHc?oc=5)**

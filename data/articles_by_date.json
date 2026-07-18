@@ -18029,5 +18029,132 @@
         "premium_count": 0,
         "global_count": 0,
         "articles": []
+    },
+    "2026-07-18": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 20,
+        "articles": [
+            {
+                "title": "The New Oil? Why the World Is Chasing Copper - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQODZYUWZwMlkxVmwyUXNkUXk0UWVweWFXb0pKRDhabGpTLU9Sb0VzZ1FIWjh4U0VBOFoyNXY4aDZrbWdVU0cwX0x4S285Q3l4U3M4aThYbFFMRjFvT1d0RGZjOE1EQkMxZTBrSEtaSGlDcHZPVGZHM1RuT0xkWklPZ1RWNlZuaV9DN1RGeGtIa2RZVi1HNzBpak5pdmxqbk40X0Jzb0NaY0h1cmVMVkpMMU0yS21pT2Z3NzdPRTRYMVVKTWZH0gHEAUFVX3lxTFA4NlhRZnAyWTFWbDJRc2RReTRRZXB5YVdvSkpEOFpsalMtT1JvRXNnUUhaOHhTRUE4WjI1djhoNmttZ1VTRzBfTHhLbzlDeXhTczhpOFhsUUxGMW9PV3REZmM4TURCQzFlMGtIS1pIaUNwdk9UZkczVG5PTGRaSU9nVFY2Vm5pX0M3VEZ4a0hrZFlWLUc3MGlqTml2bGpuTjRfQnNvQ1pjSHVyZUxWSkwxTTJLbWlPZnc3N09FNFgxVUpNZkc?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Wild Weather Disrupts Copper Mines and Ports in Central Chile - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFF4TmZPQmJQbnlRcmdXUFlHdlZKR2xiMENEOEh5ekdYSGdObjJfUXl1cElfcXdPb0xyOTBNZXBKMmtyQ0xPLTBmWTZrRWpFcHBWVTh0cngzNjh0eDhKYW96cll0aGIteFNsOU9OM2N5bTJkUUFiM25handLejYzQ2hQeWxldXU4dzExUWEtWW5EVFFpWG5pNXppOTlHanhBN1ZXa1VKdnJwQ1VKdmMwSVRB?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Acid test: IEA warns copper supply outlook has \u201cworsened considerably\u201d - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDZrdE5RVm8yTGtvX1RyUHYtT2xrSHZneTdVVTYycl80dlNleUpFLVpSRXdOR1M3N1MtTGVxc0N1cEdNYUk0ZzBLNWlpUzlNRUFnNFlTeDR4ZjB4RkkzXzRpTEFTODBHVk4wd0hWODVpZm8ydDNMVElDTlNySzA4eFhnYzB1dzZ0MzhXNXJKMW1yT2Y0SW5tMUpiRDNaZGZMa183alZzd3lrNDB1SG9zeVh4Smw?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper Corp (NYSE:ERO) Shows High Growth Leadership on CAN SLIM Screen - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkFkV0pXQXpzZ05FY2Z0VkROM0dqVzlrNGtMMjZIY01SWTRpc0d2WWhKbHRxNjlPS0FxY2xTN2tKWHJoRVNBNDhiVW5YZHBZSTJoVmZhemQ4OTM0RHdYYzRIWXU4QlBsTmxXWElJbG51TEhZOUhIS2pPNGRoSEJpczZsRFNpN0lCaGdYeG90MkcxX051NC1BQ0M5VHVReWZWQlgtTUJDSWxJOFdjMWFnZ2Rjb0ttN2hGa1NUdExOOA?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Industrial Metals Decline as Traders Weigh Fed Rate Outlook - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHJFYS16d203TV93UTQyYTBYaW5lY0xjdFV0Tjhodnpjb2piNHBDZUt3QnRrbTNNY1hZbmw3NVBjOEtfM1RFS245QWs0YWMzNkQ1RWVEMHVNVDdsTFRiemxneTBJQUVfa1BxUHZPcFhOOUYwZWVNSmFPVkJzLVAtUFN6ZThzeWIyZEFkTGE3c3V1Y1NaLUUyOWdXc3hsaFZxOW1XNmRibzA5MGFJN3lr?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "BHP results: 10 things the copper concentrates market needs to know - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3ZSM0xoVXhZT1VuNmpSOHFlenBJa0oxUFFuZWgwNklJNVBQR1d0ejZicWNwRU41cVVhSWF5NmcxV1RJT2szQ0RremdSYmdKRkVMbGlNN3JJWHE4eHNScGo0TnBFS2JXaWJMcHZNRkJsc0dNM294UGgwLU5TOFU1aDN4RDZ1c0thTjZ3ek5ScnJaSk1raG1NZXNNUXduLWgtN1RSY2VzSQ?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Hillgrove proceeds with new underground mine front at Kanmantoo, proposes name-change - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdTI2a3NEVGhNczA5c0xXNEktM1NXbFNGel80WDZLdzdCQy1PaTNGMGtyTDhJQlpoTWxXZzg5d1lPblRqcjRuWlhLVFBPWFVFcmZwczlHWHMxenByTEJpOERzUU1pSWNFaGZNaVVDSWRJUXE4MUVfZTdfcHViSklKbzNyYUE3dFcwVE1Jdk9xdDZFT2Nkbk16ZEkxc25ReWVNUXlvUFFoRTIxUHdsY3FuajdNOW1tQ1hNZkl2S0dQN2VGLVhJUE5UOVhqSGU?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Stock Gets A Lift From Higher Metals Prices And Calmer Politics - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2Q2dVNDbmYzU2xRSHcyV0JZbWxqYjlYQ1hZbVo3UWd2Q1NjZDk2QWdyeFRaZ0V1MmNBTnJydFFsdFZXQUhBY0xWaHVxNDY2TjhTZ1Ryc0pnU0J4VWRpLUhuaElMZUJqaDJtX0hlQkFxWThQMDUyZWI2OWplUWZoWWhtQnRKV3VWN0RKZlZzOXV1X1VuZ1hBaktfLUw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Saskatchewan Gold Explorer Monetizes Copper Asset to Fuel La Ronge Growth - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFZxZG5fMW9ZUmpidlZMTS10WE4yQlhYZFJVeUZQY2RjX00xYk9SeXFYLVh2MXZaYklBT2dWd3Eyak1GOGRiNzRjcUhXUlJSRGo5N2UzNUxsNmtHUXlMUFZoNEJOUlVlbGJBQnRhQkR1SEx5eTZ6dkVGc2NINjNCVXFRZl9ZY0lPU1U5Z2o0UEVUZ0praTd3c3N6NGRXSWl3LVlHYllQVmhwMjB4U2Rra2xCYnc0Zl9BeUd1V3NuT1pHbkdpWGlaX2NQVQ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price slides as monster storm bears down on Chile and Iran flare-up rattles metals - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHFwZ243SG1qeERfelBhN2dHRkJTZTB2a3ZyM3dGTV9FSnZtaXE4eHloaFN3c05jYVlBS1p4VVlZLTZyMWIzSlhJYjVJdmZvT2h3OW11VXFjajRMX2J2VlJZSEJPeXZsamlrR3hrcHViNDM2QVFESloxc2Y2Q09PbkhBZFJvaVh5SVNjRHktT3VSMVlHam1KQmhIS1FXbUY4cC1pblpR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Acid test: IEA warns copper supply outlook has \u201cworsened considerably\u201d - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2tmbkpNWEZ2QkZxaXU3QWpIcEVySHptak1SYXdOYldiamNJQWFBbk9Vb3JOSTBOOFdYTjEzV2Y0a1hzLWxTeWh5dVd0X0M5Vmk0ZGtTQndKSzNHSGlGSUpScTRoT2pFbGFIQ1VNUWtOdHJ3UWNZQ0xlNTR3a0NYWUtOVlJfM2ZZVUpxY0VzTDZ1VlpiUWc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Kamoa-Kakula Copper Complex, Democratic Republic of Congo \u2013 update - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX25raFlMSVB4ZUF5bFBEd3NNekswcGlKZ3pobUhGLWxLVVJwRUo4bnpaXzVIeGQwRWhNZ1o4TjRYaGFmdHdFWW8wX0lEUDRyVl9ja1d1LVJYQ2dpOTJRdGpYcDdLVHdvZXIxVlo0SkdKeGhzZzl3TzBZZnYwZkNkTFZMazNDYk8yYkhmbmNWWndPYXFuWnFyZ29tRU1pSG84WWxJSTd0WVhHcW82dWtyZw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFd6N180T1hHYUlhalZEZ0p2MDhMRTRPdDRvYVFCWm9pQnlnMkRpRHBuZ2JFSGpOZ1dUaHVfQkVnQW93eTZuanA3Nm5fRnowSTZ2UVp6dE1tSUtkclN1ZjVFeFRqN3JwVEN1LW91cGZrMTU3anE5UGtXT2dVa2RxeHRobkVOX1hSWXRBVw?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price: BMI hikes forecasts \u2013 structural deficits to bring $17,000 next decade - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdE1LMDlFMXNueVZnTHYycUZmdzZlS3NpaWtmdFlIdEdVdE1xc21icXRTaThPUnd0YzhiZTFXclBPbEFsR0ttTFBLSnRMMlVhS1drQmVqNHlMRHN0RjhWcVlQMGtvWEV6S0xjN203Mjg2T3BQbEJkWTdKRTJOY3BaOUtZNjhtQUxJTTVzcF8yNVZubUJoc1ZyOTNGV0NmaGJVNDVtbzdB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Nickel price hits three-week high on Indonesia supply risks, Fed view - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeE5aTk9lMXNMMFdDMXduU2J1b1Vha2tiTklDLUdHRTYwb2lQM3o2dHBwb0VpemZ2VEEwTmtQOVQ2eWl5NC1MLXVCWmwwX2xDaDhJd3BuZWlYY0ZickQyQmtQRW8wT3VtRVc3TDFQN2lKbEN0aXhqR0dOOWR5bTdUU0lQbzl3VGdYcXFuWTBiZ2FwVXNK?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Australian shares end flat; BHP copper output cut, work-stoppage dents miners - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnRCaTRob0NiOTJxQVhVT2tRcW1SNjdBMmVoTFFlYlV3bmE4MFFWS1BNT1NzbW1PaFUzM0VMNlFScDY4eXhMLWFtZ2QzSFVRanV3SzVGNmxKTnhSTkd6cHJOWm0ybzF2UTFnZ2FDMWpXRzB5b2EyS3pYdHlmblBlRTA3NENKUzlpZ0xPdzJGXzg3NHk1VGc1UW03SEkzSm9mcWVGd2pSWlNQR3dJVE1aX2txYWlMaGxqMnFzQkpTXzc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "BHP confident of group\u2019s future growth opportunities, despite warning of lower 2027 copper output - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ0RlVXRXcmo4al94Si1saDNuSXRvY1ZNYXhUUzg1VzJVR0hQZ2YxQzBiSm53eE02OV9UQ2lONEpuT3U3bHBsT3dPZjVDYkJKWTlBaHhCUXBQQzQwd2NfY1JKNHNhRHpNMHE5SDFIRHpwRTJZbWx2YmdYRGEyVXZ2UHlCZWhHTGNDa2xQRzFEeVNtV0s0UXFFckxSRGFvejZ2WDl4QUdCcGlOVjJUdXhBTG5qOU5VWnlXZnR1OW5lejZvMzdWR2FMVXN0b0JQSzBEQVVUd2lOY2hmalE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "bmi-copper-price-forecast-chart - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWtQRjFzeks1cjMxOWxVTkxZSWNHcUVFV3BaVElQc1RHdEtuZm84LVFRQ3p4b1o1V3hLako4RFNxVE5wekJDeU02cmVSM2ZuLTRRV1lCbnRtMTJtQ0VvQWk2TWlVcHpiYlpJQTQ3dUV2Y2pOelVzSm1IOGZOTjNJQy1kRHh6TnpwbW1HSHp3Wkowd3dhNVlzaVNlWlRJMjRkWGY1NDAyazhWaG5yLUp1U1pSX2dpaGRRd2JkUGRId0tEWUxzejhUYV9UQ1ZFalZ4?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta banks on stronger second half to hit copper goal - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3BXdTZiNlhuendjd2psa0VQalpheGhZNWZTNUl4MU1sUUNNYW9lM3VkTG5UelRRcXprdWdKT0ZYeDdxTVFqaFgyMmVsWlJySE5PaUUyTnlnT0pWNWtZLW96MEstNzNGS2xLYURWbkFKRjZnTnpCSU9JenRONnlYazFtVk4tUDk0Mm1NT2duYl9jVC1FaGVVbGpKZmFVM2hZbHdsb09mck0xVDA?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo Asian Mining reports record first-half production as Demirli copper mine gathers momentum (AAZ) - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWxHQWFuQkN1OHZJcWNTcnRQdS1RR3hPM3c0YXo1RkhJTWcwX0d0ZXl5OThnc3hKVHdNejdjdk9YaTRxRUdrdlhaemNmSHdCeTdQd2szMEZkMnRqVE5vT0pGNnNBRVdqaUdyR21zbU5fNWVhSldoa005NS13bkt6amF5YUx6VVFqWnc?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            }
+        ]
     }
 }
