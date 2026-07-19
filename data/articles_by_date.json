@@ -18156,5 +18156,42 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-19": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 5,
+        "articles": [
+            {
+                "title": "Tavi Costa\u2019s Secular Bull Market Case for Gold, Silver & Copper - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjVyNXlOTDBwZlB1X0xPTlpYWkFVVElJdldydHo2QzRDSklFY3NxV3VOTDFSOTE4bzdUYkNBbHVfaGxwREpUSk02MWNqaDdxdHdOZXVIbUxEeWZnUFJIbXNkTS1TZnZLYmhsZEtOeFdXLUtxaUVCOThzU2psaUpxdnhRN0xRNHVQQVdMc3NYSzg?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Wild weather disrupts copper mines and ports in central Chile - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZzF3emRxU1VPRDZ1amxmWTNjRWtnUHVWT3VPMGx1UWVLZjR0MWFJSnpaRjNTNFVLWnE0aW04LUNQcHFTbXo0bjhJRnhYdjhWSHNiNnJwUWxTbE80VE5Gb2lEeXhZTE16Y0d4T2tDVXFMaWF4MnEtanY3bVdZOGZ6OEphNG1BTFlBRzBqZ3ZZWUhyU2s?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "China\u2019s June aluminum imports fall as higher overseas prices curb flow - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjZkM0dWOWZiOFRNMEFfREwxUkdjemFMMXN5U0ZlaDBqMnFrTzBqb3k1bWxwOHNmSXhKZHVBRHZ2UzdIUGYzMHVYSDVvNHJuQTBPZmtMUDBpcExOdHBBeXYwUGFBaHU4N0JpZFNNWk9vejY1amNkY05oNE1XaW1uZkM1c3BCY1hRTlhFZ2JiaFN0b0taNUFiUEI4ckp2dw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "The New Oil? Why the world is chasing copper - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRCNTltSEVON2lCTThYeW1PVzVudUd6TmM0bnUybDFVTmlWcEhicnBBQWdESVVCbUhGY2dUcmdNZ0RMcFM0U0VIODlSc2E2R2NFVV80Q2phOW1UVmI4bU56dFduOFRDT2dhdF92TVRDRGREcHl0N0phSy1HaXUtQ190enJDcjlWWlFDczNQTzRXc2FVTXZxQlkteGJCUkJNT0ZQR1V0RVpDVjhEeHJEMWROQm1sZlJyYktvNHliQdIBxAFBVV95cUxQODZYUWZwMlkxVmwyUXNkUXk0UWVweWFXb0pKRDhabGpTLU9Sb0VzZ1FIWjh4U0VBOFoyNXY4aDZrbWdVU0cwX0x4S285Q3l4U3M4aThYbFFMRjFvT1d0RGZjOE1EQkMxZTBrSEtaSGlDcHZPVGZHM1RuT0xkWklPZ1RWNlZuaV9DN1RGeGtIa2RZVi1HNzBpak5pdmxqbk40X0Jzb0NaY0h1cmVMVkpMMU0yS21pT2Z3NzdPRTRYMVVKTWZH?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "USFM Corporation to Combine with Nasdaq-Listed Twin Vee PowerCats Co., Creating Publicly Traded Company Focused on Greenland's Disko-Nuussuaq District-Scale Magmatic Nickel-Copper-Cobalt-PGE Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlhPR3IxLWJkNlpMcy0zV1NFOFJ4akpJNS1VOWZjRzV6SzJPd1BUZUVJaWFUSkVVc2IySmd6TjhxZkR4ZWFPRnNKNjdQd2NpTk91b1RkTFZGQlNvcGpicG5IYmhkZTByaFdNZUtXU2pVU2VuZHF1TDRma09IdGNKaVUtVVRnYjlCNDdsYjNqZ0xBY0xDclE0aWYwbWk1M3hPTENRbFB3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
