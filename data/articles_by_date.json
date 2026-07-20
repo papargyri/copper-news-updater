@@ -18193,5 +18193,54 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-20": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "South32 Q4 copper output declines, missing market estimates - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWs1NlhWTTJKZHg0d0xhMkFadUJWdFNHVmUzd0lWeE41MGlwSnZSb1lDV2pGZWtDQkwwd3ZPeTk0Q09MTE16OEpzS0Q2TDd2dk1TRy1SUkNuMjM2LTVydzJyNkZ0UldzWXUwRGlyOVBWNzhPNTdYT2NjMnVxNi1wUmRrRXY5UXAzU3VrbkNoVTg4eFhQeUpVN2pTaEFpU1NjVmVMZFdxYlQyZw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper slips from record highs, but Chile supply issues keep long-term outlook firm - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1cxXzdSNmQ2QWJ5VVpLVDNyOFhJMjFDZmVRT1pKN0FtZThKd1ZVRzE2YzV2cmoxM1hic3VuYmV4dF9mZ0VCVllGcnJBdEJfQWNyb29FVlIzcno5OS1VenVYUjRkaFpldi1RbXpQdGoyM0ppNGxtNndqcGtqRHJNOTRiZnpucGo4bW54LUhWZnVoVXc1M2h6UlVuNHZOZ1QwR28wSU5ob2xjTnc3MFRZSHNndjd0VzF4czlZVVRDY2RZMmpBLUkzNmY0MFVleWo20gHWAUFVX3lxTFBsVDZxWmV3dkNoOFdvcHlzNnVrclVyQkk4QjRfbEpDc3RZMEFkSFJ2aDVfTy02RnREMzVIVTlJUnYxS25hTkhsalR1WGpTN3RqS3IzRUNhOEdhZjQ1OWdrTWN0cUx5SXh2azNxYXV5ZzRuUlBxZXhnS0ZHYUJjTEJYYVRUbFM2Ykp1bGhnaXoxVGg1Qy14ZXpabU5fbnNqNVZEWXVJVW13Y3AyRV92ZXJXY09Iem8yTkI5aXRWS1lNWHRSRnB1MmIxTTl3SHQ4TGhqV056bFE?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Contango ORE Fireside Chat: Metals Pullback Meets Defense, AI Demand Tailwinds - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUxpemFjeHFsRVVyNXVmdEFHY3dUM0JSSXlUQ0NwMTVSZ0NfcXlHUjF0b0ZjMFdGSWhNdk1tMkFIRm5qLTJXQ0JZaDJnZ1N5TVkwZVJPN2RnRFZ4QnJndDNxVkhRRXBUNHFudkk0YjkwaHo3VFREcHA1Z1VFZksxY3NlRU1pclhRcUIzd3V1Z0V3OFRxQ1RaZXNRQlBQMVl6WnktR0Rn?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "CVV wraps up DFS mining study - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbE9wWEVDN3kwem1kSGJzSTVGZEVJSVVycExSd05lT2pUVDlpX3diQWN3QUdNaFVhenZKeUdUdkJ2SEcza2pvdmRMbU9NRzFzM3JOc0pEQ3BaZDJPb3JkM3FuR0ZSeWFhZGtlWnl5c0dCWlBHenp2b0lfN240UkYxZ2ZLbm5wV1EwRGtYYXVpU09hWWhKWUdsczFnZEJRT0VaSHVrQmMyM0stZEJ3cXA4WXRFMWk3QzBPSjV0REF4Y2tFaXdDeDNFQkNnT3d5dEJDeTRtV1o3U1laaXF2MDI2dTRRdEI2VkhLSWowTzNIYy1rZGNtY2xNd19lM2djakJD0gGGAkFVX3lxTE9MSjdGMmxGUDJtXzV3bF85MnIwZ1RCLUdPaXZ1ejdjYmRsbDlRUXBvdVdkY2Q4QS1HV2ZfZ3FuR0dCRUJVeTVRbDlnbnhab2pCbGh5aWlGT3NjeU9pakt4ejBqNC1KZGk5bW5LRnk4XzhhT2o2dnlYd1FqZ0hPc3ZCX1J1T1laY3dIb2k1c0k4c0lmWmo2QkRrQllmaS1YenRpb0JUenFlNlh4Yjd6UzdidEdpUGxIYVNPSGZaQmxQZ1BteWdhWkhzb2NMT0RWX2toUUl5MFFPTjFZSHRTbEhXLVd4NVpLUlgyR1B1Q2RJOXpub2JBQzhRLUZaU3pUMlVyZXB6anc?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Hits Multi-Month Highs as Chile's Mines Fail to Keep Up With AI-Era Demand - Startup Fortune",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRU80LXdsdGJHTXkySXpjZ3k1ZFYzWllReEZQSHBxQlF1MThkd09hOGJ2aWY2SDRPblYtWUVfdHh3c3lHdWNScG9TTTFxWkRZbUlXV0hDNjdUVXh3MWQ2SDN3akFBSTBYRjlGNWc4N3BieFhxZUxNRF9VZjctZGg5aEw2YnBKUi1RUFRYck9XZjRMLW1nbFlrVU1DU0tzS0QxYVlDX3loMFdjenk0?oc=5",
+                "source": "Startup Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "Silicon Photonics Investment Is Ramping Fast as AI Clusters Outgrow Copper Wiring. 2 AI Stocks Stand to Win. - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWl9HQ29acDhybWM3WUtrclNNendEb1ZhTXFhMTV0SmF1X2dQeU9JNVVkSE5qaDMwZldHMENTV3NCR3p5WW1zWTFmbXVCckpWMU9ESlNqQ3laLU5Wcm13LUtSOUZvdThtdzVSa3ZIRGpIel94a3JBOGFzZjl1NW5qQXZQdmNKb2RpSTNLaVRtQlJTR2ZVYVNHX1l3Tk5QaVdJNnhnTHU1Wk1Hc2pHQUJpNktjWEtmMGtiYVdudVZfVUhhLVNaN2pYcTIzbFJuY0VhZUFqVVFnT0NhVXZzVHg2M3NLSXZBN3N6UlpMSlVEU1VTNUlweGZQbWMybUtLdkM5ajVqV0drSG5iUFpkT0xVUlRDNURKU0w0aUZydQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "How AI could unlock Africa\u2019s critical minerals and save miners up to $390 billion a year - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDRmR2c0eXBGMy10Tko0emdudXlEYUY3YXQzWnNwbWE2VjlkSUx5WncwWS1jVmFMU2RyMEFlWTdJRVdZNTJJMU5abS0xME9vcXMzZ2RkRG1vNm4tTmdFMkx4QmNUYVVxZXRDc3MxTkRhR1BjTjg4d3J6ZFV3OG1mdmhYWjU2TXNGbDZGNUJIeDR5T1VCRUttak1jM1R0MWlvNnhweW1GaTNQLXNjcnFBZklGcVNGTFY1NGRhbzA0OGNKOWU2aHZMbUlVN203VjA?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            }
+        ]
     }
 }
