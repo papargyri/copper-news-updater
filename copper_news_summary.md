@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-21 08:20)
+
+- **[China imports at nine-month high buoy copper prices - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjNiXzlRWEN1T3Z1TU5uWXBoTmc5WTJSX3NGUWZFdElBcC1SZFNIWG96SjMxM1ZYRlFEVHJLTXcwMVE0ZjFQaEhlWWQ4SVBZQXZXbzFFbXlzMTZuclBldEJGaU5kcUgyQ0xjWVdFdDBZXzloaV94RW5QUEV0NWhiYkZ5REIwb19PMTZiYlJnT1RLV01FNmJfYTF4YzE2TjNOV0tpekFR?oc=5)**
+  - *Source: Reuters | Date: 2026-07-20 16:11*
+- **[Key China Copper Gauge Rallies to $100 After Tax Crackdown - Bloomberg.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmp4bmRzQWtxdHBrNE92Y0xoTnRLbTJXQzZ5elowWENldE96ak4tRGs2NXREQ3d4a0RBQlZObmxfQndoODZQLTN4bHlmMHZxN1NwLTNVaDBta0xDYi1KOE56cml3VkJEWDZlbmdyeWd1d24yeWxsQUxpZzA3ak1BS1hHcGxjWlh1akpYRXlCaGp2R1BKS2JRaE9xR3ROZ0VMMEYzNXdrazNCQ0VF?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-20 10:30*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-18 07:42)
 
 - **[Wild Weather Disrupts Copper Mines and Ports in Central Chile - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFF4TmZPQmJQbnlRcmdXUFlHdlZKR2xiMENEOEh5ekdYSGdObjJfUXl1cElfcXdPb0xyOTBNZXBKMmtyQ0xPLTBmWTZrRWpFcHBWVTh0cngzNjh0eDhKYW96cll0aGIteFNsOU9OM2N5bTJkUUFiM25handLejYzQ2hQeWxldXU4dzExUWEtWW5EVFFpWG5pNXppOTlHanhBN1ZXa1VKdnJwQ1VKdmMwSVRB?oc=5)**

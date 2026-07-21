@@ -18242,5 +18242,114 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-21": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 17,
+        "articles": [
+            {
+                "title": "West Cobar plans copper and scandium drilling - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iY2hDSDJtTlhrSmJkamUzUHhoS25ldl9fMktuZnBubHMyeDMxRHZzeVlDdHVoUjlENGRlaXRKWm9ncEJCRzgydmpFaG5nOG1JTlM1Z3pFNHVZeUZ6a2I5RWg2WWprQ3Z5b0lUbjVMd0ZPTmFzSEJV?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Bravo drills Luanga copper-gold - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MDFlNGFhUDBHMXF4MlhiZzZoZUMxRWdRZXpuaGhqWlJOQ1F6TzdOdDZQbnhsUV9zZWpKTXhmLXlhS21vRW5FMUhwaElwYWx4M2Rhc0MybkNITTA3UUJJTDN0ZUZ3TEN6THdnTy1wWVNvWTVZekFjRw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "FMR options Chilean copper-gold project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGY3c4dzNQRXd3anpMUmVMdUhoSDJRWEVZOG5mdEswQnJjaGs2U0xGcHJkODFURENhU3FSTlRheExVTUVKVUNaSFB0d2lMWlFMcUFEMWJNdnNFbXRpLWZFNUxUdkdZMEgyLVdXS0Fmaw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One expands North American portfolio with new deal - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnVyRGo3aGdMWVF1QmVKNVZCQ0pKdWVrVzdyMm5vS0hBQlZPb1luVTZ6U1VEME1YNFVwakRtRGVvbDdzZG9OTnNGemlyS01IeldtOGVYN1VOamlJd0pmLUxHV3MzWkc5SVE0WG5YNXNrWUNXZmtrZlpSVnMzS2FaTXFySGN2d3M?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Ecuador Gold-Copper Project Delivers 625m Intercept at Santa Barbara - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0xhRlRKUEM4eXppX1pwTFhMUXZHb1dudjlRRG9PV2JpYnQ2TFdFSVNmeVZSTm8zRWp3aXZnVlc1dzB3STIxOGF5TGZSbjlZclhYME9mN1ZJd1R4dVFYY3JGVm1CbGZGWFJrMGpGTGJYUnNod3phZ1BITFdxeWpnTTEwbDA3dU01NGdBcHlHVmRJeGV3UFg3Mlplb1pVNm5DbmQ3ekRKaHBmRnpROU9YTGpJcDFiVTNNX0Fhc2RTRDdUT0NU?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price rises as key China gauge hits one-year high, Chile output losses mount - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1pTRjlMZWFCTFMtbno1V0dWdnJMb2N3eXE2cG95Vl9LZ0l3eDBNZzhXbG56SlVFYkR4NEl6ZzBBcndVUDJsRnFrdzZEVURBMnJtc3Fka19tbW1sTGVkeG03S1pPandhYllTZ05TdkMtNEtIeDRLcW5reTZYdkZyNlZUaDIzX3RqZEpubjF4ZHRDdTVSQmZJaGpFclBUYVlVdVVrLW52RzBDQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "AI optimism is now copper's biggest driver: Chart of the Day - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXgyUzVFX1BHbVotOXZfc1lua2UxM2pPcG0zWVRUMmpxR0tOSG9leDlsZzRxeHJnb0lic21TNU54TUpFZnd1M2F1SkV2SGdKVHhSWGQ2dlBZYmxxR1NhclVVdUUxUk44X3VLUlppeVhwUzVXZU5BajhJN3YxOTVNVWVqb0ZLajZqQUhfRTVlRGZyd0pkWjdTeGJPWEtKZkJBSHQxSVF4TGFwdXFQelh2N2FBMVk4dw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Awal\u00e9 gold-copper assays point to bigger lode in West Africa - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHprWnJLMDg3T2gtX0EyWWdaRnlSZ2NGRmo5cFJYa2ZxdWJBWWJfRFJDdGtWUXlBTFByeE5KMkxfZmstaU16YjFKalo4ejJxQ2ctNkJXWDdNVDY2MVRuaGVXS1ltd1YxaDJYTmIxSlp6aml6X3FCY2pxQ2dKNFZ6a3RmeEVsQlFkNk9CUw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "China imports at nine-month high buoy copper prices - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjNiXzlRWEN1T3Z1TU5uWXBoTmc5WTJSX3NGUWZFdElBcC1SZFNIWG96SjMxM1ZYRlFEVHJLTXcwMVE0ZjFQaEhlWWQ4SVBZQXZXbzFFbXlzMTZuclBldEJGaU5kcUgyQ0xjWVdFdDBZXzloaV94RW5QUEV0NWhiYkZ5REIwb19PMTZiYlJnT1RLV01FNmJfYTF4YzE2TjNOV0tpekFR?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Thira drill success bumps Vizsla Copper shares - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcFktM1hvYmVWeTdmd1Fac3JDUG56R0VkOUhEby1fZlFaeUIxZDhZb09XLTVGZGVJVkdkNFMzaWpKX3F3MEYtVkpJUlg4TDVubmJQZVNISWE3dHJaajRnY09rVGhpWmFrSEtpYjNmcU1RQVBwdF9tTkRwQnlwckhYdDFfajdveC1kOEhXUnZuNE5mN0pS?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Key China copper gauge rallies to $100 after tax crackdown - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd1oxcnlBdEhVMGM2WEs1QU5TNGlINjJuOU1Yc2NYb3Z5elYxM0tTWXZfWDNjbzRkLVRpQlE5MWxYa3pIYlRwcHNPNEYwV21uaFE4b2Z4NEJFRm02X0tOSTdJekdhLUF5eFozb19mdkZ6VUcteGN5NzI1azZxUUJlVTlRUDFOX2R4c1loRy13?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Atalaya Mining tipped for upside as Touro project advances - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVRWejNFX2dwTzRhTjRxc1cwNzk1Q2pTNno4bUZ2RTYxM0tWYjZRRGpSUFlVNjl6U2xHcGFTQWJQUDQwUndrUXUxVjBpQURDT2VpSGdubWJuSVo1a3gxeGh6T0lzVEF1OTI5Rng2QVp6SkRMSjhuWVZxQXFCS0FUcFotU0xoLTlxQjFz?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Miners: The Structural Bull Market Is Far From Over (NYSEARCA:CPER) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblZYczlyWEY0LXFjQUxWR1BsZXlaRVpKaVJuNXdJN0xVNEszb2tDLXh3N2JnMjRlQnoyNlVyNjM1S1dUb1R1dlFua3JGZ2JkUlZsNmlGQ1piVG45US1OZlNVd3lQTEllTWVNd0Zxd3JzbV9kQkNsMWxZaWhVY05rdWhJNlpnYktVbmlacldwaERuQ2xtZVhMTFhCckdNcnc?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Price Rally Powers Hudbay Minerals (HBM) in Q2 - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVlMelBnNC10R2RCdTQxNmNKYVdBNDdVMG1oMFNDckdKZmRJQkxYZzk5dlM4bktNd3V3YUliR3Yxd05vUGJXQ1VqYWhnYTRLR2RJUHoxUWgtYnNEa2p2MWlGaG96THJ4OVdIZ1dMaEtjTmY1STFrQUNuTkw0RlhJUGVTQ1hXRW5hVktFay15MmNfUHppVGRnWVlzRXoycjJJX0ZhUw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Key China Copper Gauge Rallies to $100 After Tax Crackdown - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmp4bmRzQWtxdHBrNE92Y0xoTnRLbTJXQzZ5elowWENldE96ak4tRGs2NXREQ3d4a0RBQlZObmxfQndoODZQLTN4bHlmMHZxN1NwLTNVaDBta0xDYi1KOE56cml3VkJEWDZlbmdyeWd1d24yeWxsQUxpZzA3ak1BS1hHcGxjWlh1akpYRXlCaGp2R1BKS2JRaE9xR3ROZ0VMMEYzNXdrazNCQ0VF?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Sunrise Resources secures lease on copper area in Nevada - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWhJUFdaaWVNckNMVm1DTVpoSmpDbUVxaTktajNoRUpzU2o2RnRrdFdMeUdTVGhLR1ZpbkZEUjZUbm04azBJOHRFdEEzTDU1LWdwWVplaXFnbkJZVF9xYi0xOUtwOFQ3NlVFcjBSZkxGQTVHQlRHM01OdERNc29LUHBFTThGbmNHcEN2RkhsenRUdHpzdUh4TEtyZTJUSnFHbVZPQmlYSQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla Copper reports phase one drill results at Thira Discovery - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDl5R1hfSnI0RmdsWHM5UDdrNDZQMGdWbGs1SHpEU3VCYXdVdWxwaW0zOWIwZmQ1Ulk5cHE4MVh0OXBCUFNCaUQwWm5qeE9fdzNldmlOWkxGcVBvOVRmVmV3T2QzVFU0a1BFWVRiWWE5NEctajBEbFNIaDFTT0pnY3JrZURfb0V6WmJkTHprTTJod25ta1RGaEZjYnVYM2ZsTHNn?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
