@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-22 08:21)
+
+- **[Grupo Mexico profit beats estimates on higher copper prices - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmlNMWc0T2lDdFEwQndxa3VDbmxaOU1ZU0tQeGQ2N3ZnZFVKSDYwLTBBLWtTOHlhT2R1S3dlQWxjb0E3QzJFMEs0akd4UTBVd01fNnVvaVNVbE1rZGhjNmJRcFhrOFhOWnR6OGNYMnA4UXFlRDY0WlI3ZzFiMnRaeFBvWmdzQnlQS2FVMjZ1QXBQcUZPSGFXcUtLZ2ptaTJsYTdzZGxNQUpOYmJmTmtrRTlB?oc=5)**
+  - *Source: Reuters | Date: 2026-07-21 23:19*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-21 08:20)
 
 - **[China imports at nine-month high buoy copper prices - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjNiXzlRWEN1T3Z1TU5uWXBoTmc5WTJSX3NGUWZFdElBcC1SZFNIWG96SjMxM1ZYRlFEVHJLTXcwMVE0ZjFQaEhlWWQ4SVBZQXZXbzFFbXlzMTZuclBldEJGaU5kcUgyQ0xjWVdFdDBZXzloaV94RW5QUEV0NWhiYkZ5REIwb19PMTZiYlJnT1RLV01FNmJfYTF4YzE2TjNOV0tpekFR?oc=5)**

@@ -18351,5 +18351,102 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-22": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 15,
+        "articles": [
+            {
+                "title": "Lundin maintains copper guidance despite Chile storms - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3AzcGpobW5TWnRVaEdLRHVNOXNVaWlxSTJiZ3JBZWxlaV9WX3lOYmlIZ3RHVGd1UDJMZlBLUGhXVlFFNEFLZmw5NHdpMnI1RmRsbTVLWmE5dUlGQmlTX2NBYzI0Wm42Wm4zVWx2SDZBRnc5OWxjYjJYRUFlSUpvdldB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Higher copper prices push Grupo Mexico quarterly profit up 79% - MSN",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVNOZ0JIQlFVa203aWxjOTBnQWRNS2J3dXFTblZ2TElyZ2JCa2FoX09OalhITUs0ZW9jNkNkRmgtMVlxcHR4akxNUnFTckl3RGZfaHJKVU5PSDV4NXRONWJra1BCT1RLdDVWRDk5RTJ2cWwwRGxyMnI5THg5RjdJc2ZUQzlra1dlaVNhVTJoOVFTdU5YcWxOY2p6WFkxTjVXN1JhNjMyVVFNZF9hZzNqUTNhaGpGQ2xEelV6UVhrcEsxcTlwVUozeWV4N0k2d1VQNEJRdkJ3?oc=5",
+                "source": "MSN",
+                "is_premium": false
+            },
+            {
+                "title": "Grupo Mexico profit beats estimates on higher copper prices - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmlNMWc0T2lDdFEwQndxa3VDbmxaOU1ZU0tQeGQ2N3ZnZFVKSDYwLTBBLWtTOHlhT2R1S3dlQWxjb0E3QzJFMEs0akd4UTBVd01fNnVvaVNVbE1rZGhjNmJRcFhrOFhOWnR6OGNYMnA4UXFlRDY0WlI3ZzFiMnRaeFBvWmdzQnlQS2FVMjZ1QXBQcUZPSGFXcUtLZ2ptaTJsYTdzZGxNQUpOYmJmTmtrRTlB?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82% - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlA4NkNuX1JtT2pWYmtGMEJHYXgwQmNJUDNOQUR0dkdKZW9yMXNpcHVYMXBIamtyVDZYTXNUZWxWdU1PQWZoNjU3bjM0YmdWcXRwb1JVaXdnWlZDVzZhc3ByM3ZPNDE3bUZ2eUkxaXRRX1Nsd09FdGFDQ2N0MnJ5Um1xeG05LTdURFduQ3hCeHdyaS1hdU5VcFNfdFBiQ2VsaDJB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Prospect extends Nyungu Central copper mineralisation - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWmxNQmNTOVRuWTR6M0RUV3pMWlVkV0w2cTIzNXVIZUkwVVgxWDhvQkVfVUEwWnMwWmlVZXZGTWtfaHdYMU9NMHptaGVVZ0RVaVFvU2hjNzU1SkVUcnFpSEtNb1FjY0RacjIzTzZiazFfNjhYMk54TjRacXRiZGVZbVh3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price climbs to month high on strong China demand - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGMtVkMycjVBV205SmlZekJfVm5aVGJEZDJHQmZBYnJkdnM4RDFwWU5IR0p6VmRtQm50R0VRSjlCS0RKd2RCOUFTcTY1dWdONTIxMGpCSlZGc2gxRXhMeDZ4SndXMDRmNVg1WTBxRThDMWdNcGxnaDNlZ1RPZTlFQXM4UW12UQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Dr. Copper prescribes a hard pill for Fed (CPER:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3d6dWU4WW13eUdwOVBnZTJmSk1kbG1QdnRQalRJUWFxSTVRV1ZMazV0SXVWaVJjT1NrbmRJQ2FHSWRjcGRaZy16V3hxYjEyaDRWRmNNZFBwYWt4bWo3b0VVXzV4NnVqdFNWeHVoZHFnbjY4WlUwbEZGb1VmLWZ4WjBjcXM?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Lundin keeps forecast despite Chile winter storm shutting Caserones - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWx5R0EyaWUza3RaYUwydFlITEtwMV9mVG5BcG9LTXo1X0tyVzV2NFV1SDRLZUhRTWhJSV9tS2U2VWFpQkxLWVBMa250YU1QaTByd1cxVFUwdVhDVDRHVWZjZmRhUEVWMUgxUHNOM2h5X2lRRDMzaEtGWkUyZU4zak5ybGNPRHBZWThBM0lXWWROUDQtWmc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Rietberg development passes the halfway mark - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXl2ZUo1WHVDYXFoTVBETTJtNm1IOHJyTzFGMFJzLURKOTdiOVZiV0J0THRrb3ZLLTJKTHZlUTJPSEFPMEdCa0wxTXllRU5hNzkxUVp5OVR5QjRtTEhGaU1GMjVIenE4UTl3ZTJxT1U0ZTVCTkwtV2pxWFEydWJqZXBSZDV1OGRuLUFHTm1fNmFCeURwbkRv?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "PTFE-based Copper Clad Laminates Market to Grow USD 0.65 Billion by 2031, at a CAGR of 7.5% \u2014 MarketsandMarkets\u2122 - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzljZl9BVVg0bWdOdDhWSE1Zb2tRbms5b0lTdDhBMUhyTk9VNzNlWENuQnUyVjVXUDR4d05zRElpX3p6UHVDQkVSalVtYmhnNFJoOHV5VEloZ0ZKay1nbl83eThSVTdQeG1sZVpPZ283MFJweHJGd2NOZjdOVHZlY3NxV0JGUWY3SHl0YTlCdnA5RzJPc1FEOUw0RWtSUQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices touch one-month high as China market tightens (CPER:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2tRM2Z1VkNUZ2FQUFdjZnZjajdwYWEyalJiX0JCb0s4OU1lSUhlbmpEV3BOeEw2WHVtdHFZVm9Lb0Z4ZjNBdXNXZmpPZGpFTzdlV0dtSk9LNnh1b3A1TkxITTV2aFZiclNxQXd0Yk03MlYtbXNtMUVTS2JScW9TaFFob2E3cHl6YmNqckYtU1MzYnA1WFBkc0dFQm5qZw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "XXIX begins drilling at Ontario copper project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBOTZTTk5DdGlqUEJpaHh5aFlzVEJ2VnFaOXlRc1JYczlhdWl6OXpMSFlfdjNNQl8xangxRnNJRmdKWVZFSFZMMDFrTG9aNl9xZDB1a19Ia2N2cmdDNGVXOXgxQkpmUld6NTBYeURRMWtPNlE3cEZwSw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla Copper intersects 49m sulphides at Palmer - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZ1VkOWFhWXlRTktJTFZTVGU2eDNDMDh1UjY3bEc1YnczTkVBZXZiS3dzc09BTXlKZmFQZmlYVkVyTXJ3U1FhcUpRTU4wSXJQdEJ4RXF5ZmtpdVRtNExZOG9iTWFKSmZ2RmVlck9Mb25FaENuSUhVZE4yUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Lundin limits some mining activity in Chile amid adverse weather - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOek0tdFVvcXZFbmJxNXB2VjI5UXppYnY4WDVfZjVRNzBCVjYteW5HdXZ5WndiWGFvQ0RfY1ZtUm5TbWExbmlHMy1HTS1iNVBPZFo1MXdISDZ2dGhPNmEwako0aHc4R2hIYm42d21vWEkxY0dBZHQzNDI4TFRRVktBVWJBOHdwak9vNDFWNWlBOXhCaERHQ2ZORWk2UnJCeG1lWFhteWhaSFNfbnV3ME9vSHV3?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "South32 Q4 copper output declines, missing market estimates - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFRtRUpBQ2lXZmNEUVFnRThLUDByNVhYUVZLVlFxRjVGYUQ0QV9UTWRFZENEM3ZQOWliY253YmVrZUk3M2hGVzdPTE5vcWZ6TlRhXzA0TnlZVTBxWmFYUHdrRjJDSFZfb3ZMQnJPSE44TjBjU294OTJPQjJJSEJDM2VKMWFqQ1o0TXp5eHlabw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
