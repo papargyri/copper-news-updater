@@ -18448,5 +18448,150 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-23": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 23,
+        "articles": [
+            {
+                "title": "Anglo American lowers copper cost guidance as portfolio transformation progresses - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN3FNTmtaMTczanpoUE0tTTdQVXhMV21uN3pUeXVYRUlFV3Fiay1TM19GeVYybjRJWURNTnZfbEwydERUajVOTURYQmZIX0t3LTdqLXBacXFZTkdOdDZMcU4xMzBjSXVJSWFMV2s3VGgzVE52MXN0ZkM5dDF6Q3YyUlB0X2pzR0tyTFE?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo flags first-half loss at diamonds, coal units; cuts copper cost outlook - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmRqVlFwM0xKcktXZnFvWU1USldFMFhOeUh4V3hqNFZ4R0ZPMmlaT180YzhCOFp1TGlZVzRRVEg0VnJPcDBJeVQzX1dvcnJtaUlHY19PeXlfOWNsVkdpdFhYajJCOHUzUWxqTHpteGI4UmZxLTMzSWFqcW11SWxMbTNLVG0tamFCTFVmSF9yZ0xvd2lialE2ZWp4STVWZmJKYjduMi1oQTB1UG9mY21HNlk4SVF0RGtY?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Anglo flags first-half loss at diamonds, coal units; cuts copper cost outlook - Euronext Markets: Real-time Stock Market Data | live",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2stbzBqQXlveEo2blhNdGdicXkyTGJrcXRwM1ljTUpfRzY0eWFIUGlaNVhSclg4M0d6X3pxN2JvdzNYRzRHVm90OEgtQ1YzRWpJYmliaUpXbEY2dGwwMEZ2TXJQVThnY0hpUjloRTBBWjAxTkdNNk9Ia2YxajBSVWt5MEZxLW1RSnZZYnNPQlk5NkV5OFBIQW5FYzNyUV9uWWlySDhTVC14QWswbXI0Q3BNVjcwY00?oc=5",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "is_premium": false
+            },
+            {
+                "title": "Why copper prices are rising and why analysts see more upside - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORi1VVXR4VGxLT1JYdUVrM21NdWV3LWNYclNNMC1HTnBKYUl0dURRQWFzWm85RzVqbV9PT1o2MnZKa0VaSkJqa041ZUQ1ZTZ3bnVKX3VUeC1WN2VsZjJNaHFraGRmekpnVWFkTHc4bHZEOFhVQjU2MnBRRDJHTjBuaWxpNUUzcHVpamhNWG5SVndTTk44VGthRUk2SEI1NmpLRnVlcjdPZUNoeDU3TDhSTHdlUE5mNTRiYTBLM0VnNFLSAcYBQVVfeXFMUHgwQkhydnRUaXFQZ0lWWUJjZ0VaZmRlYkgxNVZjSklKRkl5N3VPbUlOLXd2emZTVEhhdGdncWVwY2ZqVmZfUFRaMnhsbFVGbUNfMFpTc3kycVNPbmJfeEtDT21GZjc5Zk5lRi1IWFUxRXdneW9sNFlPN3JlM3VTcDVya055YUlfUUdCLTFuNS1ZSV9HNlNwMTY5SDNKLUVFRWFMMXJJMXJibnZPeERlaF90ajFkSEM5N0JoU04wbG1KUGw3c2hB?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Gladiator extends Yukon copper discovery - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbW5nUFNHTmlsU1VDTHdpbTdBR3NsdEd0V3VoeDFEVFp6cWRkSUtuWDNucGJTN09iTkhZeHJsRXhQVjZ5WU50ckloU2xERFdzNm11dnlvdDlwMDBBaFFWb3FyWElubC1OVlBJLWFOdGdxcFlvSU92dW9EZ2FDaDZnVnl5SUhGbFZ4ZkgzN3d5aFFDVi00amItWHFiQy1BSTFNRFhsc2gtWTNiWnRzMEdyRnl6Z2c3VFhhLUE?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Vantage begins drilling at Botswana copper project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HelZWcUMyZGd0eW9Janp0c3ZWbk5janBfVmhNemFWNDRHZnpJSzZZcTEzUGtSOXVxVTk4TFFacjJtdVVZN1llbktuWkgwNE9EREgtakNOQ0dmUzhzdEJMYkVsUFdhQjVYd2J2LXptLW1CU0RKQjhWeWs4UGFYUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "China's copper mine in Pakistan targeted by militant 'blockade' - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHV6NnJqUTVCMW1zVDZJX2FLUXFjT2NEVDR3dlVSWFhvRnJVRTc3eFltV2ZDRGI0Q2k3TkdyYW11NW4xVXduNmo2V3lsWFpBNlhnVnd1UVJjaHhSMEp5ODFUaW9NTDJmNjlMd1Zhb0Q1T0Y5bHBXME54eFZOUGt1Ukk2T0tFVlRGUnFza2dxOWo1SVhfS0FyZnV2VzlkQWpHTHRSdUpJWQ?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "New York Copper Prices Near Record Amid China Tightness and US Tariffs - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2phOE9nbEp0R21MbElybHhCbmNnUHZzTnJveS1WZFpreWpQeGJ0THM4LWkwTk5mNFpRRGVSM3lad3JPRDNFaURVeHYta0FZamtBMFhYd2xBSXNGdl9fbnBJNVBCTGg2UDM3Z2FPMU0tdVNUaEItVG80UUdCdWlaX3c2c0dfakFuWWRGbE13?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Grupo Mexico\u2019s Copper Shortfall Driven by AI Demand - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXVaeDdxZGRZNklScU9menVVcU1wdTJHQWxCTVcwOXVBbVBFMlNUZUZ2MWZEZ1lLcEtCOFlRU3gwajRpQXNMeVlNM3NSZXNVcUtTWXlubWZ4N1c2Q2wyWHRMY2E0Y09RcHRZUlNzbVlFd3VZd1JybEhSZERpV0JUM0RmNF90ekctY0l5bQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Aeris reshapes Tritton into a multi-mine copper hub - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTNCYnNYcUxhck12RHZvOWhnNmhwdkdoRVNKSlM2VDlMak1SUE5yb2xiTy1QY2tZUjZ5UXJQbXlmb3JLOU9zTjM3dUpudE1EOURVZHBGRDRINzRzaW9EZWpFMUdTTFFNYW5MWTBSazRHNWNuXzhHWWVleXR6U3dIdVNreVM2M2RBaFE?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "The Morning Catch-Up: ASX set to climb as oil, gold and copper support resources - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUhiMEhvWVNhNzFzbmMxbUZxOUlyNVZ1UTJESm1WaktQdk1LcDV3MDI0R1lNOHlOLS1qU1B2cWFXdUJ2dWVWUUJDRWkxRW9kV2pyV3JNaVdhX2J1cGloeDVZZDNoRElINUU0VWdoYkZ5VWphNGtiUVpHMzV1S1pjc0lB?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Chile wants US$100 billion to break China\u2019s grip on its copper - South China Morning Post",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVlJQkFPZlRwRjRmR0k1X2p5YXhrRkxXdERJNERBYWpoSUtYbGJ5UGNkYjJUeDYtRnF1RmtMT3Q5OTYyQjhtMnpNamNDRVVzcEdOTmpabDhTcXF2OTFmbUFmYWhDY2tETkhxdWhIWjRrU01nRmh0MkRqdW1QWjhPb2RWa0dnLWp6UkgyN0lQUkx0OXJTUk9lX0liVFNOT2tNUHJOcVNsMzEwakc4aXk3clVydzBpRlpsajB6SUZn0gG-AUFVX3lxTE1xR2JVaGtGMEZMRXZzOWhzOGtLaEpYVVhzUm5mMHVEX0FyZVpWVURTVVlKUjNhelM2V2VTRkdOWkhPc0NWSVIzSTRMWHRmMUdLY1o2ckdheGpfeko1azlkejVEWlUtZjQxeThqUk1MZ3JrUmhBcGRObUotdjFIcUJET0w4UmNaZ05nbnFBTnJMMDRnVl9lOTRXeVdwSHNZXzRDMnQ5MmdxWnJCR2Q0WXdkMkxDREhLczl4ejJuOHc?oc=5",
+                "source": "South China Morning Post",
+                "is_premium": false
+            },
+            {
+                "title": "BOA readies Neds Creek copper drilling - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xdl9XUVQwLVJ6M0RCNWdnaHRvWkp1cnpUNm9VbGRfdEJ3aGVWUmI2cWJUenE0ZC1Nc0NyMnhIWVFHLTdpNXJPcVZZOUdsck1iX1lDUnpGa3B1Nm5oLTJFOTNFYzJDZF9DS1ZleVBR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Chile plans $100 billion copper push to find buyers beyond China - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczdvMUdvelNqWmtEMHVDU1VxLVhvdmk5Z0wzRndHSWFVY3VlRFJaQVhtYXB1Vm1veFVjOFRpLUVRWkZwejZGZWlCb2xjVVdGUzB0S3FUUFZhQV8wM2xESE9helphQllMQTBhWTd2M1BFWXJrSkJ4VEl3dDVmYV9HLUg1VmtyeDVSakM0MXV1MF8tQ0VpdlE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Grupo Mexico expects mild copper shortfall this year on strong US economy, AI - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkJXVU02QUFjSFpzVWNVTzE1aTR0alF6bnNMczlNSVh0M0xJNU1kT3plM2lJMmluUEJtU3I3c1F0U052RWg0MkZueFAwanhiY09TU3JLQjBhUmduVDhmTGVySHFKM1N4NGVEQTZuYkREbXA2RUR2RGMyYWR5YktPNXlGUXhyaXpLVnBrSjJuNnVzMEt5WWJpaTFkejU4VmRZd3J6NGNnYw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "EXCLUSIVE: Panama weighs creation of state-owned miner to pave way for Cobre Panama re-opening - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU0M0bXNYcEJqc05NbVd5MU5ZZnRGN0dJYngtdzhtSlNhR19mckZybEU2TXNCSm1JZ0xoMUd5ejFPSkdHeWhSV0VMYkRuQ0ozSEF4UkNrcTVhQTRwSGJQWGlKc0NVOGY1UHlHRTVQY0ZCTFJOS2tSbWNiaFB4V0F3T0g1bVE3Z3JzYlRlS1ptMmtlOXNsdWR2bzNQYnNael9ULUlPeElhN0ZXMWc0R05jRTlOR2dTa1pwRmw4dGJNdjZfNTdx?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "The Metals Selloff Is Creating New Winners And Losers - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEY5VmFPTC1jLWdva1l4UDQxYzZLQUtBZzg5ZFBLZE9ZUzIzcC1JMVFfbFF0OWRYRDZuTERaZ3JsTTRHM0VfdUVLTFJXWUJRVkhTbll4d1Rod3l5UWZuRmNOV3ZjSTI2dFNKRl9rcTliWHdHOGdXc2ExSjBtY1JSU2lPbnBpRXJacG1OME1rZGE?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Gladiator\u2019s Cub East assays highlight historical copper belt - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVETnR2cVkwQWpzU2dsSGNLSEFTM0V5dTBkUWtWZl9zOExLQ3J1N2hPcFkwNG8xcUJBV1hpdWl6QUM5dUhVQVNGeHAybDNMRWJSZVhCNENKNFk4ZGxkU2tERS1QTFV4Vm9NYW9FbFNyejZrQzdXVkVsNnlJUHl1QkhOdmkza2I3c0xYSFBYbl9faDUtSXI3WFhjeTY2bUZMbnRzRWRB?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Congo presses ahead with local ownership rule for miners despite industry concerns - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa1ZmVlN0a3JQVks0Yl9mcHA3bmVVRC1PMzV4U3BjUE1hV1g2ZUN0SDVQUE1FSUhUTjREOEx5V2hxa1VvaDlRYUIzTTVianpsbjRlRm00b3cyOWw5c1ZKSV9TQ3gyX19PN2E3RmFlcjFFRnhRLVpRQXRRQWo3NHhZM3FndGctLTVTbVhUU2ZqUjhCWHRnNzBvVXFDY3gyS2xIaExFNmdoU2hZelRWT19LanlOZXlxRkFDQ1VEU1NvTkZHc0xCem9LRWlR?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Plans $100 Billion Copper Push to Find Buyers Beyond China - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3A4c29manhLOEN3eDdzNUJuMWlTdXVhNkdNODI1UlA1YTZ0cXRBRW9vQ1IzZzI3amtUUG9qUUNBWktodVM4MUhLbkxnRjY0bi04WDVMR3YwNkcxbmUycDRGME9TZjZoUGRjUS1CY05RV0JsSlBJeDlMVHFzLUY5ZUhvOTUya1o3Z3V1eV9XcXBUeHVadXpGSjdnaWJFUThaempPUnlsT3JLNVk3czhaZWc3N18?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "South African copper miner targets first ore in 90 days after $50 million mine development passes halfway - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc3JtekxNVTNId1U4NmZtTjUtLVpZT1oyTFM2WGg2VnljTHVHZU4zNXcxR0NaTUl5Uzd2bDdUa1NBb2d4TlUweFpuOEU2NTJHT2R6NnlyOGdCUTJsNmFxSnJiZFlnR2N5MGJQbDc2VFI3eEhiSjZzWXY4S2VscjZ0d21keTgzb1R1LVc4RUNPeXo4U0IzdEQ0dmtLR3hfNjdDZUtmWFIxQng0QkRlSXFBdjRSd3pobVZlOEVsbUQ3MjlDb0lPV3ZtVFBWdW5VMEVIUjN1ZUVjWQ?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Grupo Mexico profit beats estimates on higher copper prices - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0trTVdVcldXdmpQejlDaUdhb0pfZVZVOFB3OHdZV19zOF9haEJfX3Nod2hKQUZDSXBhcTFOc25odFVhbnBIdXBLY1Q2U1NuREZJSzJna1kzZFpuV3ZIRTFkdlZsV3JCOENKc2cwcnJfT05IU1VhdEpzUzg2cEdjUy1YbVRZNlF0MTBCa3pIRHp1YW1iTjc2NnlhUzZXcmxaMTVsWXdSSDRDdEU?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Deadly Chilean storm severs key mining highway, floods arid regions - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2JqV2NoVW9hdDFIWE01dGJmUUFHejY5NTNfVXdPUHlpSW9RWnU0Ty1lbTEyQkFyMHBuc2ZpVmR6b1ZpWkczRHZ5Z1lhVE9sRjZmT295WEJadnBETkI1N2ViN1dqeEx3bnBxaS1XNXhOdWFqZ295UWc4VXJHWjc5RGwzbDRRMGZKWC1OYUp4cUh2dlJOZVRlWHl3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

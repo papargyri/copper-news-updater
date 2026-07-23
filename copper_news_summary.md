@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-23 08:23)
+
+- **[Anglo flags first-half loss at diamonds, coal units; cuts copper cost outlook - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmRqVlFwM0xKcktXZnFvWU1USldFMFhOeUh4V3hqNFZ4R0ZPMmlaT180YzhCOFp1TGlZVzRRVEg0VnJPcDBJeVQzX1dvcnJtaUlHY19PeXlfOWNsVkdpdFhYajJCOHUzUWxqTHpteGI4UmZxLTMzSWFqcW11SWxMbTNLVG0tamFCTFVmSF9yZ0xvd2lialE2ZWp4STVWZmJKYjduMi1oQTB1UG9mY21HNlk4SVF0RGtY?oc=5)**
+  - *Source: Reuters | Date: 2026-07-23 06:48*
+- **[EXCLUSIVE: Panama weighs creation of state-owned miner to pave way for Cobre Panama re-opening - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU0M0bXNYcEJqc05NbVd5MU5ZZnRGN0dJYngtdzhtSlNhR19mckZybEU2TXNCSm1JZ0xoMUd5ejFPSkdHeWhSV0VMYkRuQ0ozSEF4UkNrcTVhQTRwSGJQWGlKc0NVOGY1UHlHRTVQY0ZCTFJOS2tSbWNiaFB4V0F3T0g1bVE3Z3JzYlRlS1ptMmtlOXNsdWR2bzNQYnNael9ULUlPeElhN0ZXMWc0R05jRTlOR2dTa1pwRmw4dGJNdjZfNTdx?oc=5)**
+  - *Source: Reuters | Date: 2026-07-22 19:58*
+- **[Chile Plans $100 Billion Copper Push to Find Buyers Beyond China - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3A4c29manhLOEN3eDdzNUJuMWlTdXVhNkdNODI1UlA1YTZ0cXRBRW9vQ1IzZzI3amtUUG9qUUNBWktodVM4MUhLbkxnRjY0bi04WDVMR3YwNkcxbmUycDRGME9TZjZoUGRjUS1CY05RV0JsSlBJeDlMVHFzLUY5ZUhvOTUya1o3Z3V1eV9XcXBUeHVadXpGSjdnaWJFUThaempPUnlsT3JLNVk3czhaZWc3N18?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-22 10:54*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-22 08:21)
 
 - **[Grupo Mexico profit beats estimates on higher copper prices - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmlNMWc0T2lDdFEwQndxa3VDbmxaOU1ZU0tQeGQ2N3ZnZFVKSDYwLTBBLWtTOHlhT2R1S3dlQWxjb0E3QzJFMEs0akd4UTBVd01fNnVvaVNVbE1rZGhjNmJRcFhrOFhOWnR6OGNYMnA4UXFlRDY0WlI3ZzFiMnRaeFBvWmdzQnlQS2FVMjZ1QXBQcUZPSGFXcUtLZ2ptaTJsYTdzZGxNQUpOYmJmTmtrRTlB?oc=5)**
