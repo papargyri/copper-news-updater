@@ -7,6 +7,22 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-24 08:19)
+
+- **[Teck earns $854M Q2 profit on higher copper production, commodity prices - BNN Bloomberg](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlBsQklnLW1pTnprMEVHTldULW1qOWFDRnFydFN5YlpKeVM4c19PRTlEcVNkVlRBOHg1RmV0YlJ5TnJIYlpsUHNjRG9PY3dGT3Y1UWpzZWpZTHlMT3RJckZwazR0NmZ1QVAtc1B2NC00QW0tS2ZnRVlKTjRNalNPWnFSTllkLVRONjNJTDJmWE51aUIxN0VTd3FZa3dVLWdwcVJ3T2xVTDZHLWpiQ0ZRNUZHel94eXpJLWFSQTVSaEhYa0I2MUF4X2J0S2w0Qk1RY0Q2R01WeFFEbXNr?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-07-23 18:27*
+- **[Freeport-McMoRan's Q2 profit beats expectations, helped by rising copper prices - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm9MeHZJcnpxYVJlLWlxNDd0Ukl0R3Z2OVZ3eW1ZMXBHaGZSWXBsODBQb0RtUnU4MjhLTUh2RG94S1JERXk3NXpOQlo0VUVvdWItODRpeGtQNEowMi1ZMHJLMl9Ka20wRkdlTm5XQW5XSnZjOUFKaXd1RU1CRjJKV2Q5S2M2bmY0R1ZZa0doQkpFZkZTa1p4SzZPRzNlOV83?oc=5)**
+  - *Source: Reuters | Date: 2026-07-23 16:51*
+- **[Kalshi Considers New Instrument for Copper Bets After AI Buildout Boosts Demand - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGlmMldrWDVKQjlaWndCU1J2aE9MdEZQVHRVakRWUW1kcThaZ0V1cm9WZ1lOUGluQ1pXUGJuZlg1LUpBN1VuVVJPRVJSTEFuSWNsc3VJX2JDTlFJeUtMcjdmNVpiblZKa1AtQXIxQWdLbzBQdzBqMUg2LXZpdGxDUmFzUXB5Qk9nZFpjZms5elFlNFBPWFEtMDJFS1dqSHF4SnVaWmtkbllkWDlPTXY1SWd3R0Q?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-23 16:29*
+- **[Teck Second-Quarter Earnings Triple as Copper Prices Advance - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOakhDYzJmVXc4Q3VubnlUNHJjYTlXYVJNSWZjQTNNaXJVbUdqM2U5SVdsVFY3Y0tnYzRtaDFNclBZbjlBNzNQME53V3puLW1QLXh2blpKcVZWRm11OW4zbjlXdFJraHRWR0IybnNIc1RKdkZJX0xRMXpfUGZHQWtLdXpWOGxkVTgyMlhFNWJ6R0gzVnFObUlLYkR6NGNBNWpMajZJS2xIbGRldDg2T3I5Tw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-23 14:35*
+- **[The faltering effort to revive copper mining in Michigan - The Economist](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHRhaGJfZ0I5RUhyYzlxRlBoMXVELS1nY2hZbFB6RUN3VzltX0kzT0lIa3dGQ2JFZW5HT1VfZ1d6RjZSS3RjNThXaTFfNVBEWDRhUkdvSFdheGQybnZDdWN1Zmx1cW90T0NfVmxUZUxkMERVSlJtTENWOTRLZlN3SUhnRUpJZDdLMXhPOE5oQWo4ekR3Z0ZjOGpqQUFiZDIySEdvY1BIR05EcUk?oc=5)**
+  - *Source: The Economist | Date: 2026-07-23 13:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-23 08:23)
 
 - **[Anglo flags first-half loss at diamonds, coal units; cuts copper cost outlook - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmRqVlFwM0xKcktXZnFvWU1USldFMFhOeUh4V3hqNFZ4R0ZPMmlaT180YzhCOFp1TGlZVzRRVEg0VnJPcDBJeVQzX1dvcnJtaUlHY19PeXlfOWNsVkdpdFhYajJCOHUzUWxqTHpteGI4UmZxLTMzSWFqcW11SWxMbTNLVG0tamFCTFVmSF9yZ0xvd2lialE2ZWp4STVWZmJKYjduMi1oQTB1UG9mY21HNlk4SVF0RGtY?oc=5)**

@@ -18593,5 +18593,204 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-24": {
+        "price_usd": null,
+        "premium_count": 5,
+        "global_count": 32,
+        "articles": [
+            {
+                "title": "Kalshi plans perpetual futures for precious metals and copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORThWS2lfMDV6MnozRkNHNzZOVW44UnRxZGFVVnpBd3BLYU13alhVdnR4VUVIalhLTDZQRmVzaTZfTG4xeTlyai1XR2k3cWdOY3Q1cDBOTVBkakF6ZUFSZmtJOHB0OE1IYnFoTjBZV0pGaGNnTHg4TmJFTHFCYV9wUjZDWXk0N1FXdmVqbw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Patriot extends Zambia copper corridor to 5.5km - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kcVJPOE82T0hZNUNuamxTb3hBMVV5LWdhcUZXT3lhQXN6SWItVnJ3TnRodFFkN2lVYVZ0WUlKWFE4T1ZCSnNFeXJlQ0lIYkNQVnhwNV9QM2hzaEhsY1RGblNWRDR3MkpVYVQ2dkFjZnpIdU9pTVQ5Z25R?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Evolution Energy Minerals advances Tanzanian copper and graphite projects in June quarter - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeDl5dlBfTTlLMjd0SUxILWJxZVd5anBldDVzQ3NrR3hZZGtOLXk5bVBpcHVwUlBUaW1FeGdmNVRId1hvU3BVTHRKMVJ6ejlIMmtMOTdaNXNxNDhuU1J5RHBKTU5sVkZKU3NySjlpVkFrY21laUQxRkgyMVQxbm81WDZRb3FXZnRXR0N2YzZ1aF9ZWUFwa0VoQ2RDRHJPZE9pRkJLNFRmUWFZaXJqNHJmUFZWMVhvTEFtUUJ6NHppY2xRbldnTHZJcENQcURXRU9RZWpNNEZnd0x6b2JrS3V6cjBHa3NEY05MVnpHQ3gxYXgzTjdPdVNSR3cwcFV1ejQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Tarrina Resources Expands Gold and Copper Targets at Christmas Gift and Walparuta - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQl8zMDVXLWJLZW9hNFJmZ2U1QnhWdVJOaGFWd3RPUWxzTDkyY3Y3N1F4RERDSzdJcDZSck45Vk4yaXBZNnJGUHRBbXdPd0VGQS1wS0MycUlvb3daS1VmdmUzbWRJaV9QMkFEZ0tXRkNWT0JGMWtaMUYxZ2g0cW1yUGdFeURmNjRDUFBlcm1pLU13NXVXeVNtVXFjdnBKLXZvU05IZHNXeVRRMko0V0J1dk42RTlkYTRIcnZKUDdab3VaeHFsNWxKSFRnMTVfSEZCLXBScERKWW11MlM2NmZsSFZrR1ZRdHhaM2lqdlQwYTl3cEEz?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta\u2019s Los Pelambres Mine Water Discharge Investigation Explained - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQck5TM2VJNzFBbmVYN0l3VXBFdDJUc3lmOG9CUVQ4MzRtbnktYmVfSWZGM1dfYnJSaDFkeGtxb0FwM1N4TEhSX3hsTTZJYzhXUmhiVjlyemtoNDhVdGJ0NTlzVXNqQ3RLRVo5dXRoaE01UGJHUVdaSG1MSlBpeUJ0ME1PVVgzaDdKamZENw?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo and Teck Copper Merger: Chile and Peru\u2019s Mining Giant - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHFCTzJ1U2xzSjVxZzRvUjc3aVlzc004eEYxbDFUWDhZZl9PaHJSV0U0SDY5R3d1ckJBMzRKaEZjdDNmR0RNSVctWXNHUnFGWkZvajFPUDRSVDYya2JvM0xIaFhLaEpFdjlsMXhKTVYydkRneVZhSHRrWk1PV2NHYjVPRzZubVRX?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Kalshi Perpetual Copper Futures: Closing the AI Demand Gap - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVBLRTZScUllYTMtbzBMTk9oOE9mWDl1MzRZNzAwSGszV0NxWV91OXhPenh0RFBBN0lYa2RMQktpMk1aUkxCNFJGOTR3ZHRxV091a2dESkJvRS16dFFYTnJrSU42VmkwXzlTN3dxanBXQnAwOVhoNE9lRFVBSGdBdXAtNA?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport-McMoRan Gold Business: Investor Analysis for 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3VXaE9Xa0ZadHBvaG5nYlE3Z3hsNVZndnBZUG1Jd2gteDhwbVRTRkhQLTZJVzNudWhzU1lJNG8wY1dueGV6S3gyLW5SQzBaTE1USUZDWU43MUp5WkFBVEN2SE5qdXFSY295ZzZxNk1mM0pyaEM3UUo2aDJORTdQX1o4MHVDbDluSFY4dkdUZW8?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Chile investigates Antofagasta\u2019s Los Pelambres mine after water discharge from rains - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWcxTFlGVDlPLWFSLTVBTVZBelh0SHgzVXVLSWpDX0xMcmZqMjgyOG1JQkxTdW5ZOVdKdmVKOVQtV0h2eEotcFFSMldDUTZCRS12NVlOSi1GZ0llbVNJX3ljcXhtaXVLVnV6TEFHbDZYOElXWmc4cExjLUVyc1Nwem5xeFpmNWJuNFRVYlBGZ1M5cHIxRzJheU5seFdta19hTkpoSlhxN0VQYTJHNUp4Qw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Teck earns $854M Q2 profit on higher copper production, commodity prices - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlBsQklnLW1pTnprMEVHTldULW1qOWFDRnFydFN5YlpKeVM4c19PRTlEcVNkVlRBOHg1RmV0YlJ5TnJIYlpsUHNjRG9PY3dGT3Y1UWpzZWpZTHlMT3RJckZwazR0NmZ1QVAtc1B2NC00QW0tS2ZnRVlKTjRNalNPWnFSTllkLVRONjNJTDJmWE51aUIxN0VTd3FZa3dVLWdwcVJ3T2xVTDZHLWpiQ0ZRNUZHel94eXpJLWFSQTVSaEhYa0I2MUF4X2J0S2w0Qk1RY0Q2R01WeFFEbXNr?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "NexMetals takes Selebi copper-nickel to the next level - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDM1SXp6RmZyTWxxMlhmeVR1dmozSGFQWk9JQWtoRGhROC1yNWpnQUZOSk5mRWVIQlliblBVRTVrelh5QnFFN0JHYU5FZFpDaEFpQmd5SndpUXozc0U0ZDBxWjZZY2NtTTA0M2NMZjVHM21UM1YzSDNRS1BYODhCaENfUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "comex-copper-price-ytd-july-23-2026 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNEVvMjllOEsyZUFXYmROdEVaSFlrSU9sTndiZmdfcF9EOTMxSHE2SlhzQ05CU0VieHNXeWoxSmt5ZHgzaWZGdDEtdWs5TEllV0ZKeFRyTzJidTZwbGt3MTBuNllnd2NKaXZPbkNTVndqdFROdklkV0RvWDFTTnBvaVV4Y1VlcnhON1JpVndHM2dfMnJuQ0xERHZ3OG9zbDNJR3R6MlVpdHhPNUIxMkJZdGtxNWx4Z09Dd0F0a0hqQzdvZFJuZExLN0FUZ1cyN0VHUHE2UXFZbDZ1bUk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport beats profit forecasts despite Grasberg slump - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1lYZTYtYW1Da3E3RFZhTDJpZE5lZ1FtYnpyVEZ1b3hXb1JWc3BaaVo3Vkw3emEzcFFraHFLOGtNQmV5ejhhVklVZFRlWDh3M2Qwa25qOVVsNkdIa0ZQX21HbHVUSXhEYS1LU2c3OEdMVEdyTWJkajJUMWVpblFqLUJnOA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport-McMoRan: A Global Copper Bull Market Presses On, Solid Q2 Numbers (NYSE:FCX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdC11Y2dqdXJPQklUbnZlMjNMQ2xKcWNkQ2JJNFhXODNrNXkzUlc0S1BXTnNkRGFGbmIxVGNUcU5mN0xwRWF2TjA4SmdOV09yRHlrSmZIdTdyd29OYVdVeHVwNXNKRkI0NHRncS0wdER5UkNQVHFkN29Td3AweUU1aVF4ZEU4QmN4cmpyaWZ2UE9tVnRWeGs0WGJBMjBtRFdIeVpDV0dqalJNU095SXdlSHZmbw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price pulls back from record territory as war jitters trump earnings beats - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMS1tNEJ6LWotZFg4WXIwVDZYZ2ZlOWp2YUVFUE1sVXYtT3h1b1oxYVpQaURDaFRMQ01YSXE1dmxJNHI2OHB5Y0dCXzBmOEZGeFlsenU5MWZFOTYzYmZPLThHbUNHVnpRYmo4dHg0SHVnQ3VTVXEzWDQ0UFNJTmpwOEZweW8xeVp2Z1FnN1pCWHlzVS1xVEpFcGRNSkVHajljejNvTzB2eGQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Weir Supplies 11 WARMAN Pumps to Xizang Copper Mine - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEE3X2hEU3VGZFlYT093QTRUbGRVM2ItLXhUYVpteG5pNTUzTDluTFVfSG5BMHhJX0Ffc2tKMEF0SzcyOEh5cERuLWR4eXF0Y2JfNkItNmQ3VEF1RlQzeDBta2lhOTBJQ3Y3M21QdjM0eG9Od05ZeHJMLTV4NDJ0LTVsXzJrS3pMT1Y4?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Teck Resources rises as Q2 profit triples on record copper prices (TECK:NYSE) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVV9VZTgzdzAxdzhCZVIyUUlwdDMyWEFkUWVkejVNcWw0dl80ekRISm93d3huTmVNdGR4dnEwbmNCdjJMalRURjFvWnEtbDVieUc3TUo4T3NGbEloX2loYjNIdkk0Umpza2dIR0VvcUg3RGtmM2VzdTl2dWhvaUUyaGpvdFlXRlNGYXROY1ZZUk1PRlBQMW5haXZOVHRpb1ZmaHBXNk5n?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport-McMoRan's Q2 profit beats expectations, helped by rising copper prices - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm9MeHZJcnpxYVJlLWlxNDd0Ukl0R3Z2OVZ3eW1ZMXBHaGZSWXBsODBQb0RtUnU4MjhLTUh2RG94S1JERXk3NXpOQlo0VUVvdWItODRpeGtQNEowMi1ZMHJLMl9Ka20wRkdlTm5XQW5XSnZjOUFKaXd1RU1CRjJKV2Q5S2M2bmY0R1ZZa0doQkpFZkZTa1p4SzZPRzNlOV83?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Kalshi Considers New Instrument for Copper Bets After AI Buildout Boosts Demand - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGlmMldrWDVKQjlaWndCU1J2aE9MdEZQVHRVakRWUW1kcThaZ0V1cm9WZ1lOUGluQ1pXUGJuZlg1LUpBN1VuVVJPRVJSTEFuSWNsc3VJX2JDTlFJeUtMcjdmNVpiblZKa1AtQXIxQWdLbzBQdzBqMUg2LXZpdGxDUmFzUXB5Qk9nZFpjZms5elFlNFBPWFEtMDJFS1dqSHF4SnVaWmtkbllkWDlPTXY1SWd3R0Q?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Teck Resources quarterly earnings top estimates on stronger copper performance - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzdMUkRnYjVfOWZaV0dXdlhuZHNMNkRCSE5IY3VUcXFwcTJNQ0lJRlJRSC1iYktSZVo3UGVGS0NrTHBqN0RaaUI4NXYxa0ZQNmRnOWpHV0I3QVBTUDJuckhCQWdIb1Nma1pkSk5EMy1vcVY3SW54M01oYmU2dlJkeFVYeDh4ckgxbGZsNU5kZnpmXzY4NkRHcWFDU01BYkZoTXAzUDlxSmJHZGs?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Teck profits swell on surging copper prices - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzdBR2JYWm5MUDlCZWl6Z0ZFQ0VrRmgwS2EwTDJqOEFtS0RoRmFIMHd5VGk5ODJiOXB1VDZCeG1hRjBQODZxOHZTZlhPUHMzazQ5cDZNUG5EUDZ1Qk05UktVdmVvVWFvNjA2bV9rNVJhVzlVV0JMa0lSYVlGYkowcHVzdW1DTTZCWGhLbFR5UFloQ25GTUkzc0JjSUZlMVZoaWZUbXI5aWRmUQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Teck (TECK) Q2 2026 Earnings Call Transcript - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUtrV2N2YXkwUEdmYV91ZEVaZUl0WUZjZ0NyOFBIQlI4a09ySm5PNDNJSUxyNldrZzhxNm5uVWJ6V3VZMUxSNmhZRUhuY25jcHBYbDZCaVRGcEdacTZVdHAzREdzdUgwTjNzdmpMR1lOSENzM09RRHZZVVpNSEZxMTNJNFV3TUx5OHZZTUNTMUZqTEJabFY0TG9lcTg0YWtad1NpZ1Q0Nk9CeXQ1eW1SWTFWUEQ1TU42bnpPUTF3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Teck Second-Quarter Earnings Triple as Copper Prices Advance - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakhDYzJmVXc4Q3VubnlUNHJjYTlXYVJNSWZjQTNNaXJVbUdqM2U5SVdsVFY3Y0tnYzRtaDFNclBZbjlBNzNQME53V3puLW1QLXh2blpKcVZWRm11OW4zbjlXdFJraHRWR0IybnNIc1RKdkZJX0xRMXpfUGZHQWtLdXpWOGxkVTgyMlhFNWJ6R0gzVnFObUlLYkR6NGNBNWpMajZJS2xIbGRldDg2T3I5Tw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Teck Resources tops profit estimates on stronger copper production and prices - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaV9Bc3M2MXgtd0RldG9lZWhVNElvcXBGckc2dzItZk1oNkNEX1hyMU5zTU1Ld3R6RjhRUkY5MjdCZzhFVVdjd1lQbEwwSkh4V2dxcnFhcXRXWUxQTzRfNG9pYTNsQWhPUkhqa3VyeF9YNzcxTWZFLU0wSWV2NXFpWXdjWHJUcEtvV1RYYnZZNFhzeUt5VUN5UGs2emtMRzkyT1dVS2ZUdDU?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Boston Dynamics Spot Transforms Autonomous Inspection at Copper One Mine - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEo5V1ZGWUhLTE52WW5RdUVGcDRyNURpNUVfSTA5d3hpVTVZQXRlUWRaR1J1ekNaU0pFYWVWb2trZWJBcTJUZHZrUjhNMng5Y1RQelR5UkdnSE5oWmUyQkd1eGJvc1h5OEtsS3lySmI5Q0N0UDBobU11emt6c3hQY3N3dmpsM3pNNFZtT1ln?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper maps route to over 1M tonnes by 2029 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02ZUdTWkNCdnlSUzFYVWFkRm5iMkdmZHp2elVYN0ZWZlA5dWVvZFhxVXhJUFRiTlQxS1FlNGRZME9DSG4wWTdlZlFxdHM3ODAxOWl5aTlMN2V5RHV6WkFsYXhRYXV0OFFya2lFY2htRkJQN19lZmRtN3BjWVZTbjA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "The faltering effort to revive copper mining in Michigan - The Economist",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHRhaGJfZ0I5RUhyYzlxRlBoMXVELS1nY2hZbFB6RUN3VzltX0kzT0lIa3dGQ2JFZW5HT1VfZ1d6RjZSS3RjNThXaTFfNVBEWDRhUkdvSFdheGQybnZDdWN1Zmx1cW90T0NfVmxUZUxkMERVSlJtTENWOTRLZlN3SUhnRUpJZDdLMXhPOE5oQWo4ekR3Z0ZjOGpqQUFiZDIySEdvY1BIR05EcUk?oc=5",
+                "source": "The Economist",
+                "is_premium": true
+            },
+            {
+                "title": "A Carried 25% Stake in an Ecuador Copper-Gold Mine Just Got 121% More Valuable, and the Country Just Made Exploration Cheaper - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQms0QnVLRmc3bVlTMlRzM0JVVE94OXNDLTdkTUhxOFM2ZVlOVDZnRllsX1p2dXFZRVhGcVUxdEdqTnR6MV82T09UQ1dWcEVTRzRBMFF3a0lxUXZZVW8yUGVBd1BpcGdabUwzQTRfUkN0ZjVPRkhadDZqTTR1REp6SUk4OWtSNGs?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport-McMoRan beats quarterly profit estimates on higher copper prices - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNGdlUkFrSjFmTUFCYS1malBZMzg5LXlHQmFHbDFsMExDTzcySGRwOGxsekx3LVgtbXNBb0F2SjZNZl9UeDZhWnVveXl4UGVfZTAxLUNZWjBNVXFaZmU3VmdTeUpESDg2OEJVTFFsTWdnZGp4N0NTU2ZhZ0JOay0zU0JVTnZ2aDE3eEpKVWNXRmxZSEo1TG9MVGpZNG41ajlJd0dzbk9LRUdXUkk3cHhRSUJDSlRSYXZ5V3VYMENn?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo flags first-half loss at diamonds, coal units; cuts copper cost outlook - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjBSVU1UdDhTak5MUlNGQlFwNEZvdjlRZDFEaHZXTDliRHlpXzM3MTdCZDl2Nlk1V01CLWx4T0twMUpsZktPN0pLUjhOZGpvM1BHTUFGejhSSURGQmc0cjQ4cVE2MXVFRkREZVUzay1tTG5SNTIzMXZ0bWVuUnFDY256V3JJTFNHeUlWSlN4dlZWckhVbVl2V2Ytd25XVVlPQWktSzVB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo flags first-half loss at diamonds, coal units; cuts copper cost outlook - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTlEaDFxS2hhU2tLLUFBQ210TERxWENOdEs0X3V4MXpQTy1QQVQxM0k4N0d2dE0zYm9fQ0JWb1N5eXUxX1ZqbF9GYXVZNW5lMUNEOXdtZ1R2YkVtZjF4TFpiUi1XZU5pYVZVWmctMkJlN2pEcGFPOGFFMDJwVjN3QktFcUl6aVhrd1BlVHRlYWotUFA5cGlqaXpjcXJYdXQ0bFlPTHdOam54bEVxbzk0M0UyMUxJZWRuejZFT1BOREM?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo Asian Mining adds depth to board - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGdTRGVycmFXeWFTeXU2NTlIdVlmdXlvbE1WOGJ3SlZwdEtUcDJIRmNxNjZpTkkzRUxucUlDOXhKMElPaEhSczNEQUFsM19Da3E3b3pLTUFxLU1hVGNjc0VTSjhDN2xoVmhzd2huWkpSM0FhRU1OMEFvcDY1REhhZE54ak4?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            }
+        ]
     }
 }
