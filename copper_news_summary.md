@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-25 08:00)
+
+- **[Teck Resources tops profit estimates on stronger copper production and prices - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmdNNG9QQWp2UGQxVXNWWjBXMXBPWjh6ZG14cnYwaHc4dTdjSXZMRURUX1NiWmtWck41YlNpV3l6bnkwWlNnWlM1RnRFR3hXOGpCeG9sX0ktWjdLRWhPelhRRDg1TEM5S3FiWlo2N21mZC0xY0l2M0U0cF8teW9OeWczTTNnREpQVGtTUDNSZ3N0TjRoRWlRdlIyWktlTEtSa0dEb3AtTGZLVUtVUkxscm5lT2ZhUQ?oc=5)**
+  - *Source: Reuters | Date: 2026-07-23 09:49*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-24 08:19)
 
 - **[Teck earns $854M Q2 profit on higher copper production, commodity prices - BNN Bloomberg](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlBsQklnLW1pTnprMEVHTldULW1qOWFDRnFydFN5YlpKeVM4c19PRTlEcVNkVlRBOHg1RmV0YlJ5TnJIYlpsUHNjRG9PY3dGT3Y1UWpzZWpZTHlMT3RJckZwazR0NmZ1QVAtc1B2NC00QW0tS2ZnRVlKTjRNalNPWnFSTllkLVRONjNJTDJmWE51aUIxN0VTd3FZa3dVLWdwcVJ3T2xVTDZHLWpiQ0ZRNUZHel94eXpJLWFSQTVSaEhYa0I2MUF4X2J0S2w0Qk1RY0Q2R01WeFFEbXNr?oc=5)**
