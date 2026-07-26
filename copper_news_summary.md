@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-26 08:20)
+
+- **[Deadly storm in Chile disrupts copper mines and raises AI supply concerns - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW1EcEx5TlRUMnc0QUtNWDJET0lqVUQtMTFCV2l4S0xCZ2hxcXdBMkR2dVJzQVhPVXhJTTdIa05BTE1OQ0dDOW1kMzYxWERRMWpNcUxTdDdPTlIwQWl0bzRKOWtNcTNONzNuQlBQNk8yMzBOSmZNNGliZXdEMEg5ZElNMXQ?oc=5)**
+  - *Source: Financial Times | Date: 2026-07-26 04:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-25 08:00)
 
 - **[Teck Resources tops profit estimates on stronger copper production and prices - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmdNNG9QQWp2UGQxVXNWWjBXMXBPWjh6ZG14cnYwaHc4dTdjSXZMRURUX1NiWmtWck41YlNpV3l6bnkwWlNnWlM1RnRFR3hXOGpCeG9sX0ktWjdLRWhPelhRRDg1TEM5S3FiWlo2N21mZC0xY0l2M0U0cF8teW9OeWczTTNnREpQVGtTUDNSZ3N0TjRoRWlRdlIyWktlTEtSa0dEb3AtTGZLVUtVUkxscm5lT2ZhUQ?oc=5)**

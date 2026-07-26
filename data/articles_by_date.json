@@ -18889,5 +18889,48 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-26": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 6,
+        "articles": [
+            {
+                "title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW1EcEx5TlRUMnc0QUtNWDJET0lqVUQtMTFCV2l4S0xCZ2hxcXdBMkR2dVJzQVhPVXhJTTdIa05BTE1OQ0dDOW1kMzYxWERRMWpNcUxTdDdPTlIwQWl0bzRKOWtNcTNONzNuQlBQNk8yMzBOSmZNNGliZXdEMEg5ZElNMXQ?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Pantheon Electric expands copper platform as AI and grid demand tighten supply - digitimes",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjlVUWJENVNTRUc3R2lYQzVvVDRZVEFRUFdNd1dYeC1NblZxNm9sYVpXSVp1VkFfYzFnZE5iSkpPamFoMjNxcU1sb0pTSkdXX0FoaUJURmQwMFc3QU1yWVNsTS03bjRWTVV1T0VQZ0hIVFBTbGtQbndzZzFTWWtqY3VKS3hJalR6MFJnRTNaMmVPS3lmOXZtVEt3dzU?oc=5",
+                "source": "digitimes",
+                "is_premium": false
+            },
+            {
+                "title": "COPX: A Buying Opportunity After Copper Miners\u2019 Sharp Pullback (NYSEARCA:COPX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTN5Y0ZsMVJxUDhLVlpLbm95S0s0Q2tJZDJZZlpQN00tNGVkaC1yR2FJY2ZoUWpDeUV6aTk3a3VLLVFXY1hOVUtTWWxBcl9VYjgyRFliNi1JT1pld0tqVVItZUpKRDZleElwUFlkUXVsU1o0Vm82UWdybkRGTTQtU1dlVDBBeFlTMW1mTV9GYjRlMVZaTVRZOWdzOG1XblVudi1j?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Teck Resources\u2019 Q2 2026 Profit Surges as Copper Output Climbs and Anglo Merger Advances - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaldyekFSRXY0MHhkNGVNZl9mVk9uQlBLSzFiY3N4UF9BelRRMnIyTjJNZndNNlQ3VFNMUU5UUEhrWHNQODVGalRCRGxYdUpXZlJ3NnZfU1ZuOHlnMTBScm52aXdYYlZKZlEwVl9WRmt1cHN0Um1CLURaU1huZlZFN0JId2FjNWxTQ1NwWkFwVF9TNkQzN09ZVjdaM0o4Q2QxdmxYejB2N0R4ZHR6amtCS2tHY3lnM2N0QW9pdk5DcEk1NFlwaVJxTjVXZDdOaWNjanVPVnZUUzEySnFCWDltREFicWVWWTVrV3ZvT25IdFJqcDR6bTc2TkRiaWx6MnBIU2pV?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Silver-Copper Explorer Grafton Resources Launches Caldera Project - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1c2SEZrYnVDaUtwQlMyRFlaa1pwQXNTc0ljcGhpWmg2S3E5MGxUQzNVdDRJNmhzTl9wU2g3TW1uRjZ3MHVtdzk4djI4NEd3NEpKUzR0dTZPS3drY3htSXQybnpnMENxYmcxbkt6U25ONzRhTXFrd3lSTmJmVHhzeXU4ZHhIXzRlRmtvYnNzVkdGaEhpRXBmVmp6TnBsZHE3YWhlRzJWeDhxOXVJdGJCcE1CWW5PbV9WTVRGWHJBTTJGWVB4Ull6dA?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "NovaRed Mining Identifies Large High-Intensity Magnetic Target Associated with Regional Copper-Gold Intrusive System - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcW9hd1U4alUtN0o1cEdvY0l1WVBfaVo5bXRidUl3bFhEMWpGc3ZUc0k3Z2VzUUpaNEExdWZnMHZXN2tON185ZEhUc3dWRWVmNFZSSUxMQmwyMTF2RlRGamFzZjJNbEFBZEpVc2ZPOTlSMEJ4RGwxZWl3bnZRSGJEMzhEczd2WkhGXzJEMG1UMnpoblp2LTVjeVM3QV9nbWlOMHpyWG5uU1BxUQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
