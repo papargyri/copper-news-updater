@@ -18932,5 +18932,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-27": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Rokmaster Options Undrilled Porphyry Copper Target in Northern Chile - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZlYtdEU2TWpMRjB5V1l2d3p3cjYwRG5MdkdFdjFJOHdNNGlMa2hzQ1FheE1LQW1OcVhqVVlQZVlsY1ktRW9PemhEanVZSHoybjdlbTJxeGltc21yOGU0SUtMUWhvTWtRR3lhRFBocTluZnFTQU9MbWlTMEFZS3p0WkM2TnZRM2V2R0FwZUtZSTkwNUpoelBPejZoYzZUQ09jSGJwZFVYX2NFR0wzVXpFeGRiSGR3SDU2TkNQMElCeklFdFpsMkRobHg4S0NKUjhhUkI5ZTFiU0kzaHRaYXVHdE8yVQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Kingfisher Mining advances Copper Blow toward maiden resource during June quarter - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVZ3Zm1jMDZuVWlVRHNCWlVCSjJkVGRJbUJwbzFOT1hTZlV0c3psV3JCVERjZFlIZmgyc2ZRTVNVSFE3anV2eV9jS19ibS1XSEZvYUwySElKLWpCa1l2M2lSQ0FXa1JUSUstdl8yMXE3S2ZnMWhUWHhFVk9ZTzhMWUxYbU15SWlsSno3ZUoyNG8?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminum gains ground as high copper prices push substitution across industries - digitimes",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xd1NQem43MlFTWWV4Q3FPaElSY1YzRkZ0RGFwMnI5ck42MmllM3p0MFp1RG5ldzhKdEZqOGVWQ3V4MmFPYlRWNFdNUlcxQnRSa0V6eXhaTFhUeTBIa01ZM3dINHdRZVR2bVoxZU1FYi1HUTI0ajM2aWZZdw?oc=5",
+                "source": "digitimes",
+                "is_premium": false
+            },
+            {
+                "title": "Imperial Metals\u2019 Red Chris copper output falls 24% - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVTNOWFFPY0daVFFRZlNoeG1UM0NaSC14NURBZkI1TDlxMGRLelRPdFpiLUZNMmNZRlhGN1VRdDlIWU5rS0hfdzcyYTREU0pKRF9GTFVWalNSVGdUTFFwMlNoT1UyTVZiTWZsOC14OHlUclZlUVlqUnJxYw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            }
+        ]
     }
 }
