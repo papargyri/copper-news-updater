@@ -18963,5 +18963,102 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-28": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 15,
+        "articles": [
+            {
+                "title": "Austral extinguishes Anthill agreement for copper exposure - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDhlZGJmVFZKQkJNRWZzQzZ1TVdYZTQwT05rZ0hwbEphQTRRb1JUWjJUUE1neWs0a3lzUDVzeXUyRmJ0anVLMzNhRkZaQWlaTWdBTHpaMnMwekwzTHZvbklpN3pHemxmZmRwX2pNZktpUkhZWkZhVTdWQ1BYeHRkSU9JWGNiYXJB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Norfolk Metals Extends Deadline for Cicl\u00f3n Copper Project Acquisition - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOEFqM0RpdU02YmE3MWlLRUxCeE9QMjBKZjhITmw2VktzRm5aNGJ5eERPVkdUc3BRZGJkWGxYLUY2a3JXVGlYZEktU1dWVUlzY3pUdWk4ZEhaNGJkdzhtZUNUMmJsNVpMRDV1blJWM1p6VnpKcUdIQTBnWUcyWXgxcTFLT0d5SGRkWGhicTNlekdXOUNJaVVQMFVKZmplWko5emhqZEJvc3U3dldzSFRzWUZONm02ZDFqYXNIVFBDX0hGSThOcjVrcVN4TVZFZnFScV9WNDd0Ujllc29XdUFUdTE3c3g?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Australian Gold & Copper Director Increases Equity Stake During Closed Period - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDRibG1ObGxHdFRUU3ZQamdaX3RSSjlYU2pMU09jNEFPMXV3SHI5a3RjWDFTcVFNNVRvM2lvNHZrVVlIeHExZW8zNHdoaEFkekRKNVRxYTczVXFGQ0xlWXdRa2I1akFtcDdjZWtwMlZ4VnlCeDA3LTJBTmtvX3hSNF83ZTJ0TlN6TVpwa09EQThaaHZyM1pMOU4talVJdzQ1ajNhNm9iTHcyWkp2ZEd5M0VuSlNOVTByRnJhRDFzX2JOVl9Cc0VsOWtodHpuVm9RYk1OVjRDVnlBZXVhLUs1eDlnNW9WU0VfazBQVg?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "TNC confirms broad Mt Oxide system - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQlRxVGlSSnRVUGQ3NmRfWWVwOUY3T094NVE2QmZVX1pCZFdyOXNNU1VxTWVCb0FncktTc2NWX2NzbEsxVloyREpNTlMwVmFYMF9lRHY0YnJuaXZxTDRzMUtvMjFUNURDWC1aX2pqRWdXenlQZ0dYYTI4MEhxbG02bWRpenJlQjNwQ3BUanhuN3hHNnVRU0VIcW9ROWx2VkxNdDNLdVpMSFpSMlhxcFltbnBoaDV6eE1qT1Q0aW1TdnJkZXhKQlJwampORVczajFIbWZlZVFCZWlQOG5VTmVFQkRUNWNXalh5UndwLURPb0VaTmhYanJ3WjZySWN1RzNEUFdlOXpYVdIBjAJBVV95cUxON0p5ai1Za2tFYmFLTUk5WXRzNTNFWXdsQmtCUmttQjJZdTNWUS1yeVlGeF9YTmdweS1odW5pWTdfblNUSHdaR0F0cmtsdENBemE5T3R3RFdJQ1RoeGJtQ2hlVjI0Y0RHRUYwSFdUZHRWUUhLYnN3d0lHaWFoWkZxblhRU2QtZGMtQjZqNl9KcmtaSm9VU1NZWW1NNDR0NmozOFhNZi1kZXh6QVp3UHBJR3lOWEYyY3Jhc0Y4d2laU1ZiWlBrNnlkZVpSd3JJaE1kSHFUeUpPNThqOUtodThLY0JZTUJzMDlaWkZXUFRZZjlCLW5jclM3Vkw3djF5LVZfZDlJdW81OHhMUFo1?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Extremely high-grade copper-gold Core Zone to drive early production - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSzdtdnBaQi1YaXJKb2JJSjh0RHRaYzhwVTFmMmppQ1BoM0FoTFJxTGNNOFk5bG9Ub2xtS3JqMWdPQnVaUTJCX21nTGloNENUVlFnOUdrNHA3ZThxdENsNjBFc09ZZHFtd1VxOEpRWHBxVGFZZUw0NWtRazM4T1JTOVlNaGtqMTg4Zl9MeXJuTnFYRkJxVVJ3ZTFiZ05vYTFDbEFfRnFYMTdMVVdXRzRFRXBuTVNabzRmZ3JGa3VhMVdHWGxjSmVkTU9tUWhET1lBeHdURkpCeXhzaXBnM1JyY3V2blBkYXNiRUE?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Citi maintains bullish copper price targets on supply pressure - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEdHblZjTTZTM2t0cHp0Y3dUNTcyemFoM2xER0JXSlZlb1RKZHZRMmZDUHh5QzdLZTNIU3dGaHJzODRKWVkwU0VuMmVkSWdOS1BWNFRBNmpFNTNtUl9yYjB1WEhsY3o3NVNiMGNZVGk3SkNGQVNtaklOUkRrWHplWjc2OERKMG9qWFZnNzZqNmh4T0U3VTdwVUM0NmtsemNrNHVqZGpXZXd6T3lwcjVr?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Op-Ed: Copper supply gap \u2014 good news on borrowed time - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mcUdiTldSLVpkUzZTRXk4RTU0eUphU3lCOW4tbzJ3dG9iUDdKc2hYa2RsLVdMaGp4dnduX2lfTzUtRGtkSHhtLVVwcHhOclJXcTNucTRMWGZyR084X0Y3LTdIRkp6dEpqR3ZtVVlfVXp4aTJkRDRoeUZzNnlBcms?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Qu\u00e9bec govt selects Troilus copper and gold project for Filon support service - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaW5lTVEwczQtZ0t2R2lBMGpqTktQMkdnUmpxcVY4MkJFTTUzUTlxbkcwMFVDRHdyb3o4cndpWDZONFZtM0pNUlFmajc3ZXplS19rejNlRHJuVE9QcmdWVmJKY3pLc1F1WlFyTDUtd01FdFFVMDN2OEROb19HUUVmNnBYNVZWSEwyUE9HbEpsV2tqMGZIZDBneXNoX2VhNG0xRURQWVZERTFvclJoLU1obzA3U2RfR2MtX1hoal9zS21UZw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Lundin says Chile mine restart after storm may take 2-3 weeks - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHo2ZVE0YnFCb0hZTE5WMTZwbFNBS0VPNUIyc21QX01NT1N1Z1BFWU44NEZUZHFFYWJJSmNaQXB0OHc0TFowUWM5Yi1kU1JHZkt0NTY5b1dMNDl2dDBHQmV2Y0x1cDF2czZYZmk5Vnd2ZjRpZ3p4SlBjcEJUc2dUVHNGbXozNllGNTAyUkZiRUhCQWc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Gold price climbs as pause in Mideast fighting curbs inflation risk - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFpMdkVNVnJLSGJaalZSYjhrZ1NHU3p5NTFrbURONDZDdzFvN0ZxQ2dIZnAtTjNqam12dURzQ1MwUHRVM21hQTBnaWtoVUVfUnhnZ2JjMWhrRnhFd05lcHl2U1c1OWw5YWZTVFhybEhfTU45ckNPR3lGenJBSWswU3lHRGltLV9DRlhrRDRFa2g2d2ZPNzJvSUVYQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Africa\u2019s second-largest copper producer curbs raw copper exports and makes demands of Chinese firms - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHFzN3BKbzJoRmJHeEpCM0oyeWFDNy1lVldDbUVhWlJLUFJTTUZSZUVNWWV4QVFTNTNQZG9WS3h6empXVTJrMmNzdEJvcG16cGtJVlR2eFpHTHdsV3FLdHREeEZkQUhiUmxFOGJLekhOSmtZREZ3YzdubEc3bVp2ODFKeVFKRnk4R1RScENsX1EyTGhxY1l0cjItUm1rX2RyZnNjNUo1U092bjAyXzNMQm03OTdCLTNLTWNvcDBMUGh6cnF2TEFZVVlDaXZSYzRFWWo5MldmT1c?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Novared identifies \u2018composite batholith\u2019 target at Wilmac - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWVEd01QUmtONGxyU3dfRmhpcWl4ZnhRN3hGM0R2NDE3RVZ4blNrbWtFU2NrOG1hT2NwT1dxUjl1TzFpbUR3YTNYWHE2aTAwd0M2c040a0dtUmV0cGJVVEk2UkdFaFRlZ3ZWTmg1dzZoSEVOa1pwczZpMUU2QXMxQVpRa3k?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Intelligence Highlights Strategic Positioning Following Executive Order Strengthening Defense Supply Chains and Critical Materials Supply - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEozWXJUSzNpN3U0bXctMnVpSVpiVDRMclhyZkIwMU50MWFCdzlOSE5WNnVKM0tRNmVJcFNmWUI0M3BOYm5INGFDTU15NFI0SC1NemEwWkc0Q2pCTXJRYUVFUTNxN09XREFBUmtZb0xISm4teENvOHBFVFprbXE3MVlIbHVQeGpqMWFjRTk5UVBjSEdsZ2c2dHdyRkJseGtEdVpr?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Why copper is becoming Asia\u2019s next AI bottleneck - The Business Times",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkZqaXcxX096OWo5MXZwenBMa25vT1Y1aUFsek9DeVNwZ1BXMTEtWWcxQlhOZ2JNcm9RenpDUGdmRV9vWmJwVXFKMTV2VmNZMzk4Sm9tcm9MQnRicS1HVnhWZ3VqVGdUX1AxQnd2WGtUVDkwOTRPZDZVdHZJY0MtYjJPMU1oZVlURDhJa1FGeGxodDkzUFkzejZfbWpiQQ?oc=5",
+                "source": "The Business Times",
+                "is_premium": false
+            },
+            {
+                "title": "Pantheon Electric eyes copper deals to supply data center boom - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOW1KRlJlMlBibWttZGlYT0xnVjZycWlhX2lxOHg2YUZPSTlTdnRSdC0wdUUzM0EyeFFITW5feklRY0hrN1VCSVlhTXpyTFlEZ0pTMGhWNGNDWlJRb0FGWXU2MHlMdjBBYlF6eEN4a1JTdmNnRlJUOHgxa0ZnLXNKVFZwYVlJY0hrNVJibGRwc2xuTE1v?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
