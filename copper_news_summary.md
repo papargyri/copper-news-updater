@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-29 08:33)
+
+- **[China's base metals trade; six stories in six charts - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV20yS0RiYmdUSjlvUlBmRVBNc3M1YTZBLVpVWEdjMkVBalg1Yk1kRXZtMGNBeWd2N28zemZ1YzN6Q1VsQVhNMC16Q1Q4SXowZzlVWUtZb0NlcDJpRWNCZ1J6MG5LSnhWWEl0RzRHV3dNNnExZkg1NnpqWU4xTzE2V21WZWpvbWl5OTM4UDhWSUNFV19Hb0ZkVWdhV2lFT3JCRVp0YTQ1UGtIVlByYkhiS1VFdHFMbFE?oc=5)**
+  - *Source: Reuters | Date: 2026-07-29 05:00*
+- **[Zambia Bets on Pan-Africa Metals Exchange to Boost Mining Wealth - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMm43YUd4eTZkcTFCRnMwMXd5MXlNbnVnTzQ4d2xfYTIzZ3J0czdlZzJrUG1pdVJDbXpWU1BNS1MzMkZ5NWxySnRSMmNDSzFZWUI3THUxTmE4dnY1Q3FDLWJkNWdJZF9DS3Iwa1hOejRuU2VSZW84bGVZZUFyekpBOWVmTjRDTmd4OUl5eGZzSjRHTktHX0o3MGZNUEdHN2dPNnlsR2tnN2pzRE5lZjY4UHJLRUpmQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-28 10:30*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-26 08:20)
 
 - **[Deadly storm in Chile disrupts copper mines and raises AI supply concerns - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW1EcEx5TlRUMnc0QUtNWDJET0lqVUQtMTFCV2l4S0xCZ2hxcXdBMkR2dVJzQVhPVXhJTTdIa05BTE1OQ0dDOW1kMzYxWERRMWpNcUxTdDdPTlIwQWl0bzRKOWtNcTNONzNuQlBQNk8yMzBOSmZNNGliZXdEMEg5ZElNMXQ?oc=5)**

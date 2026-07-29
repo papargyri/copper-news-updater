@@ -19060,5 +19060,150 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-29": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 23,
+        "articles": [
+            {
+                "title": "Teck: Antamina shifts to copper-only ore in Q2, cuts zinc output by 62% - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMi0zZzM2N0lOVDJJUk1lQ3dkenp1ZzBsNXA0NGtUSUZOX1AyT20zdTFOQ0lMMkF0eWhfSmduUGhieUxDM2xtVENHTUxTR0hoZDVfZzhJdU5PT0k3b0g3OTlLUkZrSnVYMHk4cm5vY0tGR1ZocnliNGlxblVwUDF2b2RYc1RqOUx3NlR1WDh1MEJvM3NxektsT1hSWXJTbFMyMWdBb3kzeGY0UQ?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto unleashes $4.9bn dividend after profit spike - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcy1jNEZ3LS1hZVdLRi1ESy1fdlAxOVdFcW9nWmhVT3RHLWRpVFNOZFVmZlVkeDY5cGhXU3VaRUlDNWdaRC0wamg3M25mX0RrZHVOc0Z4R3BPZWJYS0lSM05YajZTSVQ3ejh3elNELW13LWZEYnZ4Tmg2eHVzdnFQOWRkbkQ2YkNMeXAtUXFaRUxQSU9haU91UGRsdFJkZEZrMHRCdVpyeGt1eFgxM2I4eDVDQk5iM0htZTlsaVN0bDlRWjdwLWNOMkFpbnoyZHVTR3M4eGMtbUtGTm96RThuZVRnbTJfTkp3NHFBSGtoUThCZzTSAfgBQVVfeXFMUDFxTjJwbnpxZFF0SmxSYXp1TWJJN0VvbjV1OXJUWU91SFRKQldXV0FEYmN2RTU0NEUtc0RYT2h1dm9FVE92NG5TUWVWaHVvbjFZdHVZcXNDT3VPZWJtMktqOVpKdE5NbXlTVFJjbGUxQjdFaE1wZkVxQm16NDQ2LUR2djh0WlhPM2ZGQjZfQlA3b2o2SG43blNFRV9DMklodlZHTUFaa3FhY0IwRmpQYmdyRUp5N0p1T2tMYUFDNDg2bTBYN1gtZE1YYlRuYktnSTQ1Y1V6V2xMVm5CdjFnQzI0dnZtcUJFeWNKcG5Wb2VrOE1uNC1tcEo?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore's copper output up 15%, sees strong $3.3bn marketing earnings - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU1JvbFdWYlpXQzltckZucF9aR3FIRGc5UjJ0X21kMUY2V1oxcjNEOUdwUlExQmktdzFTRFIyVlpNS3F3dlB5dGZUTnZpbTJqQktYS0FTb25PRkRMS05aUGhmVDNCRGl1LS1EcnBRNXF3QWc5dHoxU0dCU1FRTlBnTnN5aFFJT2FBNXJsQlhyTmFacFVRYlhYNjNtLVFmZkRXTXhiQUdRa3RQdTV6Vi1FeHBfdw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "China's base metals trade; six stories in six charts - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV20yS0RiYmdUSjlvUlBmRVBNc3M1YTZBLVpVWEdjMkVBalg1Yk1kRXZtMGNBeWd2N28zemZ1YzN6Q1VsQVhNMC16Q1Q4SXowZzlVWUtZb0NlcDJpRWNCZ1J6MG5LSnhWWEl0RzRHV3dNNnExZkg1NnpqWU4xTzE2V21WZWpvbWl5OTM4UDhWSUNFV19Hb0ZkVWdhV2lFT3JCRVp0YTQ1UGtIVlByYkhiS1VFdHFMbFE?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Mamba\u2019s Copper Hills rethink points to new copper style - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGd6OEE4TlpwcEkwTFZOLU5lQzJQUzV6VlZ1aXdrUVdkX0VrbzRzSEhPanJpZEs0NE9RWElsdmNXX0x5dkFRa2h5Zmp4WWZNUGRHZHBrb2owNFExUmFtRkpXMXZYUnZ4MGtxN2I3YmVDamZoeGgxNTFyOU5Vc1JmUDBhZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco abandons near-term copper production target - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QVndkZVB4OS0xd3RHeENwWUlqV3ItMjVqREExRU5XZWRyTVlpMjh5WFk3MGJMTkVVWkxkYXVhaHNIMENvMXY1b3BqVXhHVllFclRRaW1pd0RJUmdLczhBODhHakFTc0lpZS1sWDdxT0RDNlI5djhTOHVlRVJwcEE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Brownfields to breakthrough: QMines builds a copper-gold hub - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzlpa09teGlDRzUybjRvYkVXYURhaWZCbENtM0VubmFzNGdTRHNKbVZweWR4c1BIc0FaTk10dWpfMWpvT3FDRU55SHVYN0dIaGpWVWVnRGNmMnlMV2s2WVRkYktwUkRRUkNEYnQ4andCcjh0UnNqR3FzUHpFMjhtWHRvYk5iMDBTLXc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto H1 Earnings Call Highlights - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2trcGFaM0tCLS1yaXpqcjh5eVF5N1dWWHVLS1A3YVA1ejljMFpiNW5IVTdXLXVWVmZVbEthWFJPSEV5UEFKQ2lEc19hREIwWEp6SWtmUUhaWElEcFJDSm1mTERNZlVJWmF3WXoyT0c5RkFWS2NuX3RXSkwzQm5iam80Rk9vRnc5MllwUG5oZ2hoNmFsamlOdFhNTkw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Australian Gold and Copper completes Achilles drilling - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSE44TzNnYmNIQkk4UmZNVVZIajd2dndMQTZWVWVmZ04tYUFmbG1GUGx5Mkd2OTBlTHNNVjB6amtEaHVIQ2xuU1pWVjBnRF9DMThzVGJfOEtlQWVUeC1WYlBUdEVOYlp1VUpvRmE4OHR5SjV5N3lTbGlfZVExSndETmxxYw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminium gains ground in electric vehicles: GEM Mining - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmRaVGRqblpjeVl4SG9KZF9GZHNyMDRmZXJfZDU4UjhKODFZNTFVd1FPX1I3VDlsMWNxVThCQjNJa2JaRnFsZUxZaFJtVjZoUDhwTEZJNnRTWUNEYlhqNzV2VjRBQ2xxLUpIZUtVTFFqZ1lzYUhMN1pGNklHOFhQTFV4Yw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper drives Rio Tinto earnings beat - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05Y1BOaXZ1eUF4UFZHa1lCdk14Szd4aXFrb0NiSU5zQnhDZHowLXhtaXRLMmNkUDV0dHNmcGdYWUx4MS0yamNEX01TNjBJbmhKZmt4alRZRzZGZWdaTl9BZWdLeS1wWWQ1Ujk1Ug?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Tinka uncovers \u2018compelling\u2019 targets at Peruvian copper-gold project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXJrOXl6LXk1Z0xhRHhSWGdUZS15RE00MTdqS3hRR29BcDByR2VFRVBjY0ZOeV9IR1o2SEVhNXpZbVZBSHNvTlRhYzRPZi1qRkxtaURMQmRHaEJhelFFclVoUGhxczdGaFQzcGdhc2F0Z1BEanY3ZDg4czB4akNzT1lxQzBOYXdxX2l6S1BhVW93QQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Fox Announces Closing of Private Placement - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhjOEV1WFZXSHE5X1V4aG9FWlhKNE9qbFNoSThYa080Q1pzMlJTbFpfejNMb0d6UUNvMXd5SlFxelBhSkg4UlBPTWd0Z0dkd2Q2YlRBc3VhRl9ubW02MllOT1J2WlBKQ1pfaW95emUwMXRVbDVhQkZ0Y19nT3JJYTNyVWV2QmxpbjFzczdhMllxV0tWa3RGUm9wcEpvOXFmWnR1RzJheFZ4Zw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Canadian Copper expands New Brunswick mining operation, over 100 jobs expected | Environment News - thecanadianpressnews.ca",
+                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORXVxVUZVOEM1QU5POUxQcmRENldqTlZpNkp3bzBBS21WMTJGdm1pdFA4dlZsVmZ0bjVpZTdNbEotMHRNbzNIM2Z1SUpsbXFHYWhyRjc0LTRuS2tkYThvbF9WaTJFNzFLdXY0dENyU1ZBd2lYTUxsWXVmRXhXZHBVZnZVMk15TlctdlQ0MGx6SU1Zd25iaFI4TkZzUU54YTRUajJLd0Q4RHQtR2JsWU5HRGZ0MHpOVEJQS2poMndFUWJtSnRreVdrRnUxMG8yLUNMR0lHTGtudlJ5c2tnbGtpQkdSU3pfcjVjQU04WWJyY0RxT3NmTkstQU1DWWh2Z0lkSURNTDBR?oc=5",
+                "source": "thecanadianpressnews.ca",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco rules out meeting copper goals as it faces tough year - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR25uNlBsaWtSanhRRTJhOGZIaWtGTF8zV1N2ODVjc1hjUENXVzQ4RHExMDU2RTVhUjFEdGMzc0hoT2xNS0pXQ191UnBIcUtNRDQ1cktXdXJkUnpLRGVieXN4MjZKcTJrRnJDeHFPTEpZaUg5YzBnMlk0SzEyQTdiWnVINXE1dXVMMU96X3NCQW9GQ1U?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s deadly storm adds growing pressure to copper prices - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY09OZjFNTVVpcFRuWncyenRGTFBRdlo0TW1SYllKSVZUTzg3Wk9HM0dqSm9HU0dURVpiY1hxNmNaWE9yeG9LZnNiZDJsX01vWTBVWGVfNmJoUEtPbE1mZWtla0VaM290SXhZTkhHWlEzTG1aaXlPWTUxZHpDSWg5YTN4dFdPakdPTnc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Evolution to buy copper-gold miner Carnaby in $149M deal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWklpX0NNcDladlZ3SThKV250Rk4tZk5DWm91WDJDMVpvUnJKb1Flb2tNcjV4cUNDWlRMWU1iRC1aSWxLVk91dHRpaVJ5UUxZb05EQ2NRZFFSOWNmUjYyWlc2TjJiWG1uSDR2X3RIZlZ5c1I5V2RtUlBTZXR1c20tOW90eXR2QQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia bets on Pan-African metals exchange to boost mining wealth - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWZZbzNrM016WVYxRUZUMjQ1cVI1eTM2WWtNVWdQQUkwS0RsMGpzOVJGVjBmRHVKb1JXVV96SDJGX3pscFBkZmxRNXA5VUtPZmVoYXExTGk0akpkN0RaWlc5WDAzNlVmQ0Q4QnFjZmVmdHB1N25OVTNjajB2Y2V1ZnY3VUIwMWZMS2pGS0tWNVVDUjlCakU4WkxjM1hEQ2g1dnplQ0F2THdUWlpnYm8xNXdPMA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk Copper Mines Inc. Begins Trading on OTCQX Best Market - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkltU2Q4LW9wRFpvRmEzZ2hURjcwQlFKWEFDVVJZeDNYaHc2VUFPUTd2YmNkaGtTV1JMcDkwV1otVlV5eW84MDAtRWRtaHRLWGNUbG44bXA2Y0xvbkpmelFsdkFYb2tGWm1YdWVqWVlVVnN5N2FqM1lfdEljeEJhZXRMdGg5ZHVZMzhyVWRVa3FYc0VIbmNhZFRvNV9aVThJek5XV1M3RUJOOHVERWR1YTY0bTRTMkZPNHJpUnJ3NS1hRmx0VURMcDY2LXJpaFnSAdQBQVVfeXFMT2FhQTc4Wm1MYm5WWnFuRlNZVHZPeTgwZm9CTzAtUzE4QjZjdjdqNWprMnEzaWVjelBXRzA5M0RKbXYtYTJfVWx6Z1Q4SmkwTTBkU2l2cEN3b0pyQ1dURG9iZ0NieUN0QnpzM0Q5OTVsQXl5X0dCQmVIX1hTSnhTSUwxTmJjX3JMNzdGOFktMXh6aS0zMjlxckN5ZFFPWmZ1UDA4YXZFWTZGQkFST1c0QkpneEJ5dmd4Ty1xZGMzSHhuMnc3aE1ZcmFwRk1Cem9VSlJRSkk?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia Bets on Pan-Africa Metals Exchange to Boost Mining Wealth - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMm43YUd4eTZkcTFCRnMwMXd5MXlNbnVnTzQ4d2xfYTIzZ3J0czdlZzJrUG1pdVJDbXpWU1BNS1MzMkZ5NWxySnRSMmNDSzFZWUI3THUxTmE4dnY1Q3FDLWJkNWdJZF9DS3Iwa1hOejRuU2VSZW84bGVZZUFyekpBOWVmTjRDTmd4OUl5eGZzSjRHTktHX0o3MGZNUEdHN2dPNnlsR2tnN2pzRE5lZjY4UHJLRUpmQQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Chile Copper Project Hits Wide High-Grade Zones at Buen Retiro - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQanlzSEVZZDF0c0pBZ1FYQWdxdndUWmkwQ3ZncVRCNlFGZjRreWlGYUY3NERNSHlkSDhTdHlqR1NEVFMzNFpUeDlqUGJLWVVsN3FjQ2RXRjdCNHhvZ2k2VDJ3TldiSDVLOFdneFRVSFFrLUZCX2Nrdmk4eXVVUXJpQVV3bUItakhIRFpaanlmOEFmTDBabGZLQ2dpa2c5M0hUVmlSM3dwQUNqemY4WHVTLXZnVFBxZWxiNmh5Wg?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Kingfisher Mining targets copper blow resource - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGZCY2ljWC1DYktGemhHeEhfTDhFYzN3V2FkQk94ZDA3Mm1ldV92S1I0TzlaaFduYlFTMjdRUGlTT051bnd0UktkZWR1U1hNRFRJWktoVFRYOG1FUlRzN2dBcWl6Qldoay1xT2FUTGFuWmd3OWcxX0txQmluYTlvQTNYVUdOOGZObVl5N201WWQ?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Evolution Mining to acquire Carnaby Resources in A$213 million copper-gold deal - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTBza1RRa3g0ZGVnbmsyMEUwczljd1FRS3NrOEIxa2d4SmZ5alRWbmNDNDhaNnZpUWhfV1hQUm9pNHlqeDktc3hWdGhUNGFaQjRobHlxM3A1UTA2UG16ZnY2NjZGUDlPQ0RjdWxqb3BhYm1oWnNvc29TX3BENDBkdjNJcEk5NjRmdzZZWVpBNkRjam03VWc?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            }
+        ]
     }
 }
