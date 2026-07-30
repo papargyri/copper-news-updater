@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-30 08:18)
+
+- **[Anglo American Posts Profit Jump on Record Copper Prices - Bloomberg.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm1YWVBRRFdNWlBudkJqSnI5RHIzSXloRTlZZnhkUWRueU1aVm9LUVNJalZwM0NfMzN6SVhLeXo2aXp5VDlrSk9UQ1l2UDdUckhNNEhCWkxlVkk1UzVBamJmeWFIbHI1S1IwbU5JWGx3c0tTS1NHeFN1MEhwRkRmSk1sX3JzdDNBQXF1ajJkdUlEcENmeF9JVW5aVWQtcW5zWk93YzViQ3NwdFk?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-30 06:39*
+- **[Copper's tariff dislocation risks becoming structural split - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2RpZ0ExWW5PSlhfb1lqV01MZ3ljUzVUWkdGUU1XSzJTbVJPZEpwSmdfUHJNZy1GZy1LWHRXdWRyYjY0TlRibHJjLXBzcjZ3SnU5bGNoTmpOaG5hZEtTd3RGbWptSjJGWlc4QVBGNDFTUGUtUTVfWWlfN1ZvR0JYT3FqM3VZSFFjWU96VHpCdThfV013dlMyelgyVy1uYWtEcDdjX0hWemJ2aE1uaGpWX1BVUHlFbzV1aWxxQnU4OWxJWVNaU2c?oc=5)**
+  - *Source: Reuters | Date: 2026-07-30 05:01*
+- **[Global surge in copper theft snares telecoms and trains - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTJQblptMUp0LTIwaUdCby1qUzVpamdFS3JVazdvUVhreGh6dmcwdFMzdFhXLXpwa0xpUVByeTFBal90eFFjbFhtaTE5X1E3bXV5cE9HbWVMNUZzMjAyMUxuTUJXMTJWZnU4cldqT2RqRUlzM1ZqLV9GMmM0UjZ6N0RkNWQ?oc=5)**
+  - *Source: Financial Times | Date: 2026-07-30 04:09*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-29 08:33)
 
 - **[China's base metals trade; six stories in six charts - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV20yS0RiYmdUSjlvUlBmRVBNc3M1YTZBLVpVWEdjMkVBalg1Yk1kRXZtMGNBeWd2N28zemZ1YzN6Q1VsQVhNMC16Q1Q4SXowZzlVWUtZb0NlcDJpRWNCZ1J6MG5LSnhWWEl0RzRHV3dNNnExZkg1NnpqWU4xTzE2V21WZWpvbWl5OTM4UDhWSUNFV19Hb0ZkVWdhV2lFT3JCRVp0YTQ1UGtIVlByYkhiS1VFdHFMbFE?oc=5)**

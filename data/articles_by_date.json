@@ -19205,5 +19205,150 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-07-30": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 23,
+        "articles": [
+            {
+                "title": "Glencore\u2019s Copper Mines in Peru and Chile Explored - discoveryalert.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDBkRy0tVk1WU2FtVHAzNFFBd3JhcWJRTk5HWXhEYU9wQlFrUFZhNjVzSFlwLThhM3JEaHNMeHBrYWRPUGUwY2x0OEROR0pEUXVHeFUxSm1JUWpsdG5GZ0xxNDNDQWJsTGFWTjlRYkV3LTdMVDBPOUdKMF9pLTJqZmQ2UnlhRF85QVNNS2Z3?oc=5",
+                "source": "discoveryalert.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo American Posts Profit Jump on Record Copper Prices - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm1YWVBRRFdNWlBudkJqSnI5RHIzSXloRTlZZnhkUWRueU1aVm9LUVNJalZwM0NfMzN6SVhLeXo2aXp5VDlrSk9UQ1l2UDdUckhNNEhCWkxlVkk1UzVBamJmeWFIbHI1S1IwbU5JWGx3c0tTS1NHeFN1MEhwRkRmSk1sX3JzdDNBQXF1ajJkdUlEcENmeF9JVW5aVWQtcW5zWk93YzViQ3NwdFk?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper's tariff dislocation risks becoming structural split - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2RpZ0ExWW5PSlhfb1lqV01MZ3ljUzVUWkdGUU1XSzJTbVJPZEpwSmdfUHJNZy1GZy1LWHRXdWRyYjY0TlRibHJjLXBzcjZ3SnU5bGNoTmpOaG5hZEtTd3RGbWptSjJGWlc4QVBGNDFTUGUtUTVfWWlfN1ZvR0JYT3FqM3VZSFFjWU96VHpCdThfV013dlMyelgyVy1uYWtEcDdjX0hWemJ2aE1uaGpWX1BVUHlFbzV1aWxxQnU4OWxJWVNaU2c?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "White Energy maps Specimen Hill copper-gold vectors - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkWXlUa0dNRXMyQTMyLXdSMGEtZmgxX0FrUTl4Q3Ezd2dmaVdPU0hiTlpBblRoQVViczU5U3pSNV9teXI3cXd5bXk2OWl4M3poV0tSXzYxR2t1Z2R6Qk5BM1VMbk9meWsyTGE4LTNYWF9YUkNVRkVIaDVnYUtIZWM?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Austral discovers second parallel copper-gold lode - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOaURxWG5HYy1abk1hN0h3TkZkTk1sVFVXdEZUZF9Xd3BjQ2xaVjkwc3d2RV85UkxnZ2JtNVZQODhhUmx2YnJRd002eFQtQ004TDBZdmZQVGEtN3c5dWdOQ1NrUVlWd05icS1lWkR0UXdFcmtibHBqZFdFUXBwZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Golden Globe Resources Confirms Copper-Gold Systems at Dooloo Creek - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTm9heWdILUxDOWFXZmgyYzZkbXVQcmJ2VEgyTmRDWUxQR1pVOHdqaEVBMnB3cGVTRzh2SzBQSG8tenlsM3JfX2otbk9iNTVfb2xHaUc2WUdCTjh3VXprd3djOTZlYjBZVDVFQUt2Z0VGeEt4X3pwZlQzSmcxVW42cUxfS0NicDFvRkFSVXFBSGppbS1QT21pWDZOMVZydVMzTENsSVJEWVVCUm9IcjFhRWFNWElLVTZCbHNYQmtiQVlzWHhPZEtwMUVZQUFHcUNrbHJ2QzkyUXJHUl9KdkN4dXJn?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Global surge in copper theft snares telecoms and trains - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTJQblptMUp0LTIwaUdCby1qUzVpamdFS3JVazdvUVhreGh6dmcwdFMzdFhXLXpwa0xpUVByeTFBal90eFFjbFhtaTE5X1E3bXV5cE9HbWVMNUZzMjAyMUxuTUJXMTJWZnU4cldqT2RqRUlzM1ZqLV9GMmM0UjZ6N0RkNWQ?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Sprott Physical Copper Trust Updates Its 'At-The-Market\u201d Equity Program - manilatimes.net",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMTdTMjdDRUhJU19FdEVlOEhhYmlTNHNMV1BMWHhLN1pyNUJSTVZvV09LR2c0eWJ4UlZBLTVOLXNwamEzWk5pc003X1BxbWdYZU5mcndSSU5iMnE0N3hFVnotMkFMTG54NkdJMFJfbW5UaHhBUEhLWnBySExudzA1Tk5GZlN5Q0dpeGxMaUZ0X2NTM040TkdkRFF4NHpVUEZZamxEVXA4em9sOXpGZm0xQVpXVEd5Z1dqSy1DdUJVUGRITHJkVUc0dGNvdk5RWG14T3ZGVGFFaTRnZk3SAeABQVVfeXFMTnJCOEYwT2tDZlh6bG96SGcwOXVUUWdJZE9CZ0F1UmttYkh1dUFuLVBnUFdacUhRTGlUTGRjV2cwdUNISno1aFdqS25lRlNpUXhTVXk4UUtnSWhEWUpWSUdMcWpTX3hiVi1xRUxXSHR6ZHZIaWVEdXZCZ1BUcXljN1ZIU2VaMzZEa2drLTU5ZThBZ01NUkhvOEs3S182REZpNkpYZ3Q5eEU4dzFPald6R0wxTWM4clpSRTZCWFVlLWxzM3hQQ0lJdm1TSjR6YkZDelo1dWJYZDlrLVdTM1Vuc1A?oc=5",
+                "source": "manilatimes.net",
+                "is_premium": false
+            },
+            {
+                "title": "Colorado Copper Explorer Joins DOE AI Initiative at La Plata - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNG1UekJ5bFNSUXRTUGdKdlhtSzh5ZEc2TDAySUlxR2QxeVo1ZVg5LUozMmMzaXVzVmZNeFVqY3gyaFFqSGFyUUR4aVl3QmRkLTBCT3BCWVFyS3MtTDVnT3luQk50T1hzdng0cjVIdklpckpQcWVmeW9lMFJZb2NpcHNqb1llQXRTWm5CLUJOLTJMc3F0VHZ6VjJhclRWblFYaHRfdHg4eVd5Q0hBNVdjRk1rQzI2UGNDTmc?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Sonora Copper Explorer Hits Mineralization at Cerro Grande - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWXZCR00yTjJfNUxlY0l4WDI0OC0tbEd0RFFmRjhVSWJ6SFktUjJIWHY3M1BtM3BCRFQ3ZU9kbFNneEstTnIyTzBRMm4xUjVSajQyR1p6bVEyYlRUaHhRZkROclNQenNCblY5cUFrR0lTS1lMTk5XZGtzQzNaR2tON25QYmg2VXNVRkFMZDFHRkU5WkJkM2IxcHpGeTB2MWxPRUJFalFJQXFuT3hLNDkwbWJPUXpGX2s?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "NewRange submits proposed changes to NorthMet copper-nickel mine near Hoyt Lakes - Northern News Now",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHAzaTBTVVhrWkVoU2loZC12MGJrWnNobVAxQTYwWDIxT1FhQmZJQmp0N21qcUdfZVpYSTBfd255VTFVd3JEMjFXZjRZdVhXVkhHUkVqd0F3NjJlRVlYaFZjeXJTeVJBaU8wM3ZkeU1wclVMU1JDTXJ2Wko3aVpHckpFRGVJQ3pRYVliaWVDeEtVekpsSk1jelNRRURBS3NwcHdlM0FsU1RiZUkxNUtyZzlnTFB3Y3pEV0hXLWhR?oc=5",
+                "source": "Northern News Now",
+                "is_premium": false
+            },
+            {
+                "title": "White Cliff cuts high-grade copper at Rae - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0NoSzE0UW5MM0VVUjlZYjZ5Sy1FME0zSFljTWZYelh4ZTZaVWdXRjR4WjN1VWR0MHV0OXdqM29DRm5tN1VNQXZLOTd4R2huVWVRMUhpQXRmY3dXY0VCU1VYNWItRG9PRk82ck56WVNTXzNBQ0FaUHlvWFFrajNnUWxlRkQwdjk0RDBqYjFWTGFGNnpoRWxMUENnWExQRzdKOGlxY3BFWlI1OFZEQkdWRHktdC1waWpieXBn?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Austral invests in long-term infrastructure for western operations - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVk9DVk5rRkRjQ01RZDQzV3QtTU9LMThKYW5jZC01VWx3YTR2OWR0QnNJOHBNVnl4RGlnTFBiLUYxclNMWFJWYkJkSHd3OFduejdQUXNpb29ZRnpUUUZpVGpzU1VuVkN1WFVZV0VFaDk2QUhaMElvWGVoRE9QVkZ3OV9xZ3AtVGstaUFhSEt6OGVIODA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum adds 1,000 jobs as Cobre Panama restart nears - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUHNldGliMnZtSlctaWxYOWc1ZUZHWDZscGdwY3pFdkczS1dGSVdXLUZRY24tVUE3UWJVRVBCYU9vNXVlMVFJd1JNNGdyODhrVHBJeDUweXpRam1EcF9GVTdmTW80RWhYWFNFbVpwZnZ1WlA4V0oxXzdscFRQYU9yckpYbnp3c3NndXc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore\u2019s copper output up 15%, sees strong $3.3B marketing EBIT - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0FxWVBfeWVWbU1GZ25ybWpubkE1ZEJocEhLSVcyLXVzZndyUV9hTThZZDRZWk1IbVVhQUM3ZE1FMVg0aHMzeVlKVi1kSWdSNWs3SXlzcklyYi1BbnppaXp6bkh5TUFNVnd0RFlzSWVlV1dka1pBUFNzc01ES0xhWlc2MGYwZXpkSzFNWlB1TlhjcWM?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Elite Material Copper-Clad Laminate Maker Claims Global Crown as AI Server Demand Doubles Revenue - Tech Times",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMklCY3MzRVI1blMweDVPM0hOY3NOT3hGU1VqeE82T1ZoX09rcGlNUWdrYlplWXQtaTcxNDhDcFRDdmlwYVhEdlFYdDM1Y21LbW1Qb0Nua1F2RUhrZHRTSGluNmdsWHlSdHZYbHpnZEVXMUp6UjNXSHFZS2ZROEVyNGFvMWJHRnRudk1jZXhxYjVCa2FNeHJNdmRhWlBBQVBrc0dJa3ZxYVJYUGQ4eFRxZFlsYk9FVi01VWNSeXAtTVJKOGxuOVVWQWJfOEkxc2RqVWdlQi1YT3NXQkd3c3FELU9MOA?oc=5",
+                "source": "Tech Times",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore reports strong first-half copper production - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1lxdEVBN3RNdEQ5VHBiNWxvNU50d211U2tjRmVudFU0eEtXVHp2RUVxRDN5ZzlGaDU4STFESm9TQzZNR0NaTzZRVXpDeHlDYmQzQktNTjh6dVB6YVBsTF9lVDgwMEoySmw2eG5tN04tdDZ3em11R1NySl83MW5GN0Q0SE9VZm4tUk9JQmpneGVpbHEtbGhHUHhsSHl4TDQ2NVE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper slips ahead of Fed rate decision, aluminium rises on Gulf fighting - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNckdTZjFUX0RNR3BGcE8zZE5HT09QaC02YlVvWDd6SEc2U3VJVFBxODB1YzdpbHRmMVhnWkc0VUNodUstaUtuaHJvaTdVWlhUZnc5bVVxcmljblJ1dnBFd1dZUEkwdWpOdDI3NENwX3BtZGh3aXlTOWh6QTE1M1RmeG9PNjNNaW1xd3BhM0hVYUNXVHpGZVJVU19FSFRQSGRVTjFrVTBmdHFhRzNWZzdWM3NpTmNRZHprWlR3RWZoUmFJWXNWOG5OMnB6RHJjdEhIQVZCMEl4aXdWMnJYTUpLcjc3aHNDZ9IB6wFBVV95cUxNcDFDNkF1UU5SQ3ZhaHctcUpYYkFFbmxOd1J0dGlobUpoUmJLMkV3bU1GeERSMjdpczZBQlh2OUpodU93ZzhrNlpZU0hVMURrX1dMSk1sdm5TZWhHdjR3elR3RFNnU3VKcnpkcDN4c3h1VW5IajZsSkxTYzVGLVpBUUxFbmZWQnJGU19KQVYtT250czBsLUxEdHE2OVhZTm1LQXpra01YcUhrSTVtQ3JyY3Nhbk5vSEFjWl9PbWlHUUZPX2w1QU9GQnBiMV9EaURRSHpTZHdJcWs1Q25BRXN0aHdMYVpqaWkzdjhF?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper Corp (NYSE:SCCO): A Quality Mining Stock Built for Long-Term Investors - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnhQYmo4NUFRVHJ0YkFMVFdXN3J0Nk16bmV5R0ZhdlE4QW9RRTJ5dUxncGFvRXhmWkhCTk4xbGJmX19BdnU5OFZESHFuVWhSWXRYTnRsQVRZNUowTTh5Y2U0cWc0OHl6SHhNaTBTUEYwc0xhbFZ6UGlXendUM0hsVDZXMjNld2lteExZQm8wMjNrQzN2eGdROFEtUGpGS3JsWkhjOXlMSlVKNHFSOWlpdlBZNnRVX2ZPWjYxQWRuN2RUdmVCT01lSmZUQ3RxVVE?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Junior Hits High-Grade Copper Skarn in Mexico - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcUoxUE8tdkFiWHhLam4wN25wNV9weUl4dmRMT0xBNVhYbERZUEE0ZnNhV1BiVnMzbjZtUlM0eFY2bWg2UnRPbjduMGQ5LWxDeE1TbHVZd2Foc1Vid2NiVndMXzRmQXdsSkk3dVF3RU9taGU3Snpxc1BBRVQ2YjlhdjhPS19QLTBNT2F6MjdnOUhkXzBwcG91cFl4b2duV0IwaUxfbVNmcEozRnJGZGhV?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "BC Copper Explorer Torr Metals Hits Strong Hydrothermal Signs at Kolos - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV3RDTGJVV2tySTNkbFdQY0hURnFYOFV4aWQyRGY1VVRNVXowdW5wY28zWnJmakdQa1prM1lxd2hrRVVXd3hRR3JBcmxEdXcwMFVkRGNIT1BTT3pGTXhFb3Utd1lIcEdXYjNOMnMtUUZuTjZyeUxWaFVuVzQyY1hrX1dHeVdsRS1lSTV3bEZYaWg5MUo3M0JjWnJpY2FGOGxYWWxBZkM2akJuZkNsUEpHd3MxMUVCMmhoUkNmdHBCWTlzOGg3Q0dz?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Explorer Intersects Extensive New Copper-Gold System in Southern British Columbia - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRzBSbklQY25nU3FsWEpmNjBHM2JrZDlSa0JmT2cxWUFXWlhBR0R6b2htUU5fRm9TYk1ocTNzRUdyVEFpUnhHZEhlbmdzQXE0TWN1WUVMNXBJN2hlcDhDUWJxN3pHRF9SdmVHbjFubW1CbmI1MFM5cGVZRmF5NHpUTkZjb1FoR1RGbDhyUVhTcWR2RWZHZWhyc2g4QlVDWS1aTW9Bek9NdGtNdDJSMzNuTmxwekFvSlp5MXdOYnV2ODdIZy1WMHpzOGxSTVZsN2tPUU1Oc3Nn?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk Copper Mines Inc. Begins Trading on OTCQX Best Market - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc01WaWN2Ry1aWi02RUdvT2pCX1JZbGFBM2ZtLUFzd2VKd1VycW4tc0IwSWVnVldCMGFWcDlBa2xZZU5uWm5WOGN0NWdQWVN6czJlMUx2bklzdVhrMXppanR5Y1drYlY4WDRGRXJUNldvV0QxSDlBbXFHd0lJd2NTbXNXOWdpVV8yOF9EblB4WHBVNmozSnVDbHVDZU0?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
