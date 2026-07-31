@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-07-31 08:43)
+
+- **[Investment strategist a 'big believer' in precious metals, copper - Reuters](https://news.google.com/rss/articles/CBMifkFVX3lxTE53NE4wRzYzVTRwVlNzaWZZR01RZ0xha1JZaWVSUG1MbV9UdEtQTklfZVdWQ3BwdmNkZjVRYVRHUGduYkJOcklNbEpkYjd0M0xPZDNCNWE1UkVwbGxOcmg4MG1WMlM4T255S1huR29VZ3g2bC13bGhxVUlWeFBtUQ?oc=5)**
+  - *Source: Reuters | Date: 2026-07-30 20:33*
+- **[Anglo American first-half loss shrinks, lifts dividend as Teck merger awaits approval - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUdyTHp6b05pSkc3Qm9GQzlDYktYQnkzVHRnZXh3WTUtWmRfOXpCWW5wY1JlTHNfR0dBbm53TTZuSEZSQ0Jndkp6cEFEd3hEOUYxaFZINjRtbnBKc1pQSWhTczZ3aDNsZVhBY0VHaHZ4VDhEQVZ1WERaNVdnNFB2TWZtdUtyNVYtNzRZODRIYmdLTm8yd2plbXdoZnRZVVJ2b1hLbF95UEZYNWdMZG8zcHB5TnRpckRuNFdUZg?oc=5)**
+  - *Source: Reuters | Date: 2026-07-30 06:15*
+- **[Watch Anglo American CEO Says Performance Bolstered by Higher Copper Prices - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ21KamtJTk1iOEk1WDE1S3N0QzB3QVVBbXNpWGU5U0NKX3lsZzVwT1NPY0U1QUNaWFMxbWdVay1UUVJ5MEFqSEloRGYxZWRPSmlrN1FjTk5Nc0h4THVPMjhNSm40TU5EQ3lyZ2d0bDZfZngzbmdTbEpjLTh5T1NkMEhQSE9FZDJSMjNBaThKamhMZWdDc1JHZzRWcW9fQlhnQlRpYzluUVdDaUlqY1Fv?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-30 00:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-30 08:18)
 
 - **[Anglo American Posts Profit Jump on Record Copper Prices - Bloomberg.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm1YWVBRRFdNWlBudkJqSnI5RHIzSXloRTlZZnhkUWRueU1aVm9LUVNJalZwM0NfMzN6SVhLeXo2aXp5VDlrSk9UQ1l2UDdUckhNNEhCWkxlVkk1UzVBamJmeWFIbHI1S1IwbU5JWGx3c0tTS1NHeFN1MEhwRkRmSk1sX3JzdDNBQXF1ajJkdUlEcENmeF9JVW5aVWQtcW5zWk93YzViQ3NwdFk?oc=5)**
