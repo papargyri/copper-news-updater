@@ -19483,5 +19483,84 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-01": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "Critical Mineral Demand Through 2040: Supply Gaps and Forecasts - discoveryalert.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXZSODBtMW9XUjA1N3NTZmFQWUtqUWNuSkZNNWpxSkNHQk5DWDVFd1ZfX3h0X3l4bHNlZ1dTRkQ1YTZwQldoZW9YTW9BTTRXWTY0YklVMGdyeXRIODUxV3A0QnV0MnNUVUd3QkQ3bjdsN0haYkRqRFdjanNlXzNoMVVXS0RTSUdhTlgwU25Cd3hnQlBV?oc=5",
+                "source": "discoveryalert.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s Weakest Copper Output in 19 Years Explained - discoveryalert.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnJ6MWdDNHJ4UnV1QUE5RXoySWhnZmpZRHN6QUZER1NVUWpaQkMxRlNESW45ano5V2E2QWF2WVZYRHVqWXdKZnJrZFVwNXhPd25fNTlKa19WQkFyYktQbGRncDZBMTc2VU93SVZDTXRuSWItSnNieWlpaVhqdmtvanZ1N1Jzak5zeE1uaUlybG0?oc=5",
+                "source": "discoveryalert.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price rally gathers pace amid global supply squeeze - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTFWbzZnWmVzQTNmak1lN0xkTjVxcnUtMTlYMXhhNkFVOHJRbUF1dlYyZTVRTW9nS0trUlB0aHk3NEJJUjFxeWduRDF3YThnTGo3RG40d2VFM1hSNzFVZUthX05PekdQeVh2SUZ5bWNKVGs1eGN5NDFXdE5VekM3TjBnWmptMnVT?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Chile posts weakest copper output for second quarter in 19 years - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjUtZ2VYTl9fWTAxYzh0UG5CM3pCRGVla1k1ZXNjZ3BMWHdGTmJzelYzekdDUTcxZXJWeEMycHE2b0RLdkQwTURyNzByOHVLWm1aUGgyUWs5YnZXcXQ1eHJLRy1yZzczb2FmeFNIZnJCdXRYSTN2b1ItTEpTVFR5dmxCUl9fNVhncnlvM3JJcWJUblEyX2w4?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Posts Weakest Copper Output for Second Quarter in 19 Years - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHdoRV9MbE1CeGZQR3drYW94TzgzTzBxay1hZk52REN4UGZ1VUR5cDdEcFE0TTBPZGFmdmRVMUNURW5Tb25BSl9HdEkwUkhIeGY1bTBJeGhJR2RTVk9MbVJmZVlxRmUxalNIUG1USGZWME5ianZ4d1F1VXhNd2Q5Zk9EXzB0bEJIY3ZiTDVVYjBCaGpyVDdOX1pqNjVCVXlKbXd3WUp0eFlmOHJUaEF0V0pRWTYwUQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Chile\u2019s copper output rises in June, manufacturing production down - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGVieG9tNm1nd1VhOGZMTGxGWEFuSTZGNEI1WDBmRU04Y3hkeEg0dUdrU09hUndVTmJsU09XWmEwWnYwSGFreEs0UUVCalBtVnpQdjlZZmx4UllIVXpScUpoLVR3S3RSenk3UjJjUFV0OXpsVkNHeHVFQ2pSVXQ4dG5ONFJmQXY1cDhyTGw5WnBDZHI2Z2RF?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Opinion: Seeing the district for the deposit - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDZNQnZEWEg0VlMxakxwazFkdjBiUEZHQnhWLWs0ck1Ob3p4QUdncnRySGdNLWt1YWlta1p1ZnVISlRGQ1NmaVdKSW1xZnJBYzZVVU1VM3ZHWmgtdXF3YUF6NDVsTldZNGtaRjhnVWxsamFwRHJ5QWJZb08yM00zUXVYWTlBTEdpUTZwNkE5ZUo4X2F3?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Canadian copper miner Capstone posts record Q1 adjusted net income to shareholders of $97m - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORDhaRXJNS250TndrVVNNcjJJTy0zQ25CelozOTA3SkpGN1VRQ0lEcFI0aDdJYURMU3NOdWNONGZFeDE0WERMV2FPN011dmdwMkRpbjRBYU83RkFoUDdhNVo4U3J6MEJWdGpfcFpVZ0NOZlhqTUNPeXdLQ3lLU2hhYkt1R2JERXhsR21ZNEhkTUdHS1VScGp4ZUJLaHRsdXlhRlJZUXVnVGxZLWtKM0l6R3FjNktOYkZ6Q2NJc081cTh5Rk9Ia253ZldUMHJwWHA1ekk0?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Vale posts profit fall, lifts base metals outlook and unveils buyback - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUMwTFZYS3dPTHRVVm4xWm9zNW5kVkdZTlNkQ2pLNDVSVmtpUHF5VjB6bHhkQUxEdk9kc29reEs5dG1wLWQ1TWlMVXJYOTJiNFozSFNodDhfR294Q2Zzd0dhNlMzd3F0c0t5Z0FBYnJCRTBNdEdrXy04RXhtZklmbHF5WDdMcjlkTG1hNldpTEFGdm9BUEJ3N2hxdHoxWE9PbEE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Whistler gold/copper project, US - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUEzVDgzVlJoZGpjeW9oZlVNY3I3Q0VXMzNIWlJFX3pCUmxGbGdBN0MxaEpHSkd2UHdRczVTd1RxVTh4b0Foc2xRQ0pwczJtRG5Ba1RtYmVaOWVkbS1OTl9BZFdHRXUyYVM2a0ZaTmhrY0lZV2t4YTRZQ3hQTm5IWlZOZnA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Iron ore giants BHP and Rio are morphing into copper plays - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ21zWDRaeEd0Yk1sXzRSZUpXOFpmVXBwaFBIdWRoNHZzOE00MjhXejFVeENJd0VXWlRLY05QTjlWTmo4ZF9hRWwxV1J2blJzN2VfYnIzV0I4NUhFYUhPeWVuZVpQdENfcF9WUUtsbkp4ZmVBTHkyUkNnaFFqbU85Tms3NXhJQkxJUWpZUEhrVGxmamZfX3RuQk01WVFaZndqd2hwcF9hZlBVSmdnZ0w3OTJqdXhqMlYyZTYtUWJndmc?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Lux Copper begins NW Alaska exploration - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ3hDc0JQdFpIZmppRkt4ZC0yZzVudFFIem9ZTVFsU21GWjFXZDI4RlpPRmczVzdzY2hxai0xNHJGRzVsRUVTOFZuQnJGRGxwN1E1cGx0Qlc1MDJycF9tS0Y4VUN5U3daX19TRkVaY0ZxdUN5WWxyMTA5RGU1cnQwRXpZeHdPYVRNanAtcnE1Ymp4Vzd1UVNlb1Z0QVJ1ek9YUEtpV3FDdUhrMFNTRVR0Tg?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            }
+        ]
     }
 }

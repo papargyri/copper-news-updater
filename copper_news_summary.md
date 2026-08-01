@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-01 08:13)
+
+- **[Chile Posts Weakest Copper Output for Second Quarter in 19 Years - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHdoRV9MbE1CeGZQR3drYW94TzgzTzBxay1hZk52REN4UGZ1VUR5cDdEcFE0TTBPZGFmdmRVMUNURW5Tb25BSl9HdEkwUkhIeGY1bTBJeGhJR2RTVk9MbVJmZVlxRmUxalNIUG1USGZWME5ianZ4d1F1VXhNd2Q5Zk9EXzB0bEJIY3ZiTDVVYjBCaGpyVDdOX1pqNjVCVXlKbXd3WUp0eFlmOHJUaEF0V0pRWTYwUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-07-31 15:23*
+- **[Iron ore giants BHP and Rio are morphing into copper plays - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ21zWDRaeEd0Yk1sXzRSZUpXOFpmVXBwaFBIdWRoNHZzOE00MjhXejFVeENJd0VXWlRLY05QTjlWTmo4ZF9hRWwxV1J2blJzN2VfYnIzV0I4NUhFYUhPeWVuZVpQdENfcF9WUUtsbkp4ZmVBTHkyUkNnaFFqbU85Tms3NXhJQkxJUWpZUEhrVGxmamZfX3RuQk01WVFaZndqd2hwcF9hZlBVSmdnZ0w3OTJqdXhqMlYyZTYtUWJndmc?oc=5)**
+  - *Source: Reuters | Date: 2026-07-30 05:31*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-07-31 08:43)
 
 - **[Investment strategist a 'big believer' in precious metals, copper - Reuters](https://news.google.com/rss/articles/CBMifkFVX3lxTE53NE4wRzYzVTRwVlNzaWZZR01RZ0xha1JZaWVSUG1MbV9UdEtQTklfZVdWQ3BwdmNkZjVRYVRHUGduYkJOcklNbEpkYjd0M0xPZDNCNWE1UkVwbGxOcmg4MG1WMlM4T255S1huR29VZ3g2bC13bGhxVUlWeFBtUQ?oc=5)**
