@@ -19568,5 +19568,54 @@
         "premium_count": 0,
         "global_count": 0,
         "articles": []
+    },
+    "2026-08-03": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "To power AI, Khosla and a16z bet this startup can reinvent mining - Fortune",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHphQlpTRjRVYjVLQWhZb3lGTk9OSnRTdnR2VDlNWkdpZE9yU2NqYllKakx4RHpqV1RHeW81aHpPS0drYlJhMm5NdGhmY0ZzVzFLZlM5LTdyTTY3V3ZxT0l6NXM5OUliRUw5cTJDUEhpdFRBRU9sTFFkcnZXcjgxS0dUNzFiaGpYWTV1cV9feUZMYl9DLVpud014Q3pwQQ?oc=5",
+                "source": "Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "Codrus secures copper and molybdenum assets in Australia and Peru - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDhVNkUzZjUzTW01VjFHS2IyVHB6V2Q1Wkp2SlFadVFrbzRoQzBFYTZYZjBQVzZXbmxzUnJLVTgxX1d3QU5tcEd0blJLNlVXYlAzY0ZsYk5IZm1POFNaT2NtY1lQYXl3enE5VGI3SHltd094WWJZcjU3eExPejFfaFBISzdjaXotcWlkUlR5cjlsQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "US Critical Metals completes Korn Kob copper acquisition - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnN2Vkh3RTY5dm5jM3pSSTFLMnZ4cXZ0QllVMGZtaEpJTGdJQUNxelNWZEhtV0h4ZkxmN0JMWUJtMXlaMUp3bENSUnZucUY0M2otUktrd0FRWUIxSFFpNmxXcXJPV2FKNkVka19ZNEdSNW45NFl2SG5zN1ZJY1RfXzRXMUFhUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Mueller's Sales Jumped 25% as Copper Climbed. Here's How to Read the CFO's Latest Insider Filing - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXBrYTlnMUU3YlBSVkN1Rm0zQk9VYURHcUVydnJIa1VMbXJnUmlOT0ROblhSUVNfVW9QdlZvc2liRTUxci04OGNMdm1UdThsQm04NmpTRmVtYU9yWFFlQ01UaUVuNzBfOG54N3hvbWYwWlQwVUhhdklXV0UyZ3QwbExTTWw5UnlRRll5OWlVWHd3XzRaQ3NLQ2JCSl8?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto\u2019s Copper Pivot: H1 2026 Results Analysed - discoveryalert.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWR3amJzMFRfVGk1NEVoYXVXb1JYNWZpZFlNYmQ0SUNUQ1ZSemlDR01IelFfZDY5QlJ1OXQ2ek83SXg1ODZrRGo1NkdqN1NIOEZGSDYxbEN6b0o5Tm5ibG1rRGZvWWJKTDg5US1hZHN2WUEyalpFMHZlS3FEd0FsRHpObnhCZw?oc=5",
+                "source": "discoveryalert.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "A Deadly Chile Storm Just Shut Down a Fifth of the World's Copper Supply - Startup Fortune",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGh3SUpYRFgyeVdtWm5TRlE2S2N5MnZMUDNmdVkyT0tBZHZwUWhRbHNQeUh1YlRkeXdkM2oxRFJ1Q0tKNHFhOHpIYTNKdWZiVmVHdXh6My1XX2RKOXBhM3NjeTJFbFIwTlhKNE9vVGZVdkhyTTFsbEs0eWNVenRJZThsWWRWTS1sRURKUUh3SmFadmplbWg0OGVNcHJ0SGJU?oc=5",
+                "source": "Startup Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "Column: Iron ore giants BHP and Rio are morphing into copper plays - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckticDhsa0t0ZG1tVVBBQndBUFRIYUhEdDRNQVVvTWhrTFB3UXVGc1BHRHktRTBGLWJobG5PZTZZZjVEeFF5NmxxcW16NV80QzNMaXdsakhReFhHQXhmRVk1Z0N3aTZpQTFxWGtTZHVtWEpFQnVXSFRHZnRodGFPRnNIWmZCMXl3VnNoU1BrM2wxanZNRWNsMw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
