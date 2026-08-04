@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-04 08:30)
+
+- **[Copper Marches Closer to $14,000 as Flows to US Tighten Market - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxONU1WRFVQSTFqVFJnRHFJVnVzcFloRzdybUFtc3pUTktvM2tzRW9HYUwydnNxa2s3Y094QkVsNWxkNlhObFM4MzBPTEtqWGYxZkRabjkwY2dqTkFFd2RPbmxoVGh3ZDVCQmM1WGxWelY0bzlKOEM3a0ZiVWt4WkRXaDhLTUZEZkNDaWdmbG8wSmxlYmZTR1E3Z0tUMGFEOVM2eEFzOHFOSUVWLWJuMXBLc2Fn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-04 07:42*
+- **[US Copper Inflows Surge as Market Awaits Trump Tariff Call - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHRPdU9CU1NzbjFjVnd4RlJRWEV2SnoyZ0Y5UU9OMVl2MkdPN3FBeDJydm44bnJlYUNLSkVGSnBLc3ZMcTI0U3lhalJwcHlRb1lnUGgwWnJRVnYtLWFGX085a0JtMzU4Zm5JWWNqVlFtdC1DOTdXNUtRQzBEclE3dks0WENTbFh2Z1NOMXEtb0xERng5Rm8wcEc2cXBJU2s2QkZUVEx0bHotNEc3a2c?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-03 17:46*
+- **[Forget gold and copper. Africa’s latest boom is in blueberries and oranges - The Economist](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWJDdUJ3OFZXVFBqQVctbjR5QjhiaUw1M05kUnJsX2otWHFYU3BoYWNQTkc5WTFkYTh2M3o4R0p2akhlS3N2cGJyV3RZU212dWlNWVdTaElOUWtVRDBCZkQ4U0JSeFRIR2dSaHA1TDk3a0M0azRnYWQ0ZnhaX0Y3YlJvaWlUU1JrREN5a19hU3Q5U1N1ZlhUZjNkUTBVRC1NQWc5c1VNNzhhQU56WlN6U2x5am54WjYzRWNXZ1E5UU5nb3ZCVlVNaThKMVY?oc=5)**
+  - *Source: The Economist | Date: 2026-08-02 10:05*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-01 08:13)
 
 - **[Chile Posts Weakest Copper Output for Second Quarter in 19 Years - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHdoRV9MbE1CeGZQR3drYW94TzgzTzBxay1hZk52REN4UGZ1VUR5cDdEcFE0TTBPZGFmdmRVMUNURW5Tb25BSl9HdEkwUkhIeGY1bTBJeGhJR2RTVk9MbVJmZVlxRmUxalNIUG1USGZWME5ianZ4d1F1VXhNd2Q5Zk9EXzB0bEJIY3ZiTDVVYjBCaGpyVDdOX1pqNjVCVXlKbXd3WUp0eFlmOHJUaEF0V0pRWTYwUQ?oc=5)**

@@ -19617,5 +19617,90 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-04": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 13,
+        "articles": [
+            {
+                "title": "Copper Marches Closer to $14,000 as Flows to US Tighten Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONU1WRFVQSTFqVFJnRHFJVnVzcFloRzdybUFtc3pUTktvM2tzRW9HYUwydnNxa2s3Y094QkVsNWxkNlhObFM4MzBPTEtqWGYxZkRabjkwY2dqTkFFd2RPbmxoVGh3ZDVCQmM1WGxWelY0bzlKOEM3a0ZiVWt4WkRXaDhLTUZEZkNDaWdmbG8wSmxlYmZTR1E3Z0tUMGFEOVM2eEFzOHFOSUVWLWJuMXBLc2Fn?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper, rare earths M&A heats up - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OVjlSS2JtRmNTY3dJVlJneGN4Mjljd3YtMXJrN0FLbTJZYm1xZGNpbUpUelh4YW1ZLUV3SmxXWUxNLWlMLVQ2OVdkcmIxcVRXM2RRV3F0ZjlzU2RYQmc1aUFfNA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One intersects targeted breccia at Majuba Hill - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEF2LXBwV1psMkFkVHZhcnNsZHI3RVA1VUI4blM5VVVyUWRZVkk3ZUxMNmlPXzktNHB5dk50UXFaMzVwdzFXTFV2TXQyQnluRTUzLXp1UDdENS1YUjlqSXFTTXRwSHFiZXZjS2UzLVR2MVZfa0xabFNwWUZxRmVZX3p3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Hemisphere intersects copper mineralisation at Llahuin - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVZIVGRVWXg4eENJQUR5Q1RnOFlBQWNJcmlfYmhlWnUydEx4RnJ6dmdUeThoWG1rNm82aVlDY3RjUTdOY3RsVThmNVJVclBWa1lmdzhJOHdxdklaOC1iYi1MalZJTHZEQWhOVEhLWXRZVXVhd2lpbkJNZkZ2aW5rMlBfQ2RmR1JoZGp2Y3NSSQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Who or what could be behind Luxembourg\u2019s spate of copper thefts? - Luxembourg Times",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFY4LVY2QU5kWEJsTzQ5WkJJd1R5aldnUUxFNDdoNUxWeU8xTTM4QmIxdlpWZFRUbXBQaDgybjJDa1hySWpwTlc4TzN1TFJxZGpqc0xnVl9UX1Z0QVRmOW1odnBUUWZCNURRekNpMnpPZXQyT2Q3SFIyVkxUZW91WVJuOTh3NUlKaVRqc09Md3Q0Ym1jVV9vS3BQbDg1SDRlNmhva1c2Zk16U04taEQwbVV3?oc=5",
+                "source": "Luxembourg Times",
+                "is_premium": false
+            },
+            {
+                "title": "Somerset delivers 46% copper at Skye - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BY3NBVHp5UTIyY3BhMlZFNWJMcVNmZ01YekwySlI1bnk2NzRmRWptS0tkN3FJN2psSjR2WXM4RzZNNENvMWdxYXBsbTQ1N2E4NmJiR2wwS08wWFpaYm5ZeDBSZnFLMHpvM1E?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "US copper inflows surge as market awaits Trump tariff call - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZllMUU1hdUlfZVFnZGM1U0dEMHhUUXllenRyNWY5d1kxN3pOUzduQUZiTkczSXJDTElHaGxKZDJVdzByNlNERVFWWnJBWEs5amJueGZWQXdOdUdRNS1IY2Q0bVVBYkdiSm9qaGE4bFJIMUNnZ0FVTjlLMmdlNW1pczZNNkluWGhoVVlhRFREMA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "US Copper Inflows Surge as Market Awaits Trump Tariff Call - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHRPdU9CU1NzbjFjVnd4RlJRWEV2SnoyZ0Y5UU9OMVl2MkdPN3FBeDJydm44bnJlYUNLSkVGSnBLc3ZMcTI0U3lhalJwcHlRb1lnUGgwWnJRVnYtLWFGX085a0JtMzU4Zm5JWWNqVlFtdC1DOTdXNUtRQzBEclE3dks0WENTbFh2Z1NOMXEtb0xERng5Rm8wcEc2cXBJU2s2QkZUVEx0bHotNEc3a2c?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "US and China AI demand drives copper prices to near-record highs - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejN4LWowVGEteEJCNVFGakdkQXNyUkhLS0xWblpRZXBnZENlMmt2SExPeXNNMmpILWk2ZVlySjJ6aXdUd0V2SFUzeXExaVpxaHNrWWtWR1pyOWNSSXBORV95cGYyREU1UGNvdHRqZHkwUV9KMWxOa3hON1hpaWNrTTFmRFlERkM5dldsVGRKUDQ5SjhrdFB5TlAwQzRBVF9RQVJlWGNVYjVhU0lDRWNvMzY4NWxJRGIx?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "FireFly delivers \u2018high-grade\u2019 copper results at Green Bay - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGVXU012eFpkSS03dl9LbGpHNlRUVV9ZcWVmbFJ5OWQzVHhRTGhlc2tkLVFYUGVhV2dXUU1ZZ21lcEhjYlpyZzI0QTBZRkdtMkhsaEROWFpCVlBodU9Ga3VYQjJmcjhPY21CaFN5SlpLeWFVM3VtMlVCT3RYc3F1UG1JcEI?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Austral makes binding proposal to acquire Hammer Metals - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVo3dUhUV1BlYWJPR0RxMXlNNUpKbTdtOU81WnZ5bHR3anhxNjlwSVZWanNzbHhoV0QzZnBZY2c5WGhnMUs2a2pUVXFMWjBRY1FBVlBDRTBEbm83cGhBWERQWHM0UzlVTXNwQ2ZJek4wczJvTUtZNjhVRU52Ui1yVzlxTy1nVDlUY25wdS1BMGhxRHQtd2RfckU5UjBXRXNmdEFwWk5R?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "How Indian billionaires are challenging China for gold, lithium, copper and telecom wealth in Africa - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUjRfblQ2QWNtWE8yTld5ZWF3Q1htOTRMYXlyNlQwWWM2eWFaeGwyekgtcjYyNTY1eUs1ejNSV3BLaDBlMUNzcl94NzZnWmVHZkZKN214QmFmdzRfWkVNV1Z3OVlNUWk5cmRFX1F0djJ1Vnc1bHZWbnlUa2plTUhyd0xVNm9JcGNDdGc4a05yR2NxUHNLR1dkUm5UQlItWU1vQng0Y2xrb3ZMTThkMmoyTGR4OV9IOG1EUjVpLVRxYkYwRW8yVFI1cW9NUlZNOWU3N0paZg?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Forget gold and copper. Africa\u2019s latest boom is in blueberries and oranges - The Economist",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWJDdUJ3OFZXVFBqQVctbjR5QjhiaUw1M05kUnJsX2otWHFYU3BoYWNQTkc5WTFkYTh2M3o4R0p2akhlS3N2cGJyV3RZU212dWlNWVdTaElOUWtVRDBCZkQ4U0JSeFRIR2dSaHA1TDk3a0M0azRnYWQ0ZnhaX0Y3YlJvaWlUU1JrREN5a19hU3Q5U1N1ZlhUZjNkUTBVRC1NQWc5c1VNNzhhQU56WlN6U2x5am54WjYzRWNXZ1E5UU5nb3ZCVlVNaThKMVY?oc=5",
+                "source": "The Economist",
+                "is_premium": true
+            }
+        ]
     }
 }
