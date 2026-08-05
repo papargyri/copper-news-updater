@@ -19702,5 +19702,78 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-08-05": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 11,
+        "articles": [
+            {
+                "title": "Glencore targets Aussie super funds with an ASX listing - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQekp1ZlhGUEhvc2tRNDNqYnJreUFKYi05b3JTcG9ORHZnZ3dRZTltX3VFMy1OZkl2SlJJVzVPVllmZlV2b3FkZDM0QllzOTM5MUo1eS1NRmN6d3hMZXRmQ05CSXdmNXQwRGY3UnFKYy02R0s5ZmN6WXJBcWhmSDNSa2NwUjZ1QkdHY044UDN4U2FSSUd4NGxMQWRWeHE0azVOMVU1TGh3dmxqMmdaR053RXk2Z1pDN2lNZ1NGSVA5OXVIYWItQ1BBYVVCWDRiS2RFdXpCZld5Y0JyOWZjVm9zaUE4SkFaX3NhV2VnMmJkWmFVaWlFekFqYkZwdzU4N2NLUGpTeU45S2h1VFEzcEFCX1JQRG9DNFVoZnhr0gGgAkFVX3lxTE5PSDV5Snl3azFNSDd3V1pWc1JmWXh0bkJPX1g5R3JSRnFqVkI4U3NNel9IeWx3MjYyRDdHaUFZcFFRVUxhbjFaS1J4UklhdVNBQzBiSVZ3VHM5NjVLN0taT00tVDB5WThRek16Y2xxMVcyNjJ0QmMydnlyR0U3R2h0VUI4WTlJR1pEcTVBaFBkNVk5MGhJNHF5S0tUT1VCeXBiWWZvWjBBWmpFYUEtMnllV2VVM1VmOUpmRklVTEQwbmFibUVXRlYtaER2ZGNpZDhORlJ5aFpxRHRYMjVWS184OUJESmJYUHBFWEJubEl2d0VHeWs0X3VGWDhUcmQ1LU53aEdVSkxleUdiOTUzMldTZUczVlpwYVZYTklxdGc1NQ?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore Profit Jumps on Trading Boom and Record Copper - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkplS1ZFb3B0M1hDb3hFUnZoS290THZfQzM5enRMSi1LSFhpR0ZLd3pQQkFnamY1eVpmXzVBR0JlN1g2MkhuRlRURTFYY2lmQjNXZGtzTjZSU0hjLUktcGM0aS0wWS1xMW05TFBwTDBRVzI1UWF1cm0xektXWkRBUjU1cmdqV1VjUUllWVFYajlFUHhrNXFtRVdhQURicDVfSTdFX3FabFhiUQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Silvia sharpens its copper-gold targets as Ayawilca moves forward - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEpPU05BdFUwMF9yT0o0SWlIYWFGMVBYc1dxSi13QnNwX0trMTJDaTBHakF2T2hNM1dlNXU0cTBKV2k2ZXp3d1poRGVGMnRUNzc4blhwNW1RbkZza1ZfWHJ6QUJYUGE3ZXJlU3dJNXV3N1pVeHUxeWkxOEVzTFo5T1F1YktWUTk1S0k4eU5lZEpuUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Thieves Severed 105 AT&T Phone Lines in South Carolina Last Year - Tech Times",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGE4dlFaSnFJNTFWNTJxNnAxcGFkdHF5UVZHLVJMWUZpekNHMHR3dlJMMWRUQV8zd2RoNktTMVhmcC15clJ6TndRNXZlVVNpSmFzXzJJQnRtYmdpSFBhNEdMMGFzd3RKdXlQNVgtRW03aVdaTndLd2VJNzZJeUgwWmNnUXJ2VzVGU3JsekpZenZna3RHMVRfb2E3MlpwWGczeU5QZGJNeTJQZkprb0hTOEJmNVA0S3BVaXVfag?oc=5",
+                "source": "Tech Times",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco halts El Teniente mine expansion over seismic risk - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXlJa25oSzNOeDhpWl9qUFJDU2UyMzY5UmdXN1ZLZmoyZWRCcVVMTXNCNVl4VXRKdGJHdTlBb0NMS1BrN1FLX0JyZUdwb0QwdjVDaWlKZnpMOGtDOElIdGd6ZmNLdEZRdC04U3NpU3Q2TkNIWlRMVTRaQ0tTdlhseTItYXZoUHA5YzB2UjUxdGNnaU0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco Halts Expansion Work at Top Mine on New Seismic Risk - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjZOQWpheDU5MDZoWVB6U3pUaVFoMGwyc2tybkdqVEstbDFWeTBmM01zMmdTN3lKd3pnR0hrcjM4TzNNZlByUThIRmljQWFYNEhiWWRvNzJnR3doWnQ3Wml5ME4xcm14eTRMS3RKOXZURlpLUGJEOWZlaDNNT240ZFJBNGx1WU1nUXpIOGhCajB2TzhEVEhUUzhqNjQzMy05U0dxWUl2RFNKSS1GOUFndnI5eGc?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Lion Copper\u2019s Yerington now ranks among Nevada\u2019s largest red metal deposits - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDB5N2xaOEhDQUxKcDR4c1BkWjhKanYybHA3NFNjS1ZDU2wxTG9ESW9fNUpUX0c0bmlQNjF4ZjJLLXUzQm84eERuZVI5T0lKcnBnYzhRZm5Jc1R0N240eGZtTWdnMmFBeWRmMmx0OTFreUtkN2RsR0VTZFhSd2VaMjNrVko1M3BSeVlEUXVsYkV0ZUVSaEJuajNjcXBwQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia miners eye election with hopes for support for copper expansion - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXI4SjFhQ1lMOWRvZUY0blhURm81eFFqWk5fb1F6UWFiQ1hIMU5sRkRxSWxiNWZ3OEFraGd3V3VTMzV6THRzdlpZVEgzdmlTbjRfdm9aUlExYWF2VFYxY2x5cklZQ1NvdGJycVREMTRud3poM0JqeXBCS2lOLXBxcEIteng1b3ZXM01SNXVsQkpOQkFlWTl6Y3RoU2VteW5JUE9CdzBaeE9ka1dzV1ZzV29XTGJObTJ1OEE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price tops $14,000 as US stockpiles swell before tariff call - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOajVBUzBtNHlUUUJaMGh6RHQtU0tzVHRadXRTZWVYRjBVRWtHOUNDOGJZQkl4b09zRTNQVGVIdW93Q0ZNdUdUdmgtSHlSTUZ6NlAyWGl3aG1Ua2dySENYNmZzaC1OS0pzbXBpZ0lnNnJSSUNMclRUejhySkpKVEYweDJsd1ctY1JBZXFnUl9EWnd1WUc2MkI1Vg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "The long game of copper: ACG Metals CEO - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3dkcEIwZHFZQlIzamZibFpmQUZ6Ulhmd1pjbVBxc3N5Qkc0dmhveFNSTjZzZDZQd2JlUk43MDA2bXotdjA0c00zdHhLbFhscktvZVg5RzV1Q3lSQzJGV3pneDc2U0MtUjJVbjdhZjVqTjBvYzI3UkRzMVlMSjczaTdB?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Explorer Hits 14.88% Cu at Morocco Ouneine Project - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTRZTlJjdFdWMXFHQzRJRHFrZlBfTVpEQ1lISndDU2lka3pfcVZCQ3pqejNOc0ttQzFVSmRFeGUxcHZTWUd0VnJyM3p0ZlFXLVkwSllBeDIwVWhJYk9UYVowLTRJTGlteHlURlJZMm1hU0pFa0NCbk94YVp1bEhtMHE2cGRmaEFJc1ZzN2dMWm5JRWJTZUFLVm1KTGh1M2Z1amt3cm82RzZlc2dQU0lrQlhGbFQ?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            }
+        ]
     }
 }

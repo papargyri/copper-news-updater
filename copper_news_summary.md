@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-05 08:28)
+
+- **[Glencore Profit Jumps on Trading Boom and Record Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkplS1ZFb3B0M1hDb3hFUnZoS290THZfQzM5enRMSi1LSFhpR0ZLd3pQQkFnamY1eVpmXzVBR0JlN1g2MkhuRlRURTFYY2lmQjNXZGtzTjZSU0hjLUktcGM0aS0wWS1xMW05TFBwTDBRVzI1UWF1cm0xektXWkRBUjU1cmdqV1VjUUllWVFYajlFUHhrNXFtRVdhQURicDVfSTdFX3FabFhiUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-05 06:44*
+- **[Codelco Halts Expansion Work at Top Mine on New Seismic Risk - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjZOQWpheDU5MDZoWVB6U3pUaVFoMGwyc2tybkdqVEstbDFWeTBmM01zMmdTN3lKd3pnR0hrcjM4TzNNZlByUThIRmljQWFYNEhiWWRvNzJnR3doWnQ3Wml5ME4xcm14eTRMS3RKOXZURlpLUGJEOWZlaDNNT240ZFJBNGx1WU1nUXpIOGhCajB2TzhEVEhUUzhqNjQzMy05U0dxWUl2RFNKSS1GOUFndnI5eGc?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-04 20:34*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-04 08:30)
 
 - **[Copper Marches Closer to $14,000 as Flows to US Tighten Market - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxONU1WRFVQSTFqVFJnRHFJVnVzcFloRzdybUFtc3pUTktvM2tzRW9HYUwydnNxa2s3Y094QkVsNWxkNlhObFM4MzBPTEtqWGYxZkRabjkwY2dqTkFFd2RPbmxoVGh3ZDVCQmM1WGxWelY0bzlKOEM3a0ZiVWt4WkRXaDhLTUZEZkNDaWdmbG8wSmxlYmZTR1E3Z0tUMGFEOVM2eEFzOHFOSUVWLWJuMXBLc2Fn?oc=5)**
