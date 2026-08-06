@@ -19775,5 +19775,126 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-06": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 19,
+        "articles": [
+            {
+                "title": "Aurubis sees profit in upper end of full-year range on higher copper prices - Euronext Markets: Real-time Stock Market Data | live",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJvdzFuWDBPS2FkMm5XU3E3a2ZNWUl6RUtTNGI2OFNiQldYYlZWaEUtMWdnOUtyZHdWMVpGWnFUdFJXRkRselVaRHp2Tkp4amJnd1Zma2ZzVEJja3NReGlQbWxBWTZick9vV2tkalFodGc5Snlyai1PSnliTG1QY1RvLWNBMHBicWMyNUNleEc2Z1dzWjFoX3MzU0t0c3ZrMjRmZ0IyZ1JwYmdzMnhr?oc=5",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "is_premium": false
+            },
+            {
+                "title": "Copper producer Aurubis beats market view for nine-month core profit - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNekhMd2ptWElvN3RoX1BMS3djNkJfQktFaU1QUEI0M1EtdnF1d012X3kzcXM5MEgyZExzOWp3MERVcjN4ejg1ZjlRVF9DX0pIQ3lkMnlDZHlKZmZvbmZhMDlFaGx1Vi1tbWRVdDZUN2t1YU9YR0FUV0xwVHh5NnNKYjVRSzNsRV9PZzBKU3c3ZDFnektNc1dsM1pGN1lVbFlXN0dudFBRYUFjLTdmcFE?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Glencore's Australia listing taps mining-friendly capital for copper, M&A ambitions - Euronext Markets: Real-time Stock Market Data | live",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEpBS0l4ZlYyUHhTMktfQXpITXpUT1Q1NXc2Z3ZsNVJ1R3B3RkpUWFZOU2FrdTFjWUF2NlZvcGp4NGNfNUxXUlN6c21qVm9LMExaXzFCTEVnVFJKdjZaMlZIQ1lJanAtaElDTWFtSEJwN1JOWDdQSjhFQWtwLTFPNHV3TWRIZHdsQVVMeFpjV3puZjVUUDhfUHE0YmdrbzVWZlhSRE5Ba2hnZ1AxTVlYXzRIX2U4alN6ZWF1ag?oc=5",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price hits record in New York on tariff bets - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZmx4MFFYUDZRSTBmTlFPekkyRTNCTG1NUURNR2o2MC1ZYWJXamNKSVNLQWZaZW5aTTVFbS1JaVhBc1VoY2ZUZl9DQmpFY2RNMEF4eUtYZlhTelFFTXk2a2hFdTMwMWZBcUZzSkxOZ0xFTFRXVzBpbjZHYUh0cE0?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Top 10 US miners: Southern Copper, Newmont lead pack - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXdwR0t4UHhWczAxVFV0YkN6LXI4WXA4VTRaSEhyZzd1NE5qckViVTduWEh1ZUQtdjViVndQMG5iM2loRVJuaHZKd2luOVpMVnJLX3hrMFQtcXZzZkN5Zkg0R1ZvUFJCbUgwRE95dXdyejl0eW1uQS1oNXVGb1NLWkZ2RmpRQldlb2VhWFpZRzMxRXlqX094TW9MTk16Zw?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Oreterra drills Trek South copper zone - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzBCakNFQkQzempXS1NyMkc0YUJqd2FDZ0VnY2REaTFKVFdfampCOE1oc2hoYVNNOUxKTUkzdk5uTmxTVEVfeTc5ckp5TmdRZEZnVTZ1alZ6eU1pRjdSbEpOMnNVeENxZ05sdzY4S1NLYUZzRXJYNzVPVkpfUE81SlZyOFZIaWNqR19XZjREZWpOVlNZcloxdkY2aTFfc1BFSWNZMl9pT1l3Y2Q0MkM2WmtCaVZZbE0?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Clem Chambers says copper\u2019s \u2018bubble\u2019 is still to come as prices hit new highs - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDBlMGc0eFUzdUt3YmRvdlRyejQ3V21xYVZkcHRHQ1VaQjJoUnBPckZFZnZyVDMzRGI2cDlOMERVQzNfc3c5RnJlTTBMOWl3alR4TG1sOUNYbVRhMUw0VGlWZEl1dk5ZNXF3QzlTU0ZoSHJyQWNYNE1EaFFJSXEzRTN6Mkl1SnljaW9ULVRzRHExUGpmSUJDaF9iakZ1MlhWdm1qRzVrOA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "China\u2019s copper smelting grip worries veteran metallurgist - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmRaWGZjUkN2WXl2dURfZDduYkNoc0RVelFpZTdydDF0bTF4RjN2MW9VLWlwWFZjby1XZjhCQThVNnZjbGZiODYtMnZCSjFMRHR3S25GVlozNDl6Ri1PZHBZNHFEM3cweUtscW5SMEhMYWpZdGxPWjZlVnJvZHB0eE80Yi1tZ1U?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco\u2019s El Teniente two-year setback deepens copper fears - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFIyZzRxaXBhSUNuNjVPSjdtNHZvS0JYWFFmRUlHeWduVV9PWi1Hem9SQ1YxREtyWE5ObmN6b2E4ZVUycXVsdmRYTTV5TnQ1cWl5QUZvSGxoc3lIZWNXN3BfUE11S1BxcTNNOEwyOG41YnBmV3dadFd3eFdsRFNNNE56TUo3WktnMXc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore taps Australia for A$4.4T copper push - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wUUtNOUstZk5TMmRqZXpSV2JwUzZtOUVtdGZaQkdNZU9BTFVOT244WFZlTndfMTVLTFF3X1pXVXJjcWtqdE9hdzBFeHhNTmVhRVg1b2poNmlrWlFhcm1hNkgzWUFUSGFTaE55ZlVuamxwNmVIa2Z5aQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price sets fresh US record as tariff-driven hoarding meets shrinking supply - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLTQzZldVZWF6NER4YjJZbkxSbG5VRlZuU0dhRWs4alBZeXkzckk4aGU0azBKZjVWQTBhVVNlb21KX3JucGZHWGdWV05NTGR6M3hfQS1MTEJtWmd2d0YyMTRhM0pGWldubllLUkZWTkZWYk92ZDdVUjJyTTNnb2ltWWJkZ3hHVWF1U2Z1S2owSUlYRFJ0d1lZdWNrUE55S29zUDRNX1JTSURSQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Managem Revives Medieval-Era Copper Mine as Prices Surge - The North Africa Post",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM05oMkNCYXRNa1ZNZV9kbTRSSl9iZTFJd2pxeU00czhzZXJZVjdxNUxyUDdNME5Kby1JRGFRV0N2RjVhdkczSHZSdXFad2NDcWZoY01DaUJJLXY1QWxrcVBtTjg5NWZfS0JfQ1FFVlAtdGlFZXlpcExlRlcxcjRrSEdGZUEwRHVKUEZIb1NaUTdwdVFDMDgtTVRJWQ?oc=5",
+                "source": "The North Africa Post",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore's Australia listing taps mining-friendly capital for copper, M&A ambitions - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1FOb2lSMmdXRUJuQ2NUMjFoWTdWa2lRakNtTy14blhORWtveXV3T2otSEY4Yk5hNlhwcUFPeFFTcGhrVWJwWGpKWG5tNmViNU1SV2l5ejZiUkpwUDg3RUlUUnlLYno5dEJicGFOQnFFM3ZaaExPQkpRZ2RCNUtDV1NKWmZla1BoeFBxMHlhSXhhdTBzWkh4dnhqRmNQSDdrY3pEWmlEMFY3TnZYR205dU9yUHdhM3hNMjYtRG5xOWpGcGxyOUhkNw?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Sandvik to supply automated fleet for Viscaria mine revival - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUJmNVVYQlZGZnk3V0tGZ21JcVF5dkhEdTFzSS1aazZUcGZraUYzVDIyZ04zOURUcktJVEw1QmJVZlFnSjRFVGktVmxsclhFWjNBS0lqLVBqanNSOU9aY1Rlc3FaN3RtLS1wdEg3OWM5OHFxc1FkMUd5eDJOWTN5dkx6YW1LV3BEbTQ1eVh1TTN5emgyNWFNX20wb24xU0I1bndXS0Nn?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Africa\u2019s second-largest copper producer heads to elections with $10 billion mining boom and 3-million-tonne ambition at stake - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2JtT0ZKNkdZRTRSU3ZuTjNVQjFSN0syRGVWbVA0cHdtWUdQbFFGQkJVUlhEUjl5ODBtMFlsWEJXcGY5d0tvR0pfSUtkVDI2TlY2cHRRdEpULXNjLW1Ycm1BcmVGWU5DbTNQWHotY0V5UlpWQVo4b2VaNVdyRUlzdWtBSWRpc3IyUmxZeE9IQzBYVFhzbXd2aXdqZzYzTTFEMU1PQVowUUFBTzRMSlY1T0JxdmRZODk4VDVZRXhSRGlIY2Yxd2xhV3Y1dmpZRVpJcFE?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Copper floods US as traders anticipate Trump tariffs while \u2018Taco\u2019 concerns loom - South China Morning Post",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQjNwdmFmUnJtOUhUR1VldmhFN2J3aE91a0lpZE93azY1VWxsRzZzZmNJZkVHVDVnOW5qN0ZCRFFKaHhSb0xsS1hJZFdYYzE2bG40eVJBOGRGV0hmNnh4RE1CVGpfV3ZUY2E1Nnhnc3IzZllMcWZmMXc5VzBBN2xfT29BOGNJWUFCckl2MDZ6MEVYdWZRVHdMdEgxSExVTmpHSmJQNy1rM0VrQk1mVXMwQy1EbTZ3NkdSRG9yU0NUb29aazk0Z1lZai1UMEtycngyRGd1NVBWRURxMXlsS3hkaktn?oc=5",
+                "source": "South China Morning Post",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Junior Starts Phase 2 Skarn Drilling at Sonora Adelita - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNlR2LWhnTm14b0JWNDM4c09QdFM2SF94VlV1OVRmMWpuYXpDZVdPclJhbUtQNUcwVUtZeXlDU1V6aUJyYko3YXBCZkhjVmw0WER0NGtxYjhvSE9WSGdDZ0RLbGdxNE9vQllDZERQYWs5dEE2SGJKcml3SFh2TmczMXdLVjVzRVdrZ19IMDJ3bFJKem5QSUkxRjNnZWcwRzB3QVpfME9hUm9lUTk3alRzNDVfR0ZBTWg2elk0?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia miners eye election with hopes for support for copper expansion - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNDhQTVNjcFhnRUxBWERGVjh2eF96UGJoQ3k4UTg4clZydndPTlFRQTlIRUNGWEFiMEc1TTJaNEl4N1Buam1aNjhjR25SUGNSQzAxWWxXNjdvX2g2RzVDaVMxMlVOY2ljSlZWNXJ5Sm9LUGRDZzkzX1VXTmFRaDVDdE52LXRqQjNva1B6elZ0ZnNfY2J5V1c0NS1xVHgxdHM5QTB3eEdYQk9jZjlGLXhVcQ?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Phoenix Copper Maintains Idaho Mining Claims and Clears Convertible Debt - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1ZkUHdqV09xVE5Cbmw0UnVsWU9RWFBOUG50WTM1M1ZwX0JVTXBza21ZOEpZSmRBMG13bFd1cHRfa2FsaWhKNV9nTjZsRTdPbVFnb1FNR1pVeDFkeEsxSDJVdm5lck1CZkdWd1RHbndjV08wVEc0bFI2aHlqai1sdDRVNWVhejJNeEFNUFpoaw?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            }
+        ]
     }
 }

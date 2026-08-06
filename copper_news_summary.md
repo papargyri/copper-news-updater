@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-06 08:27)
+
+- **[Copper producer Aurubis beats market view for nine-month core profit - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNekhMd2ptWElvN3RoX1BMS3djNkJfQktFaU1QUEI0M1EtdnF1d012X3kzcXM5MEgyZExzOWp3MERVcjN4ejg1ZjlRVF9DX0pIQ3lkMnlDZHlKZmZvbmZhMDlFaGx1Vi1tbWRVdDZUN2t1YU9YR0FUV0xwVHh5NnNKYjVRSzNsRV9PZzBKU3c3ZDFnektNc1dsM1pGN1lVbFlXN0dudFBRYUFjLTdmcFE?oc=5)**
+  - *Source: Reuters | Date: 2026-08-06 05:13*
+- **[Glencore's Australia listing taps mining-friendly capital for copper, M&A ambitions - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1FOb2lSMmdXRUJuQ2NUMjFoWTdWa2lRakNtTy14blhORWtveXV3T2otSEY4Yk5hNlhwcUFPeFFTcGhrVWJwWGpKWG5tNmViNU1SV2l5ejZiUkpwUDg3RUlUUnlLYno5dEJicGFOQnFFM3ZaaExPQkpRZ2RCNUtDV1NKWmZla1BoeFBxMHlhSXhhdTBzWkh4dnhqRmNQSDdrY3pEWmlEMFY3TnZYR205dU9yUHdhM3hNMjYtRG5xOWpGcGxyOUhkNw?oc=5)**
+  - *Source: Reuters | Date: 2026-08-05 13:46*
+- **[Zambia miners eye election with hopes for support for copper expansion - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNDhQTVNjcFhnRUxBWERGVjh2eF96UGJoQ3k4UTg4clZydndPTlFRQTlIRUNGWEFiMEc1TTJaNEl4N1Buam1aNjhjR25SUGNSQzAxWWxXNjdvX2g2RzVDaVMxMlVOY2ljSlZWNXJ5Sm9LUGRDZzkzX1VXTmFRaDVDdE52LXRqQjNva1B6elZ0ZnNfY2J5V1c0NS1xVHgxdHM5QTB3eEdYQk9jZjlGLXhVcQ?oc=5)**
+  - *Source: Reuters | Date: 2026-08-04 18:12*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-05 08:28)
 
 - **[Glencore Profit Jumps on Trading Boom and Record Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkplS1ZFb3B0M1hDb3hFUnZoS290THZfQzM5enRMSi1LSFhpR0ZLd3pQQkFnamY1eVpmXzVBR0JlN1g2MkhuRlRURTFYY2lmQjNXZGtzTjZSU0hjLUktcGM0aS0wWS1xMW05TFBwTDBRVzI1UWF1cm0xektXWkRBUjU1cmdqV1VjUUllWVFYajlFUHhrNXFtRVdhQURicDVfSTdFX3FabFhiUQ?oc=5)**
