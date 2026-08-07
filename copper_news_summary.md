@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-07 07:08)
+
+- **[EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)**
+  - *Source: Reuters | Date: 2026-08-06 16:50*
+- **[DENARIUS METALS ANNOUNCES PRIVATE PLACEMENT AND STRATEGIC INVESTMENT IN COPPER GIANT RESOURCES, GAINING EXPOSURE TO ITS WORLD CLASS MOCOA COPPER-MOLYBDENUM PROJECT IN SOUTHERN COLOMBIA – Com - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVlTTjBSMnRLZ2NQZlR6WG9JX1FtN19rRWFNMzZxRmZQRnRPSXNUd0otNlZKSnFjWEdyR3NUel9XWXNGVkZzUUdVV0pRSEFSWEY4Z1dPcXhGVHBObmFCalBjelRfcXV4ZFpfaDA2eG9SVVp2a3I5Vlp6RUd0SG5VY1RQU2VNMXVxSmhnU1FhQVRMcVJEaVE?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-06 11:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-06 08:27)
 
 - **[Copper producer Aurubis beats market view for nine-month core profit - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNekhMd2ptWElvN3RoX1BMS3djNkJfQktFaU1QUEI0M1EtdnF1d012X3kzcXM5MEgyZExzOWp3MERVcjN4ejg1ZjlRVF9DX0pIQ3lkMnlDZHlKZmZvbmZhMDlFaGx1Vi1tbWRVdDZUN2t1YU9YR0FUV0xwVHh5NnNKYjVRSzNsRV9PZzBKU3c3ZDFnektNc1dsM1pGN1lVbFlXN0dudFBRYUFjLTdmcFE?oc=5)**
