@@ -7,6 +7,24 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-08 06:43)
+
+- **[Copper Market Crunch Brews as US and China Compete for Metal - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlNfUUNVR2lMMzhxZk1nenluMDhNT1NuNm5wN2pJd0ZxWnlaa2UwZGRkb1ZyXzhUMVFSTXM4TnhlWHVZTDNtSmotZ1hHNDVYZjN3cDR3VHhfQVUtX3BETjBsTHhGSEJCOFZEeHhBNUZNZGNzcXdYX3hkeW9EaXI1R3pydmFpaU1ZWUk1MWNFVnNXQUMzNXhxXzVjWE1qWHA4Wm44VXR5TlJWRVRNeEE5VA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-07 13:02*
+- **[Copper Heads for New Highs as US and China Squeeze Buffers - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxObjNVSWQ1elhWcWNTelpsNkthNG5EdUY5d1U4dThFUzFoWUhfRUl2YndqYVBLTWlMc196UmtkckhteXVsR2d0UjByeU9CelFTb0ZzYXpPNFBCaEhJZUdqTTdCRzBFTGtwRFVRanBTNVdVNU1OMThsUmhQM0FIMEY2VFU0Vm4zRzZ2RmR1VXFGZmVTU1NJWlBHWjQyZWVpTHdrLXdQUmZZb0NxNG1SY01OLUVR?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-07 11:57*
+- **[Trump administration to invest $3 billion in minerals projects to boost US defense supply chains - Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5)**
+  - *Source: Reuters | Date: 2026-08-07 10:05*
+- **[Copper Heads for Record High Close on Tighter Global Market - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXUyeTNaSWFJRlZ4NmVLQ2tYT2dXb0VaMEs3TTFsazVFX09HbjE5Q05oNFBJRnlnQ0xqTkpvVjM1M0o4MHFrOGZqOTdjSm0wMUxvVnFpYzZNcmhXVGJEdW80VmdTR0J0ZjVXdVQxc1JSbDBBdmI5aHI4cndMMkR6ZkczM2JvU3FZN0p6OEZOT1g2R1RwS2NsaWNOR1pvMFQ0RVlFVHRLRXlRVDF3LXNacDh5U2JuQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-07 06:00*
+- **[Watch BMI's Chowdhury on Copper, Gold, Oil Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXJzWXM1d0xkX1RWVS1PNVI0aFZUNkp6R282RnoyUkZPZGNqemFHZUxlTHowaEdjRDhMN1BWS0RaSGNaN0E5bDQ5WlFYOEo3TjVPT3NkN2V2S0FKTUVoWWN0aXJ2N0dOVkFrcE4yYzM0VnFqMUtFYUJMMHpSZnZHOWFzRUstRXlKUWpOZkFobFpabXRaNl96Z1dENTJRdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-07 00:00*
+- **[Watch Cheveley: Copper Record High Driven by Technical Details - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmhoTFdQU2RDSHVHdEY1LVRzd2JnXzQybldTMnAtOUptOFJwa2NxSjdNLVFoSi1odTA3UjZFNk0wSHVtMkRlYlNsbmkxUnZMckVnYnFuMUFpcmYtTFRZTWRCdXFaQ093dGlTNHB3MmE0N1gyLTZpZktXTllnRlFzZVAteEloWWp5YjFrNWlYeS1VM0t1WGxJUnZQWVpfTG50NzZtZHRzTHVGSlFMVU93?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-07 00:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-07 07:08)
 
 - **[EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)**
