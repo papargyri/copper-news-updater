@@ -20228,5 +20228,42 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-09": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 5,
+        "articles": [
+            {
+                "title": "Zambia Copper Explorer Uncovers New Targets at Dumbwa - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTdkM3F5RWx4X1ZRUHgwdVlobDh0OVdQTFpxdkJmeEdKMFRwWU1JLTEtQlY5OEE3QzVDMUJ6QURNTWdzMG94dm5iS3BkSldpa3NNQW5wZ3o2SkpqUTlxWjIzeFBnbjBnMGFIZWx2SlM0aVBra05Md2JhdG5fZ0xLYmprVTBZcHZXTzh6ZDk0WS1qMjNDZ1NlMUxxQXM5LWlkdGVydTYtNGpYLWk0NkpRZw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Montana Copper Explorer Launches 9000m Drill Program at Smart Creek - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM1M2d2RNanNHNDdaZ0xabXhIVldQd2pDSk1iYV9CTF9hUDRJN2ZDWEp1V3pqZHRxaTdVYW9UY0ZYNFVLS2lIeEFGOFFrSlZTbkRSR1JEYVVBakJmeXdpNWdhZEpNOXVDUTdDUnhtUmRhLTByeC1uVF9UbDBRLTJsalppVzFQazFaQzRQTXlBQVNCcjJMRmJzbXZuUHBUaExVLXBWZHNXM2U3LWVVOXUySTBMSFVSOV9uUkhsSEZSZUJRNHZf?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper (NYSE:ERO) Demonstrates High-Growth Leadership and Strong Momentum - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ19WNkx0RDQ2VG5HS3gzSGV5Tkk4a3ZoSXpvYV94MzhveGpFWUJFcjl4NE41LVlNSFZvLW04MHRBRmVMTHFUcTN3bjJ6bXhEY2h2U3pZeERWczZIeGFLdlpBbHRMS1dMSnFIVmd4aTBsaG5XZXNxVXBpalR4dHIwNmhQS3RiUElzWW1VVnNuSDdWNlBEY1VzT3M2MmtZb2dyN0xmaUo2SU9KWHpsT3JnLXM4NkltWHBoeW5hT2RtdWdxSmM?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper: A Strong Q2, And Good Growth Prospects (NYSE:ERO) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0M0anJCNVZhQldiclZOZEwyQ25CWC1uWjhuaWdjSEhfamY1TUp0NnpRaE1CdEFmeVUwV2xuY3hmU3lFTWtmUEU3R1loM3Z1YVVhRDJJTThwMklRdXlEc095a2ZTdFQzTWl3OThQak9qWEJVUktWcnBNZmxBeFBqZFRZYURjYVZDeUQ4Unc4SlJ3dWMtQ2x2Uk14UjlId2xtSTFfQlNqQ19kbjJlZVJyUlNvYVU?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Elizabeth Creek copper/silver project, Australia - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2RneFpxa096SHc3ODQ1SC10dDlSV0ZhcGhoV1Z4WUNDaWpkWkNBWHJ5N09RcTNQLWMwS1NsSlFJczN6dHhJX3RfNlV2UC1qYVBDUlUyd21vQ3dhUFc2Rk1Hcng0b0M2alM5RHhVZi1iTUo3ZU5QR2t0QlY3Y0JsS0dTRW1fS1N1aHB3Y2ctaUM3VTNDSEYtS0NB?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
