@@ -20265,5 +20265,30 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-10": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 3,
+        "articles": [
+            {
+                "title": "Copper hits record highs as US stockpiles surge, supply risks mount globally - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmVKalhSNTJsRnQxQkh2RlBaTEVmWDBYZEktYVZfYjJXZ3lRSGZBLW5jNnpjX2xjRW9xVnFxRmFONEM2NnZtNzRwWGJXME5RVjRsYk1SbVJUTzZqV1JrRUxJOEZ3UDh0a3FTeTJiMXBZdkxfUGg5QVhIZzNZbGVuaEJOV0NaX0M1S0RKemhrdksxZ1JxWnMyZXRtb0p4NTFjczExRzVCLTVRRklLa1Fhc2hsQlBvV1la0gG-AUFVX3lxTE9rM19JUC16QTNDZExfbkQ0S2pfR1hadFVYSkxNRFVoRVFabVVBLXhVMDNvNjlNbDU4SVg0YW45UXZXSGJ4MTRHZV9nMVE3NVhUbGpIanBpdVhvV21DXzY3ZDdMbzVsUkdFVjRrUVhQNFV5T0ZUam53anFiUVZqSVRYSzFYaW95dXRXWk04YW5rcmpLWC1RdUE4RUk1VjVIdVIxRFlQenZwejVORkZqYl9GZlFIWERId0gzTVNOMmc?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Holds $14,000 as Weaker US Rate Outlook Boosts Metals - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaW04eUdBY0REMzFleWZ0dmc3cEFmUDBxZDdwR0psZWVGaVA1SFJCMXpYVkZvcUtjc1ZWR2hONUlieE5uM3BBeG1pRlhmUHZJNU43OEZKV1NXZ2pleDU0OVZzb2dNZlJXajdLd0d0Uzk1OE5fQ3k0TjNZajUwXzBXeXpKN1R2OXpLM3YyOUExNTNPUVRZcW5lUE5rM0pWY1I5MkpkT1Z4T01mTWxrOHNv?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper One targets Redonda expansion with 2,400m drill program - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVNsbVl3TENZM3VublhieGQ0MkViOHItd1FMWk9mN2ZzSG16N0ltdEZqUEE5UGtUUVVMcjROSjZWSW9ZbGpBd3ZIU0hOeC1LRXdlTEMyOVM3Z1dXZUhSZnBnaFdzSUw4a0o5ZFhSRjYyazhfTjlGdTg1ZzhVYUVLb1FmdlVWaE1QcWItYw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            }
+        ]
     }
 }
