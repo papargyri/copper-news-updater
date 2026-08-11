@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-11 06:59)
+
+- **[Chile allows ailing state copper miner to reinvest all profits for first time - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWJmSnJqb0c5a1RNb3EwaVJlRTl4Z1Y5eVNBMDJtRHIxUVA4Sy1fVW41dExvREJ1N3FYbWVIMjY3am1pcmVuemM4R2lqMkNZSFNrMlgxcXh3STByNmdPRTZZN1RTWFVZMTRhNFFfTjR1Z0dkbGQtdjlSelVza0RGNGFHQVQ?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-10 22:21*
+- **[K92 Mining Announces Strong Q2 2026 Financial Results – Record Net Cash Position and Significant Stage 3 Expansion Ramp-Up Progress, with Multiple Operational Records - BNN Bloomberg](https://news.google.com/rss/articles/CBMivwJBVV95cUxPTHBYQ3pXMkNranNHZGw0WXY0STRoWlpQdDFPejg1ZHEzR1BLSUYtNHdQQkZIWWhGZXhKWlA0MVNDaGY1VzI0cEN3WDkyVzFpNnF6UmpwaG5ITXlqcmUxTFpKZXhtS1I5NlA3aGVydEI0Q3RQM2k3U19NZC1EakY2a3FybVRsM2x6M3lpcm85dkRNZG82UEdGeVBTcVpWMHB1N0d3TXd2UVZMNVl5T0hLdGJ5LUJuT1l4Wm9xcXlIUU1sc3NPZFV4QzRlbGNZeG9hYUxkS19jNHVoZlRfSExYOXd3MFlsaTFiQ01hMHE3aGZoSFF2UjhLcXJOVkpJUnpVaUNxRXZqdm1xNGZyRUFjak5wQ3VnQ3p5NnFjYTRzQ3hYZFhLcjV5MHFYejlvRm82cW1IX0dEcENXZmdKYnpj?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-08-10 14:30*
+- **[India's Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani, sources say - reuters.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmRfV0VXckxmcjdacF9hM3hyUXZkS0VIaTctN3Qwc3U1N3Z6RnVzX1FLTDNVcThvYjBjUHNibHlQZVpPSmw5RUgtVzlnaUNrRzFCWF9raWZxRlJ2YnRNWk1KX0NWbjBaNmY5aFNCTl9iRGdRUkwwNnQwYnV2dWN2cjZ2d1hxZEd4YVFHZlNZMjlBUVRjSWV2aS1PZkxkWENMaTNidFpMZERzeUpJcFVDZWRnb0xvUW1WZzdOSl9SaUw0UQ?oc=5)**
+  - *Source: reuters.com | Date: 2026-08-10 08:40*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-10 07:23)
 
 - **[Copper Holds $14,000 as Weaker US Rate Outlook Boosts Metals - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaW04eUdBY0REMzFleWZ0dmc3cEFmUDBxZDdwR0psZWVGaVA1SFJCMXpYVkZvcUtjc1ZWR2hONUlieE5uM3BBeG1pRlhmUHZJNU43OEZKV1NXZ2pleDU0OVZzb2dNZlJXajdLd0d0Uzk1OE5fQ3k0TjNZajUwXzBXeXpKN1R2OXpLM3YyOUExNTNPUVRZcW5lUE5rM0pWY1I5MkpkT1Z4T01mTWxrOHNv?oc=5)**
