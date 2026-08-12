@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-12 07:17)
+
+- **[Chile Cuts Copper Production Forecast Again as Mine Woes Persist - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFhiUXdycHlKbFdQYnBmTFlWc3AxQlRkSkR3aDBZUWVtSEZuYXZyY202c2ZpUjQyNmNnNnRyUm1USTU2TG9ZbTZRUjRRcVZxWEpNMjBIZWI0dE0yeDgzdGt2dDFLVG5zRkZpWkszNUJxMGY2ZElnay1hRkRXRGJhZmpwcENVWFY5ZHRBamdIcnlZZzNicDlZeUdGWVgwNkVtWnh0all3S3lNeEd5QzJSNFYtb0hzUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-11 16:54*
+- **[Copper's Congo panic says more about copper than Congo - reuters.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGR4OHg3VDFZZEp3SGs4aXFHdl8yeUZXcXhDWnBGZ29nRW9SN3VZUDZGME5FN3NuU2hHZEd1YVB4RW4tQ1ZYWTZPSGwtMGRSMEg0RUFZdFhRVHNnTFFLSl9uOWxGRG1HeWJobW9YS2MyWllZQk1OOUJ0N2ZraWpQX0tNaFI3WVRZTFp4MnhmaGt1eXBoX0hmaTdYMEk5VVJ5TmpUS2s1VzVWX0JKb0NYMk40MlJNNGhvRmJLSTBlSQ?oc=5)**
+  - *Source: reuters.com | Date: 2026-08-11 13:10*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-11 06:59)
 
 - **[Chile allows ailing state copper miner to reinvest all profits for first time - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWJmSnJqb0c5a1RNb3EwaVJlRTl4Z1Y5eVNBMDJtRHIxUVA4Sy1fVW41dExvREJ1N3FYbWVIMjY3am1pcmVuemM4R2lqMkNZSFNrMlgxcXh3STByNmdPRTZZN1RTWFVZMTRhNFFfTjR1Z0dkbGQtdjlSelVza0RGNGFHQVQ?oc=5)**

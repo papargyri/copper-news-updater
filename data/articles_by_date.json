@@ -20423,5 +20423,156 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-12": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 24,
+        "articles": [
+            {
+                "title": "Infinity expands Swansea copper project by 47% - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LbkFQT0hIbTlUM21ndHRVVll5TkxNXzEyWXZmT2ZxbjhuajZURkxBMF9DTGpjcDN0Zy11aW4wMzJjTjQ2elZKZnduVE5Bc2h2NnVUWldUT3VBaFA0VXpUSW91c0U4U0ZscTE5WEdkZFdoU01id1RJ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Green & Gold drills Copper Hills \u2018record\u2019 - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WY2VIcVM2Z0lLTHRGVmlZM1JuTW1ZekpQYzgwNEdMN0YxQkM5ZW14aE9mV0JmZmJobHg4UXE4Vi1KZ1ZleWZnQXBUamYxU1FBZk5OUFEtUDhycmNRUTVpQ1I3Y3owbl9WU2VYaQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Global Copper Foil Leader Londian Wason Announces Pricing of Upsized Initial Public Offering - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSDlrZmlEM19ZaTVUc0tWS0hUN2Q3RG12ODFhc0RDM0JLSDEtWXlfNmU2emhOSlFrT2d3SDZzS0U3WDdrT2lnQ2pmbGpxb3UzR1VZOF9OSEh4RVFWSWlKaktxX1FuZXdEYWl1TzdLYkp4ZGthdWxIWW9WR2VHbzhRT1NtazRMRDVfdDFQUktpaEJjYkhEZ1lNY253bFVvc0dJMm9FQ2thUkVqbE9WR182RHJBRmVjdFdrczZ4NkFXZVRJNF82alZGMmZOeFlyVWxZS3RtQVc3SVVkTFFvUWp6ZHhGWUpOYzNzczFVVVd4blBlbElCLTFn0gH8AUFVX3lxTE5xUzZKNnEzNVQ2R0ZJVUpUdmVseXBadGF4ZzJmUDY5UlE3OFdyZnkteFFSRjcwMEJkODV1OUptZVQzWXFZVHVlZU9PYWEwX2ZTMklfeEUzM0VrZWZPU0V4aXIwazVmWUFMOFVRbFMwOUZGUk1Fb0cxLUtBRHZIdEhIVGxMcHJKVThrLXhaYlM4Z1NvTmI4dkNUSGVJdVVDZWU0MWFnVV9jVEpRNVh5TkgxdXd5MDVaR0pHZGRCdklOWFBMemtzdVlaem40M1RCcGdBeC1EN282ZHRaNW5rbzBiV0NIUWU0dmMwQTB4enVOOE1zMGMtYU9iS0xFWg?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "Daily Brief Macro: Falling Exchange Inventories and Potential US Tariffs Lift Copper and more - Smartkarma",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNHRwbl94NVNEV3VfUEpVNVNKdHJ0S3VlNHg3aTR5REJnSUVhUTFBMFFqSHdmQUFJM213XzhJNnNFVVFQM3hwZU1qRkphRUx0RTVmUURFVkZuZXpGZTFIUDUxdElDcHI3bnhBdUFDdm9TSDM0eVpNNXF1OGNUTGpza0pjSjVIRmxkMWpOd3YxRUFKeGxMNEJ6djZ0UVNWNmpXcG02YUd0eVp0a2lLeDJTX2x4RHE4dlNDLUtfbWNZVXBmaV9YT2VpZnljd2hiMnZQSWg4dw?oc=5",
+                "source": "Smartkarma",
+                "is_premium": false
+            },
+            {
+                "title": "Austral Resources Moves to Acquire Hammer Metals in Queensland Copper Push - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOFNIMjNQTW91V1hJRS1WcVpnWXlKdGRaZ3Q0Vkg2dllnemhFbE83SkZFR01NRk8tMG5uVU16b2ZJUnphX2o0aDA4NnRJcDVLMmR5LWpnQ1JId281dmNRVmZGbW1NMTRCN001dHBsdTd3NGNYTi1xU0pOSVpjY0NXVkJPWEZKNUJYRjMyQlFDbU03SENpRC1BWnc3RVVMVHVTLVRra3Y2UTM3dzN3OE9OeFd3QzFsbzdBOUFrMXB4Sjg3S3pMSGh6aTVJaXNYaGUwWExWV3diaF9aMXN0ZlBrX05aOVdfRjBqLUlZ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Austral Resources to acquire Hammer Metals in Queensland copper consolidation - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZDhza000LWNmYjE1X2FTRjdKbktfM0dvSkk4OUNuZllFclJtQTJndzVmWHBKczNvb0ZvTE5iNjdVdFhwSTJjckJ1ZlR0Q1lxZXpRaVBoM3I5QXNEMmdsNmZVTUc3bDNLTUtHZnA1YndWYWtYdEsxb0lYY1lna21OVmVROUo5aE9pdWlYWXZWODQ4eEhnYlBuYWc5ZWRuVmVVN0V3UVZycEppeExGQkMzNTctR0J4VEdJbGdaLWdOUmdDdWVQaGRKamtaUWhDcGd1SVNPdnJyOURfSmZLTlg3V21qb01GcHNrcUFqdmlNbw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Kobrea\u2019s Mendoza move pays off with BHP backing - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzak5nWEVlcTI4ZW1pSXI3OU9WZ0hpN1U4cjlOZlRrWHBib3ZtaWdJbmRGSmNQWnZUc040NzhhcFZQRzY5cUc5V3otNjBubFRZRDRnelF4Y0l5Z2tNbEdTX2xaTk5SMGc0Q3dDcERGV282UmUzSUNiMA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price back at record\u2019s edge as Grasberg smelter halt bites, aluminum surges - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2FUT2FfMktVVXRvZUYxNFB0WkhqYlZ0RzRkRGJKeHlLVFMtb3BYWExpanFUZkhuaThDeDNHbURaeHRnV09wZXVOODFIODJnbEt6bFBMb19rcV9keFp2QXNtOVd1cXZ4Y3dlYzUwSzdKR2tBZ2ViSzZRT0J1dEtGLUxJd2pQcEcxYnpmX2ZyTVBkakRHRHZkT0lDemtNUmoxd3k4S2VoMA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Indonesia Smelter Failure Extends Copper Record Rally as Global Stockpiles Near Crisis - Tech Times",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYW5GVERTcnNRN3N5UVhhSVFBRm1ReUZjdVBKcDJySGZKZGwyTjhzVk5vVWNreGtjV0VUR2RYN2JSamdLcHo5OHNtaUExcEJOaXNtUk1QTjB0c214ZEhMX05TNExwRU0tWHNOOThNZUdaUFhpdmtpUmRpaUJNTnNXS2dlS2JxNHVvNG1BcUhERmtVTDNUVzRfZTBWd09UYTRUMVNjekdCV0h0eTN6UHV3OGRoSFdhY0xkdnlQN0pOaXBqM0RtcFpTTjVSNFM4eVo0ZUNWNQ?oc=5",
+                "source": "Tech Times",
+                "is_premium": false
+            },
+            {
+                "title": "Indonesia copper shipments delayed by Gresik smelter outage - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmtOcl95SHlQUW1aQjA1SzZTdDJ0eEpNakpmMlpCY2FCaDA3U1FrdVZNUWJtZG01OURZOVlQTURTdWNlcFIxWE85Y2tJdjczcVo3ak9ROGIzOFVYcVdhTW10NXRka2xqdTk1WG4zZGc1R3lJRXFwNWQ3cGlWbXhDMS1GUTdUbUVIRHp5ZjlsbTE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Cuts Copper Production Forecast Again as Mine Woes Persist - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFhiUXdycHlKbFdQYnBmTFlWc3AxQlRkSkR3aDBZUWVtSEZuYXZyY202c2ZpUjQyNmNnNnRyUm1USTU2TG9ZbTZRUjRRcVZxWEpNMjBIZWI0dE0yeDgzdGt2dDFLVG5zRkZpWkszNUJxMGY2ZElnay1hRkRXRGJhZmpwcENVWFY5ZHRBamdIcnlZZzNicDlZeUdGWVgwNkVtWnh0all3S3lNeEd5QzJSNFYtb0hzUQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Cobre Panama restart hopes rise as thousands return to mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZTdhV0hFMzdBTThxY1UzUTBQUVNaWURIMHh5bm4zdC1NRFEzS3RYcmR5WnJVbFZfN3JfZnRuMjJjd1I2WFlHQV9WSDZKazFudzA2UF8talR2bDFJX09nVUJZUkVEVGlzRzhxczFyVWwwbFFwdmMtX3MwaExtLUltU29nRXR4VEJETVVj?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One Starts Fully Funded Drill Program at Redonda Copper-Moly Project - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzB3YTNFdDU4NVdpRkc2MjJHZUN1Tlh3VkJpQTJzVTdhMGZCYjB6Nmg0NTFZZnlpNlBHajJMR1dKY284YzhWZ1laOEV1YkJFX2NnanVMUWk1SFJiWDNJcGNKSWhmUEZOb3FnaG1kaG9XUlREenJOT1NiUDRmc2xEMTJ5N1VJMzVWNUx5eG1od1NCaU85MUM5SU1iMWI2a1h4ZkY2dXFmaDRiT3N6cmJCVWNxcFpla0NqUnlGVTB4VmFiam40N1V3Y1RvRW9icno5SHVQLVNyUHcweG9mS2dPSWd5ZFpCcWVUb2xpNw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Falling Exchange Inventories and Potential US Tariffs Lift Copper, Glencore Eyes ASX Listing - Smartkarma",
+                "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTDNEWlg5bjNiNXYzVmZzdVNiOGNJTzB1d2Npank5QzZFb1BfYXJfdUhKNlhONzc5dnRJLU1lVThPYXdrVXZfQWxNaW02NGYtU2tHazdBTlo0REpWOFBiOV9DMjBHMXRtSTh1QUdNRWZPNTVsbV8xUWhDQklKTXVucVJHRDZZY0xFaWs3U1d5V1dtdXF0VVktNDlDaFI1bF9mVGc1c1I0YnV3OWpwQUd5N3kzVzYzOWkzeG9LZVdvdTJtVDNLcTE5WERyNHhoaWN2RUlTbUtZNzJKU1lIWWRRM0lKVDZOTjZVNWpRQW14QQ?oc=5",
+                "source": "Smartkarma",
+                "is_premium": false
+            },
+            {
+                "title": "Element 29 closes $12.2 million placement for Peru copper exploration - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWExqRnNSN3pYX3RBYjhXbm54QVpmVnY0M1BTenlyNTFGbFhMelo4UUl3dXd4QzZFNm45QV9OQkVFWnVFNzB3UG1ndFJxRW1Ecy00TUNQREh5eHhTT2V4QUo0VDg5TFR2b1U4a2ttemZ6OE9OVEVvOFB6Q2xDaUJsRGZ1YXpCLWtOWndVOXhZRlNYWGxoeHc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore CEO backs shift away from annual TC/RC benchmarks amid growth in spot trading - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFdIWmo0b0hnWVBMTlNFNVlCVXJld19rZHZXaTB0cjNVTXdGMjNaSkY4X0tsYmFSZGlwZ3VqTm02VEpJQXJfaU5BUnAwNmdkRDh4Z2JLeUJPNkR0ZWVLNDloYnV0YWtHUnBBeU5XSk9aZ0pHdlVIOHZnSVkzTmtWZkVwM0VpY0l3RFpfODMzZGE0V09PeVJncUxBT0JGOXZUMmZfLTJnMnhjempkeUVyalBpTHgzc1VRcFJweEN1YjVJUQ?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Copper's Congo panic says more about copper than Congo - reuters.com",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGR4OHg3VDFZZEp3SGs4aXFHdl8yeUZXcXhDWnBGZ29nRW9SN3VZUDZGME5FN3NuU2hHZEd1YVB4RW4tQ1ZYWTZPSGwtMGRSMEg0RUFZdFhRVHNnTFFLSl9uOWxGRG1HeWJobW9YS2MyWllZQk1OOUJ0N2ZraWpQX0tNaFI3WVRZTFp4MnhmaGt1eXBoX0hmaTdYMEk5VVJ5TmpUS2s1VzVWX0JKb0NYMk40MlJNNGhvRmJLSTBlSQ?oc=5",
+                "source": "reuters.com",
+                "is_premium": true
+            },
+            {
+                "title": "Bitterroot Resources Ltd. - Update on the LM Nickel-Copper Project, Michigan, USA - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnlkaWkwdjAyVm1TeFRlY3RCcVAtSno1M0tJU0JnMEpXbmszakRHVV81a21NQVk0RjlkamJSelNUVHdldFliVjBtMWl2NktLQUZYVzB2bi16bDc2MFlHRjllOHBzUnJiZEk0TTB4MWNwMFVXRU9zVkJ1TDJ6QThoMkdsdDlrWEsxa050VGxrcHpQZ3VvM0xjT0tBN0ZUU2tTSlJDWnJLMA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Why copper \u2014 \u2018the commodity for all seasons\u2019 \u2014 is more precious than gold nowadays - marketwatch.com",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2FrbkFReTV5V2E1dTRqR09Pa0J0aWw3TS1FWkVrR2g0Ui1oZXVTeUdSUXF3TEg1eGZxcTFqZ0tLYWJzTTJwNkFOcXpoWXN1RUpqczN4WGx2aVRibXlmZFlWa1dWa2x3aHJTa2ZLUXl1WmtqMjl3bXMzZ0pBbXBkVDJmME9LVHdQOUZIZzRISmM4VnVwbVJNYlRGNl8xWjl6LTE5QVZrOTMySnlvUDlhRXh6WnowNE5kcXFB?oc=5",
+                "source": "marketwatch.com",
+                "is_premium": false
+            },
+            {
+                "title": "Whats Inside This 840-Meter Copper-Gold Drill Hole? 365 Assays Are Pending - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzVCaVd5aG5jVE45RE9JMktzb2g2NDhJZDZobzR2MVJ4UUFIMC1mWWJ6NERuMlE3dkEyck1OUUtjWG9QcXJLbE9vUno5eWd3d2dfekd3alhuUERTMzVtQXpyQWE3ZjNaTG1HeUtHMmV0SmlLZkQyNURNZzJZMUVWc1lXcV90ZXk4Wnp1aFZxMVAwaVRPdU5RamxQX011aFB5UkM3MGtjd19wLXBBNnhxc0NlZWY0RXZvYlJKZEtiaTdOeU5OQzdzNXNfdw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Austral proceeds with Hammer takeover to create enlarged Australian copper producer - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnF0a0dZcGNIUllGNllGSlBtQXZwMktLeUxCTjROYTFyaloyZExGM1lpUThVRnFJTGdKN1hDWHlxbHVXV2UyNUxEdTJoOUtJUjduNXQxR1ZxU01LUExtYmpHaHRveDQzRVJSS2F2RlRZZEVQSlFNSkpGWjFLTXJuNXJoTGpmUmVFZktJc3psVk1LUXhYMk5ZQ0JhUUFDWVNFaHNFdDZiQmpfVXZZcnpzX3FhMWFBNzNHblJFY3hhaDhaNy1MU0ZXU0Ixcw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "California built Shasta Dam in the 1940s, but the project flooded Kennett, a copper-mining town that now - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPTkVHRjd1VmphcEtyRzNJT1NmeFBmT0lNZnM3V1FsV0Rpa2JCa3VlNEs1UG5uWXZaUU0xS3U2MUhpdjlpVzNtMFpVSEJ1S0VEaWw0SVVldFF6WU9rQ0QzZ2xRcEJwRzRvZ3BZMTdOUlI2cHVkd1JxMWxIV0ViWjJaZ2VIQVhQS0xOamFOQjVSQmhNeFNJLWQzb2JBRkEwM283aVJ6OHFvd0J2V0xGQ2pERjVSX0JjSXpyY3cwX0VkSnZ2Q2xYSUh4YTVyMFVqeVI5YjhjdGUwV3dwQ1NpbDVzMm1pWGgzeFN1enZfU1czNDNFVl9RbWp0Yy01b05mRFhIRFl6VFo1cjBpVGdRUXgyNURKTjVGOXI1WmF2eHVoWWd0SUhM0gGqAkFVX3lxTE9Ia3JNSGU0eWh0SGdlSm5HQUpldDBEaW11RFhma096Z25NODhQeUdmVkNIbmxoVXIweF9aNC1CNXZLUmlSUktIVVhQOFJOMV93UER5RzU5R2dPVUxyd1JKVzloNUdfc1lWOE5NeEdjUjV3Slk0Sm5ZUDFRVUZHejZHcUpVX2V1TmFOS0RuMU9JQmVvOHdxRU9sbGJDUy1xb0ctNWNOZUlyYlhvcVNITlVFTnUxQXFBZ3JKNC0ydW5yX3NCRXA4akN0dWoxQXI4REVZQlJBQWxCMEYxbHMxbU9tSkZDVzBEc204eGdnaFY3TDA2TUgwQ1lnbmcxU1RvZEo5YXhoMzVRTHVSajFIR2xHOHhKV3I0S0gwcXlrdXZqczI2ZktvY1JSZUE?oc=5",
+                "source": "The Times of India",
+                "is_premium": false
+            },
+            {
+                "title": "Growing Chinese Control Of Copper A Rare Earths Re-Run - Forbes",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0xvUnJ0MnBtc0xDNHdUOVR3VFdkV1Y3Unp5U3ZaY0ttVjM5cVp1QnFLR2dBRU9VNGF1Z1ByV2hZa1RXUmxDMlhTaXpiNElGSWhKYk42SUJfdlRKMHBkU2R5WnQ1RjNKTEVDTU9LMlctNzdEcVJqLXJCSV9tc21QaVVwZVBqZU5iT1kxNEtQRjRQX3RVQk9QdWJOVTYzUVJINldxVXpjMGdvRmJS?oc=5",
+                "source": "Forbes",
+                "is_premium": false
+            },
+            {
+                "title": "Resolution Copper awards $110m contracts for Arizona mine - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3l6V0RURTFWZHd6ZkI1anFFMFZCNkw5MnZoX0pKTk5vRm52WXFRZFhMSncwd2kwNVhzNjJURjUyaTBGUG9td0JuTzZ0S3AzbU9rb2s5b0hBeEpjWmlLUkJsZEtSOF9UWkUyX19WTHpCUUVqV2E5dmtVUnhiVzlGT25vQTAzUWtFUV9HdHlOY1dEUG91QUdWQ0VCbmQzX3VXSmxNWTBORVBCeGtrWnc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
