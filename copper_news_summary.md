@@ -7,6 +7,22 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-13 07:19)
+
+- **[Antofagasta earnings boosted by copper prices despite output drop - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxPWW5lUlR3WEllTjNCVVNUX0RMZFlSWGVycjJwcHJXUDZpMmdQSTFuUFZoOF9UenVNeGpZOXdqcE1nbjhCbEpXWWlNRi1WTXBOazJpWVZKQkd2bjd6NUJ0NWVzbk05c3Z2THlkOXg2S21RWWNqUzExUUdXekZXTmFyYlZVQ0h5aGgtakI2eGFqcmoyTDhEa0g1Yk0zY0w5UV9Sem52ZWdTeVVOa3NUWVVWM0F6c3ZCMjc0OXVuMmdjYnRlWVk2Q0NxbjByNA?oc=5)**
+  - *Source: Reuters | Date: 2026-08-13 06:10*
+- **[Zambia’s election becomes battle over copper windfall - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWM4LWZzcmhsQnAwWk1EYW9fWmJOWGxNNURadDlmQVFKMlF6SV8taktNMlVUVHJwQjNUNk5IRHFqM2U0aElPQVRPZ2d4bVd1cXJNbnFkalFlYlRsZHowZ2J3MDQwT05Ock43dVFEcW9TR293MWpiNHJobE8tb0s4RGhZU2I?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-13 04:01*
+- **[Digital gold, copper and uranium: prospectors stake bets on metals-crypto fusion - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHEyMVpaRTRjdTJqRTJUOVJ5bEUzV2R3RmNvWHVBOG85VllRTVh5UWh6RHNfSGltY2VZbVdLV1I3ZUQyQ3dNcE1EVWo3QXdTUmZhSFRqRHJRVW1oT1NLZ3dPSHp2aGN4Z1hNb1p0SExlbGM2T3YzX190dDliaUliMWpDT2o?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-13 03:00*
+- **[Lloyds Metals Allowed to Ready Restart of Giant Papua New Guinea Copper Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXpjSFlhalM2S1JoRE5xSm9zc3IyQm84VmZpUUlOS1V5MUFpQ1NLYVBIRVd6elNkMkJsYW5USkREcV9wNkhuZENaMUtad3l0WmdJanh3QWUtX2JxNEZfaXRfeXpOZWpsOUx6NEQ3SnBPZlVBd2d2YXFDUUhjd0MxQzFzNjdmdnV4U0Z6YmdOX05zeWNTNjY5ZDcweFlHQUdrR1ZzWmY1ZWk2QVE4TFRHZUtyRnk?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-12 11:34*
+- **[Indonesia Copper Shipments Delayed by Gresik Smelter Outage - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOekM3V0pjQjYyZFUzZ3h2SlRmcGhxT1FRN1gxalkzU3J4ZzVaQkxxNmRrbE9LdHlRVDFqTWRBMm44RUl0OUlGMDVyUnhrelBVbVRhV2ZxM18waWVYTkRGcHVsVm1nUmpILXBodkg0X0lISmZpQXB3NnZjMWpjYjYyRU5CVmk0QUg2Mk9QZE5rcDNndXB4WElOcDEzdEtPSjR0U3F0SFA5bUJrSVpRaEM4?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-11 17:08*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-12 07:17)
 
 - **[Chile Cuts Copper Production Forecast Again as Mine Woes Persist - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFhiUXdycHlKbFdQYnBmTFlWc3AxQlRkSkR3aDBZUWVtSEZuYXZyY202c2ZpUjQyNmNnNnRyUm1USTU2TG9ZbTZRUjRRcVZxWEpNMjBIZWI0dE0yeDgzdGt2dDFLVG5zRkZpWkszNUJxMGY2ZElnay1hRkRXRGJhZmpwcENVWFY5ZHRBamdIcnlZZzNicDlZeUdGWVgwNkVtWnh0all3S3lNeEd5QzJSNFYtb0hzUQ?oc=5)**
