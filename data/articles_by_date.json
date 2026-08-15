@@ -20834,5 +20834,90 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-15": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 13,
+        "articles": [
+            {
+                "title": "Faraday Copper Stock: A Sensible Speculative Buy (OTCMKTS:CPPKF) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUtRYl9WOGRaaFYwWGxhcDE3R0ZfaWhKQkg1enMzXzQ1YVpCSG5IZ3F3REJwQ3BKcXlFYlNHVTE4VkpFWU1xSmV3NjhYc2xkeEEta0llUU9kUlVnT0twam5aOTJZR3I1Y25NQy0yZkVpal9mS0ZjcS1pdkZaVnJjS2Z3MmV4OGQ0dXc?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper squeeze deepens as LME stockpiles dwindle - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VQ1hRa3lsVXJJQzAwR0kzWnh6Q3F2MW9PNGFGR0xOQ2xkUXNlNzgwT2lCdmFjN09Obi1BX2tJNU1jckFud0l0S1RHTjZMajNzcmY0c2tQRXpLSU9HVDl4ZTdkR0NMb3dCdFMwM1JsQ3dyczdFVHBJRmtGYw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Largo Reports Q2 2026 Financial Results Reflecting 68% Revenue Growth and Positive Adjusted EBITDA, Despite Raw Material Input Cost Pressures; and Provides Guidance for New Copper-Platinum Group Metals Production - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1FMZFp4ZEFjeHlKMXA4aS13T0ZZZEFyN0hOMDdfUEM2U0xfT0t6QXdJQ3VVa09yYTVDUXBEQ0lVTzVvVTBJVWZQTU40RG83c18tNEt6RGlsR1RCWW1CanFsMHRvTzRqVG9jdlFael8ybU9rWVRaQ0RHU09rNHBuM0EtSGRjeGNsUXJEaVFjazlVQThJWFhSS0dZdWpYZW5ieldv?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Marathon copper mine developer is shopping for equipment, services - Northern Ontario Business",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObGhJN1JlYTVTWEdWRnZHbHFWNHZDcTRxMWtOZl9GbVFKZzNhSVA4ME5pS2lXLXROaGZiaE0xekh5TExXVUJidDlKeFBTbDJuZDI4VlRoSGctS0c5dm8zc3ZVUHpnWlY1cF8weUFQelF5V2ZDaTM5elpCOHNuRE82UlRiZHFIOW5JX1BFU21xQjBNODVXdmNtc3JHUGZtTjIzSDRHbDFYRFZfUDBvUWx0X2J1eXl6a1VRV0U0YXBoRUtBM2hWUXM5dE50LUJhRzF0?oc=5",
+                "source": "Northern Ontario Business",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price holds near record as London warehouse bidding war looms - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmoyNEl1YmhHc29ybHpuRGJvdEpjX3NFRmVfWmpLMFA1LXU3dnYzRTNDQjZ4aHlMNUp6X0E1YTZsSjJvOGRTNWk5UTA1c1d4eVRMa3REWWdIaDBtamFpaU5tVXgySXVWVU8yalVMX0VlYTBHUHBwY1RISHh6b3VpOGZGel9BOGxHRWx1Q1RiNlVwd051ZUZN?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "New copper tech is having a moment - Axios",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LdTRldVhtSGp2WndwU2gtSU5mMHowQmNfa1lPSXFtMUNBelQtc0p1VnNWUUJiQXBZNmRlWTI1LUpqcnRCN1lRbW1mZDh3WDBfb0RxYkxHSUpadEptNW1qS3gzV2NITXB3elE3eGRua0dZUQ?oc=5",
+                "source": "Axios",
+                "is_premium": false
+            },
+            {
+                "title": "Faraday targets 18B-lb Arizona copper district - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HdmZZTXZDS2xONmJLR1U4eGVvV1k2YzBsYW9tOFRrZEl0bHVEQUpXeHBTd2dLSFhUcGNwYVBUYm9SbndFNXVVWEp0QVc0dlZtbEFsN0RBYUkxRnVzbm5ESGtaNUNhTExjeUNDeDRpWDd4eHJSOXNkNzVR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Crunch Worsens as Key Spread Heads for Highest Since 2021 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmJySVNEcEZnZ3NITXBNTTlBYXZudVZ6blhhRmRzeWhpdm92d2R5dG5OSmI3alhRQkFsR1kwcFpJdUx3bHNnYnRmMG9WSzgzdzVpazZnMEdHWW14T0w5a3Btd3BHRTdlVGNPemJXd3o1UmVkdmROQXNwRW9PU2E0eWYtMV94cGt1eEJiSldUU1FvNW5HWlRwdXo4dF9ERHQ3WEJreFVSUG51QV9NZ1dVUlVfOFlmZw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Amphenol Corporation (APH) Rebounds as Investors Look Past Copper Displacement Fears - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmtUQXF1UlB3ejl3ckE1NVE0T0lsTDE3Rm5GWGJlWHBqMXNhaEptRUlxZzhiaVBvb0liWjh0QlFhb0xGS3JvMmtMSnMzOTVZWEtxRXdFRlBFczEzeXhYU0FMNzh4RmwxNjJ3aFN5dzhhUzNhUjVWSzBwNEIzdUhLeTh6ZEFxZHpVeDZQZ3ZwZFhmS2s3M0VvUzNZWDhEelNaR0U1Q2R5SE5PUVRT?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Chile says revived Argentina mining treaty could unlock $20.7bn, boost copper supply - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmw3dkp1VFNFRDBIOTZrdEpOb3YyTF9WWmVBRVQyS0FpY05weVZGZkxXcUQ5Y0tOUVEyVzhVRFdXX1EyNGZpU1pUSXZjM0d3a3lLOE5xWEJYNVUtNGxoOWdDb0k0WmIxVmpaS0t3MDVWbWJQamcxTVNIZ1B3cjNrVjBNX0pISkViYk1EUjBjX1RhSTI2TWh1S0tzb2QzbE44RWJlbDRwaUd2Mlc0dXQ3bVEtdVJubk41YTczVGlWbTE0a1dtc3NjSA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "BHP's Escondida urges regulatory certainty in Chile to boost copper investment - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1NQYUh2TlpXdFIxUElkZDdEMGlKNG1aQURCT3VZd1diOVF5SGtUV2YzZlJWSW0yS2tqaGRMMGN5ZUNTUnRoZTE4TmdKVGd3eF9iaVU5U3pxeEtCMHR1RzlTYjJiSUdkbFFlRU1yMVFIdU15LXlJRHpGaW5tZUNmc0lpSmlfcUp4OU1KNjc0MGNpU0xuc2dXSXl1RnBNUWhvbFdLX1VzMUdrbDNkT3dsT1JYZnB6bDdocnUxQTNwdm1kUEU?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Global Copper Foil Leader Londian Wason Officially Lists on the New York Stock Exchange Today - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEl6c0tBS1l2RmktdWthR1U0RVY2azkyUHlnRWVab3VBMGVWb3g0TVo5SERBZVd3QTlwRXlKWGhzblF6dWlTRzgteVNhLXBPRXNENHhuak9SQzJwaFRKb0VXdnh0OFoyMTBKNlRLR3JnT05lY3hzcURNdU5JY20yNkhMUjhCVk9lOXRLcXlvSFpDVVJ5aTVGUw?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Zambia heads to the polls as China and the US compete for its copper wealth - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbktRYV93U2E3akFjMTdmRktsclFBUUJHai0yY2FiSmZXMDN0bER3M1ZrM1VuZ2tpWGRTdmxrcjF0QTVwWWNRSW5ieEo1eUNmc1hqdkVQNnZua2FyRnNRZmRZN1RuWkhWM0ktdkd4WHczcjNBZ1MyRzBWd1hVS3ZKR21ESmgyMHVpejlUWG90M0VmSjUxdGx2cS1kcDk0LVgzMjVCOW9FbzBKQU5uUVJVTEl4dEl2VEIzN3FxMk5EQlhWQUlaMDlzcnRWZE4?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            }
+        ]
     }
 }

@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-15 06:30)
+
+- **[Copper Crunch Worsens as Key Spread Heads for Highest Since 2021 - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmJySVNEcEZnZ3NITXBNTTlBYXZudVZ6blhhRmRzeWhpdm92d2R5dG5OSmI3alhRQkFsR1kwcFpJdUx3bHNnYnRmMG9WSzgzdzVpazZnMEdHWW14T0w5a3Btd3BHRTdlVGNPemJXd3o1UmVkdmROQXNwRW9PU2E0eWYtMV94cGt1eEJiSldUU1FvNW5HWlRwdXo4dF9ERHQ3WEJreFVSUG51QV9NZ1dVUlVfOFlmZw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-14 13:33*
+- **[Global Copper Foil Leader Londian Wason Officially Lists on the New York Stock Exchange Today - Financial Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEl6c0tBS1l2RmktdWthR1U0RVY2azkyUHlnRWVab3VBMGVWb3g0TVo5SERBZVd3QTlwRXlKWGhzblF6dWlTRzgteVNhLXBPRXNENHhuak9SQzJwaFRKb0VXdnh0OFoyMTBKNlRLR3JnT05lY3hzcURNdU5JY20yNkhMUjhCVk9lOXRLcXlvSFpDVVJ5aTVGUw?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-13 11:16*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-13 07:19)
 
 - **[Antofagasta earnings boosted by copper prices despite output drop - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxPWW5lUlR3WEllTjNCVVNUX0RMZFlSWGVycjJwcHJXUDZpMmdQSTFuUFZoOF9UenVNeGpZOXdqcE1nbjhCbEpXWWlNRi1WTXBOazJpWVZKQkd2bjd6NUJ0NWVzbk05c3Z2THlkOXg2S21RWWNqUzExUUdXekZXTmFyYlZVQ0h5aGgtakI2eGFqcmoyTDhEa0g1Yk0zY0w5UV9Sem52ZWdTeVVOa3NUWVVWM0F6c3ZCMjc0OXVuMmdjYnRlWVk2Q0NxbjByNA?oc=5)**
