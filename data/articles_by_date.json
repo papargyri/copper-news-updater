@@ -20919,5 +20919,18 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-16": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 1,
+        "articles": [
+            {
+                "title": "Antares confirms copper at depth in maiden drilling - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZb2dvX2ZieENUVWtSQlRGeGFaV1hpS1dWeExfUVJjYzE4dHdpckVPcElJRjdBTXhUZnQycF9PZkJESVdtNHlYVUJ1S0xrMDdfWVJSMWhsaHoxbHMwc09vVnZ2U0NQNGdmcUI5akl5SDBqSVV2Qm8yeUJqMV9lSE0?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            }
+        ]
     }
 }
