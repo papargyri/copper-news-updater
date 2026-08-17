@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-17 06:43)
+
+- **[Copper Heads Toward Record High on LME as Supply Tensions Build - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1IxdHRTVU5kLUtPOFVNbzMtZkUySzg5amVid1c4a1Q2RGpqRjNZS0JtdU85NGVhVDVzSnpTMnZVRUZKTVk2SWpCQ2Z6Rjg5dlZGb2R1N0ZGTzFpMHJWdjc5a3E2TkhKS1cxalJOSmQ5QS10X3J6MDIwTHEzdk1WNjRoM2Zoem9CcXBMQ051dmRVdEZxMXJmUFJKWHRaNzlsU2ZMdWJvRmoyVHdUS2tBX3BNRzQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-17 05:35*
+- **[Korea Eximbank to Lend $1 Billion to Glencore for Copper Supply - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEJKYk81OVAyWnJwX0xSalhXUDdNdkg0OWFmNkRDa0RFTzJrLU1uaDZZY3lwbWdGdDNqWVlEVGYyalduTGtudnIyVGVFUnBHbUtrbFpyQTlicGlmZkI5YXBoNVNDN1gzZ2Q5RDUtdUNTQlh4RXA4LVVIc2dfVUlodjF1czN5TDVRVE93OXRsWHJLSGt3T3haU0x6SF9iZFFWYUtsczB1aTV0ekFxOXpZTGl3UQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-17 03:36*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-15 06:30)
 
 - **[Copper Crunch Worsens as Key Spread Heads for Highest Since 2021 - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmJySVNEcEZnZ3NITXBNTTlBYXZudVZ6blhhRmRzeWhpdm92d2R5dG5OSmI3alhRQkFsR1kwcFpJdUx3bHNnYnRmMG9WSzgzdzVpazZnMEdHWW14T0w5a3Btd3BHRTdlVGNPemJXd3o1UmVkdmROQXNwRW9PU2E0eWYtMV94cGt1eEJiSldUU1FvNW5HWlRwdXo4dF9ERHQ3WEJreFVSUG51QV9NZ1dVUlVfOFlmZw?oc=5)**

@@ -20932,5 +20932,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-17": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Copper Heads Toward Record High on LME as Supply Tensions Build - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1IxdHRTVU5kLUtPOFVNbzMtZkUySzg5amVid1c4a1Q2RGpqRjNZS0JtdU85NGVhVDVzSnpTMnZVRUZKTVk2SWpCQ2Z6Rjg5dlZGb2R1N0ZGTzFpMHJWdjc5a3E2TkhKS1cxalJOSmQ5QS10X3J6MDIwTHEzdk1WNjRoM2Zoem9CcXBMQ051dmRVdEZxMXJmUFJKWHRaNzlsU2ZMdWJvRmoyVHdUS2tBX3BNRzQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Korea Eximbank to Lend $1 Billion to Glencore for Copper Supply - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEJKYk81OVAyWnJwX0xSalhXUDdNdkg0OWFmNkRDa0RFTzJrLU1uaDZZY3lwbWdGdDNqWVlEVGYyalduTGtudnIyVGVFUnBHbUtrbFpyQTlicGlmZkI5YXBoNVNDN1gzZ2Q5RDUtdUNTQlh4RXA4LVVIc2dfVUlodjF1czN5TDVRVE93OXRsWHJLSGt3T3haU0x6SF9iZFFWYUtsczB1aTV0ekFxOXpZTGl3UQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Is Rebounding. What's the Best Way to Invest? - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHlET0hwVVoyTkFLSUlzNWRYR3B0UnotZU9VV1RpcFhDZWsyZVFCTUdNYklTTTZsRTVvSG5qaEVsb3ZHSWhqRHZQSWQtZ29fMXl2Rm9qLW9DelJlS1VXOG9uMTlyTnVLcHllcG1mSy16T0daM25YempEMUtXT1czejM0QlE2NXJNYnAzcEd0R2ppa09EMjI4?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Is Rebounding. What's the Best Way to Invest? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGJUMWE5cXBUbDFhWEE3MGZZTi0zYXFVUU5uSF9MSzVIS0gyUWdDS3dXV3dYeFZPaEtWNFFrdEtrOHRDRVgyc1VfY1F6d0o3NXJpanhsZ1hwbGVPY0N1N0xzRElXZmVSWUhNdHkxMlpIM2VXU0hqMFZNTHJQMjltZ19QMkRDbGRhUVFuVlJDX01fOFEyOGZzYUJIZERpM0pxYjdEWg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
