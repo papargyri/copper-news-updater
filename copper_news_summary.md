@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-18 06:35)
+
+- **[Supply Crunch Grips Copper Market as Key Spread Flares Out - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlo3UHNTSmduVDFPdWtDQW4yU3o0S20xVUFxN1JpTGtqb09MeWE5VWZMcW5ScFF2ZmRTTXI0OEgzd2VsbmJkQWZtNlN1YnFXbkJBZ1NkMU01OTN5VDZEUmlZZXFmWGFkR0V2Z25nODY3Rkp4ajdta0JURnFSc1dXaFpqZzUwbFpCWTFlMjh6UnMxdThzNzJZcGYzZkxHTkl1RUpWRWpqZHFJelY3a0E?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-18 04:41*
+- **[BHP Profit Jumps on Metal Prices as Focus Shifts to Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNl9OUFhtbVlIY0xrd1FjVG4tTDZMWWRVaXIxTGF0WXhobmhwTUQzTTJaUEhlRlVMam4ycGtCWVNlb1ZJX0ZTWnVESnZmd2lEbjd1MW4wd3hsdFJuQ1dVT012MEY5QzZtNGZORXBOcEFQS28yQVQ2eXMxWEhPdUNPbGpwd0pSc1daVER2NHdRY2tHZWs3aDhzckIxV3Q5bmU3U3NPYmo5WGxpaVBtd19lcnNVZw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-17 22:45*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-17 06:43)
 
 - **[Copper Heads Toward Record High on LME as Supply Tensions Build - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1IxdHRTVU5kLUtPOFVNbzMtZkUySzg5amVid1c4a1Q2RGpqRjNZS0JtdU85NGVhVDVzSnpTMnZVRUZKTVk2SWpCQ2Z6Rjg5dlZGb2R1N0ZGTzFpMHJWdjc5a3E2TkhKS1cxalJOSmQ5QS10X3J6MDIwTHEzdk1WNjRoM2Zoem9CcXBMQ051dmRVdEZxMXJmUFJKWHRaNzlsU2ZMdWJvRmoyVHdUS2tBX3BNRzQ?oc=5)**

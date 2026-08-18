@@ -20963,5 +20963,198 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-18": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 31,
+        "articles": [
+            {
+                "title": "BHP profit tops estimates as copper powers growth, highest dividend in 4 years - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcV9XTElFdDZfanZ0TjNBOHdzNFNqbzBXcVlJYlB4dzdDWWt4Si1TRkhvWGprUWxRLXFfbzR0RUlUdXlHb3VGZTZ1RjhENzlPZFdqNEVGajJNTTluSUpsUUdTUW16bkZFTy1WYkFXeFJPMFlwZVpzQjdneFZWVUlQdzdHLV8tXzcxMXc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "BHP goes \u2018all in\u2019 on copper as its big growth driver - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSaEJhNzZ3cV9aM1VHMUhIOGlreFNyZWR2UXdiTElOeUpPUDBlZGt1RWxjMDFPdWZsY3pjdkstM0RzYlEwYlJIMXhZdW1MNERieWMzWUZHdGRJQkExN0t5Q09meHBNRy14azFSdWVXbU1SQ3p0TTRwdWgtZElUZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Supply Crunch Grips Copper Market as Key Spread Flares Out - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlo3UHNTSmduVDFPdWtDQW4yU3o0S20xVUFxN1JpTGtqb09MeWE5VWZMcW5ScFF2ZmRTTXI0OEgzd2VsbmJkQWZtNlN1YnFXbkJBZ1NkMU01OTN5VDZEUmlZZXFmWGFkR0V2Z25nODY3Rkp4ajdta0JURnFSc1dXaFpqZzUwbFpCWTFlMjh6UnMxdThzNzJZcGYzZkxHTkl1RUpWRWpqZHFJelY3a0E?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "BHP profit rises as copper leads growth and dividends - The Straits Times",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWxUMlZyZnJtUlBlZm45bkJuMXhyMk5nZ2w2Umg0b3B3Z1Jma3U1ZG1iMmhaSVQzT1hrQ2VsMFg1LXRkTkxXbmEwRGJ2Umd1TFJtc2NfWlNQNjlSWUZmQ2M4TGw5UTB4S2VYTm15U19TUHdUX0MySzRxWFNFeTA4Mm1UN282YWQ0OUhzSlpmbEpqN3llT1dycklDMmNSX2pBMlRPZ1NsWE8zWlhlOGI3eTNzTC1zdVRZVmc4RzVfWQ?oc=5",
+                "source": "The Straits Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper is new king for Australia's BHP as profit jumps 30% - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0NGUEVBcGZVeHJHbXlqXzRiSFhkcm55UG5oQ2hGbmUzNnFmWU9OdE5OMFJsOVpBRGJSSnAxdlJ2ZjBIZTFsY2lYbFdpMEFwY1Q3RWVDcmdoUE5yRzZFRE5ZZy15anl0a0ZlUVVocUpsVUtzdU5OM1o0OE4wRWR0V0RhU1NidVF4YjEwS2tqTndveVd2ZjJsc2lJZWYwYVVzWnYycWdWcENxVXRBSUQ4?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "Australian mining-major BHP's profit jumps on metal prices as focus shifts to copper - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTVpSQXlTdWNiYjFGU1NHZU9fYUxVUXgtRHVkaVZXOHUzb3RpNTZhQ1lZbVljSTFhUlpBbGRhalhqbXJoOHlTZU1tOVV3VnNQbHRmQVVhd1NWZUpmMGstVFJkdWpnd1NXUDVaUFk0SFV1YWg5UDBiTDlhU2wxMEpsakRjc2lGN0RlUXp2MmNzSUlTUVFpZmNUNENGWjJ3d1lESXNfWjhSRV92cU9CZ3dMOWUwOXVPbHBOWU03VnhlQlVlUXdXZ1d0akxSRFEwZjJaRk9NMGQ1QQ?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Copper powers profit rise at mining giant BHP - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm4yVDVGM29KM0pfOTRNN2tRMDFvWHB4WGR3T3YxdlpIVmltVEwtUHFkNlJsRlBMVk1ldUNpZnp6Yk5vOVZ5dmNyYklfRTBhcklhQVc5UERkOVpaVGlvNnJLM3g0UW1tX0swMWFtMWRmS3lhTlloblIxXzRGQUhEUDc0SGJscHhk?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Gunnison Copper enters \u2018exciting\u2019 phase with drill rig expansion - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2xVM3FIRVNNMWdtVmsxR2JhMXF6RFNhd2VhSHJkQmVKMGhYc2V1aTJYQVJSLUE1TkVCTmRYOVF3ZjRXaXk4TTVZbm9uang4ald6X3VqYTNicGFRMGFIekVqLURSWGJlTEtBeHkwXzc4emVnTEJyM2lNbnVvdnU2NWRFYi0tN2ZZbEJjRnNR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "SM\u2019s consolidation signals shift in the Philippines\u2019 copper story - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZERWaDFZU2tYWVhjN3FYU21qTFJxajZRYWpZSUhUOFk3clhTUjNzdF9scGRoemN2U19kQ1NDOEEzdkpGSEtfMHFZNURydFhsSE5UV0hXckRqcUxHWWhpenY1WDltd2RrLTJNd1UtQXlOTmpWQ0czMmk4VmxCUTJyTTNkMnFYclhnTHVVRDBrRQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Midas extends high-grade copper-silver zone at Namibia\u2019s Spaatzu prospect - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWpoS25MRktITU9XRnJrdnFkbWhITmpYbkZ5REkwT0tpWkNfS2FqYTQwdU9uNmRJSm4wVkN2cUpHVEtrQ0hBX2w2WW50ZjZ1UlpsVDdZMXN1MFhDbXpQY1U0MzBmc2h4TUs2TmRpSGNrcmhjZkJlbVEtQl9vV3BQTS1MWjdRYVdTS21DcXJ1cC0wVlQ4Y1FHREZnSmdsWVJicl91TzNud2ZhcThKVzZ2cHBSM1k0TWtSVklIMEREd0VBTF9TVXN0T1NRdTdIT29zaWRfdm9ISGliX0wyRFZWNmZUVEV4RW5v?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "BHP profit tops estimates as copper powers growth, to pay highest dividend in 4 years - The Business Times",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdFZMS2xnTlkzd2pYZWFZWGo0WGgzUmIzaXRZeGZJOEw5ejhCSmZlcDVjRFNmU3QxUmxDR0QyRTdwbVZadno1YmtYdl9JdVZuQ3BmWTR2UGtfMllYR1ljVjJfQjQ5elhVNmtTeFQ5V3R6ZHdjbWhPb3RyLVlqQmRUVzdSQ0FwQllBak9NdFU0RGpIMV8zd25LcGtTdWpEM1RKOHVKak5qaHAtM0hBb2Uyb2gzNmJ0OWpENVlrcndLamVWSGxUWWhUR3JpUHkzSTJnOXpDV05qUFQ2OVZGclE?oc=5",
+                "source": "The Business Times",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk and Skagway chart Minto shipping - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzRHMjZvZ0J1WGlLbXJ0ZVMtaFJfSmdWUXZwd2o4N3otSW0tdUhLUVQwQWVTRTJac2lSb1liZnZMUnV5QTR2T0ZreFE5Tkg4aDhLVlo2djhQdnBJMklXZHViYmdSS2RQNFYzcU11MzJVUVg0cUVCSDJ5ZTRvMncxZGl2blp4N0lsOGU2VGNBSzFsV1dFQ0xhMWJ1b2s2b2NOaUxyS0liS1hfdXBSdGp6NWlPY2w5OVNSeVE?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "BHP Group H2 Earnings Call Highlights - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnB2aVZqSjl4cXdxRDkycWRZaGxpMzA2MW52U2RrVmNOcXhDTnVJaHdCenpqZVI1V1EyanJTYU4xWmg3SVY1c2I2em1yMUpzU1J5cnlDREtTOVR0azZoMGhFWHR3WUFTUElZTmhBU2cxT2RNc3RRT3ZlY2RBWnNyLU12YnFkcEpQdFFFaXpfWk5ITkZrYllfT05VZmI?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "BHP Profit Jumps on Metal Prices as Focus Shifts to Copper - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNl9OUFhtbVlIY0xrd1FjVG4tTDZMWWRVaXIxTGF0WXhobmhwTUQzTTJaUEhlRlVMam4ycGtCWVNlb1ZJX0ZTWnVESnZmd2lEbjd1MW4wd3hsdFJuQ1dVT012MEY5QzZtNGZORXBOcEFQS28yQVQ2eXMxWEhPdUNPbGpwd0pSc1daVER2NHdRY2tHZWs3aDhzckIxV3Q5bmU3U3NPYmo5WGxpaVBtd19lcnNVZw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Pacific Ridge drills M39 copper target - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2tSYm12dTEwVkdpeUJ4eU5hVm1OMDFhY0stVFA4d1U3R1BtV3FDZi1lZ1gwOWI0MU15N1dwWGk2cG1hRkNXeW02czlfdmlRck4yYV9IMERSS1luaXBRbzBESWRxM3VYYzJqejJNQXJXUTJnTUlaOWo4M1JNYVM0c0dnYURIRzNBVExxMGMzYkpzaEdCeFhlLXpfTzhMOFRTVWVWT0VTUi1qWk1ON3BsWG5KQUtrYTA?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Lake Announces C$1.0 Million Secured Debenture Financing - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk9yUUJJYWZlT0F4RjUyclFCSzdaNmcxZEZTWmxXTTJxeWRySkVSdzRVLXMxX05BaURKOTBDZ0Vvd2RvVmRPc21VcTJreHlkckxLZ1EzcjNvLU5HVGpFSDR1eXRZMG5TN2U5YTJIaTZ0c1BvTXZTbkVmbWhtVVdORW1qYmRmYUtBNkhpZjlGVVpYb0hSSFBjUmYxdXRlMHBNa2lxR21xWjJJMW1jS0g3bEQ5Z2VacS1qWF9XLXJIUk5mN3NENE1XTW14OUw3QUN2bm1qVzVlVTBYdnM?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price nears record as LME supply squeeze intensifies - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLVI5RXdlcVdyREZJaThETm9fRzhzMy0xMURoOF9zZnVqaEFwZ0NLVXFhd2JmSDdjY3JqSlEwUlBQa3o0emJ4ejJta2FWb3U1Z1lqcC1nRWdQRGlNcklwRUFCTU1qckVNS1lOSnZDdm1tYlRVZGZCNTM2Z1hBM2xRUmg2aUFrbWtMU1E?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper squeeze builds with spreads surging and price near record - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXpjQ2liaXRHd1BRdGozaE1qMHNQVEZ1MXNKY2pVeUhhMTg0a2pwcUNyckE0OGF2ZEVPV3luWUtzdkIzb05JM0FpMGhwX203RHd3bFRDNkNzRmZGQ2ZTMnBTa2pvSjBxVTRJbjNTeUZwWEdQcmxaUzRsNzRRSU9qekRQNDRfa3A3R0JWYTI5ZEFzd1RKMEMw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Arizona Copper Jumps Explorer Jumps 32% as Soil Sampling Outlines Large Arizona Porphyry System - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM1d2VG1FMXZ1RkhNNG9hTS04TEtvd1hFZzdhalZTakN0YzVlNTFKNXY2dXRYVzdRMDBVQlF4RkljWDU0Q1RMZk41aHJOdW9ldkp6X2VnQkYxbmJxR1hBdXpQTzdOUnowV1NiZ21HOGJXVnFwZXRubGlBTmVYWUtkWUVkMWMyVGZldERZdHdZdS1Cbnd1MEFVQmdjenFUcUZrOVdVcVJBV2pyNXJQQnRnazdpMW9iZkRNWTdzdjFKNTdqNGh4V21UMnQ2MnVBRFl1ek16cDBWQjRmeEtlSVRkN0xyZTZBNjJIeHF3N3RmNjNRTkRNaGRNN0wzNjdjMmUtWXAwT1VzUUtnUQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "U.S. Copper Imports Hit a 12-Year Record as LME Stocks Crash - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazYyNEY1ZUpTRjlYM2FVT01SQ2RCQTFEMldmZjVwRHdwZWdIaG1Vc2lLZzV3VklObzVfalo0U2dmMVEydVVjdkNuYnpyeThRd290UEhhd2ZiTHRjOFNwTWJEQUlmQWpjaFN4dXNUTmxTbGFxcFB6TzZqTS1DUjFZQ3pFYktxUXF3TGV2ODEtOWpjNGszb011eQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Midday Need to Know: Hormuz ceasefire expires, Copper prices rally & more (SPY:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzREby1OV3hBTkgxc3d6ckRmd1NNdGFGTGd0WE9ZcHdZNzFlRWxQQTlKdGFrckxsaEl1ZjBscmk2UlYwSEROcVJMaVBfM0J4NWx5aHN5V25xMEZsUzdpdjJnekhhQjYtVVRqckg5XzNpSU1Sd0pFZzMxMUFxRmVlZnYyOFpWdl92TWxSZXlUZzJscGZha0tIRHNOZHU0RlJ1bzlBSDFxS3o2VTQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper hits over six-month high as LME supply concerns mount - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeXRJZ3lycm13SHR3eWI5aTB4NWJSb19RWW1iSGNTYUhGOFE2RkRoWGJ1OXFBb1NCR1g0azNVbWZLcDFFYVRwM3UxVEc0Yndfb2FCc1lLWGtuWExpZnVNV0FEVC14UFhUMlMyYWF1eUUxQjgtOVRKazN3d3lTdW54OW9sTHJ2b0ctVWFELTBOaDdndjVYb0Z3LTVXM3Vsa0lOcFJEYmx1SmQzR2lUNWRoYmhUempzS29IWnZGbEVOck4xMHRDNUFxQ21qaFp1OGZ2RGR6bWlfZWUzaGVRdzlMNnVMb2ZtNGR1UEVLTXZlSk_SAeoBQVVfeXFMUHZVTXR2VDl6VDFsZTlXVkdVMWE1RjRCRnc4Y0lCdG9BUU9FeV9XXzduNlVtZFhxTkJxTE9rR3V5U0ltRUdxb25GQTRWb1ZDUnd1YlNyVHhHRTNZQVJucGpIU1h6QVRjOFJ1bkZwSW13cnVvd0lkSkVPdExnY3Q2M0xvNnF0bnM5TnZfM01Kd0xMYTNISTEwTXlvS245bFVTQXY4UE1VTEU1bFdaV3pqR01yNGg1NnRSWnJNcjJlRVRCekVQOWtBUlQwcElncTdqeUpyMVVEa2FVNzlNblc3Zmw1OVlRZXRkZzBR?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper hits over six-month high as LME supply concerns mount - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMW9QT19zOVVWOEVHLXlXSVNkenBEOXZtaWVCaUVYYXlhY05DcWJ6WWJ6M2RrdVhkV0doT0lVQ2JCUFF5SzRnSHNwNEFxZThxbW1QWDJBSmNSMjhHT2VDbmV6QlkzVUdRcFdtNUFJTFp0bGNENS1YT1dZQjZZZDhLUXpZNmw3M3RyRXExU2dERGY0U204MlZHRmxSWDJKODA1LWRWcjRVZmI2VXBnSlBkV0lGREU4X0g4T3I3bVFRckZlbU9tTWg0ZHpfZWpmdTNBRjFfbGowN0FoOXlOcU40UW1rZDLSAeoBQVVfeXFMUHZVTXR2VDl6VDFsZTlXVkdVMWE1RjRCRnc4Y0lCdG9BUU9FeV9XXzduNlVtZFhxTkJxTE9rR3V5U0ltRUdxb25GQTRWb1ZDUnd1YlNyVHhHRTNZQVJucGpIU1h6QVRjOFJ1bkZwSW13cnVvd0lkSkVPdExnY3Q2M0xvNnF0bnM5TnZfM01Kd0xMYTNISTEwTXlvS245bFVTQXY4UE1VTEU1bFdaV3pqR01yNGg1NnRSWnJNcjJlRVRCekVQOWtBUlQwcElncTdqeUpyMVVEa2FVNzlNblc3Zmw1OVlRZXRkZzBR?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Market Trading Guide: Hindustan Copper among 2 stock recommendations for Tuesday - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVTNmbWk5RnBsdFF0TXp0V1ItWE1UTXdCZV8yRDFMNFMyRFpFQkRxZXJVRFhOek9GaXc4bllZWTJYVVhnX2p1V3NmMHBYaG5zZ3kzY0JvUWpJT2hSTkh3ZnNVbWpDMlg3c2pWeWpjZXBkWTVySGpvOGxSdWM3eGhXSUNaOWJlRjZoR2JzYklqS1VrVjdCUzlJUGRmMi1MSHdDU2NaSWxRLVJpOWF0MDdJenczTnQ5cVRIR3M4QUxTcnNDU0pWcENnTEx6bThsbTBBaG5jbUxCa3h4aVNlT3dFNW1qdHhnSUlF0gHuAUFVX3lxTE5RdnVLMGEyQmh5N2NiSXpYNkRVSko5bkhFbmpVWm9wZTFUZWNUMmpHTlJyejZDWS1UNHIybGdCT1JTRWpDeWFTTk8wT2Y4S19GU01QTTVlUVp1M21wSmVXR1FXUnN6RU1rNy00OFRjVjdMNFM0M05CVnNTYW9UcHQtanlkQmo4R0xCRGhSY0l0SEhReTZ2bmFnd3hOVjVrSnBQQTREYnQ5SWt6am8yUjl2V21CeDZQOWNTQ0poZlJ1clpJbWZlM0VXMVEyMVc4Q1h0UjNjU3IzM3FJbVBBMFA3VFdGWGdqSHc1UVFsaVE?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper nears record high on LME as supply tensions build (CPER:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaTZtd3I4LTQ0a2htY25wMXR3cXpCQ2I4Wl8tRlZKNmsyZzlOZ2dXREpVTXZYbnFHdlhHVG1xbE40Z0FsSG1MR3ItYXFiaENOQXFCVENNZEVQdlVXXzFuSDgwd1BFWXJlMFFDNHp4S0g3MTNRMl9vRUJwajJvX2FRdDRFR1JERVRXZmhKQzd6SE96dmdMaVgwS0Fn?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Korea taps Glencore for copper supply with $1B loan deal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVdwTVY0T1UxaUU0VDFNenVEVFBRMmlFaFhkOXJMb2h3XzRHeE1WNzN6VHoyQVNaWnY5SkVaY2k3VkpaNW5adk5pMHJBQ1ZVS1Z1Um5YVmxldGZRekQ0VkpiZGYxVHAyUEZjdjJ2TVVGLURVRXY5dXQtZXZTWHRQUV9UZkdvdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices rise amid ongoing shortage and these stocks are getting a boost - MarketWatch",
+                "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVkJYS1d6bGt0ZDczSFJGZFJHNmVJanl0R3dXNWpIbWZtM2ppSEh6SlhMbVNuVlJVUmNDMkVVZWNQeWhRNWJHX0dsYVdkZjRjSGR1Z1llMF9MWjV0dGZJTHhHdDRBSHh0VGdzc2ZRNkxDMms3andYanM5bDVuS3ZtSHhMa2h2dnNkamZfanBxRE1LZEF6TjQxcDBSbDl0UlFIa19PMTdCUE51VnQtcjVndkhEN29tSGdDSzBYa3JrN3VRYkVjMGhTU3kwOUxOc1YwVGtMZE9tMG9uNzZhNTRYUTA2bmU5Y1ZEWWhxMGppbW9GN2FuOTZmQjc5QUVTaHVBX0ZSZ2FRX2NiVklDZmZ4TmZLbG9WSkZINExRMXRfbFI5MUF3UUh4em1TZ1EzMldJUTB1dWtRUlJTbFJiRUxiQzNUZW5vQVhvMGpXalowUkM?oc=5",
+                "source": "MarketWatch",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Hits 2021 Squeeze Levels: What It Means for Bitcoin Miners and the AI Boom - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNhY0ZrTHBBbkRFazc2MGFhM09pODFkUnFHWjlYUEIxYV9KTTVOSWZiOGJTX1NXX3Z0MDhqbWo5U1k0b2pEd0V6NmVNN1BmUEhpcWdzU3VDVVg0SlhhYWpINUtQSnotcFFzeUx1RmdtQlREUkdTejBLTlRTdGtwV21sSlNVRnFCemRJQjBmTW9lMlhaMl9QTkYyOWZsVFRBbE9R?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Insider Report: CEO sells as this high-yielding copper play soars to a record high - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaG9BbGJHTU1SMlRtM0xvb0FJQ0lRN2kyUmxGYmxzaHo4RXhlYmlIaUZtc0lMZjhwSEM4bTk4U3V6YmZmYmdvSElZSXhOWWJxY1VtMGJBczRNbERSQzd0Uzc1aDhIMDZJQnNHRE8yUm5tSDJ6QXZOTF9mSUR0V096YS1naFh2bElkb19ra2VLdnRjM2JINzR6cUFLeUdZSmhRaW9qVVpyMDZjLUdiN3B5QlZzOFpucDc1dlZjMmc3cU9Peno2U3otY1BSdjZJdnVyTEI4MnZxRlZ1cTY3NDM0?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's Codelco shuffles leadership as new CEO tightens mining oversight - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWE2RDJTRTJ4UWZ4R0ZPNmdnVERNa05Ud0I1S1o4bXFOeGVLQmNOVDZROTY3X0cyNUZrcVc2aWVmMndSV0RMakhLNG9BSWIwQTRyWmROS0ItSUhiRzNuelI1cTBTZVhYYTcxY0F5eEhUWTNMSTBVVEg3VnY0cTBmMGphcjczVVc5VjNCU2NUWkFtZkdfNVJORTBCU1RLbzY0Nm04cjllV3pMSHRqbEdtVjF1SEZTOEZSbm1N?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Is Rebounding. What's the Best Way to Invest? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzFQSHpzbXE0V3RxYTQ1eTRld0NwUjNNSlEyRzVMSVdiUDNyTGtWV0NSQm1HV3phdFYyekwtSVpDTVJkMlU3ZFFqbTBpalA4NVJacHd3ZkI5UkJYUkdXTzBWR2MyeVdHYWN3SC11TEg0OTRiUXNSV25reXpzQ2ZTRVVPZFZXZmpGaEsxQ3hNNS1MVXE5TVNTeXdBNTZfYXZ5N2JXYVVXUUtvUlpOYjNna1BEbk5lNlZaU2ItQXl4QkNDa2d4cW1ILQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            }
+        ]
     }
 }
