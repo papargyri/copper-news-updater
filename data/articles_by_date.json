@@ -21156,5 +21156,168 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-19": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 26,
+        "articles": [
+            {
+                "title": "Ma\u2019aden and Aramco join forces on copper exploration push - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVlkenBWV1YtcXBtdzNBaFJLUWlkUDM3M1k5dnZnbDN2SDBKZkoxSzQ3REZkSVd5anlYSExHdlJYVWlaY0VLazhmWVZaN09XRVV0Umo0VXh4SkJ2dTlzMzVWVXRLd1dsSmVIU2hGaFVfc1U2bHFtQURKcHMtMG9lZ0pBeHlfQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "High gold and copper prices drive Evolution\u2019s record net cash - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnBWTTQ3ZVVnVVBTaUtrdkEzeVhYWDVscFFkWGpKX2lWZzJDWkJ0dDFyY055aV9vV2NyaURVXzlITjUzdHpoR2xWS3pXdV85NnUyWnpiam9zRlpJeW5JZTZnX1E2a2FJU0UxSUh6RFdJUDV1SE9FZF9XcmxEbGFUR0I4OW9tNFZzRkd3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Evolution Mining CEO: Remain focused on upside in gold and copper - CNBC",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanVLZWcweVhGRTlzdGtUbHZVN2xCWG9FUzkwX1d3a3d1dlJsZ3BkTXpGT0Nua2pLTjBvbi1zZnN0eHZmOEs1MmVzaWtJbkZFd0NiZ1RXSVF5dnl0M2xSeG1XVTkxX0FMYTk5TGpuQW9NanF6ZktQV0dXWk04QS1va1B2eVRFSjhWYmU2clZiR1JRcFRoaW5EekdhTkF0SDJBajY5cWNDLVlsNms?oc=5",
+                "source": "CNBC",
+                "is_premium": false
+            },
+            {
+                "title": "Aramco and Maaden Move Ahead With Saudi Copper Mining Venture - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc1Bvd25vblVHSWRPMElWVHZxR3ZaS1BqN0ZvZFk1RlBGMVlQcGVncTVuVGJ0NkZLTEdMekhTMkpvenhFRGViS2RmMF9uS2tJTUM2RFRJUC1wQnMyTU10TjVFdm53ekh1VGh5TlJyVU9pdHJWRkJiUm1DUVdrYjVCNFp5RkVIQXdSMllkNmpjYWU?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "BHP\u2019s new boss had one job and it\u2019s turned into a copper obsession - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOUozU1pqdTBkc1k2OFdmalY0dzBOUU5OWE9mbjJkLXR3UHJYSHQyX2FsbHJCRkJ1N2xYd0U2TVg2VXFpVU1tb0psS3Y3LTdHQWtKTzVfWjZXZ2JKaDMwdFRUUEZRQ19pa2g2d1JnR01sT1YtX3ZnZ0hZdF9pMTNGdFhmV1dCUFRqM1JoTFllN2ZQZUxrZVNxVGVfRmJiNllBOXoxMlp4T0toaWkxb09PMjR2WWhCU0RFVWl2b3VYUFRyQnc2ZkNlQ1F2LV9XWGFlam1GYUFiVHRpR3prbkRDdnE3RjJaOGJxckNmdUZnRU5sX3p0b1FJd0RKZ0tldW1WY2pB0gGIAkFVX3lxTFBGSnJhdnNJVzVUQm1kWFc5Y1RzY1JQRjJ6TUh3V1A4NnNET3FrUFJ0TWdlZG1adGV2emtBZEh1QjVjaW84M29yYS16emZzLW5fVUxlaFlHYUJ4eGZuelVmTFlLbkJaQXpTaGtlMDJoVFc2RmdHWWxqSWktbnNXTUFTMmJWUThDMVF0cG05c1NyTHNyd2wxdEF3dFk4NTVmcUFpaGV6ZEtsX1k2aWxHOElUYXUzZUp4dFdHS3hxQl9FOE9SUW02YnlLdHNtclRxNEdFQ2VOSlA4SXZMSnJDdUcweEFwRHJQaDZfTFhQclB0bWJlcFMtT3M2WnRaOWU0bjh3UlVWTVUzSA?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Canuc targets deeper discoveries with East Sudbury gravity survey - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQllsVmJKTmtubTZHTGdTLVFfd3BoYlZ5UGF2YTU5Yk44dHB1b3NyckRpOEpKUmhUbmdtczA2ZXF4TXJfNTJvQWRUT3puWDBXMVBjWGUtV3M1dlRJZ2lHRDV4RnJreEVXYTFibWNoX0h3MC1FRlBfcm9GanRIY0tKeHAtMWhDMkpBMy1EeXNRVDFsUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper squeeze sends cash price to record in London - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05djVZUXB1UUY2MHdVY2k3S29fVU9oRmlXQ2RDbGNHYTBFeGptUEZhbHk3cHVZOUIxTXlIUEQ5SUFZZ19UU1E3LVlmQkw1QnMxWkZsZ2daR3BYY2R4V1pjS2xSelhXdUZfTzY4YmlEbTRkd09pMzlQU3dMUU9hREE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Copper in talks with Rio Tinto as it seeks $4 billion financing - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkFya3MtTlo5dVFDRTRPY01mcXhaR2pndkZxb18takdpRXV5ZWNZclAtOVBxeHRFVzF5QS1qUnpsVWlRVlJJZkIzZURRRXRrdm93bzlTXzMzRkRFNW5BZmhDUzg2bm00eUVsMXVQVjYxX3pOX0xTbEhLdThMTHpvTzFTeWstei11LW9OLWVsMzFGWHFlWnhid0JtZzBDdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Sonora Copper Explorer Expands Cerro Grande Copper Mineralization in Phase 2 - streetwisereports.com",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWlyVzRuc0UwVFc5ZTcxQkhKbEI1YlhucE5JbWNUYlpJcnJ5MTl1aW9hX194enBjdE5VeWJydDUyelBTZGZDYWphbVk0R1JYaGZyekZZYzBRUnVjVm9NbFA5NmVBYW5vVVV1NnpVQ09vSmtZMTdHSWtPS1hBZDRTdVVLVkk4emZHdzRaTEl2ek42d3cyYVRWVzlISHZwQ1d1VGZaVGR3Ym84M3dnWWJ6TkZJVDZkYkt6S2k0cVNVWEFjQmdtbFJRdGZKTk4wQkk?oc=5",
+                "source": "streetwisereports.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile economy misses forecasts as mining slump drags GDP lower - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFlNZVdvcHNTc1EwaTloeWtVVlpFZXNERTRrQmE2MEF4Mjc5a3JmVkxiZjZNNEx1QUtRb1BrempreEllN1hGc21zSTFzVGNVOTctWlBmcm9iUTZiXzhISVZTSDhyNmIzaHJQdmpTQUxyS2FVRUwxZkM3Z05OSlp6ZGd5bFhhNUpqdUloa3lHNkRNYXlL?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "WALZ ORDER BANS COPPER NICKLE MINING NEAR BWCA - northernnewsnow.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFlmY2hTYTlXSTBqU2V6QUJLV0xtbktHV193Vk5hXzRfVVZ0TGlRSE5BSG9aTDRrRW9VQXVfcUNHY2hoVVljdk03TGlaXzh5ejdVMlBjdjM2Um5YUVFPbEhfaXowb2dNdEVrODQxajl1VkZsTlhCTUUxRUdQWWpPSk5sU0ZPWHIxRHFzOTFRek8zMnlrSkdnTlBZRzg?oc=5",
+                "source": "northernnewsnow.com",
+                "is_premium": false
+            },
+            {
+                "title": "BHP\u2019s copper pivot is paying off - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbERhUGtlT0VoZDNrLVBRcks1X3BYNWJxS0JsengzcHpxZWp1OHBCcG5tX3FLWE5DNnVYanctdzVoQllfQURPQm1OTEpvM1I5aHNTRVQ4NlZHRHhvcEJTZV8yLUxkdlpfd1NUem0wMEl4bXdHaHZXVmlydVF2YW5RWDZLWEc?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Walz throws up new roadblock to mining near Boundary Waters - E&E News by POLITICO",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDhNY3lOWC14SERmWWpGVzE4aXlkMDByQU9GS0V0WUU3V0RHT3hjcXJUdGpkSDhvVm14V1BYbEsyNi0xaDdrVTc3eTRuVVNWVXdyTTlnbE1jbDFMaDNLM1U5eWZEWktsRWJyNVE5cHdqNmE0dTdFdnppYy1LUXBxUWdnZ2d2UkNvWVZEbmtEalJrWXR4Qk5F?oc=5",
+                "source": "E&E News by POLITICO",
+                "is_premium": false
+            },
+            {
+                "title": "What is low-carbon copper worth? Market grapples with definitions, emissions and premiums - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXVXVGJvQ1NES3p5eTZtZ3RkbnRUQmoxRXNySkx6ZVI1MTA2d1VXWmFkMGtZYWZkb2ZtMERHSHNzTHFLVEtpWXhWVjdlbTZuVGFXMFpWaEVIQThtN0VMbk1JZVVlY0ZEbTAwczVJNm1wUjBqTVppY3N1NkJISDNrZDN3TkUxUEwtdmJnWXM0dC1CWFV5a3I2Q0ktQUJac2xDcVZJREl2SEdHdm9oMTdBeEF1ZkJKWnRyakNZaVZKeEdJeVU?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "BC Copper Explorer Hits Native Copper and Potassic Alteration in Phase II Drilling - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObjBHVGVKUENCT2pqOS1QYjV3TE5ldkNyU091X2s5ZzRSZnpvdzA5blZza0gtY2RsWkdmTGtsTjNheGxvSWFFeDZ6bk5wQk8yOERkcUhzVkxjSjA5MGJ5ZW1pVHVmZXJsLVh4VnVjbERsWGJyRHNVWjBCNmtrZkZXcWcyY01lZDJOaXlXSWtQT2V2d0VwakJTY0JvTjVfbG92Sm43VHNQdXEyT3VkVjJ0QTZRandsd2xtckw2MUFUVVl6b2ZwTncybV8yT2ZQT0FuaVJlZGxtV1NQYkJZTW5HbUR6YWNxaTdXajYtOW9qWE1ZYjJ6bTJ0d05YdEFSS2VxU2pv?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Gold-to-copper ratio spells more gains for emerging markets (IEMG:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTlHUTVkWDhmOGhNaHdSUmJIbzh4ZC1kRDFmTVpSSXRlVTFtMm5mclhLR3lxX0xKNXF4c1FMa2FqUHNFUDVwVG1Ud1hhWVM1VGdDaVAxaHFmQkVnNWt4VmpwNWR1MG10R1YzY3hmU0xGZ2NJOFlhaDhMR1Azci1WdlczU1hLZU9UamIxTFhKUnc2WldBSFdOYllvTW1WUQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Africa\u2019s second-largest copper producer eyes record $1 billion in IPOs as election ends uncertainty and copper prices surge - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEk4aFVua25ZbUV6TkF2a3NIVWZMb0JjYmRSelhwbUR5MFAwWmpoQUxvbEJSQ1lqSHN1NEV3aldWb0VkemxQaWNvWlQweUx6Sk1tT2c3M1dHQk8zamNydzFnWGtKaXh1SlU4YzE3MUlGNWpYaWg3cnZSXzdkRThub2ZYM0o0QnhOTllKTi1FRnJTMWFqb05YS1M0WUlYRWJyaWcxOEVfWDlsNU1iQU5SaUZKQ3ViTnVNS0o1cjZPLXZfSHN4ZVEzX1c3QUR6Tk0?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Minnesota Gov. Tim Walz issues executive order to block mining in Boundary Waters - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1hablRjcUEzLUpvRERoVF9sbWx4TlZJVV9rWWdhN2VaVHlDZXlOVkVnMFc4Ym9CZ1A2RUhSaEl0VnZoWWIxd2FjYlN4bG1SX05YdW0wbzRvQkUxZUtaQzRuV2ctQXZHSU45Tk1MQ204R0FfZmRReHlOQzltSjFfckNZbEV6VnoxSk1mM21sclhMZzBkRVJCQlBnR01HaE5WYlpz?oc=5",
+                "source": "CBS News",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Copper Explorer Maps Large Anomalies at Caballos Ahead of 2026 Drilling - streetwisereports.com",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2NKWEVlSXBVSEdyM0xVMGJXakxNdjVWYXBYbU42V0o2NEo0YmZubFVrOEdKTEdOVkxDSW1xaFJ2NE9yVi1NUFQ3YTEwY2piUTk2WWpvSHpDUDVSRTFERFRnMGFDVzkwWE5nZzNnSGxlci1hYldTYkFLSTlrU2VIZVdMcUlrM2JDQ2k0cmRoaGhRMDVRN1JsbjFnd0JCb1NEVVFxOVZZSmx2Z2hJRFZ6UGJMb0pWaUZzbDlGNTZXYy1IOWFYbUs2S0tGc3ZIZDZw?oc=5",
+                "source": "streetwisereports.com",
+                "is_premium": false
+            },
+            {
+                "title": "Revisiting Capstone Copper And Its Outperformance (Rating Downgrade) (TSX:CS:CA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN2E5LVFOVnJkeW05b1R4UE9nMHlWNC1DS1owS0xtdW83NkswSmtrdGwyUDl5clR1d25kVTBScHhkTlkwSkRPazgtQmlwU0Mxc0xOOGI2UHJWLXhmRkN5bGpFelR5bVJJTkJBZmMxLWo4aG5RVjF0bFdmblIwSHgxVzloR3ZHSFpZVmlmM3AyNzY0TUxnUW5QRUpDOUtwVXBmbk9icFI5VjlOUVJGU3ExNjFHd0FvX1pLdlNZOWNEREJXWHd0Qkhta2JlRHg?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Chilean Copper confirms letter of interest for US Export-Import Bank to fund development - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczhveGNxQWFYbHpyRXJDWldsVFRFUFhKcWlKTnExLXV5aTFSenJDRDExOU1DTEM3VnVjUTZnN1VPVDJaY09kLWp0VXllbWF6V3FOc0g0bzRLSHhEc3UzeXVSb1hnSDlnM0drQ3hncFBxZjFyckhqb1BBWktNdzhaWXlmVzNMUlpJS2JoendoVVhFUDFzRk1zUFU0ZlBadDFsYWdkT3FUc3p4amoyNE5DWlhGdXdobnN0N0RqMnM5YTVxdTM0a2FJNmk4b0YxZm1qUlE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's Codelco nears Pucobre deal as new leadership pushes partnerships, asset review - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeVVkWlIxQkZPZ25ndWxsdm1oM1pBYVNYaEVKV0treFpMc1lpMVFQYWo5NHg5ME9feWFBRVZmMEFQWWE1MmZNcURIdEd2aGpteHE3ZGhiRkFzeDNhSXU3STlrZjg0RzJfQjBJZno1OC1KUGxUMWdPOFhoc2RQUGpyMjVLa09NN0s5ckRLMVB0b0NITkpGajIyOHRlbGx0SGt2aTF0UzU0TXIySGg0R3A0clA5V2l3YWNNRTZKejNyTmJTLThjWWVGSWxhSks?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper powers profit rise at mining giant BHP - France 24",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdFeVgyOFd6UU9YdXBsd0t1aFB0OHBjLThwV3F5SlR5SjdCZWVvbkJBOHNUQjB6NTBGX1Y3ek0tRVc2cXdyV0RkeUN2MXRYQ3pWZ1NObWhvaW5jWEtfNW1FN05DV3VBVzMtdkdWUFdNREc5dW1lT2xReFREZ05JaFFVWTh1WmxQckxkc2JkN0Z3Zl9lWkEw?oc=5",
+                "source": "France 24",
+                "is_premium": false
+            },
+            {
+                "title": "BHP\u2019s copper profits outstrip iron ore for first time - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTFSNGU4UkRrMktvM0FEbFpaYmNISlB6ajZCVVRhOThsNjYxd3cydDVzaWhXaXRBTFRpaUd0V2sycVNOS0lfX1lubDZqNFE0MGFFUlRKckVMc2lzdTZqSnhkYURwektMeFljRS1xSGRteE1EUEJWVUswQUVlVTVZaTlRWWo?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "BHP reports better-than-expected profit on higher copper prices - The Business Times",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2lZLUR3WnlUSUlZQUZJc3hoVlBERFJ2cW9QOWs4VnM2XzBCWU9ZNGV2SWwwMzdfeV9ZV0FZTFRxeC1vYkhVbFJ6TU5RdlNVUHhqX1RidkNNSjR2YjRVdGlvUVRoSnZpZnp1TmVCRnlUNm9oQlVSdngzZFF3X2FCMjFjbnF0NVdNU1cyTkI0TTVZVGFQdEZjTnZSRC1IQUpIRVRFNDFndkVQaHNQYW50YWJHNkMxN2xUZDFwZVp6cUVIak0?oc=5",
+                "source": "The Business Times",
+                "is_premium": false
+            },
+            {
+                "title": "Gold-Copper Producer Reports Q2 Output as Metals Prices Rise - streetwisereports.com",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFd4bzJBbFRIU2toaENqTVJhN2REX0gxdTVzdmJmMWFSaC1VRmlVa25CbzVzUDhldWRWYXRWTHRsNEg3Zm5jbU0xeXliTDVwck9RTFJ4LXRiNlNENE9Qc0tsS3YtblFEaUVzV3dQTWpVbUNKU0JzTnZvMEx5WVhQdmtnbjlEYkJ5WlJvMU5XTXZzaVMtT19iaERRYWZFbkVRcl82VVJwMVBud2ZDQlhYSUUyM0kzSXZ1amc?oc=5",
+                "source": "streetwisereports.com",
+                "is_premium": false
+            }
+        ]
     }
 }

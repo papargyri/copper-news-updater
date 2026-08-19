@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-19 06:36)
+
+- **[BHP’s copper pivot is paying off - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbERhUGtlT0VoZDNrLVBRcks1X3BYNWJxS0JsengzcHpxZWp1OHBCcG5tX3FLWE5DNnVYanctdzVoQllfQURPQm1OTEpvM1I5aHNTRVQ4NlZHRHhvcEJTZV8yLUxkdlpfd1NUem0wMEl4bXdHaHZXVmlydVF2YW5RWDZLWEc?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-18 18:03*
+- **[BHP’s copper profits outstrip iron ore for first time - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTFSNGU4UkRrMktvM0FEbFpaYmNISlB6ajZCVVRhOThsNjYxd3cydDVzaWhXaXRBTFRpaUd0V2sycVNOS0lfX1lubDZqNFE0MGFFUlRKckVMc2lzdTZqSnhkYURwektMeFljRS1xSGRteE1EUEJWVUswQUVlVTVZaTlRWWo?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-18 01:25*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-18 06:35)
 
 - **[Supply Crunch Grips Copper Market as Key Spread Flares Out - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlo3UHNTSmduVDFPdWtDQW4yU3o0S20xVUFxN1JpTGtqb09MeWE5VWZMcW5ScFF2ZmRTTXI0OEgzd2VsbmJkQWZtNlN1YnFXbkJBZ1NkMU01OTN5VDZEUmlZZXFmWGFkR0V2Z25nODY3Rkp4ajdta0JURnFSc1dXaFpqZzUwbFpCWTFlMjh6UnMxdThzNzJZcGYzZkxHTkl1RUpWRWpqZHFJelY3a0E?oc=5)**
