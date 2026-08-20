@@ -7,6 +7,24 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-20 06:37)
+
+- **[Copper Holds Above $14,000 as Traders Assess US Treasury Action - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVRyZ0NzRU9ROEdWWWZFYjFoQ3VISW0zRHpJWGYwLWJTNW40X0xoOV9ob2hmNjlteWh4TUQzTUpra280VVRGM2tCN0cyVEcxZVBESmJJTWFDRHdrSXkxSHZ6b21XWTlhQ3hBNTRVUjRBVHh1ZHpJQVM3emlCYUFhbVdQMnpJeUMtMU9BOUJkY1Q2Q3JYR2V2UFFXb19OT2k2ajdoQWRELU8wODlXYkM0TXprdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-20 04:28*
+- **[Copper Holds Loss as Deliveries to LME Mitigate Supply Crunch - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDhpZVZRdnZ6NzZKRVlJWldPVldVOUhZckJRVHFKNGFaa0c5ZmlpZ3NLMl9KVnUyTHdvYzdqZXpPbUFmV09zYk12ZGlDOHY0c3NuUlZWYTVpRFJjN2ZvYjZmdy1SOEtrZmJOSTJhWGlEWnk0dkdaT1JYUUotLU5nQ0lqZGstc3Ric0VtbWlwVUdaSTFZRjdJWnVnN0VGa245Vmw1M1RZYlBvb25YMzlaZm5B?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-19 18:23*
+- **[Copper Firm KME Is Said to Pick Banks for Unit’s German IPO - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjJPeTVzT1c3VUJmeGRtaFFDdF84RDh0MHF5RGZYTE5TMmVPNHBkNWxPc2pKaHF1MGpuQkJaLUV3REtUU1prV3BvNFpGQnFvMHplY1AxUDUweThTS3MxanpjdVN1bzlQSXhWVE01TUhpOThyWUJYcUxFcFhZcktMbzdQdXp6MGZKWXYwaEtCY0tDQjc1aUtHdFA5MUJWaWhoVGktSFJ6dWg3bWEtSF9R?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-19 14:51*
+- **[LME gripped by flash squeeze as copper tensions boil over - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm5fckwzY2hpTDlrWktGQV83Z1o4dzhqV1ZzSDF3Sm1NY3dsa3hrSFdVUERaMG9QX2gxSkNWU05kSnRnVzdsOWNRYmVnYi1xV29odFkzN3RFOG1pREtGM3hjUzg2LW40bnVHT210RkV6U3hoWE8xTlZYVDlxbDFySGdiemRoT0pXZU5WaTY5VkZnQk9nSDQ2aTZjX1RmdldkOE56NnA0bVF1cXNoVF92QnpualR4ZHIycFoxTExOSEI?oc=5)**
+  - *Source: Reuters | Date: 2026-08-19 13:45*
+- **[Watch Copper's Upward Trend Can Continue, BlackRock's Evy Hambro Says - Bloomberg.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxORE5MeTh0Mmw1SG45YUJWMl8tNklKT0RfODBnR0czM0t2ZmlYNUhxaWZlbEhwdVVVaHprRHRVSExLbmZxZ0RxRVl0ejljc280NnFIbGM2YnVMc1V3b19fT3d0SXpfRzA4bGoyQ203LUN5R2xSc0M1Z0xuVl9PYnNoOHBPTmRJN05relg2bUhtMWJjVWFGcDlFYThNd3BueU12VEgtNUs1NA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-19 00:00*
+- **[BHP profit tops estimates as copper powers growth, to pay highest dividend in 4 years - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORVh3N2l1UzU1OEVxdVVqUGw1R3owaXZJamFvQi1SVUo1M0VuMnVCTEsySXRTZkRwWXVPX0t0a1dtN0RtY24zdjBBZThGd3NHMGExRVEtOTFTWm5IdnVGY1Q0Tm9kS1ZRWEJ4c0JUZ0ptLWdSMk94cGJ1WFk2QWpuYllHLWxVQXMyTnBkZUtLd1Y2SkJqTjFqMnJrY1IwaGxheDBVaUZkTUZKamdJR3VEUTdCbmlyTld2ZjV2SGlQNWM?oc=5)**
+  - *Source: Reuters | Date: 2026-08-17 23:48*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-19 06:36)
 
 - **[BHP’s copper pivot is paying off - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbERhUGtlT0VoZDNrLVBRcks1X3BYNWJxS0JsengzcHpxZWp1OHBCcG5tX3FLWE5DNnVYanctdzVoQllfQURPQm1OTEpvM1I5aHNTRVQ4NlZHRHhvcEJTZV8yLUxkdlpfd1NUem0wMEl4bXdHaHZXVmlydVF2YW5RWDZLWEc?oc=5)**
