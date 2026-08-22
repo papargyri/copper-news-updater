@@ -21591,5 +21591,78 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-22": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 11,
+        "articles": [
+            {
+                "title": "This Mining Stock Is Quietly One of the Best Trades in Energy - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDZrM25ET0hJTmFWR3RLSGREeXpsMktNWDZBaUJ4d0ZyejJlT0FEWmtRb3FoY2xkNjZnb2NrNF9SM2lWWUpJTV96REs1Q0FwTlhodzVMZmt4aEZ6NW1Zdjg5LUMzd0lJdXo4TUM2aWRPQ3JNbkZzaEwwc3VJRkdOcFBQZnUxSWlWaVJQbUpxaTZpQWpEMzBsa2wwdVVDVXB3MHkzbTVkMUhyR3Z2Rjg5UlhFcTczWllLMDZWNVk4V01VbEVRSDQydndVb0pmNXNscHNBRWZDdVFUMENVdmdNYW9R?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "This Mining Stock Is Quietly One of the Best Trades in Energy - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRWtBdnpNdmtYMmZDZ1dBcklVcm4yaWV6Y3BsNGQzTWoyUWVkTWdoQm11MlZGenFDaTg1RE1ZamdZbXhmTkluQ0I0V2NOSEFLbjBqZ3lJR2FXS1N4SGdSZ0MyQXJPNkhiVm9uaHlVWktSSG52dEo1MzZSdkhLb3AwVmVGWkNhV3lGMjdZM19OdkNMSmxjRFV2aDdjOW5iLTNielYwSWhTOFljZEdvX0Z6TmpjNmxoWGRwcWR0VEtTNnQzTEpVM1Q4Q0lEbDJxTTVuUlZfaWFTaw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Javelin poised to drill gold-copper targets at Coogee - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXFVc0xCaTFFLUM1WFhOb2tySzQ1SllCSUtoN0VnZWNSbnRzQ0RxYnA5X0ctOHJvUG5Qcy1xcnBnYm54NnBZXzVKMTZ0aXZ1TFgwVFJMdFNObWtNcXl1Um5KSnhnR0pVdm01bU9xa3hlUmlDNDBWOU9mOS1aSEs0Q1pR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "COPPER GIANT ANNOUNCES CLOSING OF C$31 MILLION STRATEGIC FINANCING - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWY2ZlZ1UTliQ3VWUk0xWWV3YWJfb3NtSDhqM0JuR1Qyekpra0NXNXRCbk5DZTdLcklJVzNrUnZ6aVdtRHgxNGlYMTJhb0cycmEwODFVcHRtbFpIQ3puMjM2T3U4bVlyZlhYQ2MwRHVTN0JoaU05MjRJQ1Q3b180b3ZzbmNpeW9SZW1Uc3FTelRxMlU3eFE?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Strong gains for gold, silver and copper put materials sector on top - MarketWatch",
+                "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPNjVQSkp0RUM5anhwMWhFQWc5RGFld1lNR05OLUo2SXp4T200czQwZ01DM21UenVrWGlTSWQ3QkZYX2V1eTBsOWRuSDdkTlNaYU1USURiNlpfNlpyMHRNNFN3MlB6dExiX2pkOGliODFNbndkUEcyQ29ibnJDczZhcE9oSk1LdVV4WHBVYmwxazFrMkN6TGVQTmxyXzB1dUZKMzZUUEwzRDhENHo3U2ZFbTBTNk5KRDR0Q1JTZ1BybmhCeUdmeUFSVjJYMFNDcXNGNkQ4dDh2blUzVnllWnhQdUNEVDIyN3NNZTA3djlidjJtZUZ2dkxkVUx2WGZZTWQtRzNfU1ZWcGVsdUVxaXVWWU5FMWdmbnJJeUpEY1VhZnRHVmlJWnpkTk9OcURQRmNVQ1BhYkJwWFNvOFV2Unc5QVZJVjhVczRDYmV0djEtc2dfN1ZKV04w?oc=5",
+                "source": "MarketWatch",
+                "is_premium": false
+            },
+            {
+                "title": "B.C. company starts approval process for new major mine northeast of Kamloops - Vancouver Sun",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVtZDNXanJrYk5KcVRXQTVBTHFPRWY5eU1xclNmb2lYMWdwMHhmRV9Ra1gwOThVRVJFZkNTcUlZQXVVMWIyV2RXQmR3VzZpTHVSNTBaeG9lWGJMZE1lcXlicnJLRnFjQmpPMzBQazlqM29qTVA1TlJCeFpaM1lXRHV6clE5Wm8zaGk5S0hyemJhVS05UTEzY1Z4MFpLaGNZZXQ1NlFHeURQT0l4blE?oc=5",
+                "source": "Vancouver Sun",
+                "is_premium": false
+            },
+            {
+                "title": "Harmony to report substantially higher full-year earnings - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVVOVHZSR0FydThCMFpoOHVJTk1LU216dS1Ub2VKTnVmX1VKYTRzaUVEN3BVdWRycW5FcnJ3cHpXNEtOQzZ6Y0xhMHZrMVRXN1k1YS1qd0lHek9seGJhamZRek5sNmZaU1lWcU5mM2stQS1zc0M5TDNOWTI1d0c3Nk50c2hROEwxN1VQcGtWY1dEakZ5dnBBdGVjYTFSRHJ2ZGttUkpGSVQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "ASX mining dividends and buybacks rise as gold and copper stay high - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVVlNVZoTW4ybGUxWTFGZDJ3WWRNcEN5ZFdPYzFRSnl4REFzalZSbzR0Vk5WdnlPUE0tMC1IYVJGNkhXNGRhWUZTdGpaME44aGZYRnBRUnk3cjJtbDA2a1o3YWtfUmFJcG9NcWI0S1JaSDlQVnUxMldJVVpCTm9JR2dRMUw2NEZsNGY1aFp3ZFpDSkJB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Las Bambas halt adds to South America copper woes - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYTjZkV05OZHpuU0Jra0VqXzNhVzZHTkhlOGFPb1hnRWN6RE0yei1QWVk1YzJQdTBJanJnRG93S01mY3pLbFRYRUJ3YzBDdWdJMkVRY1hlWVQwTjN1VkFmemVNSXBWaVdxdTU1RUhmcVh3aXV1c1d2dTQzM0hFdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Peru investigates fatal accident at Las Bambas - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdkRSZzE0OFF6OEJXbjdHcE5pRUZsMjFPTmJwLWJQcUxubjdGVTk0b2JVRkpOTVhXWkV4emFhTVlRZE9hN2FrMExfOGZwbXBhM0haSFZlZVRoNFZ1Nk5DSVpBVHoxeTUwZFJHaUxaTjhvejFXRDBvUA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWp1TlhrZ3pNdEYtczRpWFQ3cEdMODJtbnNDZFY0VjVLR05ENlg4WmxkQ0Nmd3ZMZnRDSklETlhCNUtfclFhMThMSk4tcFY4bmhFaFhaYWwzREZmZmEzYW9zZ3ROVk1hZ3RIRzdfUzJPS0ZvZ0JUS2dpUi1SZExqbGVMVGZPM3JpMVRkM0FSaEJvcldnVndOdkpVZDc4X2dGMFhUUGRWbWJqU3c?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
