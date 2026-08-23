@@ -21664,5 +21664,24 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-23": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 2,
+        "articles": [
+            {
+                "title": "RIU Investor Roadshow puts gold, copper, and juniors in focus - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3VhWGhodXdGN3VrV05mSk5HZGEzX0ExelR0RFlrMVkwSDN0d3lUWGY2b2ZhY3Y3dmxkczBsTng2T3RkazhmNDFlcGpuU0dVM3dzQVQwakYwVnNDU2FqN0RCZmRxNHowMEFBZlhXbWl2bF9kOTFGZTFLZFBDMUVXSWxGajBDSVY4ZlE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Does a copper-nickel mine near Minnesota's Boundary Waters make sense? - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2c0VGlISEpscDUzVXVIczF6VmFPU0RETEExOTJUOFRxRXRnOV9pMlRBdzBQZTdVUnBoeXZyalBiVTE3LWw2aTY1eGV0c3dZQ0RWcUthNkhmdVlGTmgxQkNRY2NiTnNkNUh4VEo3cDJQa2tpN0MzMjJrdng0cTBzRkJxWXFEZWZM?oc=5",
+                "source": "CBS News",
+                "is_premium": false
+            }
+        ]
     }
 }
