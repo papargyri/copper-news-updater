@@ -21683,5 +21683,78 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-24": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 11,
+        "articles": [
+            {
+                "title": "Nelson discovers copper oxides at Gold Point - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyYTVpelVTRjgtNUZvekVzazlYLS1DQ2dyTm1ZTDFELTh4bWNDSGlwNzlyLWZJWGU3VW1Ua3k4MmVqakpQNWluUTJKMlBZMTBKQ0VPZS1lTllJbFZzQ0dCd21kMTR6ajFHNkV5UnJueG1rVXgzcEE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Phase one drilling confirms large copper system at As Safra - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFB2alAxV01hei16QkNxQ09NU0xjZk5GR1JvQnZlRGhici1nY082YXQtWEh4bzZja0pJMm1RRER2bjBlaldlMjVtYWVKemZKak1ITFNnZEttc29SaVg2c1F4dGRZNkcwaHU5eEhkSFZVWG4tR2hUU0E0eUVlUUE4N0FUajFMdTlJN3c?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "BHP shares hit record $67.72 as copper rally powers miners higher - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84cHZLRGp0YjM1dTFKSF9UREJTd1h0ZlhpSUV3V1VvREVvNDl5WGdTS1EzZkFIbmw2d2MwcVJwRVRNb0VzbEdfWnBIOHZuaFpvbmhCOWgyaTlnbVhuUjB1bXhQQzZPQW03bmhEVjBiajVPSFdXUHR4eE4wUDE5UQ?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "BHP shares hit record $67.72 as copper rally powers miners higher - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02V01Cb1lsdmZjQnF1NnRRX1phZXZzVlBRS2JRbFdiOUIyYzdKOUp0YU05TDZnbE9qb3ZVOWJBUTRib095M2FaY3B0Z1NEYlU3a2RqdzdjdDJpcWlYTTFCSDMyaVFVZDN5aDU5R3llS0ZzVm1uMUhOZU1walhPUQ?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One completes phase-one drilling at Majuba Hill - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmwwazZfZ2dtSzZyeWVZbG1lcFZma2ZjdURZNm5uZGZ0R2N2SGNFeGgtUW9GZWpkM1VJR2xWRzNwcE11T2lLZEdKLVRfVUNpTXBKUUpzZDlaSE1hWTZpaHdmeV9nZ1BqMjRzVEtkc0R5Nng5cm85TDZsVGMzTElmeVZRbw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "American Pacific Mining\u2019s Madison Copper Gold Drilling Programme Explained - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUks4RVVHQ3lZaElFN3oyaGxHYTVxa1R0MkJ6QWlKVHI2RzdRRzFLMHZFTVNtWVhSRGtnSl9EcE1iUUpXRUxPUmdYdmEtSzlYZ2tIVHA1VjFJT2RMNjFuMVZOaXhOeTcwZHItTXl4dFFHQXA1NWFNSEd1OURUaUlVUl9XWDNaejdjNkxFUEZVY0YxUQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Morocco Strategic Minerals advances copper targets in Morocco - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb05vTXlKZHc2anVpdlI5NVZOdG5VaG0zV0xrQXhUQWNfRUxMZUdPRlZvazJvZEh2N2Y3MkJ5MWFUVWR5VDVNS0lpNlY0WEtoRTk0Xy1aQUFtNkt4c2JLSzJNVHJCOUdwZW1SSjlFcWFvUk9nZG5KUTBpV2JCRWx0QzU4LWdwYi1CMXMtaQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Peru\u2019s $64 Billion Mining Investment Pipeline Explained - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjBJZ3BQMWFWcGk4bkFjZU1FVlRKcHVXWUZsd3JVQm9lWUM5SDhSSFdrcWFabEEyWUZVb1JiRlpPQnBEcm1DellrUVBVV2xubEFWRnNYMm9QUWp5TDgxbTlqN0lDdk95d3h2bklhbzFycW1Xb1RxdUgwV3dVY1NhMzFQR01VMTB6?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Extracting Copper From Legacy Mine Water: Opportunities & Technology - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFFmcDY3eDdMREdVQ083NER5TllLZERydmxVT2l0eEdCUkZ2UnFvZmZadVRRblVKWTZkYWUzWkVLbFZaRkdIUV9femxYZV91Sm5xU3RHd01ib2RnSFZNUWdKRFN4UVB0RGV2Uk1xbzlzYl95UjBsTmFYUXItenVtQmttSXI4SjFrMWJn?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "BHP and SiTration\u2019s Arizona Copper Recovery Technology Pilot 2026 - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUF1TmZzS3pJTU1Nb2dLemVrQzg3YmdhWk4wMER2aW5ZZmFEd3MtTkhmMkE3eWNnaXhVQ2J3aFRudHFvaWlGbU1zdzVMMFhWbnpRRmN5ZUNYRWdHWXFvdksyRjJfUlhybEViVHpvVV9uTmZEdDcwelY4X0ItTGpiTHRhdVRzUThZ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Key Drill Results & Explosive Chart Breakout for BC Copper-Gold Explorer - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVVwQUlYTzY0bVlsa2IyajJtYmlQbDFsYXo2VVZRS0tZUC1UcHJoSnNrSTYyeUIybHBCWEc2VlRuQUtSTDRibWcwYjdsZ1pqcWFEeUJRREg5RkhIcDRaSTgwY3BDR1lQWUtsRmM0Mm1weE94dWNieTFEMzNRTVZkTkhYZW1saEpQcGZPS1FaSjJuM3Y3X3Uwd2dfNEZrbVhEYnYxQmpuR2dPckNnSDkzTms4VWl1NTVKbVVBSzlhRUxfTTZ3RVFNaWVydmw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            }
+        ]
     }
 }
