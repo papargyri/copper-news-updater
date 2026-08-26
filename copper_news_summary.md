@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-26 06:39)
+
+- **[Copper Climbs From Record-High Close With Supply Still Tight - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlRUZWdYVzRwR3JUZjFWRjdPNTBCd3VlWXZsR0JCZDg5M0hfSU1kZlh0OHV4dGJWMGhBSkp0eG5Ua2VvZmtvTmpHdVcxdGpwTHotSFVYSjY0aGtES2t2SDlKMjJJVkhRR0FULU5uRGIxNnd2ZjBlNWdoZkNmVnl3bVRIcGZFLXNpVnIwMUdYNDJDNVdwUk96VFhyU0VrSXBTaFNtalNlalh2VF9JdUdrbA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-26 05:35*
+- **[US tariff threat upends copper surplus as prices test all-time peak - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxOelM0dUNmR3Y2QjBqdkNNdmZ2LVJ5c3hwR1lIUk1kVHNJcFp6VEp0YmdROUh1ME9YN2syOEtEaF9yZDQzbmszWnNtU0toX01SaHItUmc1RWdHYUZMRFpmMGZDaXMxeGViRDlnbnFKY05aUzZ2SE5BWDRycVQtZDBybWRWTWVzTWU5anpIZS14SFlIRWFRSF9WdmNPeHZMSDlQT2NnZ25nQzNZcmdKcmc?oc=5)**
+  - *Source: Reuters | Date: 2026-08-25 22:49*
+- **[India to sell up to 6% stake in Hindustan Copper via OFS - Reuters](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM19ydlZBQjhCdTh3V3JPd01hY1lsS182emhoYktlNGlIQXVhamZiSlFzNmFiTVR0V1RUbXFzbUJmLXZRbjFfSkhIa2NhYmVaVmQzUE0zUnZoX29LREhGWXd6aFFzR25VeDVXNlJOUHVId3FLQldUaDlVWGJsX2h0Q2xVWklLTnR0QkdtdzE5QlM1N2lqVUIzMERB?oc=5)**
+  - *Source: Reuters | Date: 2026-08-24 13:39*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-22 06:32)
 
 - **[COPPER GIANT ANNOUNCES CLOSING OF C$31 MILLION STRATEGIC FINANCING - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWY2ZlZ1UTliQ3VWUk0xWWV3YWJfb3NtSDhqM0JuR1Qyekpra0NXNXRCbk5DZTdLcklJVzNrUnZ6aVdtRHgxNGlYMTJhb0cycmEwODFVcHRtbFpIQ3puMjM2T3U4bVlyZlhYQ2MwRHVTN0JoaU05MjRJQ1Q3b180b3ZzbmNpeW9SZW1Uc3FTelRxMlU3eFE?oc=5)**

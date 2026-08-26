@@ -21889,5 +21889,138 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-26": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "Copper Climbs From Record-High Close With Supply Still Tight - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlRUZWdYVzRwR3JUZjFWRjdPNTBCd3VlWXZsR0JCZDg5M0hfSU1kZlh0OHV4dGJWMGhBSkp0eG5Ua2VvZmtvTmpHdVcxdGpwTHotSFVYSjY0aGtES2t2SDlKMjJJVkhRR0FULU5uRGIxNnd2ZjBlNWdoZkNmVnl3bVRIcGZFLXNpVnIwMUdYNDJDNVdwUk96VFhyU0VrSXBTaFNtalNlalh2VF9JdUdrbA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "comex-copper-price-ytd-aug-25-2026 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkdoYkpibVZSMVlDc2FDLTdMWnZrRG9PMVhpNjBRUEtUdk5kT3lCQjNLZTFWMEpuWVN0a2tJUVYteDZBSGh3WTg2RDlrUXl1RS1XU0c3SDFxbXNyUnlTVTVrcjZpbzVxM2ZEVzJXX2dKcjZydmk0d0ZRS2tqb1oyQ0lfZnZWMkdTVXI1VkpzbjhHVndtbHZQTEJtcnNlTUJSc3pvLU5WV2R3bHZaR1Q4R1lndXZqT0JwYXc4ZFVkWTZLQlV0VlJPQk8yVkJFcHM?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Green & Gold flags copper-silver-tin potential at Elizabeth Bluffs - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaTU3OFV5d01fU2NUMENwODYzTWdPTEg3OVo1RDhkbUZETlVob3dVOThJMnktdi1NNlhXM0h0ZXlpTXB6T0c4dmFIeVpfSGxCWXRrYjd2QVlmYWRWckpnN0wwRk81TXhKV1dCS3NOSVRUb3dwcUN0dzVrbzA1Y3JnTDBZRzJZNmdWa1JCQ3dsdTQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Highland Copper secures $70 million Michigan grant for Copperwood - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkZ3VTFMSmUxQ2pwSTZuR21nbURCRUw3YUVVTzkzSjRsOUk1U3ZtYktyTGJSbE9hNkRLU3R5dk9MTXVYUHd6a2ZYSzdPdnNQSUd5YXZqb05icjRZeG9feS01dy03NEhmeVJqbXJwUHV5dTNsYnZHYlB0YmtodHJ1Y2ppekR4cmtqYXFhWDFheGs?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "FireFly\u2019s Green Bay project leads Canada in spending efficiency for copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXhvVEFwWll1QWNKYktqRUkyWFRRekEzQ213cUpnYWdrcXlvZlZDR1F5UXFGZ2ZhNUw3eUZHcnZzdmpaQXFZcE1COUNoaVk0VGdBMGZtZ2dzSTNzVjZZRWFRZlR6c09oTV9wMXVoTnFnRHptVGJOZHRYMkhvc0FfbV84TnJGWS1QeFM3Um9JVE5LdHZjOGpLa2JrQUg4Zw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price hits fresh New York record amid US tariff threat - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzdfVlRBREpJcXVvUkY3YjBDT2ZzRWxvRjlyYklpYUNvRlotaHB5NnA0V2VZVGdOejdtSVA0cXBielZQS1BMZHowM2czQzAweW9zZVktRFZWc3JXUzBPd1oteTU2QWdqM2FfVFduaTV5andwa01VNWh3djdJQllXcTNvaVU3elQyV05uNg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco, Pucobre formalize copper project, targeting 2030 start-up - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWU3S0lTYVNtcU9SZTNVSThab182TV9iUW8zVG1tMExuZ3FYSkUydkw0ckNldk50UWdjekRVTnFzS0V3XzE0V2NLSzhnTklLbjJEVExVSTR0cUdNekFCMVBnNk9fYW8xeU5ydXBVdVNUZmVTbGt3RnN2ZlJ5WHhFTy1jVkpTQ2prbXRYQTNCZkxISUhwSVVJ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "US tariff threat upends copper surplus as prices test all-time peak - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelM0dUNmR3Y2QjBqdkNNdmZ2LVJ5c3hwR1lIUk1kVHNJcFp6VEp0YmdROUh1ME9YN2syOEtEaF9yZDQzbmszWnNtU0toX01SaHItUmc1RWdHYUZMRFpmMGZDaXMxeGViRDlnbnFKY05aUzZ2SE5BWDRycVQtZDBybWRWTWVzTWU5anpIZS14SFlIRWFRSF9WdmNPeHZMSDlQT2NnZ25nQzNZcmdKcmc?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Faraday Copper Shareholders Approve Share Issuance in Connection with the Acquisition of the San Manuel Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE1POXRfekt3Um5keEtVdG8yRmlCX1dWbDF6Y0xnemZtaDg5YjVYSGU2VU9fa2N1a3pLUFNWcVpfWlBiVWxsZWJkaGkyMnd3cnQxWUVGbl9aY2diVWVSdm14NGZ3TXgwemJtXy1teUhjbVY5bTdFX1JYb1ZaU1ZIRkFmdHNyY1g5UndrSkR3YkJxSmhnWFZHdUx0R3FPNGYxVGpsMTByNXE3Zw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Are new tariffs a threat to copper stocks? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaE1XR0hNSUVrVG1qNUxkMGhaZy1NSjZ2Ty01SXIzb0N5Z0dhaGRPOWNaMXpjTXZwZ2c2QW9MTHVMbk8wX2E3NTF1S1VJRkJ6V0I5dlF1SUMtUkoybWFOQ096TXhTQ1VvSDkxcDVRcHlXR292MTN0N3A5M0xyRkxJMmVLR2pCUVJoRlYzb1ItckZMSEtzdjBSdDlQNl9OMGVpNGxWejJLMW8wVWdUTDE3SGtZMXVHOXNqSkxuVGdSb1RQZzVBM1BkcHpfTQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Kamoa Copper orders more Sandvik trucks for DRC project - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWE1xejc2ZmQxT0w5dTM0SXZxaFNrNHBqNTVsdTkzMkJueW1TQ2VCNWVOaDNRVFNvVEFncVI1MnMyQ09PVF9RUUpJVDM2U3hFeThkR1F6QngzdXV4Tk9VbUcxd3BvRUhiX2ZOdjg3YlQ4M2NYQk5ma3VLejBycVcwWWlnSXA2SGNkRnY4OU1pX0UtdDFNMUZ4NVliTENfdjBa?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price sets fresh record as US tariff threat wipes out global surplus - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEUyeTNaaUVzLVdUaWk3aE9xUVpPLXJhckN6UTVINllwUUNtaWZsMV9ObEdKTkZaMWJqUVBQNjF1d1pLNnhLR1lyRTRRall0M2VfUHkxZkFnOGU5RFBobUFsenJXazJLc2RlV2VmMjJWbDdiYVYyNEZfeGxFUTBvSmh1Q3pmOXdhOU5HTEJaaXlOdDRZM3Y3M3BySDFKbUI5?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "A Few Traders Now Control More Copper Than London's Vaults Actually Hold - Startup Fortune",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORlE4dl9iNFRkVVlhMVVUbldiZU9TblFxYU5oalUyLWo4TWxnUE03SF8zMXI1MUtxMVU5aWFwVHVEa0J5cEo2dDl1eXdBOUNNc1hXN3VYUzgtMXZPUmlneWZmV3FldnhiZFllQUh3aTA3T0UwS0UybFFFTHpDN00zU0VoLXFPbXpIMW9FNnpIUDlLR1JyTGY1V1FOSVluNzlR?oc=5",
+                "source": "Startup Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "SCCO vs. TECK: Which Copper Stock Is the Stronger Pick Now? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdjRfLWJQVkthcTVva05HTmhTUThDOVNsX2ZWb212TFFTSkdGUExmT002QlYxN0d0WnFGdlZYdGI4bURLT1N1NUNmNmZCdlpUc2Z3WEtIX0hVLXRnWjZlNVdDdjBDQ0FPbHQ1WEQ0WTBjRFRXQ0wteHdSaVFzSS0xemVCUTBxY0d5R1F1UGJpcGViZURRNmd3Q2c4QTE0SWtZNDc5M1VjRWZjdWhENDRyMnE5T1p4c3BZWHFWM0Z0T3BQSXY3M3hCZldGeHBhWGhUUGpUYk9NNWE?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "A Kidney Transplant, Ignored Advice, and a President\u2019s Surprise Pick to Run a $160 Billion Pacific Island Mine - Organized Crime and Corruption Reporting Project | OCCRP",
+                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWENrMDdVMVN6dDhybUZYUmtjTG9Mcm1HS1NPbDUtN2FJVk1zWnhHSnZXSWZhRVpoRHY5Qmk4R21EQVpVSExMUmtjUVZDV2ZtSjEzTVlGLVhxSTRFR2JXSVNTUGZXTkRneWZmWnJncXF3TjBQNVRidFg1dW5HbHAwSENwQlowS3JEdjJ2QzN2Tmk0UUVTa3otUjNDcG16aWlod1JSZnVqcF9yYkhBNWFpUkE2VmZGaTNtM3E5WWZRSGwxc3dmcV91R3dCN3h0Y3F3UFNUaFJibmx4NUd3eDRzeQ?oc=5",
+                "source": "Organized Crime and Corruption Reporting Project | OCCRP",
+                "is_premium": false
+            },
+            {
+                "title": "Sandvik has won another order from Kamoa Copper - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3ZYa1pleFIyQ3JKdlRvTGstbFJST3g0c2dYdWtWbzBtX2tBNHYxNmJFMy1yYnFSaXVzbkw4NU8yR2psSmRadllqa0N5c1o4NHJ0NUZiRmZHRFFrNEszd3pUdkxzVXZRaGctb2VvNl90aDJMUExwb1Bma3I1UzhsVFJUdV9tVExFakJNWnkwX1hVVVA1YkFoVEdMQQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "FireFly Metals Green Bay Development Case and A$190 Million Raising - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFAyck5yR2JNcVBVc093eWdQQnJwUnZvTHVfcjB3TzFKU2Y2ejhhS29TRGJTWThHQmNsTVd6SzJZZ1dzOHozWHF2ZnN3Vy1wUUU1dG5ubWNWaThfckc0UEplNmc4Ym4xd05FOE5ySjcxQjlBdHZ1blUzN1NPY3FEU0RtMU1TVHFGZkxEWC1fSHQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Grading Top-3 Mining Stocks as Gold, Copper Price Breaks Out and Dollar Falls - TheStreet Pro",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmJsUHdqbmgzZDM0WTU4a3BObFJtbTlhdlREVDNXVWM5eEQtQl9XcVBuTXc4MUN2TVhQTWRhY0Jaem5VWTh5QWxhXzFvZXBMLWdTWUNNaGZZcGM3LUtLNFJQX201QXFXWTVQeE1XRVFqenFtcWluMDhqSEY2TV9YRUg2ejdQSFl6SDVfNk04aEZLZU1WYmlpNGhWeF9tRFp4dDFpdnBHYThnSXA0WjB2SnI4QUI?oc=5",
+                "source": "TheStreet Pro",
+                "is_premium": false
+            },
+            {
+                "title": "Botswana, Chinese-invested mining firm partner to establish technical training center - Belt and Road Portal",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HUnduSEZ0b1hrMnFaeVJGOTc3MEpWaDdESFBwRmJnRzlNNUtfVDVVQnFRY2psaDJrdmRCcGRpMUg5QmRFaTJ2bUZxM2s1Rm94SE05ellfSQ?oc=5",
+                "source": "Belt and Road Portal",
+                "is_premium": false
+            },
+            {
+                "title": "Zijin says copper target under pressure after Congo mine flood - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUVndW1DRTBSUFhZanVCamZyUmlMWVVOMC1uSHZNNGVUNzByaGtFSndSa1RlWUNSSE16bUs1UlpLbUJiRVlGRDdBTFZ5N1hKSmh6QV9wa1RqWGhiNHJNZjBNZmM0VWhkbjI2T29GdDJpUnZvWXVUalhsaDZLUWFJMENkd1pKRGNIaFFwUWJjeURUVURv?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "India to sell up to 6% stake in Hindustan Copper via OFS - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM19ydlZBQjhCdTh3V3JPd01hY1lsS182emhoYktlNGlIQXVhamZiSlFzNmFiTVR0V1RUbXFzbUJmLXZRbjFfSkhIa2NhYmVaVmQzUE0zUnZoX29LREhGWXd6aFFzR25VeDVXNlJOUHVId3FLQldUaDlVWGJsX2h0Q2xVWklLTnR0QkdtdzE5QlM1N2lqVUIzMERB?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            }
+        ]
     }
 }
