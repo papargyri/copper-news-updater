@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-27 17:15)
+
+- **[Argentina, Chile revive cross-border mining framework for investment - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZUTQ4OFUxdjl0MlRRUTR3ZmdHVjJGdHRhRDNRaE5XeVU5STNUcU9QZWZsUGJZSHRsd3dYSElHRnZUR3NYMXpCWGxYNlRaY2oxeUhYYzBnMk5EM1ZXcjRuaHBvUFNlUE1EMHZUN1RfMXZaM24zRGJVaFlaVWM5bnVURXRxQXZRbDB5aHRjSy10MjFoX2NXOUIyNFBSbm0wSi1ZMmktaWE4QndSeEVKQ1phbmM?oc=5)**
+  - *Source: Reuters | Date: 2026-08-27 15:16*
+- **[Mota-Engil Said to Win Deal for US-Backed Congo Copper Rail - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnBGQkZIT1hmcEdIZVFWVFROQ2NfV1JtTmZ4WE9FY3R5VG04Q19DUW52aWNyN2xtNDVYSUo2RDM4Nmo4eUlNcWg4Z0hBYTZKYXZoRTdxUUpFV1ZWMWpoYmVpNmg1a2JTUkJkaTY1eTB5MmxxajdQY1FhTkxHSjJIQncxTExpVjRTLUJlX3NYZXBiZzZvTk9sekI1SDRDN00tOUpwMzF5RlRRNW95OG5yM1Rkbw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-26 09:27*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-26 06:39)
 
 - **[Copper Climbs From Record-High Close With Supply Still Tight - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlRUZWdYVzRwR3JUZjFWRjdPNTBCd3VlWXZsR0JCZDg5M0hfSU1kZlh0OHV4dGJWMGhBSkp0eG5Ua2VvZmtvTmpHdVcxdGpwTHotSFVYSjY0aGtES2t2SDlKMjJJVkhRR0FULU5uRGIxNnd2ZjBlNWdoZkNmVnl3bVRIcGZFLXNpVnIwMUdYNDJDNVdwUk96VFhyU0VrSXBTaFNtalNlalh2VF9JdUdrbA?oc=5)**

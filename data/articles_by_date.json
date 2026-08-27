@@ -22022,5 +22022,162 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-08-27": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 25,
+        "articles": [
+            {
+                "title": "Finnvera to finance up to $132M in Troilus gold-copper project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWtLSTRLbGxpS2lfRmNSMFQ5U0xVSHVud3RXaUtrblN0VVRINXhPM2RsOGU3SUZHcXJ4WC1kRWJmdnZza0hyOHRMTGQtc1hWMDNtbjVvNmRBTXJ6TGxUTklrWFlOQ1FOZElJQi1WbkhucDExRXE5SVpENjNiOEZkUVp1cTUyRnkxY3N2dXJR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Argentina, Chile revive cross-border mining framework for investment - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZUTQ4OFUxdjl0MlRRUTR3ZmdHVjJGdHRhRDNRaE5XeVU5STNUcU9QZWZsUGJZSHRsd3dYSElHRnZUR3NYMXpCWGxYNlRaY2oxeUhYYzBnMk5EM1ZXcjRuaHBvUFNlUE1EMHZUN1RfMXZaM24zRGJVaFlaVWM5bnVURXRxQXZRbDB5aHRjSy10MjFoX2NXOUIyNFBSbm0wSi1ZMmktaWE4QndSeEVKQ1phbmM?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Africa\u2019s largest copper complex switches on the continent\u2019s first round-the-clock solar battery plant - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYk13QXBtLUZkc3JLUGo2Y00wOVRlMWRYbktTRXFHSDhvOUVTdVdMZ0g2RU81cGdyRlotd3J2dUdrQU0tdTAxZ0p1ell3cmFNaV9zM0k1X3pRdndCN1BEMEFlcVEtY25TMzdXdm5jeWR3ZC1TYWF5ODNEanQwTWpGNWRJOExDaGxpZ1VKYVcwcC00U0RneHpKdkpSQmcyZGlYOXFSU3hmbTVPU3Q0dGZCX3c3QjNjQmtvV0hXNjd1U1YwcHdHbnRKQ0RzVXNyY245aENITFdmWmVtdw?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s record run is sending three clear messages about the state of financial markets today - MarketWatch",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSk5EMkxtQTYxSnJNcDdtMUdTcWY4QzFfS2pIZHBlNXhSZUNjVmMwWHFDNThJMFQ0SkZ6YUhqSlpXSEtpLVhDVld2LXRKNXNPaXh3MlM4bDVaYy1yLUh6bG11VUNxS01KU1ZhcDNuOWd5eG5lYVFqczY2Q3N3X2NpQzlxTTB1Y2hBR09rWXJwTzhMcEMwTHdyNHpiMU0tLTNCTlktTlVVUWZGaDI2ckZPT016MXRFUUV1dW1Ca0xYai1yRHZqYTVqNVEtcmlNTEVwVzQ2NQ?oc=5",
+                "source": "MarketWatch",
+                "is_premium": false
+            },
+            {
+                "title": "Ecuador's Copper-Gold Buildout Is Accelerating. This Carried-Interest Play Just Got a Lot More Interesting. - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOG9Ed19GR3NpMmRoUnZSaGZ5QWJMVDdZcDhucVdUUFFCTUx1Nk5udnNWanRWRE9acHV3bGw0ZjA0eU9FNEZWWDJ0c3IxdFN5cUtwakp1N09IRzFCZGhfVUR4Vmt2LWRyY3BDX0hBVkNDRWxKZGUxLVlxT3ZrRU1nQkN4S0FzYUZUM2laY0xkTzhjcVFhTG9nUVYwRFQtX2VHczh5eFdUYzZNVXB0b1N0dGU1WDF6ZFFaNFRUVF9QN1BnblpVOWVpLUF2V0FrakszWVN2cVlfSldxTXA2THJvVGctMVJCTXpLSGhMTC14aXpUMmRvU21MeWgwNXltXzhpU1U2Y1pCWmkyYjMxYU90dU5scGxXVWtkV0t4UQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Moonlight hits broad copper zones at Peak Downs - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HSVMtN0U0c1diVXJjbnBEWXY0djkwekdjZEx0LWRhR016NXNiVUl5b1NZandST2NfSjRLSVl0cXdwUldmblhubFh5QXNJbGJQb1l0YUptQ2VzYzVybFhOS0ZKZkhmdnJMVldMdG5pRWJhX1pzNURUZ3ZR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "FCX vs. BHP: Which Copper Mining Giant Should You Bet on Now? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczNBOGtENVdYMUg4Z3l1eXlqY0w1ZTM2alBSVnN1T1hvanAxaV93ZENyMVh6VmpiZk9JRUNkWS1yODlVYnpmdk5xMTlQSTUwZGczdDVkbG5rejl4MFBybzVaZFZSdmdWa1V1WFN6YWJOTzZYT3NqbE1XTGNaTGs0WnJSSGlYclc2d2FEay1KcWVyMmc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Sandfire Resources taps RBC to offload US copper asset - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVEZneWFGa3dVZGV4OHZfS3RXaEpZRDBhN0JWZWFWOGZwLXh5YzFLRUJkNUFWNkxINmFJdms3cGNXRXNQSlR3THB3V2N4OXE4bi1QWXRBZV9ja3RyVzd4V3BnRVVHWTFTcEo1VXpUbFFwem9FOTd4SmZyeEppUDdQUGdmOTYwSVNiSGlpbXJEd0JTalJDR3Y2UlhDOHB1TkF1cUQ4a2hFTlJ2Y1lhTmNmRmQtbGxTRUdZMjRZMm9PUlExazhlMHUtT2dUdGRvRTllSUh6d3E3VUlXXzdaOC1WLVpMYkROQWZxanFPYVNKOUZfZE1udlBRS9IB_gFBVV95cUxPbENHTWwtWGZBWG00RFhxRWkwSVFQam5BOGhydlJIR3E0Zkk3ZXliZUhjaUVneFlWRHphdXFKN1NGQTNPb1cyRjJxMUxqeFZQYV9KRTRzRnZ1c3JVWUJMQTVkUnBpeDd3ck9KSUxFdUp5eHRKT2hBUTVuNVMzNHEycTRSdEpSaFFUVm1sXzRCSk91amg1V05JZXFSVXVmZ2E1TjhhT0J0bjdReFhzTHJobUJ2WXNUTlhESjg3QU1VakpPeHY1SGtzRWhKVGx4d2tONTFCTkcxU1JxWDNJa2F6UW40QUNTcWJiRTdnOW9YS2FITEk5ck42WXpxTEN1Zw?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Namibia Copper Explorer Hits Record 8.01% Grade at Haib - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmYzWm4yNHJrdGdVTHMzNC0xVmNfYXdfTVNUVnpTWGdDMkVfTTJISktHYTlNR25RWi1SeUFJd1IwdjhEbTBDelJDZG94aHh2VXdaNmxISUZQWVppa1JvX3dVaWpvanYtcTRwb0J4dF9MMEpqSTIzSWswaXc5NWZqYUNabEl2MHBLUDBlaS1RVm4xV2V6RURZc0g4cDhRa29UWmk3aW1RNkhaekhaUmxzY1p3?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper nears record highs as tight supply meets strong global demand - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5lX2JCaUUxc2Z1M0RjaUtZRlhyVFpXdW8yTlAwZHFSa010RWNzNl9VWjZNdm1IYW43dUVScmJjR2Vic3NsV3VoZ2RXMnQ2cGJPYXp0d3lkYjIycW9MZ05helVlZm42NTZYVFFta1F3aC1RbkNUSS03eEREeUVmc0ZscVZnNjF3UDd5bkN2bFQyVk9wQzRTWjFreXB3WkRsYTFXbHktSzZZakhFUUHSAbMBQVVfeXFMUDF2NXlydFNBem9vWWdLWlVfSWJCdE1abDFLZE9FbnBxS0pHUlZSUHNHd1NJdk51cHJFTE5JX2FjcDZSbWh6MFkzTjFZWDNScmYtOWlCbkstYVdUNWNKZjIteV9FVTBpX2pvbWJoRFNyZzhvazdjdW9TN1RtRXhZR0VnWXAzcHBBQnk0Yzg1ZFJpV0J3M0tNbjM4RnlmVnAzMW5rSkwxSE94dHJFblB4NmJkaEU?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Explained | The wide gap between copper prices in London and New York - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXJlSWJzc0ZzeU5hQllGbXZNczJXanczRWdnMkRMVnVlbDhXeVJ3S1Y5bjFFQnZFSTNjbGpmRlg5QllrN3dlcDlrb2dTNF8yazJnbVltUnpDTUtvOGI2YXkzR19sT1N1SjlGZHhOUEtzVlQ5cFI4NEpONHdzVlV6VlpITGZWZ0pjYVNvWjBYR2cwWjE0elV1V1EwTmpuaWlhXzNJSVFEZEppek1ScTdRYndITV9qY0NTSHJfNWZiWWlwZ9IBxwFBVV95cUxORGFIZTNiT0FjM3YxZWdseDF1WElvTWxsSWlmRU5ya25LT1h5SmJ0R20wbmZDQ05IQlMzcHg1NmR0OWt0SzVtNEw2eWgzMVUtNzN2eUtuNU1FOGctYXVqSzc1djJxaE5wZ3Jfa3U0b3BsS2owb01YdGFOWjNRWTRLTXROMTRuU2g4cGF5dFhqMjM0MlBWNTZ6Wjl6OVZPRjIydFJtMElGV0EwU1VqZVlVUVE2RUFCVm9zWU04MTUxNGVrVE52ekJr?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "comex-copper-price-ytd-aug-26-2026 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU9lMklUdnUtNHNxekpOelNFejBpMmE3TTJUaE53TmZZb0hFR1NoUlpNT1RZTndfRlhtN25WYVZwbzdsbzBZOHpxdlJQS19zVjlxNFJuVVhHWlVvQ1ptUm45RnMyaXJ6M3BDWnIyeEVvdnZYTkNyT0JNbUdCOVlLWjdfYUhManIweC1pa3RjdTliejhELUZSRlRCdERFSDVQWDlGZW00UTVHeVJYb0xXSlMtUXhWS1NZUHF4bmo4blREM2dqYjRQUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Camino secures $15.27 million copper funding - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aa0tLN2ljcmZqb0lYdW5XWmJDRENCcFFxb2h3c2hRUjRJcERlMmplamwwaS12X2VSbW5tUnJPd1VjNGJiYmZQRG5tNlVud3BWY29fcnd2b3AzaUZYVm1MSGhndkhpX3JiSEJ0UFNiU3JxbUIz?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Global copper crunch spurs Chilean development - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1N0FGaFZMMExQZFVqdWh1NE1uOWN0ZlpKM3lXUDQ0V0xmM3VrQ1B4TGdPU0pXZVpLWnRBZEsxd1hRc01XZ1JPRnFKVHpKdFJBSFotV0xWU2hwMTNOMVduUnVuXzVkUzhoZTJsN21tYjNSTlhLQ05LcA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Danvers copper trend grows nearly sixfold - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3VQZUhJMFhySEFFWi1GbmNGZC1GenBfbjdPZ1Z3WHNYRVl3SjNkV2JxekVBLURZWDZDWnJQVDRpVnFhakhEeWlORmQtUEdKY09nY3EySTFJU0U5aEhuNmNTTmpad0dUYUlSUnpUdXB2dGJpUThUZ3BnRUloOS1DTzMxeUVwWjZ2T2RfTmtXNWdGUHQ0eWVuMWdScjFHQ1ZWSE9Hd18td0pHcmd2dEpqSWZNcDBTNHBDTTdR?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "US Department of Energy awards $10M for critical minerals R&D - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXVpUm9jbjJUS0kzejdpU29kYmFUcGJreFNTNGt5Z1hBSXhUUHJxWWt2bEx1VXRBV2dOd1pPRWhXUjYtMDdVUnFZYXFsaHJLOXhqeUtDQ2paeDY3QVk2eF9tYzF5NWFmaWJrdTl4QmowZGZxMm45bEZ5N081ODBqY1ZoMEx1bnNqdG53?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price notches another record before retreating as squeeze eases - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjVkeFFvTmN4WWRIUWI1OFpGdmY3TUhaYXVPVzdpUDQtUGFocjF3Y2FfWjhPcWFoTC1jeHFIdjhLX25BZDRFTXJJNFQ4eHRmblFuUl9xVFF5UGRiR1ppeWpMdFlmWmduSnVoR3RDeHJlNEM3QWVJVnpBakRyLUZMUWpwWW9yX2dabmhPOFNqdlpxUXduYTNBZC1B?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper ETF (ICOP) Hits New 52-Week High - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUmVYa0loNHdtOVIwTVM2UnU4c2YzcGs3N1lHUnZJdjh0Z0hsNXkzRkZpZmcxS1VaZTl1R1FzNTlobFZqbHQxdU4xRnN5LVNWTGxVZmJYSC16eWNjNHN5WUg0NVllazNvSGg3eXMwOGQ5eGFXZEwxTDhwVUVIN01nOVdtQXNwQnNIVlV0Zk9RVnp4bVlXVjhkYw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Komatsu to triple size of US maintenance hub amid AI copper rush - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWVwQXZHLWladmdzamlxUGpZMHdvOGI4S1U2U203Wk1YdGUzM05haFpEM0RmZHlHVE8xaVZPMDBITmg3M29TNl8xZnlsaHhRdk9TdlFiN0x1Q1N3YmI0ZlJKUWhmMkk3VWZqYmRBdjFjVkw1WUhrSjRQOE5ZNnZlZlREUnQ3dVZqdVJ1UExBX1pONFZUSnRLY2o0c3lJUXhnMXlTNzFNUDlSQUVlZVBsWlA2QU9Pamg1c2NpdUxKXzBWakRqbEllWjlpay0?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "Highland Copper Secures $50M Grant for Copperwood Project in Michigan - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1hkWFU1MkF5NGRqY1VyLUUyRXpjRXNsRDRGX3JwWmZNdEtXbVZNS2lTaVRWRG51NjY0eDRwQ0d0N09BaEdZa0xrNXFJMF8ySjVGVXI5bW16MTNkem9SeTBuS2ZHa1FOYWxWV25OLWdZdnhBcFlvMGpLTHNHVmFWSGI3N0cyTUcxdzYtd0dYb0E3ZWc?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "China Nonferrous Mining launches up to $300m convertible bond deal, term sheet shows - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0luRmVSejBDaWM3ODV1VjlnTWlpM0hrLVBDWjhMS29kY3RWSUlCcnl1OXRFYnFZZkV3aFAzVUd4eUgyN2wzakp4eE1JeXEyT1ZlWklyd01ZeDYteGtwT19MUk04OFhXT2QyZG1qdHNSdHV1anJWYnhkVXJjaS1LVnpTQW5GeGlYRUQwbWZuVHBjUk0xTlotRVdmT3U5cTJqdWR0QURabld3X3pkTUhORnZleHhtclotVGtydUpVek5JcnpLNFFnMHln?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Mota-Engil Said to Win Deal for US-Backed Congo Copper Rail - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnBGQkZIT1hmcEdIZVFWVFROQ2NfV1JtTmZ4WE9FY3R5VG04Q19DUW52aWNyN2xtNDVYSUo2RDM4Nmo4eUlNcWg4Z0hBYTZKYXZoRTdxUUpFV1ZWMWpoYmVpNmg1a2JTUkJkaTY1eTB5MmxxajdQY1FhTkxHSjJIQncxTExpVjRTLUJlX3NYZXBiZzZvTk9sekI1SDRDN00tOUpwMzF5RlRRNW95OG5yM1Rkbw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "US tariff risk disrupts copper surplus as prices approach record high - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXQtUERRalVKVzk5T0YydkF6anV3dkNneXlRNUhZcGl6cGYwOWphLTk2cFdFckZYclZBN2NMVjI4TnBrdGo3UEJuR2tKRVhRU0FleDRkRHVoT3F3N2VIdUZ1YnBkcjhWTi1RRWJ6UWxrRURMSF96NGppX2gyUkZkaEp0elVLT0stUHpFWXFfZFlsM0JVUUNHemVOWHdDTl9haHc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Hits Highest Close in History as Debasement Trade Lifts Metals and Crypto Alike - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM0ZKUlozazhMQ0dqbHNCU1JmQnlwLXRUR1c0bWdqUXZrRHgwdi1jNmdfNVFYTTE1VGpzaHdGeHFyT3U2dkNqYUd5bjQ3T2t1N0p1VXJUUWZoYjhWTnVIbTNOS3FNU3FtaHBTTURPNVN6bllqYWhEX0dxYzZfZlhad3NyS1ItcjhjdzkzVnAwMGRjUFhzOXNnOTg1V0V2bFhTVlNlRXdn?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "831 Meters at 0.27% Copper Equivalent From Surface, Including 244 Meters at 0.42% CuEq - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXBPazJKMXVUOEhsTjhWVWUyMjFvT0R0ZEh1T2EyWUZOeDVLcWhCeVZYakJ5TTRFdGd3bTFUYi1oRE9Fbk9yTEtpam5EeklhVFZ5VHcwdzlfRllHUGVoZngta1Z2V0ItdGFEUS1FUldYSnlfS3hpNFExSTBKSWtoY2RFVDZ3M0ozcjFyempKTG5qb3ZTdE5KMUlBUVd2X2szQUk4UmdvSW8tZzJpVG00Z1VwVXVtVFI0cm1UTFhsMW1FbmE3dS0xUnNydW43ZnpwNS1vV3Fxalc?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            }
+        ]
     }
 }
