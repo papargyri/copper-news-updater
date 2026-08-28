@@ -22179,5 +22179,120 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-28": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 18,
+        "articles": [
+            {
+                "title": "Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0pnZTh4TDQza0pNT3V2NURsRUhHVndPcmtBY3U0NWx5YlRtSUFQdHRVX1o1SldnWHlxNFZrMy1uQUVKSkVSdXdwNlpjaUxWdjV2a2x3VVB3c3BKVktZY2hjMm1NdV9fNGV6UDd4VWtxT3A5a0g1X2x2Qk13SUNPckZWbGFDdVdoZVlfYm9XRnl6b0lpM0hXRTVZUmxRcmhuaC01dnItSmNBYWtyV2swa0V6TzJwS3lzZmZuSkdyZzFkLUxodkdXZw?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Codelco posts stronger profit on copper rally as mine disruptions drag on output - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUd2MUlvcWtPQ1Fjb0VVbDk5cmUwOTNnS3VKMFNGMEFSLW1rR1llNmp0R0xQSWR3clMycm00bUNHTVlTZ0MwZVZRUmdHZHVrbzRaYVJUX3V0ZUpkbGx3RVhYTm9fcFlVb3NBdk53SDUwNThna1YzVHR2TVpGcTgxVlRhWjdvUGwwQnk1RkJOVU55Mlc1NG9FeWhQaGVQOWtPdEFKSVdyeVlodEdiMVotVU4tSE1odw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Sun Summit launches 2026 exploration at Orbit copper-gold project in B.C. - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV3EyOWtCQ1RTM2RNS0hFRUIyOWl5b3ZHNFFIX1pVTHE2OF95c0ttaWdrQ1NtTUhESUk2aF9hU0VhMVZVakpLdWxvbk1SWTV3bExBWmMxSHhGc001N24tMlpiTDEzUzV0UExpc2wtZUZMRGhYSjJJejBjZmN1dGFQcjZ3c3k4eHZObWR0VWZYNjExUHBSVW5tMGZtMWdYaWNHNWtpTlAzT25HeTNvVlZxWXZ3bVlqc2dIS01GR0x3S2xma3IyR2ZZdjhOd3VxTVVRRENOLTlEa0xQSFBUMjZ1ekVCckY1YVFS?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Where to Invest Now as Data Centers Turn Copper Into a Hot Commodity - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFpHVUh6RUFHTjFzNEVkMnNvWUdrWkNmaGZoS2VJMTlIY2lqNlR0NVltcjh2NnhVMnpSMnMxM0Y2WDg1S3VpLTRVbVRqci1HaGR0czh4dWZrT3d6Z0owRFdiYzN4dHhZQ0hnNW55WDR2SWg4WnY3cWJ4SjVQLTAzeWQyQmVDSW1xbmhrOUpIc1NDU2ZYNkdtWnBYenJNa2psZEFwTm1sM2w4TnFhOEJuVlZueXpUbU4tUnZIag?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Yomiuri: Sumitomo Joins Chile Copper and Gold Mine Project - MarketWatch",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFIxOGg2aU9PeFo1YVZ5TDZ5TDRlNlAyak5CWWxnQU4wd1p4Mkd6TmFZWnBvckZGbXJoWk40QkxkcE1UYkRCeThZN0JsNkt0Q2JOTlhYNDVPVFRkeWFISkt5Rlg0XzdFMTFydUd2cVpLNENCWlVLS0RQclhWa3FLMVJrdEt2UjdFa0p2blhmYWJXM3RGRjlWTUV1OGRJeGxucXNNQzd1NEhGbGNMVTF3bW03dWFVc3RG?oc=5",
+                "source": "MarketWatch",
+                "is_premium": false
+            },
+            {
+                "title": "Lodestar refines Three Saints copper search - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91U1NEQ0taVGVlaDB3NzY1S3Z5bjJPVzBkYjVZN0d6VVBFMmFHbVBJbngwUUJYV3cxcDVPdVJ6RGV6X1duZVl0WnBXWWNESGVfWmpIQzFTYkt2NUJTcklJdlczMHNwY0pfTV9kS0pjRnJlSV91?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "VIDEO: Higher copper prices boost BHP shares on electrification trade - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnExQkphNmd5dmFsY3JQc2EzTnZiYk5nb3lldVdSaHlIMUc0cFhMdzRNV2hycEFaSlBUbTVHTlFaVzNHSUp4TUN2Q1RzUEZMR1VSOVNEYlFjNzlaeTl4MTg5N2VBRG1VLVRZWUxaMHVIWWpPY2hvVkVfVlQ4RUFRb3BRbkMwRklGeTREVFlMbUhpdnEzLWFHQ05LZF9xV3ZNZFFTRkowX1VSZ0VVS05BZ1UxdjZIdE9DZ0NoRWlNdGZtVkVIak9GczQtU2pFY1U?oc=5",
+                "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Copper secures funding through to Los Azules FID - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakZSLTJsX2ladjJJbEZ3ZFE2S1A1M2JDV040UGNTMjJJLU1OdmE4cGZEWUN2QlNGcmpPd2dtRlFGUGxwZUpqNU13clZqVldqNExyTHh1TEhVaG1zVGJoVGJSbU5fZWotWTdVUG1IVkpiMGNZOHBuVHdsNjN4UC1ZcWJQY2VSa2k4d2hXaDVzM0M5dzlXc1V0MUtDOHhrNThKZE1BTktn?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Copper secures $334 million loan for Los Azules - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWJBRkFocjF4MlNjQ0RoeTN6UmwtVDc1RXpXTTQ0WlBaTlBZc1dBZmxQelkwSG9kdFMzd1p3eGg2eENQZzhEVGh1Yzl5STYzVDRKel8wWnBOX3lPWHNySm1ONFllaVBna1BjQzR0dktKZFhrMmhsY3FVbVF1OTJPYmtn?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Canada adds copper wire to 50% US retaliatory tariffs - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkNab3ZpeVJCWWc0eUg4YV9oYUpvMTdKN3FxSmRTZU94bWhLTDBEYUVmVVFZMV8wV01VY2RtYS1tTG56VkhZS0FYVXAyVjVQdlB2aTVNMTFJZzFPUVlaWDVtTzZ0T2FDaWNPaWdsWWo1WWt5VFFaUnZFOWMtME1XYw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Copper Completes US$240 Million Term Loan to Advance Los Azules Toward Final Investment Decision - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNlVuZmZOVERqdk14cmhBTUpvSzBxN1J0OG5HNTFMSnN3SC1OOFhjYlJiZ0g4OHRUSThESVJvTVN5QjdNNlNTMVVLajZkRXc0cDdNbjNUOWdfSjVZMHVBZEJvc0pRTHRUY1hFYlFMZXhNWHA3QWVfaERCam5oRGRHOXU0ajZBbUxwWEZjMXYtdWVYTF9jX0NVTEhsLU04eXVIeGFEQ0Z6Z1VkbFh6U0pfT3BBX013QkxMZ0hUQ0ZlOUhNbUlCUGg2NkY1T1FPYjVRdlA5VXZNLThTMFRaeExpVE9GbXQ2QUZveUl1bmJBSnRIaGJ3SjdsVGJjOTAwbFhOZnA1cWtMc9IBjAJBVV95cUxPZE1sMTQyczhhMEZTLVBlS3BFVllBb2RTVDlKQzI1WnBwNDFJaFdIM0xKYVdQQUV4U0c3aVVUOFNwVjVUenp6SFNCb2Z3aWZpVWRLNFhZME9PczRPVVdueWM1Mk5iMzZXRnRTYlZlWk9nS0FQNHBDR0s5bGFqM1lOSnB3TGRHZTNaYXZmOG1uNFJFZXR5LUJYdHNCcWE5dGRUbnFsR0Y0N0dQMUZnV05MVlFDVzlfNFVnaEItR2JUay1sLXlUeUV0M2lfczFEcWQ4bG9IVTFhejVpNXhXOElocVVoVHVFVnVDMHp6RGdKU3Y4eXFEa19BMlZhN01sWWtmTGZsMkJyX0cyWG0y?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "International Team Outlines Research Agenda for Mineral Supply Chains - Northwestern University",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlQydVZyX042YkRNN0xmcWRZcm94NGEwd0lYRjN5dEl6d2J3Nm1PamhXRTIzQlFKdmZTc1lnZlVBZDB6Tks4MndYM2ZfVHkzODUzSmNtN05yVlhJVGNqc205bTJIcXAzX3NhNEQycUNNRnJlY2Fob25mbVNvR1lCZWtCckpxanBZWWpjSTNMZDNLQm1ra0tON1BkZDVzLUhlRlk2cG5KOHl1czhlcWRISWZzcGt1emE4ak9sZU9CbEk3QS1oaEZCU2ZGOA?oc=5",
+                "source": "Northwestern University",
+                "is_premium": false
+            },
+            {
+                "title": "Koryx drills nearly 1 km of copper in Namibia - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUdMTWZzQ1Flc0lqaVBuZjZVUzVTTkhWMERBVEtCU05BLXhiOUF2V184S2dRMUdkTkdvaTJEVC1wNU1ScWNvdDFDZ0NjNWxua19CUlEwd0FtNTRwMFdBOEM1VUd5b0gxcGl6cGdIa3pNRjlDQU5GeXBJbUlZc2YtNTRwUkQxMW92Vmg5cGRUNGFMOFE?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price extends retreat from record as China tests the tariff trade - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMzNEQ1dCUG1RcDBGY2JISkNGeFU0M0VvY1U4QmVUbjZZbjlBSmRxTGZLUzduMk5DSlBfVU13bVNfeElvTDFQc0RPMHFKSGhGUmdYeXlxd25pbjRTM1JHUmVEUWo5TmUzTFB1SExXOWxhV3dOQ0dIb1BLdFd0TnZfQ0NxcjdLcUl1NVN5Q2hLZk05UU5qeGNrTDVEbW4?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Finnvera to finance up to $132M in Troilus gold-copper project - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU05fV1V0bkxFQ2ViVkpnaC1xcnc4aFRzcXloUC1xeXpxMDJLdTVDeDRkb2hCSV81STh2Sk45dkhGUXRVbWs4VkkwaVgwaUtjSGxfN2x5Z0dxRExjRUczeV81dlpVczhBMldEb2t1TWYzUzc5TnRoUy1ZVnZfeHN5QlJDNWc4ZVNrYlUtRmRWUlJWTUNQUFc2T1dlbkVaOUN4c0F1R201dFM?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "MinRes plans move into copper after record profit - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2Y4N0RhYU1OcjgybjRzQ2EwYlp5VGJTTUlGSVBEYjFLa2RQWFZ4Vkd3WDZNNEFTSWxXRGVDWlZoYnR0X1pqWkE0aWVqcHMzVkRtcmZQOV9IdG1WUzBUR3lYTzZteEp0amt6WHhXNE9GRklPWTV2ZWNLRjV0aWJOQ0gzQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "US steps up aggressive mineral push with up to $1 billion backing for DRC copper and cobalt railway - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1Nrbjllc0RfbnVkSUxZUDNQXzQwUUdaYkZ6QjczXzg3TUZXdGNEU2tXMWhJWDZIYVRRNHh5S19HSTgzdlhEdUZOcjd5ZnJVSkYwVHlCb0lqcVFXbi1Ud24xV1Y2enVZLXY2dEVfamVmWFFoYlhGeXZXMlFpZkc4T3NndjJlLUFpTUJlNktteGFwY2dZQ1lEWU01c2xCVUtPNExnZnFWZU9Cd3ZfZW1TRGM1UkRSUU1qNFZlWTZRUEVPeFVRZ0ZLeUx0NU96RVQycG0td1JCNWRFZw?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Stock Looks Above Fair Value Today - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeW9OU0dYV1VCUkdqSXRJVEdQYzd1Q18wZjFnVXJVUFlLUEhLQzdMbHBjaVhwdTZkanlrUmRjTmt6dkl2UEI5T0hNeGY3U2ZFdk9kTk1Ua3NkSy1fSHpKV0EtenpSLTBuZFhtWG9CcXhVdVVyVk44ZUJIb2d4NWxQTmhabDlIVXFQLXlvbXZCUk9oc0t1cFYxeUZoa3dUdw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }

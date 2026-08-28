@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-28 18:08)
+
+- **[Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0pnZTh4TDQza0pNT3V2NURsRUhHVndPcmtBY3U0NWx5YlRtSUFQdHRVX1o1SldnWHlxNFZrMy1uQUVKSkVSdXdwNlpjaUxWdjV2a2x3VVB3c3BKVktZY2hjMm1NdV9fNGV6UDd4VWtxT3A5a0g1X2x2Qk13SUNPckZWbGFDdVdoZVlfYm9XRnl6b0lpM0hXRTVZUmxRcmhuaC01dnItSmNBYWtyV2swa0V6TzJwS3lzZmZuSkdyZzFkLUxodkdXZw?oc=5)**
+  - *Source: Reuters | Date: 2026-08-28 17:09*
+- **[Where to Invest Now as Data Centers Turn Copper Into a Hot Commodity - Bloomberg.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFpHVUh6RUFHTjFzNEVkMnNvWUdrWkNmaGZoS2VJMTlIY2lqNlR0NVltcjh2NnhVMnpSMnMxM0Y2WDg1S3VpLTRVbVRqci1HaGR0czh4dWZrT3d6Z0owRFdiYzN4dHhZQ0hnNW55WDR2SWg4WnY3cWJ4SjVQLTAzeWQyQmVDSW1xbmhrOUpIc1NDU2ZYNkdtWnBYenJNa2psZEFwTm1sM2w4TnFhOEJuVlZueXpUbU4tUnZIag?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-28 11:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-27 17:15)
 
 - **[Argentina, Chile revive cross-border mining framework for investment - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZUTQ4OFUxdjl0MlRRUTR3ZmdHVjJGdHRhRDNRaE5XeVU5STNUcU9QZWZsUGJZSHRsd3dYSElHRnZUR3NYMXpCWGxYNlRaY2oxeUhYYzBnMk5EM1ZXcjRuaHBvUFNlUE1EMHZUN1RfMXZaM24zRGJVaFlaVWM5bnVURXRxQXZRbDB5aHRjSy10MjFoX2NXOUIyNFBSbm0wSi1ZMmktaWE4QndSeEVKQ1phbmM?oc=5)**
