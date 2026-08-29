@@ -22294,5 +22294,72 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-29": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "Daly Resources to Brief Investors on Northern Territory Fluorite and Copper Strategy - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXZ5dFhqbk9yNzNnVlIzZ1QzQzVubjZlRkFpYmhMWGhYUkdIUDZtZW9rVjJESzBaTFFWdFRLYmpxVDMyRXIzWm40bDU3MW1EVDNCLWQ1b2F3bmtPMjZkVVZHampwWG5CMEtZT1dXTFIyb0hkcG9sU3IwMFFqWlVoakRhTVczV2JQLXZjQXJrUEpEeWxVQU1DandxdTNjdFlGdUdjTDgwSzRjYjlZc1JxNmNNNEp5LXctMklvd3dwWkxoZkNydnpwbHJuU1psTXk5c0RfbzVtUEVZWEtyUHBwQzFkTnNTbVlLeUJwSEdnMkNZajFXTTZHRg?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Jiangxi Copper Company (JIAXF) Receives a Buy from UBS - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMFdQd0VNYXdrR1BuUjJ4RVRvbm5McVd4bHVLd0NJb2lrNFljZzdtMzhBazMwUEs3aHpxeDdPbHROLXZ4VWs2OVZVa2FyU19UNlVXUVo1VWQxTEpLMjg0QVdOYVlvazAwaGk5Q1NLb2pRRXQzZ3p5QThESjZyV3lyQ05HWWRFSVd2ay1WUV9VdlVRVFJxRFdKRHBWcHN4Y1pwVG9MeWhjR0oyRTJWcmttMVNNdWh3aVhfUXduTWVNYzU3T09CR0ZwbWhTRUFSdw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "AI date center boom, power grids strengthen investment case for copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTm9ITEpCenRZNGpadHZzRlZ2OGlXMUJDdWpZa0h4R3UxX1dncDZQUFJRcGQyRGZCMlBuazJoQ2M2b1FVMGZxV28zUkpxa240UzdtSENCLWZvUlRPTllNd2FEOGxadkFvZzNpZ1V3Nmg3cVIzNkVaWEtoSlZBdi1YUE8zeUZYNTdxRkF1ems1RnNSRld6V282ekFiSk1mdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Heinrich Visits Boundary Waters Canoe Ar... - Senator Martin Heinrich (.gov)",
+                "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPeFN0Q3M0ZEVOMTJ4V3Z2ZnVSM0h2MC1EYnNIQ2ZfbkhKYUxSeHl6aXM5bnFhTE10Q3NpOUJZWlVtTDlFOU5DR2liSi1vWmZUQ2k5a0ltUFR4NzFpNFNWaGRlSnF4aWhjbGJHcF9kLUpHTWNWWkVuOTlaQVJoTndLczZkaVFPeWx0a3AxMGdEc3NqRkpVVUl0Z1A0dVJEOWFZZ1VKcDFQRENaZ1E4VUVGdGI1U3oza1c0WWhabVdqT2lrMlVtZXBpU2Y3TDdNRG1kZlc4cFhjWTgtc0g4SUlsRGV6Mm9sT21kTWJDZXI4VUdvc080YUROajB4bUl3a3FHM2lKOUJ0VElMbGhHLU95aURQcmp3b052QTZzd2kyR1E2aDNYVHlROEt4YmNnZzFPQnNTRHdDLXBlaXVh?oc=5",
+                "source": "Senator Martin Heinrich (.gov)",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s supply squeeze puts miners in the sweet spot: Sprott - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNay1QSlV6VkJTQ00xTGFZai03SmFydzZTMjk0MkI5UjJ3b1JfN0dPTldJZHhMY0N5OFNiNU82QVBUUDlhMFBINjEzU0FxVzBRWjMtRW9xZDBKemluaWM3VFc3bzJHUl9kcXVVSm5zRElwLWNFY2hvajQxUUVSOW91Z0xQekl6NDBqX0E?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Japan's Sumitomo joins copper-gold mine project in Chile - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUxzSjRwOTZXaGNQeFdEamNoZUZ6LVRHZUJpWjVHTXF4eVRBMUNnMkNuN2x6V0V2VTZmRlNHTEU4N2JKeS1DR0xlLVltbldsQmxnLWVjTFpsNlEzV1dHMlFDRThQUTZqQ3M5T1B3ZXpObVROa2ZxdGZ3TW5pU2tjVzFmTzhMWmUwZkpSR3p5c2Q1emQxRXVOZ2MwaGxheXBG?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "Rob McEwen Sees New Mining Cycle as Gold, Copper Demand Rise - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFA5b1hxb3M4MmM0X20zQXZRdWhlak0wTGRPZU5BUWVlczFaS2xUeFpoMHFxRnBfS1NSWG1pM0o4S0MzREptZGxsMlVicExfNmM2czhVRkhlVDhuQUk0WnFkQW9kWnhyWDdUbEd3d09LbnBPRXVxcUlJRzdOZzhXTVlMMzR2V3FBaUJWOEI2X2ljWmFra3V1YlUtRWZqLUxnR1ZaY1dZcDMyZklkQjR0dzdzOTc0SUx1?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "How Lead, Silver And Copper Credits Are Reshaping Zinc Mine Profitability - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWJ6dHZ2QXp6VG8wX0RMZjhGX3JTRXJWZjNaQkE1WFdpQkFJd1hUY3lFeFpIQWkwbmtVd3g1bDRpZnAxczZmZnNaakNZM0tERUJhVXh5eHRwRTVMUmZXbnFnY1pzQjJSa1A4V2d4Uk9vWG5MMTBEV2pmdGRaVnJWV3R1M2s4UlNNRS1zLUN0OWFxdGRSWGFTWTEwTzJ5aXRiaVhv?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper's Real Constraint Isn't Demand. It's Ground - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXNfNlluQnhCX2o2Nk1nY0pNdmhvWHVjeF9ETXNyaFYzZ0V4YThybk9zRlV6amlZeURMWklFTzJXX1c4THlJUFdjNlJSUXh1WWRQTlVPN0hhUkNLcm81RHVMYXY1R0l0cE01WGNka2YzZ3lSTXZNbmcwejkwRU9hbmlZMVB0cWxXeTdQTVB6QWdaZTRHRXFDU2pCUjBIczJEN3RMRXVTUHRrUDNEdW9iUGlVMmNhWTFIRm9WeWJIMnRoYWpPR080VVllbC0wemNX?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Is Copper Going to Trade $7 per Pound? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQk9fN1BmNVRCVEtTNlNSbzhfZFJfUzR1VE91X2ZXSzZhd3otTnBxdlBoSHJNQzkzazFFTHV2NTJqV0lzN0NKdmIzY1VPWWF2QlJGLW5vTmstbTFDRFdqTEVCS0x0aGdSSVFCWXZWRWRTNVM0ZU9sV1p6VlJGR21RcTFQdEZxeU4wamFaSTVzendPbDc4MHZQLWx3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
