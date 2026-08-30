@@ -22361,5 +22361,42 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-30": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 5,
+        "articles": [
+            {
+                "title": "Anglo Teck up against Glencore\u2019s \u2018hardball\u2019 negotiators to deliver merger gains - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWVJhTTFjNnFJSlpHdm9lc3I2YVdhMlE?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Copper One Begins Detailed Geological Study to Target Next Phase of Drilling at Majuba Hill - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNN3otUElFeGpRZktFbmlMZG0wVFRIdDd6MGpQVWtVNUlNVTl5bDk2VllsMGRMWU5rbkg3TlU1SnZNUl83RlJOVnFjUHAxT2tlME5FMGVIRHN6a0Y0Mzd4MnlhNjJVcjdQa1lFczJnN1ZocHNfS2ZSSDBhZXg2TGxkbVF1UFQtRVR6QkRwLTl2dUdPb3pXNDF0bVZUOTNfOUR5Q3ZtOTY3SHB0ZGdkeTZxejdWdGRuZlBxdVZLNTN2WmhRNkk5enBnUW8wTDVGM0JSN2t3emNEa0d2Ui03SGdDOHNRS1lpR1lJQkozdV9HdnNMMjlkU3pMYnYtaXRzbDJZMlE?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Air Jordan 17 'Copper' Wizards-Era Luxury, First AJ17 Retro, Croc-Embossed Leather: Where to Buy - Athlon Sports",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51V1lLck1uWXZaeDIxTW9UaW00SGhmZ09HNXBLY29UUVd6RHYwUTRWcmlpbDNXZlY4WjN1UnhKMVB4ZG5TTXI0dzVXMHo4NDE1T3ExbkJPNFRkVXlGY2lSdzFXcVBQY1BBX0hEaTRQUU1IMVNTVU9OdndLQQ?oc=5",
+                "source": "Athlon Sports",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore faces $1.4 billion lawsuit threat while pursuing $9 billion Congo copper and cobalt deal - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaDd5eEU1WW1zRVBOQk9yNUpnLXJXTzBtMng1TWlUQi1nanJ0bkdwRVdTNTlMU0R0aWUtcUdKM3psaUtrV1M5aEp0dnBac0RaTDRXUkoyZjhpa2ZId2w0c3JrdXFXMGNkZS0tVklxWTdNN3h2ZjRnamdkYlhSSTZCTmtyNGxVYllSdHRXTUlDNUlyM2xSd19LXzdHMkpzQ2l4QUtEaGdUMXE5ckZQWkE3SENmT05qaU83X240ZmI4R1lkcmczVHM2YWVOaHdub1hTLWtkdEk0NA?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "How lead, silver and copper credits are reshaping zinc mine profitability - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHhJMjBKU3B0YWdoblM1dy0tcWtSMThBdndBa1BsbS1jRU9scVE3UWRoNnQ2SDdyenp3UkdDQnM2Rl9tRHhWdDZNTFNHeHlxQmQ5dzg5aldYZjNkcWJLSkpRejdMOXR3TVItV1YyT2s0ZDIyYTUzbzhzMzZnWldtdjJJdE1FeUx3QUF6Nmt3Vy1HYnJnVTVNNjYtSTh4N2VVN0dEcWpqRTN1dnl3QnkwY3hoSEdXLVhDbUZyVms3N0xNeFFTUUNCY29JcUoxalJyWDVaclJ0ckV5LU9oc21lZV9heUVsUQ?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            }
+        ]
     }
 }

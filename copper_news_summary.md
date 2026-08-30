@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-08-30 11:08)
+
+- **[Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWVJhTTFjNnFJSlpHdm9lc3I2YVdhMlE?oc=5)**
+  - *Source: Financial Times | Date: 2026-08-30 04:12*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-28 18:08)
 
 - **[Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0pnZTh4TDQza0pNT3V2NURsRUhHVndPcmtBY3U0NWx5YlRtSUFQdHRVX1o1SldnWHlxNFZrMy1uQUVKSkVSdXdwNlpjaUxWdjV2a2x3VVB3c3BKVktZY2hjMm1NdV9fNGV6UDd4VWtxT3A5a0g1X2x2Qk13SUNPckZWbGFDdVdoZVlfYm9XRnl6b0lpM0hXRTVZUmxRcmhuaC01dnItSmNBYWtyV2swa0V6TzJwS3lzZmZuSkdyZzFkLUxodkdXZw?oc=5)**
