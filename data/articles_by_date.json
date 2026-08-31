@@ -22398,5 +22398,66 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-08-31": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 9,
+        "articles": [
+            {
+                "title": "COPX: The Copper Shortage Trade Has One Major Weakness (NYSEARCA:COPX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0FMTzVSMlU5T3lDeUZFcEs2QzRaY1hBc180TEFMcXFlTkRJbEhGM3VhVHlKSEx0U0pXU1VxQy1DSUNQZ1RuM3JXcm1WSVJuLWpya1pzbXA5Q2FBWFlkV2J1VkNWdGpJOUdZTXJ1bXZmQnpjVklGdURaR0FSRlhQbHNxb05UTkY5M1VMRDEzbHpIYXByQzhxNWFR?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Intelligence announces new drill results at Butembo - CNBC Africa",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWtHTWx0cGVSY0xkRjFCLWlFa3BmMWM4cFlLU1N6bGNGdl95TFlMTHhiaThuVUNJU1VncnNBZGdPZGFRcGNtbW1PN2dnTXFENm11cmt1VV9hck42MUpLTzE1QVdPTGw2TndFRG1IRk4xanhEa2dwTV85MEJXSVZfQUFSTC1zWndDa21qaXV1bzF6Q051RlBYdXNaZFNIM2NfZDdta05XV0g?oc=5",
+                "source": "CNBC Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Harmony very optimistic about adding additional surface gold production - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHMycnYzV3Q5dV9NcGgxNGYwWTNDU2FlQm5nVDM0Z21QbWVKcEtEU3pQNEpZZnNmLVdjWWZDQzM0blJTU3JwUENrZEhTVk4zNWYxX0RRbEhEUXRMM09kSV9qM1daQ0ZsRW94ejA1OVZGbEg5UUU1eDZLY1NHdHNiWjVFcUJYMnFYU0hfOUxYQUVwM1A2OHVMaFlPeU8wY09JTy1nNzFWaWZxZVdoczIxZnBwNlB4YzZWVHgw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "QMines hits \u2018high-grade\u2019 copper at Mt Chalmers - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyUUVQbEtqUDJfWE9BeUppM2g5R0dPYVM1RVZYM205dXdDVFBDRzhnM2pMVTFiU3czU0lVc2tFak53WkE1Y3JNWWJmam5QaG9zNW96d1hTZFJyM0lnRjZFdlM3TEhOVWV4cnhyVXpkYU1udFNZclE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s supply squeeze spreads, market needs more metal - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVWgxbi05cmhTTTJxeUhXdUhnc1l4dWx0dmwyZXl0R283Z0R4bjM2N2gxdDFRNy1JRXJHQjRzVlgyUTBhT3ZvdTlwTWlSUGJuOU82TThkdEY0bVd3MXpNOGVidGpPeGg1VnJNY1FvNjU4OWZSc25YMDZkYVNQV2Zra3M0RQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Buxton strikes \u2018high-grade\u2019 copper at new Arizona project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUlaVjBscGhlOGxHUXJtRXc2aEZqNmRvempXdjZobHk0VUMtN3ZWMHdQbW0zWTdjcGQ1NlZ2UWUwWTROM25sQmF4ZmZWZlRON0tTY1d3MEtVWXBwamwtQU9FU09WcEUyMjdIRGFfUkhEbkZabXlsTHV2TGN0aW42dDRZd0I?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One studies Majuba Hill core ahead of phase-two drilling - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamF2UjhZVlkwcjZxcnBwX096cDV4d1RkXzR1T3BNSThvaXV5Qml0Q3NRakxGTFk2VXF3SmRmM0lrX2RiQ0w5ZmxXWi1ici1CWW5wY0xmUldiZEZJRjdEbDIxQkRuX2JXcUxrcS1NUmp6TzNoWXNQQ29VbHl4djhXZkNNRmpMN1d3ZUFQZHNOTQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Just Hit a Record Above $14,800 a Tonne and AI Is Partly to Blame - Startup Fortune",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2lmWjJqTUt4Nk45QnZlY3h5bVZIS2NPSTNiX1JsSG9RdGhfb3JoRmo5WmdHdEZUZFk0NjdpVUZEOUZIRlRwVU1aV1ZPaVZ5blRkREdGUk1qd1dCNG5ZdlFRTHE4aW1fMzFCekg5X0RpRGtCLURWRGpmRkRTNFZ1WjVkakI5a05kcExUWE9RMGs5czFWaUlyV0k1Q2dhUkE?oc=5",
+                "source": "Startup Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "Is Copper Going to Trade $7 per Pound? - Barchart.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON19McE5jTi0zdUFZdjRrM3ZtUUJOWU9OR3J2RE4zTDRhNGs0amY1bXMycWh5QzA3a2dnM3NfZ1JqNVFheTVSTlpKd0ktWlZnMDAzQzJNRmRaVUpkYmkwZWNQaUlKR0tqZFJRTGljOS1uTXBzU3FLcGlRTFF6UFJCNTZOVTYtNkU?oc=5",
+                "source": "Barchart.com",
+                "is_premium": false
+            }
+        ]
     }
 }
