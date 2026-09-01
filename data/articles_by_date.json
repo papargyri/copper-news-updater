@@ -22459,5 +22459,114 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-01": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 17,
+        "articles": [
+            {
+                "title": "Capstone consolidates Chilean copper footprint with $35 million acquisition - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjJPdURtdTk3eE1wVkIyRzBSWk13RzdVSlpfYUNwdVR4X0tvbWdUWERkbWZ0QVRDejNxd2RtM1VET0xJaWFWVnY1aS01SDVwMC1qTERKaElLUlZQNUhETkozRTJ6ektiX0lYTjYxQnJ1QUZuZVBLWXFOV1dYWWt5bGM2MG82VzZDVDFPR2g4bTkyZUx0STc3elB5ZHZhQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Nevada Copper Explorer Hits 317m at 0.77% CuEq at New Boston - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblMyV2RTejVZWEpDUE9ySTBHaTVKdUVVemUxbG9TcG1JLUVweXVuTHVKSlpmczRCSUZMaGRObXhOcVlXdWgybzlWRjRzQnB6clRTWXQySFNadW51ZHN6UUxlRllCdVlfUXFiZ0JfOEpiZTlYdms1QWJzX0xEblBNZG1qbmkzdmVpT0VXa0JMQ0VETWJHaDZBeVJyTGJuYVRCQUJLRDRrMS1tX2lpMS1xd1VUTWh0WHd5?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "BC Copper Explorer Expands Pipeline with Seven New Targets - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmFmOE1naFhMY2tPSEFsdFNqYktTTVUxUHV6WExFWWtvWDhqYlpIVHB6YmpsSUxpUDF5UFJXa0lyZ094Ti1wbi04QzNKQ3l1eDUwT3QwOG5oNlNaOGNqUmFxcF9OMDJGUGs4NDRTam5KMjVNNWNoMjgwM0hGTEJXcU9MdUt2LUFmX1Jva2lfZDBFdTdBbXBvaG0zN0R0RVc1Vmg5bG5XaGpMV0RYQTU1WEUwUUo3aEU?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Australian Gold and Copper advances Evergreen zone - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNUnVNY2tscHBPOGMzdUVaQkYxa0ZuMTl4cWRzTnBmN2MtY0pLaVU2YlFJYmdMWlhidS1Bb2hlZ18zZzJtVWUteUtFWEJTampIN0RxejZIelNXRklOalJuOE16WkRVeWh6Y1BHMGExRkRNeFVkRndsNnRBbGQzUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Kefi refines board for next stage of development in Ethiopia, appoints nonexec director - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZDNUWG01NFgzVTNpOXVCRmlYZU84anVhR2gyTUlSMVdXNVlnbjYyRGo1Vi1qWHBPT05nYjYwR3N1Z0t0TDBOR01QV3Y1akFtV1JGTGdha1UzUExRcUJ0Zm12ODZEYmhGWTBzS0FWNEctMWJCSHhCRUJ5Z1RmNFFZREtFVlBfcGJ6MUhkZFpVY2lnUEstOHpDTi1XbDNRd3NOUzhuZkNLcDEzTXNJZUJlTTBQSjNSaVFsREVZcDFzVkFWUGJWeU5mUWMtcTJ5Z1U?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Epiroc secures order for Botswana copper mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEJUVmlHNVlSN3hsTkQ1UjhIOTI1WlVaV3NxNUxydWJydndDejRoLVo1Tk9CQXRsVmUtR0lDS2pCQ2R6d3ROZTFHSFp3STM1eXBtR01tQnkxNUZlSVlWb09LdWdxMEplTnBhN2JmVEQ0SG5FVFRkU3d4N0E5cE42bTY0ODlTUzdkbXpUSG16UnREd0tKdWtlMg?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's copper output declines 9.4% in July hit by severe weather - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVBCLWRISVhid2owX1duT21nbEhzQUdRaEk3Snd5TFpjcTNHUU16NWZkakJud1E2UnF4RVFiclVRbVN1Y09VRU1aZktZUm80NmhVV19BT0xqRFRjSi1YLVRCX2d5VGx0dXhmVzFXNnJKUWU1VmFxV1dvX09uUWJGaWpiYzFfclNnbU0tUXU2SG9SYVpTdW5maUNja0pna1BNT2xocE84aEoxZ3BBMFhv?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "DRC: Copper is eclipsing cobalt in the race for critical minerals - The Africa Report",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVdaN3VVc29mckVwOFcyRDNyY2hIeFFfelB5WlliZFNrS3I2bGloVWhITm9NSFMwMHUxNWJOMmtrUkRZYUhZc1JWWXVIdDNsY0FxUzFVcHA3Um01U3JGYUEyc0FDMmhOX3Z1bUlJcTN0TmdmRnJXMk8xUkd2bERlenZEc0ZXUnRBR3A5VnlGWjlQaVNOZ3ZqZzIyY3lNY3FSdGc?oc=5",
+                "source": "The Africa Report",
+                "is_premium": false
+            },
+            {
+                "title": "China achieves major breakthrough in copper-gold mine exploration, with \u2018largest of its kind\u2019 deposit in Yangtze River - Global Times",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FY0E4bk91UG9LXzhmdzhmRUNFSUs3UVM1dXNYcWY1M3llZXZ1NTM0RVQwN0dNdjZmcWFwd184aXFoZmZ1N0RRVHpldElRUTF4eW8wZGVkYjI0bFB1T2dDUnV3?oc=5",
+                "source": "Global Times",
+                "is_premium": false
+            },
+            {
+                "title": "BT on track for estimated \u00a32bn windfall from selling old copper amid AI boom - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzVCNW04b2JjOS11QWkxWWVveFZRVGRCTWtNaTBsSnNaOFZhR1Zrd0ItUmJIRHpCbzdqY3o4TEtsMFBxazdOUkdkZmxBSkRTdjc3a0szZVRMLWRWbmhSNDdLUlZpRXI5Y0tsV3FaLThTRjdQNUgzYlFlVkpNTFpVM1lmLUh5VERNb3AzY2xiVnJRWFN1c1lYWnZTVDhmODRkTGlBazd0dzM3azhTVlpESA?oc=5",
+                "source": "The Guardian",
+                "is_premium": true
+            },
+            {
+                "title": "This $3 Million Copper Explorer Named Three Targets. The Drill Is Next - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVlVd000d0xnemVVZXk3UjFMaUY3ZThScWpjRzg1S1NYUFpQM3gydWR6OVdvRHhLREhmMzBKRzRDc3QzVFF3M2tueDJLUU5kMlJPMGhKY1RaZ3Q5QnBnU1J4T2ZZUjJ1dmpXQk44X25URC04TS1nTzNudmM4c1ZhcHNtaVVRaTI4WmlzM1loZTJNLXp4MlBDS01jQ1lVcWtmNW1BaU1pdnNOMThwcjRTenIyMjhlaGttSERuVy1xaXQ4ZVAzUHVsUkpjLWhxWFlocHFQRFlMT3FaS3lZNFpjU1JOQVdueEM3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Artificial Intelligence at BHP \u2013 Two Use Cases - Emerj Artificial Intelligence Research",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VSF81SzMzOExTblR2QVoyWUFTT21qZEFUc2IyclBlcFlacmhQdVlxYXNiV1R2RnVBWktuQzN2eC1BeEROVVkyWHlsZ3lYSUxONkNsUnNaZ3RmYUJhT3p5d2NGRTZRel9mX0RpM3VKZGI?oc=5",
+                "source": "Emerj Artificial Intelligence Research",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore stands between Anglo-Teck and $1.4B copper prize - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmE0SXQyQTIxWFllVndiNzd6d0ZubGNNeVZHWlhZcDFPU1ZURTdSUFAyMEdCSmNlazd3TlZZXzNsMzZkcjBFcXozeVR5eTdTR0JRakRtcG1oMTB1Y1ZaOEpjNS1NeWZvbWQwZFloOHdROExlbkpxbFZack5QQ3h2cEhkOVoya1E?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Economic Data Disappoint as Storms Add to Copper-Mine Woes - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTFpblZVLXN0YzJObGtXbTdtNklET3NoLXZYM05XOEFQT0UtTDNxVmJUYTNoRUdfUzdVZ2dzVndjVTBmVTZ4SDhnLU9iSFdRMnFZbkczQTRCZGQwcC0zcWQ3Y1ZWSG5Ycm1LRkZJOHVCWVJiaE5vcDFJVkZSUGlDejRqZURId2RRTXczN210TTNpOFdXMFJWMDZVU3ZVMzdVd1NBSlBnVmNGYkxGRWJQNE1ub3htZw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price eases nears record - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12S3JybHNZMGRyYW9ER0tWWUk1bVBPd0V3WE5aR082R2xSaE1JeWtZZTFpUGFYUTRLNGt0c3BMdk8yeWhndVUyNm5zZXpQZ09zWlpwclpVbzUzdGMxZFBqaWJmVWhqdnVRaXpWOXhBSWV5SFhzQTBZUnhtemU?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s copper output declines 9.4% in July hit by severe weather - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMW8zRjdSc1Q1VWxRSVhSOWJjUlIwaWFKaGJ1ZDZLek1icmpUem41VjZVVF9UMTJBYVg0eXB0cE10X2tZam9qRUw3S2NWNWVWRDdHUFFDZUlTVnVZWkEwRW5mRXlkVk01ZE5MVDFTZ3RfZUhwRnVpbFNMT29XNENqZDNfY0VEa3djMnN0azhVdkszSHJsSkE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Super Copper Featured at OTC Markets' Virtual Investor Conference, Presentation Replay Now Available - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0dRU19GYzZhMzM0U05TbWM5ck1DdDVxQm9DcjhidXFTNDRFbTROWHlPNU8yVmV1UnZFeU9OOHBrWVdSNXBndEk0emZPX0lGYzdkelpXNGRnLUxwcklsTmtXTkgxVUxrRG5mTU1oaG40YVVMWmZDcnhNVE5Kc3BKaFE3TmExVmxtNXdoMjE2bUViZFZzSU5mVjIyS2NoWDZCM1VtSVZB?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }

@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-01 11:00)
+
+- **[BT on track for estimated £2bn windfall from selling old copper amid AI boom - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzVCNW04b2JjOS11QWkxWWVveFZRVGRCTWtNaTBsSnNaOFZhR1Zrd0ItUmJIRHpCbzdqY3o4TEtsMFBxazdOUkdkZmxBSkRTdjc3a0szZVRMLWRWbmhSNDdLUlZpRXI5Y0tsV3FaLThTRjdQNUgzYlFlVkpNTFpVM1lmLUh5VERNb3AzY2xiVnJRWFN1c1lYWnZTVDhmODRkTGlBazd0dzM3azhTVlpESA?oc=5)**
+  - *Source: The Guardian | Date: 2026-09-01 01:30*
+- **[Chile Economic Data Disappoint as Storms Add to Copper-Mine Woes - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTFpblZVLXN0YzJObGtXbTdtNklET3NoLXZYM05XOEFQT0UtTDNxVmJUYTNoRUdfUzdVZ2dzVndjVTBmVTZ4SDhnLU9iSFdRMnFZbkczQTRCZGQwcC0zcWQ3Y1ZWSG5Ycm1LRkZJOHVCWVJiaE5vcDFJVkZSUGlDejRqZURId2RRTXczN210TTNpOFdXMFJWMDZVU3ZVMzdVd1NBSlBnVmNGYkxGRWJQNE1ub3htZw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-08-31 14:39*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-08-30 11:08)
 
 - **[Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWVJhTTFjNnFJSlpHdm9lc3I2YVdhMlE?oc=5)**
