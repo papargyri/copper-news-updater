@@ -22568,5 +22568,90 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-02": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 13,
+        "articles": [
+            {
+                "title": "Pacific Resources hits \u2018highest copper grades\u2019 at Dogwood - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDdfMDllc0Q2blZ6OXZRb2p6aWRaQms4NXJGMUxnWXhKMFY0bEE2dTcyRGNuXzVVazIwNDBqQmMyN01OVm5pVEdoNk1tbUxHdmtlT2dpeXp6SmEtTzhIZEhZWWQxVlFsYmNCZmVtWnVvVmNtaDgtVzRWNEpnNUd2UUI1dWI?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "ACG Metals marks transition into copper producer via Gediktepe - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDhwWER5M3RNandKYS1DTThGcnYtQk5LbVFVVGNmQnFRSGNEQ3FSMjN2LThlNnJ3WFUzM3BTZjFYbFc5UjdqY1dUOU9hdks3ZWZwMWh4MURHNUxKdWJiOFZaUjBGSjdSNWpiY0tIX3ZkOHRkbFVvYUt4UEtJQ0dMQTllWnpfVFp4WXQwOE1B?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Purecore builds around uranium & copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWbElsQU5mdnZ5Q2pacmdLZFBIUzlWOFFCc0ZSNEdNRVlhX3hwUU9WU0pNT1FrTXNqNm1JTjU0dXRqNk01YXFyVFNjeWs2Y041T3ZuNlZfU3Y2eE44dWllb2tNNmZvS3JYR1dndA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "ACG starts copper concentrate output in Turkey - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlNVbVE4RUVYN0YtU19CaHFoSGVNM091T2hwZkthWGRFVTV4V1lXM2dqZTVabUxNdjFSNWh0bEtEcTNhUUdyZlB3NkZDWlB1ck9DVUVQTjZpdmppTTgwUTFPMTRkV3RjbEtVa3VZRl9SX0lOd3ZGbExZX0lhaFlENHAzYTZsWEdZVlczemZaSnhJZzBrdjI1Sw?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Los Andes Copper Announces Election to Issue Common Shares in Satisfaction of US$9 Million Convertible Debenture Interest Payment Obligations - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMFg2QnFLWG5hOGNrcXVhdWM2TmhqWXlGeXpSaUdDWmVZMnZNTGE5MzhnbUhTX2d5MGZhV2kxaHcyWEdVYnQ5S2lCSUliSHZjVkxJWE1KWk5kRmdOcFZBVkwxV1FpdVFSVk9LbG95b3RiNjR3UWRaa2cyTUNkc3kxamNTWVQ0MGY2Yk5oenJJWDY0QlpuNDhEUDF6VU1xcHRveVE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "ACG Metals produces first copper concentrate at Turkish mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVFPZWkyUDdVSVhfU3IweDFEemEzTlVscVdIMTB3NTVfZ3hYTnJ2SWVBY0FOMEZSR2J4cHBOYTJkRkdOUW5TNFpDVkVsdFk5eFlNLUxLT1hSSERzUFl3Y1lqOHJnNUZ2RGpZNmpzOU45eVRuVUtEaUtEWk5sYkNVWDN2ajlNS2ZGWlFhdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Epiroc lands machinery order for Botswana copper mine - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEVTNTZHVW1Sai1MXzZEdWFpdHFRZGFJUUV3c1lMNElmREN6VnYxamNvcVZFb2lSbTZrSXZiSTJRX1AxN1k5dUNRRHhKQ2dhYTl5ZlNVWVVRWENCZTVST0hNc2NoeVBlN3gwajBBRnp2ZEh3NUh1WFFTc3RadDJLeU1GOEoxM0Y4XzJTb1lhQlpmcjNHLWRnWmZCU3dDQQ?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "SW US CEO chat: Hudbay builds copper giant - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVRmRHVBbWFlem1sb0ZJbHRTdlNVb1BXRDFRa3NKbkpDcXdwR08yQWNyUnpmWnVRTkVSTFBnR09Va1FLV3BMUnJVaFpEOUJINlFBdmZWcnJzZE9BOVNHX2tWQmQ2REhhWjBycU0zX0JwM2RiYUJwcWJSNG1ILW9BQkNONFVVMGVRZFV5RENaRmU4UQ?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Bell Copper Announces Results of 2026 Annual and Special General Meeting of Shareholders - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHdmUHlYLU5tSnhrbXdzbEpKQzNSU09kNVBZSnU3MFg2NjRvYTJpTTBQZ3kxRUcwd0dGaVNNdHlDNEgwNWtwMzdwVFBzZWNtTUZ0WVN2dTlTS0lKS1pvVE5wWVlPQWdDN3dVUTlqb2pieVdtR3E2bi0tOGEwc0Q2blFfVTFNX21BVFNZRHpwSGhLLVYydmRMZzl6alUyWFE1?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper (NYSE:ERO) Demonstrates High-Growth Leadership and Powerful Momentum - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHI2UWlBN2FXNUdjSW50WmJUS1BWQjB0ZHhOUG9ISVJhOGhPbW5aTE1RVlpUNkdXSGRTYTZlSENsX052Mm1va3F2U3NVc1MwbUNNYTlDMG84SUZLRmFzNFV5MmUtd0U3U2ladzBHZkdVcmtHaU0zYmp4a3NYNEx0bG1wV3hpWnNONHZKR2hDVG1sa01WR1FjMm4yNndoRERoZk0xUWxkR2ozVVc4S283WEoybnhVVEN5NWhoMXdBOEc2RFFjS1E?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Stifel sees more to come at ACG's Turkish mine beyond first copper - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmQ3UXpzYkpSQVZEM1hiY3FYc1RWSWZuSi1jc0o4WGtEeHlIYjVZOXk5bC13dkdudUdYeUZyNjF2aHk4LXoyNmJ4ejM2N28xbUFnc3MwZThDNGJhZ3d5bnVLS1dscDhObGJTbGR0c2x1ZUJSYVdkNUhnWkF0XzhPMTNlTkRkQk8zeVVXUGFWS2hkN0czTGt2X2VpVEc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Zeus confirms copper outcrop at Mauritanian project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcEZ6SzcwczRSZ210b0QtUm5ZeDNoc3hHOG1NV3FKM0VkWDB1aG9vQlhKcVdfYXRSR1JPZFNCSGVsc056NmxZbnFtM1M0bGRjQTlCX3dkeER1dVFPdUZwSFRTNU40eDlINEVtWlhWQURFWWdEU2w2ODJBNWhPMXc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Gold, Oil, and Copper: We Are at the Beginning of a Commodity Supercycle - The Market \u2013 Analysen und Hintergr\u00fcnde aus der Wirtschaft",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWktVk5weGJieEhJMW5jOUpwV011SDJfZU0wemNya25mU2ljSTFsMWNVcXhsZW4zazNoZXZfUEZ3Y1pQS3hFRkUxSkcyQ09tcUtucVJ1LWY5U082dElVTGx3MGhleURfRE9mQWlyTlpSYkhOb1V1MXRoemNhcDhrbVpNRVNKOEx1OW1DMTljWlY2Z1B3YVJrbTJEYmdnZ3lIZDNySkJBUThfUzA?oc=5",
+                "source": "The Market \u2013 Analysen und Hintergr\u00fcnde aus der Wirtschaft",
+                "is_premium": false
+            }
+        ]
     }
 }
