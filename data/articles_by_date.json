@@ -22653,5 +22653,84 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-03": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "Troilus Mining Corp.: Where Copper Growth Meets Gold Resilience - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUGdxLUFxR0tEOXNZR0NRY2lWdDVqcER5NG5JMkc5ZTQtQVhSbXF3N3UyZm1UeG1FS0d4am5rZHpycmVyOHp6MWtLRUpPSmlsaHpFOEVQSXNNR1RsU1dKNzVaUDBBaHdOUVJpS211NVp2RUFybVhxZUozSllDZ0s4cFgtWHgxQkt2ZDV1OXFINzVodXpuYUt1ZS1leEVKTHFiZHRGa2J3SXhOWmJUSjRkRnhnT0pPZkxlUXNMOTRsNUhoZERuaHQ3clBiakxhZzRQTDJBSWZOT3FtUHVnc1d3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Cascadia doubles Carmacks copper zone - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE9JVXlMRm95cHBGakM4YUk0ZFpFemJpYkI4WXVkSDdpQjJEV181V2tGQlJkNlNxSFl5STl0YVR3VWh3aENrZzFkMWJMbHNqZ0pFMV8tRzNhZnNSRTVqbm1SeU9HNldMM2RTMjhLRC1ZV0tVdDRzSUdmbkx6R3J6YjBqTHF4R1JFUjhqeFphdEt2N0NySC1zelJ5cUFsQkZRU1ppcTRnRUNWd2pwN0VyTU9UR0I3dw?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Russia\u2019s Udokan launches copper cathode production after fire-related delay - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEJzVHdRQjFndjRsTl95cXE5Zzc2eThoMkwyNHp2eGNxUXJpX21EWHA3ZWN6bDl6dkl2ZV9Id2wxZ2RsVnViRDFqd3ZQLXdYMjRHd2Z1akRmanhlNkJ6YTZSY29IWlJRLVB5YmxRSXVHM3FIaFVZQzFDc2hMQzludkpXaHlKdzFSSFdiX0ptYXFUaUVMeUh6aWpXa2Jnb09oYUp5Sw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Putin Starts Russian Udokan Copper Cathode Plant After 2023 Fire - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU90X2hQZjZGbkF0VEZ0LUdhUjRVaHlXNUxJOHBTSWRNMUl6UEM0WFo5d2UtR0dEYXlZMjJ2bWVMYzVNVmhCempuZXlvb2oxYlQ2Q01RYjFpY19qY25NY3dpMllfai0yV2dycmVKMmpHbXhmMGZIZGlJU2hhUG5MU3RXM09nVUtMMDNDOEhCNWxIc3lCRHVnekJEcVdxSzdJZlI2ckp6czNRLTZ6ZnBiVGVtV2hPZw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "COMMENTARY: LME zinc squeeze signals deepening supply risks for the West - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVUdQcy0wdG1qTzNRWGZXWHh3bmxha1ZWbFRNajdyX3FCbjM2bEFJRzdNOGctNU1lYUUyOUlBcXF3bmpSWm1SRmxwU1NUc1llUjNzTTF3dXJrZms3ZVFiUG5BSVhYbXZEcXFzUzdId2ZQOHlJeVVSZG9SaWJpR2xNbWpOY2ZHQ3pxdl9Fbzh6b3lSekx6THBwZExZWGM1SDZhdHY3UUdkVVpXMldKbjhzSmdzQ1d5MXFVWjlKM1FR?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Decade Hits Porphyry Copper Target in First Deep Hole - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUJqajJvMUJCX00xUkxkQ0pEMnlpTnpueW0ybmNZU3kwcFlSSVl5aGUwNW83OVZsVUZSbnhhUm5jc1BZUWRweXZaRDhVNVJzZllOY0tYb1BNMV8yVGFnak9JQkNPeVJjMXZhcUFBbjhZdHE5ZzVRV3hKRWpVZGxRWkFFWm5ycWl2NXNUdzJTemNfZmxSaTBJQWhnYWUzNHNJdkM0NnpZejl3NmJPUmMxcA?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Chile copper thieves are thwarting security measures on mine trains - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlE5Q0VsaDJKS2N6d0RUeWktQ0FPOE1naGFvZndLd1RUMTItd19wVkRnVDNNaHQxX0dTdFZINEhlU2ZUVUFPUDZoVmhBcXpmTVI4SzZCQk1OcXhsX1FiR2pmY01LWVBTNmloNVFrT2dTaUZaUWxxb1haaXNHSUhTREZoWlZraTlDVGlDdGhJdzlZVWgwbFRYVWhrTF9ySExXY21LZTFIVHEzZUNJaWJNc2p6OXZfdkU?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Sibanye-Stillwater\u2019s Tasmanian copper mine set to come online in 2029 - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRXRnejd2YXNQdkdhYXhBY19Wck1UV05CNmwzbGI5R01ySVJoSXhYOGhUekpsY0JaUDhCUWR6MG50elJZU0VaQlRZbEVXcE5mWUxDeFc4U0c2Sy04QURjMUE3VlJUazUyaTI0WUMtLVprT1lubGJyQ3p5QWNIM2hwUmcxTDUzaE9GQjhNamdfekJhUkNUZkE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Mine considered 'beating heart' of small Tasmanian town to reopen - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2NKV3pmVWpnZ2dFc1dJTU5XdlZhYzhzSDdsSVowSmp1X25qcDFMZXI2Mk9nS0pxVC1CUFNQV3FTbk5ZMWhPdkJNVGhMQkUxdmd3Ri01eXR5VTI3aS1oZTN6Tk0xMWtwSUE3SnF4eEZmSWx0YXhOWjVGUTdKR3JFSm00cXNjRFEtMWpFNzFXUm81Y3NsTmJ4Uw?oc=5",
+                "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper: Delivers Record Earnings, But The Valuation Is Now Less Compelling - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ0NYZk5NRzNNT2xYZ21JWDY2TEFGU0pkdGF0Ylk4QmR1ZERKLS1uc2xrSXdESmxaU2pObWREQjRHbERkbEx2ZlBSSXcxanhTSHB1MGFrZkViOEZ4TU8yMkVDSHNseUVJWk1oN1RoTXhDby1CUGZqSGdPdzU0U3UzXzRLRlpZY085MzJ1UmQwYWNwT0F0a1YwLWstd0t3Rzh4MWM2bV9waGVvOEMwN0REOXFPeWpGNmZsY05RQ21KRU9NQm1SdzNiVElPVjA2MjNiY29CNnRZWQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Sibanye-Stillwater to build new copper, gold mines on two continents - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeW1BUFUwLUFHOEFmQ3M1Y1pIdHhnaUh6bTJjamlTTGs4bXA2UXlQeFd1cEtxT003b2w0TDlKQVR0eFNKSUZBREo2UXZnSTExUmM1SGFrXy1WNkJvbHBVTHdfdjRuTFl4UDRrMkEyeng1QWhWNTZENVRJRmQ1TWZsbXU0SDFDTy01cnlPZHJHVjVlSTZ2amM5NXFGVG1qQUtPZGtKY0U2SkRqam1OR3M0Sg?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Economics Trumps Politics for African Copper Giant - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG1sUVZuaV9GRjZXUC1mRXBIa3VPd2k2d29yMDhFcmRTTTZzV1JhMnpnWXhqTkxOWWJMaE9jRjV0ZFNrZVdXX2o0Z2U0V0MtY0lFNzRRNGp6SnU2cVJGZzFGeE92R19nMDhSbzBBNXVEdU00ODBQVXVvQ2xMUDRCZHg4VEk2RC1zTGlweElFYjNyVVZlYUJGcW12bEZTMWNWWjdIeS01RUlXVFh3SlljejlvYVQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }

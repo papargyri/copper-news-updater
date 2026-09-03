@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-03 10:35)
+
+- **[Putin Starts Russian Udokan Copper Cathode Plant After 2023 Fire - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU90X2hQZjZGbkF0VEZ0LUdhUjRVaHlXNUxJOHBTSWRNMUl6UEM0WFo5d2UtR0dEYXlZMjJ2bWVMYzVNVmhCempuZXlvb2oxYlQ2Q01RYjFpY19qY25NY3dpMllfai0yV2dycmVKMmpHbXhmMGZIZGlJU2hhUG5MU3RXM09nVUtMMDNDOEhCNWxIc3lCRHVnekJEcVdxSzdJZlI2ckp6czNRLTZ6ZnBiVGVtV2hPZw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-02 14:42*
+- **[COMMENTARY: LME zinc squeeze signals deepening supply risks for the West - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVUdQcy0wdG1qTzNRWGZXWHh3bmxha1ZWbFRNajdyX3FCbjM2bEFJRzdNOGctNU1lYUUyOUlBcXF3bmpSWm1SRmxwU1NUc1llUjNzTTF3dXJrZms3ZVFiUG5BSVhYbXZEcXFzUzdId2ZQOHlJeVVSZG9SaWJpR2xNbWpOY2ZHQ3pxdl9Fbzh6b3lSekx6THBwZExZWGM1SDZhdHY3UUdkVVpXMldKbjhzSmdzQ1d5MXFVWjlKM1FR?oc=5)**
+  - *Source: Reuters | Date: 2026-09-02 14:00*
+- **[Chile copper thieves are thwarting security measures on mine trains - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlE5Q0VsaDJKS2N6d0RUeWktQ0FPOE1naGFvZndLd1RUMTItd19wVkRnVDNNaHQxX0dTdFZINEhlU2ZUVUFPUDZoVmhBcXpmTVI4SzZCQk1OcXhsX1FiR2pmY01LWVBTNmloNVFrT2dTaUZaUWxxb1haaXNHSUhTREZoWlZraTlDVGlDdGhJdzlZVWgwbFRYVWhrTF9ySExXY21LZTFIVHEzZUNJaWJNc2p6OXZfdkU?oc=5)**
+  - *Source: Reuters | Date: 2026-09-02 10:43*
+- **[Economics Trumps Politics for African Copper Giant - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG1sUVZuaV9GRjZXUC1mRXBIa3VPd2k2d29yMDhFcmRTTTZzV1JhMnpnWXhqTkxOWWJMaE9jRjV0ZFNrZVdXX2o0Z2U0V0MtY0lFNzRRNGp6SnU2cVJGZzFGeE92R19nMDhSbzBBNXVEdU00ODBQVXVvQ2xMUDRCZHg4VEk2RC1zTGlweElFYjNyVVZlYUJGcW12bEZTMWNWWjdIeS01RUlXVFh3SlljejlvYVQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-01 13:03*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-01 11:00)
 
 - **[BT on track for estimated £2bn windfall from selling old copper amid AI boom - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzVCNW04b2JjOS11QWkxWWVveFZRVGRCTWtNaTBsSnNaOFZhR1Zrd0ItUmJIRHpCbzdqY3o4TEtsMFBxazdOUkdkZmxBSkRTdjc3a0szZVRMLWRWbmhSNDdLUlZpRXI5Y0tsV3FaLThTRjdQNUgzYlFlVkpNTFpVM1lmLUh5VERNb3AzY2xiVnJRWFN1c1lYWnZTVDhmODRkTGlBazd0dzM3azhTVlpESA?oc=5)**
