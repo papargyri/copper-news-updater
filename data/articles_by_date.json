@@ -22732,5 +22732,138 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-09-04": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "US July copper imports hit highest level on record - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXN6WnlFN2dIZ1pnV0NNdVBzNkZ0YUQyQ3VmekVkSWM1clg0eWhvNkR3WnRublpSdXNFNFVrM09zNUFnNDEwS1NLQ0U2c0Q0SEZncmJkVHJSbEljakliWkFxR1c2RmdicHpfU2pEWjRhQm9UcHVjTUxMYXplVXoxT043Ni13QVdtRGZlSC1LYktNa1ZOSVJLMlp4ekEybnc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Discoveries 2026 - Expansion Over Addition As New Discoveries Lag - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlNGaHd5Vy0yRGphLUYyVzhLMVA2akV3eHV6bWRuYnZhS1VFQ05BQ1JlaG1sSlpITTRRMFNVZWhHM0lKcTktQWk2cm5sMld2WXlValkyYURQVk9wa0UzVldiVUhaU2cwM2NVeWpqd1BVSTFyYkpYaXMzMkJRV3k5VmVMUkJVSHhtbFRLTk5CRkJkZ050a056bnlhUnVwaEswd0M1ODAtanA1ZDAw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Hawk traces Cactus copper towards New Years prospect - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeS1aNjBLalZsd3Jld2wxb3VPc2o5VGdfVW1GYTU2a3kxQkh5Tm96MkhFTGxIb0h6emotWlJhbURJa2p1T2dXRnFNTzd1TG5GS01NbEloWC1kc1dOcUhXWW5BVUVsUnQ5U25JRmRlNy1sM0ZQRUFRT2d6N3lERm1KXw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla Copper intersects \u2018high-grade\u2019 copper equivalent - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZk1nUV9EZlYwUFRONU1SRy1rbGRMeXR1NmpqbV9aX29YcjVwM3h3X3FaS1M0M3VKQUl5OHY4ejNQMVdxYUxRUW1Jc2NsZnpseFc5ZXdSVldqTzVjVE93SEduQlFvTUpyU0t5alk4NFBUSUxrZ1N0SzJ6R1NGVnR4V3RB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Udokan Copper starts production at long-delayed Russian plant - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWXRYTkhvcW9OekNnN0Y1c0JFSnZXWlRONmhFQW9GWlJqdExUUF9ZNjN3ZlU5ajF4VU9kMWZySEpSUjdSVkdISGhpOEtTNWlhb1VyRXdBLUh1ZHN1M0d2MHVrVV9Ca0NkWnU3eHpLd1p5OFIzRzA3cVdLcFExX1RmWHhidE42ZmYyM3lpMw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Lake Announces Non-Brokered Private Placement - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXhWRmdZWlA4V3dWNTFubHVkalJFNXhJWlEwdWZVenlXa2xTdER2bUNHSVhrdW1nV2YwenhvQnZGbU9UNHRQVGt5MlJpdEpOQzExN1pMMnhIUklrLWp0ZXFhY2loblF0ZFE3SEdYMVhIcUVqTXRLWmhWWjcyY01DWHRXeDZmRE9lZTV2eEtfU1RnZUdKM3RlbXRFQW9Qa0ww?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "US July copper imports hit highest level on record - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYm1UbHduVFhEMWxKQXVPN3REMk9jdXM4R2I4bFBpbVd5eFhKVjl5RktCMVkzakxMSW4yaWx1cV9LY3dTT1NPSldHNU5TOGFjdDVYb0NtcnJYenppLTBjVzFQb3U4V0lIbFpYYlQwT243RXR4OHNXMWZsTlhTbzg5LUtQT3g?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminium climbs to three-week high on supply tightness, softer dollar - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWtHZTg2c1M2Z0tlT2piVk5FWjJ5eHRyMlJ1ZmlvSFFLei1RTmVwZ2FXZ0ZSX0lqV3ZRMVF2VUxZUmpSdmtXZmVCaEg4d1NpMndhZ0pBVEZpMVlsSFI4alJydWdtR1hNakdVQmFrakUwVmczRkp2WHhpUy1Qcm05T2RuVDhZVFBIYUJWVnZJdEZ1WVZSM05UTXhzX3dodw?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Faraday drilling boosts Arizona copper cathode case - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGZNOFlLdkxxc1BJTXVxdVZyeUllSjFEMXNYY0NzWXlQZDRCY0FBakxyYVZEY3FKUFUwNjBraGhVQm9oeEF5MzFiWEdLQzZvTElYZnpfNHRxcXdmSXNndzBuOGVUMnczZlQ3aTJQVmNfNkZNTkdKOWhlaEZEbEdVUQ?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "LME copper holds above $14,200 but ANZ predicts record as tariff concerns distort market - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWV6YWUtTGlBUjNBY2hjTlR6ekNiMkhrM2NqejFJazVpS21jZjVPRVZ3dl9BRnQyTTdXR2pkVjVoakJDd2dIeUUtYUdBVTluUFp5RkpXZzMzUThPNEFzNEZEMi1QU3RfNm16WmNyNXhCOE84NkVKN2tDcDRhS1lMdFJqbGZBYWpNQjZzelBoQzBTRVMzN01xb05NeWpuWDNzWGFNNWYyWEVHY3ByRV9ISV9ZLUo2ejRPODMzdU5LRlltZw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Middle Island expands copper targets at Priboj - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTU92MDBpN2dKRno0dEtKSThCVERnMUtwODJmMjVzWE1TMlBpU2xLM3Nnb0ZDQ1R5V1Zhb2pKcHFNMUYxVlcyc1ZrSEpxZFBhRW1ZMTltVDJQLWVlNWg3Wm4wY3poREt6UUZTaUlnRmVFRFZ1Y0czYQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Why old phone wires under our streets are worth a \u00a32bn fortune - The Times",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnJMQ2ZUSkp3VU45aTZIejI0dF9JSmhMV3hWbERFOUNqR3BlX2MtTGNMTGtQRHphVzlwZnBFa2UtUjRYSEVIQ1kyM1dqdHQ5dkQ3UklibHV6Vi1IcFlCclNHdlp0Nnk0M0x2c1RXUmFreUdXNWdpRVJGc1A4VHBaVHVzSDdvN2ctVG14VjNtc3NId2NDaVFzbFRlUEhwN3h1dkJWV1NiWVZQaXhpRUE?oc=5",
+                "source": "The Times",
+                "is_premium": false
+            },
+            {
+                "title": "Strategic Minerals confirms definitive sale terms for Leigh Creek copper mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjJkOWFpZXdBT1Q5YXdLTUZSTWhaQ3BicE1sZ2FoRnNNRmNZMjIwYXBSMFM0WVBrT1BOUklPUUFBS19NdGlmcjNkaUtqdFVNU3JVQ0VIaVl4YS1US2FBdE5pQU9DaGRTQkdwd2pTWDhEV05PVU9HVXd4eE4tTDRLb2l6UHprSGFPdGZ0OVVmZk5wYWJ4aU9CSHhsa2NkZlhPdnd6Nmd2ZTlfdGlQemNzX0drQktsTzJoNnEzR2trQWh0c1U?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper to Hit Record as Tariff Concerns Distort Market, ANZ Says - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGtWdUlsX1ViSjFTbHpkcDBNU194V19YV1lIako2c09hZEQwNXlldV9YeldHeExDNGwweklpODVjZmVMTG8zV25PQ1dsS2tqYVpnZ2ZOVklYM3hrMkZ0RVBSZUFJVjY3YkU1SnJpdUk2ZGZicHRPR2NMVmYxX2FKRkdydExXSjRnaDFKVVNqVjR0eWI2UVl0NmZvenJ1dHB5RDhaSGpoMHNmWTB6V1VCU1R4VzE?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Southern Copper (SCCO) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0ZBczVrZUhpZ2pCWXNqNHp2RTFFckgxLW1qNjJueEUzTXl0dXRnUGVfdEdGUmgtNVZnN0xGSGxZOTYzQkFSMWh5NDhRWnNrWVNMVGxXRUpaVG8yT09ZTHhoUS01QzlHRzZsMXVKNzl4OERTN0VFemxiZmhVR0VFcDNUTEtCcXBkSEFyNHhHY0NEZjluMzhXMm4tN0s5RjVOeWc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "SW US mine rush collides with water limits - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iVE8yMlFWdTBlNVBrX3FzU2t0eVRCcU56YXNNRktIc1c4Tm45Z2RmendVUDcwNF9yMWo1YVZ3S2lJb1N3LUtYcXlqSWNLNFptOV9hRGdhQ0ZCNUdkTnFlcGE2TTh0SzVXRUE5NUlLdW1nbmpk?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "There\u2019s no shortage of copper, it\u2019s just in the wrong place - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3BlUGkzeGN1NTFsZFhQNE9WV1dDcGRfRS05c2V1cXRMSlVuVnE1N1Q3TU9FeXExSEN0aWdPRUItZlhXYUVYN3ptSTRsRDVsbmhQeTQ5QWFHU3hPMlZ3a213U1ZCbTU2RDNMR3I4V1RrbXVWVGp4UXVEQVlKQWJ4LUJsRVNQSFU?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "CRU Roadshow Insights: Brazil\u2019s copper and cable market - CRU Group",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUG82bThYeXE5Q3hLUGRMZWRVYkZua0x1VVMzOTFSQ3NUVE5UX3VtLVVDN3E5Zk9OVGVTbWJ2dGhwRmg1N1BXc2plTXVwSnVVdGRsUDFNVUpGdXhVWEdPbE55OGJwR3lnN0I1SnZBRnRZczZuc2xTRGowaEZLREpQM1prX2lxbnJDdWxXZmt3MFlrYzJmNnloUW1yazBMcllXbHV5STl1aHlyQXM?oc=5",
+                "source": "CRU Group",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s Rally Stalls as Worries About Global Economy Resurface - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUFhMnBYa0VsMElrZUkyQmJqV3hpV2JYTk1Lc3FZd3cxVUEwaGJHWGtuVFZ3NlZJeTZvSWlET25EQ3dycS1CUG1uMGdOOGQwMUhNLWwzRGN6TXlhLUMwMlZ6cUVKeVNjV01BbDVGN0RmRHlybDdGRlZjLVI2VkluU3BWVzFBVHdJZG9wWWdmMGdVQndUaHRoQ0pmd25MTThyNGNFdldMTlUtYzhxcE92RlFpSHQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price stalls short of record as Chile\u2019s storm-hit output slumps to 2011 low - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0s4ZElaQ3J4OW5WNnRlc1lGYnhfdm1fOWVja2pjb0hIcm9GQlJRQzRmd1dRbFBGaG9scFJGbzVaOTZVSjU4Sjk0czJtNUpBVE5vaWFiQ0VYT1VMTHFvSFA5US1MS09icG12TGMyZDlMbFVZUlB4eGYxY0F1ajIwVlVwRlFNb1dfRlpXemVLVFBQcVZMRzFiYk9MbWxPVi1rRm45cG45OEc?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Sibanye-Stillwater to build new copper, gold mines on two continents - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSW54aWRMSG9meHF1QjBxa0FVWnFaWGFhU0tpZU1mMUdjQkxQcDdLakRoMVA0VmQ4UWtrYmNGa1F0YTJ1MkQ2VVk4WFhLMHhxVEZERkdWQnBDRG9kMGFRTUdIOVNDSWVBV19yZWRiZ3psRXJXX0RiQzU5dmNuVjdENGtHSTRkVWRfMTJaeVRESUFSNjZDblE?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

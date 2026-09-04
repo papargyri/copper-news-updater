@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-04 10:28)
+
+- **[Copper to Hit Record as Tariff Concerns Distort Market, ANZ Says - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGtWdUlsX1ViSjFTbHpkcDBNU194V19YV1lIako2c09hZEQwNXlldV9YeldHeExDNGwweklpODVjZmVMTG8zV25PQ1dsS2tqYVpnZ2ZOVklYM3hrMkZ0RVBSZUFJVjY3YkU1SnJpdUk2ZGZicHRPR2NMVmYxX2FKRkdydExXSjRnaDFKVVNqVjR0eWI2UVl0NmZvenJ1dHB5RDhaSGpoMHNmWTB6V1VCU1R4VzE?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-03 06:19*
+- **[Copper’s Rally Stalls as Worries About Global Economy Resurface - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUFhMnBYa0VsMElrZUkyQmJqV3hpV2JYTk1Lc3FZd3cxVUEwaGJHWGtuVFZ3NlZJeTZvSWlET25EQ3dycS1CUG1uMGdOOGQwMUhNLWwzRGN6TXlhLUMwMlZ6cUVKeVNjV01BbDVGN0RmRHlybDdGRlZjLVI2VkluU3BWVzFBVHdJZG9wWWdmMGdVQndUaHRoQ0pmd25MTThyNGNFdldMTlUtYzhxcE92RlFpSHQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-02 10:51*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-03 10:35)
 
 - **[Putin Starts Russian Udokan Copper Cathode Plant After 2023 Fire - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU90X2hQZjZGbkF0VEZ0LUdhUjRVaHlXNUxJOHBTSWRNMUl6UEM0WFo5d2UtR0dEYXlZMjJ2bWVMYzVNVmhCempuZXlvb2oxYlQ2Q01RYjFpY19qY25NY3dpMllfai0yV2dycmVKMmpHbXhmMGZIZGlJU2hhUG5MU3RXM09nVUtMMDNDOEhCNWxIc3lCRHVnekJEcVdxSzdJZlI2ckp6czNRLTZ6ZnBiVGVtV2hPZw?oc=5)**
