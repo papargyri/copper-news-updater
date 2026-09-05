@@ -22865,5 +22865,72 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-05": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "McEwen Inc.: The Gold Bar Miss Is Fixable, The Copper Is Free (NYSE:MUX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVVkdHlNSzJoUGdSWmdvdXBnMmNxZ3NGam5JQmkxNk54UTFMVURMa2hlaEx3Zll2MGtUUWpLRXN6eVc3MVlKYjNzWXlvQzNJVmJRUjYxQjZBWjhsbk1kVW9tUDFGelU3ZENPX2x5S2JsWVpqLXZUNlBvc1liaVNVaVZ0QktvWkVRZ3ZBZDlNT21lZVpaelJ5NmE1bVloNFRkc05iT3FQanZWNU9oUlpXblNzSnVIZ3dwX0E?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One scores early at Utah Sport Project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vWUlNbzVnclN0UEdlazEzQnRuc1NXYl9pS0kzZFlTRGVhTTRHbkpGbmplZmR6Sl9SSl9RWU5kYU01NEpMMTBSYzNnNTk5VjNZdGcyNDJWMVZaNUhZSXdYYnA2THlsRWU5d2xJZWlSVG1NbERRTHFj?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "live Copper Price Chart - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wWVk4Nl9iTGdtamJSWVBOQjdUUXR5ZnYyeEVqLVFsajROLW91WjNuMl9iYUIxVEtUWlc3bmZlTFAxQ2NwUEJQUy01MTM2VnBHcVB1OU1QcmdsQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper at risk of rare supply decline as mine setbacks mount - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2QzWlNJdFNIWE5wOHo4NUlLaEJYSkV1RnpaVmRuN0JHVlNtZWdHZHNjTFBlaTgwQUhPcC1nemRMSnM3aU5jVDhEenlyN21mV1AxX3dZbWhGaTZPaVlNVEZlRUpmNDJkMFZiRFF3M2twbHVsSm5OR1M3V1JPQ1JCbmMzUTNzcXUxUHlPc0pOY1lkQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "BC Copper Explorer Uncovers 2.8 Km Chargeability Anomaly at Max - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjRjSzE0WnpLYnVSbHUxWGNlTmRFRzRyR3FpRlBsRUFYeENiMHRlNUR3TThBME81ZVpyMjlmUEpQOVlxRXN5TXVSeGE5b0Rrd25xeHVHOFRORUIxZGkwU2xRdFpJWjNnZmpWZDRRbmtET1RvNE9wV25rMWRaVXF5eTJNdG9HQ0tTdUVSTGkzdTBVeE5Yd2p1YW44R1dIa1pVaG05dFZBMGxERm9HQV9qTFlxQi1fOEh0MGszRHd3?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price heads for 10-week winning streak, closes in on record high - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWlOWnpTelZCdTA2c3VSalFmSHBBVFUtdDBUaGFzdXZubExzQ0tUbUdUSUNkcmU5NWlGQkZqSDA2WDkwekduWHBUZjRKM3pqQlNhOWVpYUd6d0RDZ0VvR1lVcW9wdnRzQjFHd3MxOUw0VXVmaE9NZkJCa29ZVjE4bzJsMi1WSUl5cU9yLUNRdjI4NUdRWjlHUnlmNU4zV1U?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Coast Copper buys neighbouring Vancouver Island ground - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFh3R05NZms3ZDRiWmszZmpDY2xPY21WbUR1R3UyMEhQWXI4TlFxQ1duQU5WUEl1SUl6Y0E5cVhaSUFFWHlKSWdDYzFBUFRHSklYd21MQXI5MG1INTN4YVVnT1h2Z3FfN3J0c0MxaFZLaXNYeDdlZllVeDRHMXN6REFyWktzOTltOWV5NFNQRmhFVF9FS2V5VEpWWDJOM0E?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Copper at Risk of Rare Supply Decline as Mine Setbacks Mount - bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSE5HUEZOeTF5S0VpcW5VU0M0QWFvNkRVcUtCRGVUR0Q0c0k5X0xEOURGOFRVeTJ2VVd4T2NSR0diNDFHdnMxTkN0QldZOFNneXZTc1ZQV2VmX3pUUF9Td25BUlJSZ1NSd3JwWFpFMEJXM05HdkRPby1OMEFYNGNqX1VsZ2daRmhuYTVvLVRKWlRvV1lPLVc2QmlZRTVSSUdITXFLNGdSSnROQ0xET25oZHFiLVk?oc=5",
+                "source": "bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "How Is Freeport-McMoRan\u2019s Stock Performance Compared to Other Copper Stocks - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1R5NUFHX1NoVDZwaHhxMkFtUDV6WF9SSExXT0ptQ2JTeE1fOTlsWEtEWWdMbFNoaWU2MXBsRHYyVmpTVmEyU3N3X1hqQmJaNE9KWlUwbDAxWE9Oakg4MVVMR0xnSF9wS3NjUHhpT0FXWThwb0F0VGV0dG11TTNPNmlSaVdRNWZ5bWd4RHZIalRVQ1JVdVZ5d29oZFFkRXp2ZmxNcHZab0pyR29v?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Colombia scraps 10 mining restrictions to lure investors - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3ppdVdIQU92aklWa00tLTFNV1dEUHNlTlQ3M0x1MS02RE9XQmlKZ2pMR200U0o0N3ZKR1dXU3pPS3p2NkFFZGRrV0hmUmdNLUxZcHEzdnJJSnV0NEpMLVp4WG5jMnRsMmpyck10VnREU3RSTnZPT1BVUGlLaWpuYVZ3WVVRYlk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
