@@ -22932,5 +22932,24 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-06": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 2,
+        "articles": [
+            {
+                "title": "Traditional copper market Souk al-Safafeer opens in Iraq - Global Times",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pMndvenhWSnhIVnRIa2JMUHl3Q05ob0JaTjhtR3FQNXRKR0pPc0JVZE4tbzJJLWp6RjN1M0hxZGEzbTFqOHhUb2c4X1g5NUhMMmVLSlpHZVgyV1dFX2xKaXRn?oc=5",
+                "source": "Global Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper discoveries 2026 \u2013 Expansion over addition as new discoveries lag - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMmFlY0FqTzNSdTJQZnQwd0loaVZfcGhiOGNhTUJRbHE0SnllLTZOSF9mWktManBHRTZQMEJUemtmWG5GQ3dPMUlYbFh0Rnp4TGFKS19VTzlMMl80RmtNT3dyelFkVlJvS3pnWWJVYi1tZmE4Y0VHbWl5c1huMHZSYWpnR2pfTDJrbmhxQktRaW9ZSGV2b0h1bXU2QTlHaE1RNHJxM2tiYlRQNWgwYk0yWEdKRGV0aGc3TThWYmFTTUdlYzVhTlpIOGstcHBiVENCQ2YwWnZxckJ1ZHN0ZXprOXI1WQ?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            }
+        ]
     }
 }
