@@ -22951,5 +22951,36 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-07": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 4,
+        "articles": [
+            {
+                "title": "Green & Gold launches rights issue for copper drilling - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnVUOXE0VDJ6bFZyMGFlZTh0cUh4bUE0SVBWWm1DR3dQTlF1ZUY0RkZmQTZHVXpPRTNSamNMWnRhS3BtbnBKcDhCdXZXaGZUMERXdXVtckNaeTVNcGlrMG9mblRVX2hhMVlJdnEtRjRTMDhiWEZRa1FzRFRRdmtwaQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "A 175-Year Commodity Market Rule Is Starting to Break - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUdOUGE4YVNRc3VLX2N5Z2ZkaXJmZTlycS04ODZfMWNlZGNrRWRQM2xGYVU2V1VoRE4zQ2lHY3czbDRMWEJBQUFJYTk2WVV0NDI5V0xXSnRrMUxzQ0ktMjQ3SE1UUmJibE14cVVGTXlCd3BXSUgyVnN5TlgtRGNQX0Rtb09qNE5kbUhGSTlRUkN1LU9ER1RPTXkzVzdoYzF0SGlpSWNoZ2dhSF9JQXo1XzlnUnB3bEh0UEl5WFQzS01VUQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Just Soared to an All-Time High, but This Stock Is Still a Great Value - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHNycDlIdmVMUHlfYzdILXZFdFZnOFNxZ3hmZGNweHRjNDhWVDQ2dFpNWVJ5WkRPZDlSQVhTUm4xYzNyRGw2S1VSZG9sSDhNZFRhN3dGV3U3azVwVXRDakVTRnJ2X0htYUtTbXpJM3VMSXN2M21LZTd5bHRmNFpZOUJBNm9vaG1VZ2hIOFVWTQ?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "Jim Cramer Saw Copper Reaching $100, Yet One Trader Bought the Drop - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjFnSmNxbEFUVHlXVVFIZjVTRmdEdFZxZVhYQlM5djc0TVY0SFRvN2JLTi15Y3o2alNnRkRRMV90TU9GM3F4SFhlVHBmT0UyZ2pObnloS1RGTjlDaXJOUEYzWUg5TGx5VXJzX1l2dnl5dTNpa2IxclhNdE5YS1NwanphQ2VXOWlmdGw4Mzk5ancwTGpzZTlIOE1GVTJMOFp6WkE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
