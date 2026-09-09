@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-09 10:41)
+
+- **[Breakingviews - COMMENTARY: Anglo-Teck wait shows mining M&A’s rising toll - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0hCdWNMY2lqTy00SjkzR1BjeUltb2Z2d3pjUFVqY3kweXg2ZWRzLUpMX3FGRXpheFdWZkRndWhTWlUwLVBiOWdkQXlkX2xRZDNlODhlNTQ4RGlGUFFwb3RMREFleGN4Q3dCZ2t1dXFYSUVvVGdIdnczclNUSHVoY196WE8xdXV6aHJERmhoQi0wSm1vaUZIcUdRTExZNkcxb2djLXZnMEs?oc=5)**
+  - *Source: Reuters | Date: 2026-09-09 09:02*
+- **[Corn Slumps for Fifth Day as Record Fund Position Tests Market - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcktCcmhNMXB2Y1E2aUlleDdhbEU5WE5LSHVBNVEzdVJKWUdNQVdENGUwSERVUnlJdHlzU1hCRUNoUDlCUDJpWmtmYy0xWi05Y2kyTl9VaXh3OE9Bam0zX3R4bWctWDdtNWE5MVhhSFFMTW90QzR5UndabnB0WF9lZUpDUWI3ckt0bW4xVVdYSVMyd3M3R0VJdHk5Tzg4bDZJZjNBS1JLV3hEdDVuMFVjdHJjMA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-09 04:16*
+- **[Ivanhoe Talking to Big Tech as Congo Copper Project Expands - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaE1CQ3l6M2UydGNwb1BaTU16cEFtZ0dVaGxyQ3N5N0ZPSVpINUMxT2hTZWR3bFFYZTVGMUVVSUxBbnJVMl8td1A3QmJLdTZkbWotM3dqbWFSTlB6Tkphcm9RMG1fOEtpdWZSS21xVkJEWDV6QTduLXFtZU55ZjRPaFAxUFgyOHc3eFM0MHVOOUtEZ2dFajlVQ0gtVnVYMTFiOXFFcEpPakRTeDBkQUtV?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-08 16:18*
+- **[How US Tariff Fears Are Driving Record Copper Prices - Bloomberg.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3Z0UGVlZTVrSEdhWUVFLWNKT3JRWUhlREhWNUZ5YjlxbndiR3dPakhuLUpyelBreFJ3bGM4NlE5dF9MVE12dUprWml2SURSNjVEWXJJZHAtdTM2cHhIQ2Y5OWJ2Q0QzcFBRT21VbGxvN3d1dmk5UjlVclBnY2N1bHJNSW42X29vbFR3NjVNcXdyQVlRVU9jYVN6YnVYd3dKNUpPOGJXbHViYjlfQklDdFNJWnBSQ2NDY28xa2ln?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-08 11:59*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-08 10:29)
 
 - **[Watch BlackRock's Hambro Sees Continued 'Positive Pricing' for Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVlRTk82X2lTM2NvUHZRNWUwa0Z2bEhQQ3RVMXNqUGswcktKNXlPT0NUTFZNbGFJVGRpcUQ2UkJmQlZUYUhqNG9yOVhlQnZKRXdsSU5PUm5yNDUtRG1wME5NNWN4T2tIM2N0WXk2QVQyQURvTGtuTVN3djlITUlSRGdtOGQ0dEx6Vi1aZWFjVk1IUWVHeTlXMWFOcHIydVpYbk9RMEMyeUM?oc=5)**

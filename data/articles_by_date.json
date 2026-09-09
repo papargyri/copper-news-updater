@@ -23181,5 +23181,180 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-09": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 28,
+        "articles": [
+            {
+                "title": "Gold Drill Hits 2.0 g/t Over 68m as AI Fuels Copper Demand - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2F3QWR5dm1xdGR1VjZZbm4yeG41dzFkQ1hyLWI3YV8xbXNrN3JFLUZBcDByYTByR3MxdjBYSmRjMXd4LTROckduVjlwVVFyeTY1ZU5fVWxKNlpZMVRCUlk2SWFxXzhfeUxZMGlJem80REFSbmgwMzFwSTVrRGo5STM0WnVtZGJfV3hQSE9WN29wN0F2bjY2S3k0S0UzbGp6bEhEZS1TNDd2bGtwMGM2VEFMVkY2VGM?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Breakingviews - COMMENTARY: Anglo-Teck wait shows mining M&A\u2019s rising toll - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0hCdWNMY2lqTy00SjkzR1BjeUltb2Z2d3pjUFVqY3kweXg2ZWRzLUpMX3FGRXpheFdWZkRndWhTWlUwLVBiOWdkQXlkX2xRZDNlODhlNTQ4RGlGUFFwb3RMREFleGN4Q3dCZ2t1dXFYSUVvVGdIdnczclNUSHVoY196WE8xdXV6aHJERmhoQi0wSm1vaUZIcUdRTExZNkcxb2djLXZnMEs?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Congo\u2019s giant copper discovery grows by nearly one-third to 12 million tonnes as prices hit record high - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzFNV2ZKelpUaC1DUmF6WWRLYnNzRFJtbXI1UWh0alh3UGo0ZjBoRzk1ZjgyNHhSc2VHU0Z4VW4yc0NBUnJUS0hpSlBtTElsckhHUm1BS25SbHU2TXE0MUp0aW9NcHo3NXMwc3c5Q25qUE5Cc2ZqRGx2dnhFNGlNODZVQ3A3dkM1dU5pNEhzajdIbnU4dHlJdDFZTTZHZ2tSNlhrMW9hMWRpaFNBTURXRHN0OGpQdzNXWWZ5WVUtN3c3a1hCS0xoTGZVWXVDaWpmS0E?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Lux Copper commences maiden drilling at Baird - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5cTZ2dVNuaU1fSTQ0UEJ5VlBkVEVfd2VaN3BqcWx3ZXpfTVBJaVA4MGQyU3FwTlRWUWxieGhBS1BoNE9JMFA5QVFabGRiVkpQNU93RTc1RUdZRHRzbklEUXU2aGNkNXlsdzdNQndLVWFONjlxTmRJ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Canada's largest miner Agnico sells two Alaskan projects to Viszla Copper for 20% shareholding, royalties - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTk5JUTdHcVlSMTFSeFhpTVZUQ2NJSjVDMGh6OFRUUzZNQ3RvdkdVVWpyYXNkdm1vbXFBbFJVSFA5TEdObC1LQjl3M1poWW1uLThxTFlqS0xpcElpNHAySFNaTkw2bkgtd1lSZ3FWeklxcS1Kb253U2pMOHRLa0QwQUx4QjJQQ0dpYkxwc3ZaNWQzSXhSRVFrdDJNdV83b3d1OFVzSzkyVlJpY2RqYnhBX3JmTGI1Rk1EUUVkNTdNaUxrc2pOanM3T0ktOWpYejFacjh1eWlvNl9XZ01raUgxR29ZeUY?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Corn Slumps for Fifth Day as Record Fund Position Tests Market - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcktCcmhNMXB2Y1E2aUlleDdhbEU5WE5LSHVBNVEzdVJKWUdNQVdENGUwSERVUnlJdHlzU1hCRUNoUDlCUDJpWmtmYy0xWi05Y2kyTl9VaXh3OE9Bam0zX3R4bWctWDdtNWE5MVhhSFFMTW90QzR5UndabnB0WF9lZUpDUWI3ckt0bW4xVVdYSVMyd3M3R0VJdHk5Tzg4bDZJZjNBS1JLV3hEdDVuMFVjdHJjMA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Hits a Record High and the AI Data Center Boom Is Paying for It - Startup Fortune",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0tTSzZhVGVYVzRRMkxPdTBpVWZZRkpBTjltS2JYYjBHaUNtSGFDUC1GTmpjQWhqUmNGSUo0MFk5ck1iVXRnMjhlV19HVXdlMUpQbFNHSjJYOHVGSjlNQjd2Ri1SLXJRZGJjTXVRTm1LSm82Q1lJRXppLUpxZHRMejN5WE1ya3o5OUxGbmJUTDRISzRuMkUwd1hWVmF1NFU?oc=5",
+                "source": "Startup Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "PolarX hits close to 10% copper at Caribou Dome - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SR3EySlhWbTRUMzZhdXhINzlOX3Z6MF9Jd2piN2RIWVBQWmdadlNDRWNnbldLYkZOYWRmNjRKWDQ5Y0RHcWtYSmNMUDlOYmR5UWpJX3RraEdFbnVoWWdRRVhIT3BsNDV3RTNoSVhMLVltdjg5MXZpVw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Chalice intersects broad copper zones at Deep Blue - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UeGFRWWdMVWJsSGstVUp4WHE1QU4yUER4OEJrQ0paUDVNdXI5eFBGS0ZVUHJ0OW80ZlpXeEFCeXZpN2w3TldEVDFjV2pfWE5WVkRzenFObHotdTVzeEl3dElvY2E2c0c1SzF0d3NpcmlOOUhPZzlhYUZiWjRHUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price extends rally to new record - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ybDhoUlBlTUZ3eDdFTHlMcC13eUFIRG5Bcmx3c2MydUZYdXdobVhuRDU4bmtmZ3c5TTdURXFhX1BlNlprTkJHZEJ4WXJONWRWaDFkR0w1U0F5VzNFejZMUEVtWUNncXNZNkFYemd3TkE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe accelerates giant Makoko copper project as Big Tech circles - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFFMQ3ZXLUNCcTFsNUM2d19PTUJCcjBsMHJXMEFSUjJVT29fOUxSd214SFBPOVhmR01Selp5YVk3enNyQmpDeWhZeExWS2luZE9vNWJzc25zN0hIZloyX3Q2SW83LVZIRHduSTNydXR3NDBibVNRVXhtblBPd0xzcXhMclluMTZjaFlDNWRGcUFQQ2tH?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper just soared to new records \u2014 and could still have 'more left in the tank': Chart of the Day - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbnhSeHdMZ3lKNDRrckRsaWF2SFEzd1M2TzBqY2FYMS11eWZBZ05TZU9GNWh4SXhCT0dRdGhiOGh2ZEFIVVFSZEd6SUJneXg5RC03Q3VVNHlwajR4NExWSTBtdkw3Y01wTWRaZkFSNF9KVGNqZFpEUl9hblhYbnJ5NUVZMWs4OTQ4NnVqcklIQzNGTUNTRXVrQlhRVjFpcVpsMjJLc01zWGlJVWZJQnNnTjRGREd1dmRYUm5vZ2ZVbVJEM0lHZ05lQjgyckdaenFVUzhBY1JueXNqd1d1dmdNbDZyM1hNZw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price set to test $15,000 as investors await US data, tariff clarity - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQldqMWYtTXFwTEduV2taTXdDTy0tQ2hKZjc5WTQ5M2ZXTDJuSzB6aVg4TVhTSDVYLXE0Vk41M0FFc3VVU3V6Wl9PQmVDeFo0cWlLSzRYXzN1dHhuMmxEampXWWlwTFU5TDBDZ3RZaHB0RndaV3M0dE56LTltUVNEemdUV0dQelI4MWcxVlFHdW5sdDg4LWRPOGJB?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe\u2019s giant Makoko copper find gets 30% bigger - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FcE9aZVplZlhJWWZEeVlzNEFsYlhmQ0ZSN1o4WDZYN1hudEhyTV9RS3NVWkwzTWptMFNxd0Npcy13WjR3eW9rZ3FDaHpfNFZwTDlldWloM3VQVGd0eEFRQjE0bGZGTk1fSFM3dmxHaW1zdXloZEttSlpmUTE?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Eldorado eyes bigger McIlvenna Bay copper mill - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXNyeHhzaGY0c1A2NzJFdzZKYXVOQ1l0Vk44VHR0UXNEdERSYWNwZGRMMTlscTdoTks4a2FuNmlYSTlGMVpqVDRMWTZEYUJuRHZDWnNabURucTZRZ1p4LW0tTWVaQ3lxUEVqNnh0TUhHbFNGaEJqZE5sMWJScVZnQkxDQ2dEWHpRLUJCQlptUVBmaUUt?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe Talking to Big Tech as Congo Copper Project Expands - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaE1CQ3l6M2UydGNwb1BaTU16cEFtZ0dVaGxyQ3N5N0ZPSVpINUMxT2hTZWR3bFFYZTVGMUVVSUxBbnJVMl8td1A3QmJLdTZkbWotM3dqbWFSTlB6Tkphcm9RMG1fOEtpdWZSS21xVkJEWDV6QTduLXFtZU55ZjRPaFAxUFgyOHc3eFM0MHVOOUtEZ2dFajlVQ0gtVnVYMTFiOXFFcEpPakRTeDBkQUtV?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Utah Copper Explorer Jumps 19% on Surface Assays - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmxoeXdKaHNKZ0IyVm5aYWdva0Z6YjVmSTZHVzlfcHpfakNtX3NjTVNYSkZhYW90RVdLUDFVTWdfMEVpNmVGbUQwQ3owd3N2N3l2VXgxOVJEOGZFQU9RQzZjZVNmZHh4VjJOVG9jV25VeTROZ0lwNU1hd1BqQ0xsWnZCU2d4b01qNzBTM1hrRzdESkt4UTQ4V0RXLXN1MWFsczlKWXhRMEx0ZUxKWFMxT1Bxb0RkaEtFMGtpcnp1VWh3LTRaY2RlMEdXaw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "AT&T Offers $10K Reward for Tips as Cable Theft Soars Alongside Copper Prices - Barchart.com",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME5LT0xkRktHOEdkU3FySTlBUEhyLS04bzU2ZzdwTnpYVVE3dzBCZnhnOUJkam1nM1Z3RWtNOTh6S0NkOUQyVVpocWZHOEFNOEJIN0xPMlMzUVBTYXgyMW5jcndZZkJNd2tWbTBWb2xWS25iSkZfX2hQZ0JQaGlLbmxmQ1dOVE00OXI2cExzVzF2OTVhVl83NFdrSWl4S0s4NzhPeWNKZEp6Rjg0c1pLVUdJR2t4eFRmbGRTbQ?oc=5",
+                "source": "Barchart.com",
+                "is_premium": false
+            },
+            {
+                "title": "Dr. Copper Says the AI Boom Is Spreading Through the Real Economy - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUtZOWs0a044cW1KZWc2UFFweVBmeU1XdGMwYVFNeEdJdkZxYUYyZ1pUR2MyZ3c5Tnh4aThvN09mck9GTkMwOGJqOWxaM0haamg5aDd2Yi1Pbl90RlVJZVhzeDBXMUI1STc0dGFqeFZ3QzFsUWhqWXhlTE5aWTNDTUZCVFNYNGcwejI1WDBEUDZMUmdzVW5n?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Is Near Record Highs as AI Demand Surges. The World May Still Be 10 Million Tons Short - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR0NHd3IyaEZFSzNjNWpRMVpZcUE5MElfemJmM1VmMnBoVnd2cFNmb2FGanZvLXNlU09rMFdiaFRSMlkzdV9ZMG5Wcm5sYlppSzAzMEx4Z05tblRBeHFRYzlreDhma0lfZXhnbWhYQmprcVJuNmloTGYwYUEzMVA1MFlNd1JhYW1GVFJiOUVYZXFlOS1leWYtQ3VzcHJSUmxjNm93Y0lWNkw3aVVqMzJGMEhvSkhDcUFZOEJiMXFaYlpvNmd6NF9zSkpWRExEcW00NWFVd3NXQllYRlpiR3d0c182cl8?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "BHP, KGHM join forces in global hunt for copper - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yUGFpWmNnSEVxYTQ5NkR3RzhBXzhxekJHVGczUFlSQy1DVWx5Szh4RUN5NU1BanVXRjlISlFSR1FYMzRienRURmVoYWZtSmJQZmZkRHhFeWdWTFhuSV9WTnBNUGhNMFpvSW01RmJEZG05aDJRZjlyWTB3?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper climbs to new record high on tariff fears, tight supply (CPER:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb09yVkROR3lGaWowYnVRTGVtUnhqOFl0Y0FOWUNId1hCVHlMX0dZZHZOVXR5STFDNVNRY1YxSHJGVlVFRl9uZ0JjMU8xRTZtNVVSZGZraDd0dDUzN2xndXp6Nzlqdzc0bjFpTXpOX3B0dEVyZVl5UjZzQlVJUEhrNi1aTE9NWXpEMWd1T3IyeVg3NmZqVnN4ZVNwX01UR0d6?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe talking to big tech as congo copper project expands - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT09aazVTSmNYRGRxNkFfQ1NseW5LVVNfbmRLQnVMQkxSZEFTTU5MUUE2UjNLaEx2c1QxekV5VndIT1BxUHB2V2thY0JxUkpEdkoyX0k0RU92Q2l3X0VXb3Q4VVZhNkhuS3ZqR0pKLWxkMnZydndNMWhFWnc3U0gwVXNac1I5RTI4Z0d0UXl1N3pFaUFHZlhlTmRSTmlmN2NwN1pra19pZ3FTYU0?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper rally sets record LME price as US tariff fears fuel supply \u2018scramble\u2019 - South China Morning Post",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVFXcV9wU01EWkppam1sazBmYUk2WFpIWWNkazVqU2o3QW5jOUh3ai13TXZoemZYVERxRmdITGxweWlneTVwV2lhNVFWTnJTbzBVcmpMaHl3Q2ZiU3ZieWY3OWQyYXhQbXI2N0NDSmtBTmZLUzFOeG5fME9qSDlkb3BJVUNPUkpGVzdIcnlOUUdyRDlVTzhTbDc4cnRfaEppUVBGSEthNHc2VHpYZ2lJTGFvNWc1Vmw0V2UySU1ab0w5UkVrYkVQR2hFYXp0Vzln0gHQAUFVX3lxTE5DZFpKS1h1UG00dVlscm05VEE2MTdqbWNwc0lKRlB1NV9nWGdCV2k2T2dWQW5QYVJyZGk1N1d2dWcwanFxdDY3Slh6VjVJcXdyWExzYlgycnlnOGFtNTRVTE1XeWFpdVo4OF9YTGxPSlY3bTJzQlJ5aEctbXU2dzQ3RG1WTnJPT2cyd0pueWh5LUw2OFl2dk5XWjByNDFVQ2xHTTlvXzNYZjktbXduU0x4TWZqdFpqQW13cjZ1WDVvb1RLUG5LRlVGdnJnSzcyZHg?oc=5",
+                "source": "South China Morning Post",
+                "is_premium": false
+            },
+            {
+                "title": "How US Tariff Fears Are Driving Record Copper Prices - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3Z0UGVlZTVrSEdhWUVFLWNKT3JRWUhlREhWNUZ5YjlxbndiR3dPakhuLUpyelBreFJ3bGM4NlE5dF9MVE12dUprWml2SURSNjVEWXJJZHAtdTM2cHhIQ2Y5OWJ2Q0QzcFBRT21VbGxvN3d1dmk5UjlVclBnY2N1bHJNSW42X29vbFR3NjVNcXdyQVlRVU9jYVN6YnVYd3dKNUpPOGJXbHViYjlfQklDdFNJWnBSQ2NDY28xa2ln?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "gyuHh-drc-copper-makes-inroads-in-us-but-china-still-top-market- - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbW9DcUZ6bkRaT2p3dDlGcDNiZERHbDhfLWpXQW5oazhfWHU1bEJSRU9kRUlBRzh3UnBFX2FtaHlFRVR5VHRqendfdi1kb2VmUG5wZGp1Z2VoVFJZcjJIUDZGbTF6UHJ6OGNJS0NQSEtPMG8teUtNSkR6OUdManA4WE5relVSX2kzdDA5YUdMQkdCbE42clRISzJGVzFWU0dxUEVONkpNeGE4MU9BcUo5Q1ZSVTNjNERkZFFwSk9yQ2EzRHBLbHlBN2szbWUwckZ6U2ZPQW9nWXRRY3d6WkdhMnVITQ?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "US turns to Africa\u2019s mineral powerhouse as copper imports from DRC hit record 53,290 tonnes - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlE2UG1zZTFJU214NHVNaHQwV3d3Nms5VGxMdnpPam11VnBJaWZUTmJJSjQ5alBHQWE3TFI4R3ZFaXJtX1BSaEFUVENDLWhXWlNCNG5ScFVfc3Q4cHMtaG55WjB0THZLeGJJVERMVHlocTNGQXU5d2FELXhTd2d0SXk0ODFyYkM4QkQ0Wl9HMURXSTk0X0QwT0VPSDh5WjlBSXl1SUxLQnpZSmNCWkpvX2NrRUxveTJBa29tRm5DMVJoX21mRGdJb2VHcTdidXQzcDFTbENn?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Reaches New Highs on U.S. Tariff Fears, Supply Challenges - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMExUZFRNMnpfRUFOa0lwZjRzekI2bFNzdHRWcDVZb0lpeHdzOElIWGp3b3pxYnFrRzd2dGFHT0M2X1VaYWp5RFM3b3JaY3lTUERIMV9qWHY1akVDeGRCbnVyZWNDbndLYi1zcGRkOW9ibmdBMHlobE9Xcm5UWGpNNjk5YlU0QmYwZE1ZZ0xDWUtXd2JLeWdHdmFIdTcwa25j?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
