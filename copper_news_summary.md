@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-10 10:29)
+
+- **[Copper Giant Announces Upgrade to OTCQX - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxORnJqZFNHRFFFX2UxTkVwOEtMeEpjZmliMkE3SUtpYloyaHYyOE5uaWJaLWwybk1KLVctd0JDS0laT1NaV3dfOFdndmpTUkdrWkk0cXVrcFpuV3pHeVVha0RjdFlTbkRHOFJJMFI1d1dyUGhDcUJSSEdob3FJbEZDS2R1YzhUdUlDbDFVeV9oWWd5WkNEUXc?oc=5)**
+  - *Source: Financial Times | Date: 2026-09-09 11:30*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-09 10:41)
 
 - **[Breakingviews - COMMENTARY: Anglo-Teck wait shows mining M&A’s rising toll - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0hCdWNMY2lqTy00SjkzR1BjeUltb2Z2d3pjUFVqY3kweXg2ZWRzLUpMX3FGRXpheFdWZkRndWhTWlUwLVBiOWdkQXlkX2xRZDNlODhlNTQ4RGlGUFFwb3RMREFleGN4Q3dCZ2t1dXFYSUVvVGdIdnczclNUSHVoY196WE8xdXV6aHJERmhoQi0wSm1vaUZIcUdRTExZNkcxb2djLXZnMEs?oc=5)**
