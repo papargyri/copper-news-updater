@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-11 10:31)
+
+- **[Visionary pursues copper growth amid tightening global supply - BNN Bloomberg](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVVrWjA5ZTY2VWItOG1OcFIxc0RzU0xpa1hhVHdLWlRJTlhKWkNzcmM5UUthWjBueF9TVjBUNzlwZDIwaEIyVncweUpmN1lhWktYV2Jlbkw0N05lZEl0WkEtbzBpVzNQVmRhTjg3X3FzV0dTSkVyenYzY0xEYUtJTTZMRi1hYXJDUmZ1TnMtSjIzMGF4TFF0NTkwdWxsWDFGS2NKZEp0ZGIzeU5sVklUVU54MGhJMnFQdW1V?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-09-10 13:36*
+- **[White House copper tariff plan stalls amid affordability concerns, sources say - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURGbmRQdjJaanFqS0VBQUVyTjZCNkZyeTBrV2NVcWtGLVRQdk5jaG9pYU5FejR3REpqdHJSQWM0NlRUSVdnclJOR0RiWEpUNlV1ZXRUU1RPSTFlNF90elZIZWFxbFhDYm1nUlFjQ3l0UjRMbGstTmItU3BiOVZDYi0tRUxPelM0V1J6TmhVTnJJQkdxdUFBemtkdWxTdUNScndiZlNiQm1rQXRsMlh6ZFhxNnRmemFLN2ZfMnk2UQ?oc=5)**
+  - *Source: Reuters | Date: 2026-09-10 10:08*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-10 10:29)
 
 - **[Copper Giant Announces Upgrade to OTCQX - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxORnJqZFNHRFFFX2UxTkVwOEtMeEpjZmliMkE3SUtpYloyaHYyOE5uaWJaLWwybk1KLVctd0JDS0laT1NaV3dfOFdndmpTUkdrWkk0cXVrcFpuV3pHeVVha0RjdFlTbkRHOFJJMFI1d1dyUGhDcUJSSEdob3FJbEZDS2R1YzhUdUlDbDFVeV9oWWd5WkNEUXc?oc=5)**
