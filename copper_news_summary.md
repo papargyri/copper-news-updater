@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-12 09:59)
+
+- **[Copper Heads for Weekly Loss as Doubts on US Tariffs Intensify - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2ZQXzMzVHBOajdkVE45aUl3dUJVME5aWFJVekZ0YWJpUGpDcHNuZnFONGpORzdkR1BNc2ptOTA1OS1ZU0MzeDV4V3NjTnZYOVppWW01Zm5iNVozR3B4OVA3U25Hc3ZRdkp2U09tZjYyTWFtQzV4VmY5d1Q2V24tN2lnTTFldFZpTmZ4cmhLNTI5YW9EQkZQNmhBSXNYcG5PeVFZT3hBREVnT1dpMHFWZVhQWQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-11 11:55*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-11 10:31)
 
 - **[Visionary pursues copper growth amid tightening global supply - BNN Bloomberg](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVVrWjA5ZTY2VWItOG1OcFIxc0RzU0xpa1hhVHdLWlRJTlhKWkNzcmM5UUthWjBueF9TVjBUNzlwZDIwaEIyVncweUpmN1lhWktYV2Jlbkw0N05lZEl0WkEtbzBpVzNQVmRhTjg3X3FzV0dTSkVyenYzY0xEYUtJTTZMRi1hYXJDUmZ1TnMtSjIzMGF4TFF0NTkwdWxsWDFGS2NKZEp0ZGIzeU5sVklUVU54MGhJMnFQdW1V?oc=5)**

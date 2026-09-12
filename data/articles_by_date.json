@@ -23706,5 +23706,84 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-12": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "Copper's Next Supercycle: A Structural Bull Case (NYSEARCA:COPX) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnA3b0JfWVdVR19HbHgzRXFIcU1yLUo0c0tZeDY2THNoT3ZkaHZZZjA2ZjBaZUYwbU8tSDJWeEtDT0VZZkxOUmhDNVF5b1g2UGZuVFpiRVNtbk1CdUVqUjZoWC1TU1RLZkFneV91WkJaYWpYb2FTMVpRZ1lHS1ZRV2wzT3NnMWI3STlpbHpBSXA?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Why Did Freeport-McMoRan Stock Drop On Doubts Over A Tariff It Would Gain From? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0tTMmhrU0xiMzdXZVlzNndPU1NsdmM3VFhxSDdrT2FpN0VuNkh1RDg0dkRHTm5USjRza21DUnBhRlZkQk5xdDduR2sxaHhQVWFReFFlcDNzZVFnYUI0aVUtVGNvTFBndElsclpCWUYyVU9hQVlFT09zSjU3bFZlMmVFVFRlcHFMQmY5UHY1V2tEcl95WFlzMFBlTzBNUV9fR2c?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Voltaic spots copper target at El Dinero - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5eEpjc0Jqak1nUDRabUJNdldHaFN6S0JibUViSFFQXzd2QzdRRHlVa0hVQVRIN3E2ODE3R1JyVV9yd2dialJsY0doZDBFMUZ2ZXM4Q2NaQ1RiVVY0azZyN2lzWko1RXp3VENRODk0VEg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Algo Grande Copper Intersects 30.23 Metres Grading 1.5% CuEq, including 3.55 Metres at 9.4% CuEq and 1.2-Metre Interval at 15.8% CuEq, 100 Metres Vertical Step-Out from Historical Intersects - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUdHUUpKc2p3ZV80bkFnT2wxTE1JLWt6ZDZ6dld2Tjg0VS1naWpST0hoQzltQlR5eHBtRlFNU0pHYlhkSjIwMkhabC1tSU5uUjdDdXVuWDZZelpGM0NrQndRdGJqLWZjaXR1RVdBcklLQ0JCTER2ZUdRWldxa3hkbUxjTFROY0JWWUJCUWZRUjBYVGFlcy1DSjVtY2QtRFpFNnJZcA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "SA Asks: What's the best copper stock play right now? (FCX:NYSE) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDIxTUl4OTFMT2JoN1NEdmdnZkxSbm04Sl90RHVNb0NPcXBGNGlTSXlFaHlSdExLckR2THl2MnNkUEd5YXhhUm5FY2ZwZ1pRdnpuS3ZyQXl6bDFuempzNHZHdm9tX19WWTNnNVVlNHZNdjdzY1phamYtZXlwZnJFb0NvLTNUcG45MEkxM0ZUM1VtUQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "FCX's Shares Up 20% in 6 Months: What Should Investors Do Now? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUGZqN3Q5bFcyMnJMc29MaVdPcmFQQTQ5TDY5eWYtOVZRTkZ3bGlaOWFWbmhlNTl1eW5RdElMVE91clVqVWZlZVFhWDZFcnhJQmFFeGM4djd4b2ZpcDVmN1VJQVFqTWoyajE0cmFTX0VRNDNncWFydjQ4UFB6RGNyazdaaDJ6b19OaFRyQ09ubElRLU1jU3JwRzJ2bk8xYjhRZkVsM3ZiNTRUdEo1ZHZCVkxNdjJhT1NOd0QyWmNGaWpVNlBJemtEcUtGRDZSYnJlUmhzZk9hMmdwdw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Heads for Weekly Loss as Doubts on US Tariffs Intensify - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2ZQXzMzVHBOajdkVE45aUl3dUJVME5aWFJVekZ0YWJpUGpDcHNuZnFONGpORzdkR1BNc2ptOTA1OS1ZU0MzeDV4V3NjTnZYOVppWW01Zm5iNVozR3B4OVA3U25Hc3ZRdkp2U09tZjYyTWFtQzV4VmY5d1Q2V24tN2lnTTFldFZpTmZ4cmhLNTI5YW9EQkZQNmhBSXNYcG5PeVFZT3hBREVnT1dpMHFWZVhQWQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Record Copper Prices Highlight Supply Gap as Gelum Advances Copper-Gold Exploration - streetwisereports.com",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObm9Kb1ZURTYyaUdDLWl0dTNWck1hRnlvTTZTb2M0dmFFNVVVYWFCaWltbmdqczJ4TFVGMHZrS0EzMUVXTDBfTzNVYWVPRmMtT2p0a0tSY1VNTFlvemlXTmVNNjJ3bUFHcjVOMXpOc2t2TU9wR0kyMnUwbTZsdF9McDVnRlVzcUU5cDBqbDJJRFpFSnpuMWhYVVplXzd4REJIYjdLX3Z2VTlLVjNaVFQtNDM0cEhQSlMtYlJxUV9TVHQzc2luWVloUTVJOTA0X0pJWE5CSUQtQlI?oc=5",
+                "source": "streetwisereports.com",
+                "is_premium": false
+            },
+            {
+                "title": "From copper to coal: How datacentres are causing new pressures across commodity markets - Wood Mackenzie",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZEJ2VWNHN0lfUndjcnVVaThYNXg5eW1ycHFSazhiX1k2RHQ0ZFlMaTBkWkU4OUtxWnlCbl9rS1NsZld6R1BtTVM1VHU0UUpHRmtZR0h3ODJSR2QwaUhaSXRXVVpmSUdfUVMyNHJYT3Q2MFBzU1JhWkJFeVVJa01uZENtSGo2VjdLWkJxYUd2ZktNN3RYbU5EcWZqRGpQOXBqOV9YX0ZXVjdTT2N0MkhKelAyTjhkU2ZJRld2N1NRb1Nadw?oc=5",
+                "source": "Wood Mackenzie",
+                "is_premium": false
+            },
+            {
+                "title": "Copper stocks slump as White House tariff plan reportedly stalls (FCX:NYSE) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmtOODNqVWF4ck4wYTl6azF0bXYyWjVEbnYyS25hS2ZXanNvTjFOeFUtTVNpUXkxU0hNUG1laDhCOW9Mc0pGTXhoMTRFVmhQOTQtUzBBMFh2MGgtNkljN3BjSDdVQm5KNWNEbzluSTlUVThISTJERGpjNDFJdGFoQlR0Y0E2Rm0zcU9pNnNjN3lFVE42MFNmMGU0eDZjcmx2ajZPLQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto secures Aboriginal cooperation on newest copper project Winu - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUJSX1dvVDRQMUpsZmhNYWo4OE5ZMHNBSnh5YmpKVnVCUUM1ei1mTXlfNGJaaEVqU3cyLWtraGRDM2ZIcV9tV2ZKVmZRaDlSOGtJYlczMm5iVUVXdTNhWUFyLVI5ZmVGUTdhenB1ZDlDTlpNRE1fZ1lPeVZfV2hnY29VcloyYlp1Rm9BcFJlWC16cDRyQ0dPR2NvbzVtUUlCQ2NoSG0yNHlSRkctd2VuZEt6cUZ1VDlrSkE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Hits Record Highs While Smelters Lose Money on Every Ton - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR29sSVhicDMtYkFwWHNnZlY5RzV1ejBscFdBN0JXNGtkZi1vSHcxaTdaLWMtX1ZnVWxQZHdtaUlRcUU3ZzZiSFVUT1A4b1oyLVRFNHdGOFo2cndyMGpUWGxJbnNwSDI5R1c3cDRmd01tZG9pUWRXX0hNRWZRNHJ6Y3FfN2JpbklyNHdjZ2FBMmRyZDM1SHI2OV9qVHlrTk9CMnc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
