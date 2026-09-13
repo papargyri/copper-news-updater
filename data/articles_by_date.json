@@ -23785,5 +23785,30 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-13": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 3,
+        "articles": [
+            {
+                "title": "Freeport-McMoRan: The Copper-AI Supercycle And Big Risks - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFA0N1VEWGkxVjNXUTIxaU5hdWR5bDlEUGlrTUJFbWI2R2Y3NFFHRlhUZGlUN3RTU1dWTkVNSjhuYVFUQzNVYjVURmdPSXd6WUNzVmo4Sm5UTDNTVUpIMGdSRU5JS3VreUNDWXR3NkgwSE1sSUVKajJiREFfdFFUajN3WnoxV1ZyRThGa2RHUTFJaFpCTEI5Y1FybXM?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Phoenix Copper Reports $1.21 Million H1 Loss and Advances Empire Mine Study - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOemt0LU8waVRjM3FOX2hYX3RzclcxdnNlVzJyaFhuUlNReXlUY0I0cXNTRTFBbk1FV2djVF91V1I5NEJZeVJ5ZUE0NFotWGs2UFAyTkh6QTcyN2tacXRjcGFaNmNScG9adURsaGVOZGI2WGJOUm54VDRUMVc5Umt0OURn?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Midday Need to Know: PPI rises, copper stocks tumble & more (SPY:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFIzWEd6MEwzQk14WXBhYXlOdzBHTE05RDRoNGNwX2d1XzZrb1g3amRid1JrNFUyZVlUeXp5aFlwSDRnYTFXZTU5MXBoZm95UnZWR09XdmhkWVlPbUdQcHF0YXc3cnFOX2dSR2toaTUzeVJPOFpoaEU3cV85NHUwNzVXX0Y3Y1duR0d2M2pKZ3N3MnlyYldLdQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            }
+        ]
     }
 }
