@@ -23810,5 +23810,54 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-14": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "Copper Slips as Inflation Data Raises Bets on Fed Hiking Rates - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2xvYTgxWm1BR3RxaDh5RUFZVWh0bldaaDA0YTlvcFpsaUYtaDdPLUctdVNIRlBnUUhFUDdFVTRiekxwTkhISEw2M0JYeTQyb1NUOVhvRmFYek8wRjBGUi1ISDROQnZnc08tMnQ1TnZOYUROV3QybTJOVG9uU0V0aGUwcVF0NWVMazZXTE5yOGthN3J3eW9waXc4dW9qeEwtdV90bHpwQ1A3WmpYZ0pQRW1qUQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Freeport-McMoRan eyes 60% US copper growth - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13QmhNTXpUd01Jd2hWSFYya24xSlJ6NWxDcHJEM1d4cVptWWFqejZ2Ul9mMHBkaGlZay1nLWN5UUZjd01hUFN0RFdmTHVLb25KQjNhZ0MzRjFaRzR4cVpDZG9XNFA5ZWFHZ05LNFJrV1lnZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Midas delivers more \u2018high-grade\u2019 copper at Deblin - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kUWFBdUVfcW1mN0E4OS1kUjFHZXNpazVnSTdHU1pDeElKMTlmdC0wMjNvZEFzMzczWkRsWU9QSW5EbGE5NHBSVVZQd3pMR3YyRFRWRVNCUUZseng5bV9pVFlxNDlaLUtsYUZtZXFXRHBqRm5ma1A4ZTZn?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "US copper build-up raises questions over rally - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwdXJzVUlIOVpXbU1mVmMxc1FtS1BMQ2FIWVVlMXVmTWU0Y2dJdDNwTTkwNFNXY3A5RU5TWmZNVmxtOGlJMTNaSTI5TnJXUElGM2g1UDFxblF3Y2R6TVA0MDhMd1hib0x5d2xnU2F5MTRmazdfR2FzYQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s record run loses steam as US tariff fears rattle markets - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmNHNGJnU1A4SG9WbGxQRU9URktHbUYxYk5UQzRxX0lVYkZwZ25NZm5VdWplblhrdW8tQkc2dmtOa0ZQRlY0NW1zTmo0NzVFZU5sNTd0TjFxdlRCMUsxajhCSGRHUzE0azVsUmF3c3BDSmdJcmlpU2daSm1zTXA3X2l2THA5d1ozZFhrU2FuTEc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Shuttered Bougainville copper mining camp attacked - The Canberra Times",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzdUV2JNeTZ5emdNbXlveEVPRWNOMndrclBNNjluZEZlaFlLcTdTNDltTGdBTFVncGpLeWtCR2hDMlVsVmRjTjdzMGtfczFCalZ3TndCbW16eUo1ZnczOG40Z2VmRGgtRFNfR3dJU2QxQkhRSHhHSWgyS1pyNUR1SEJ3cUdITjhxMnVRZmlScDFQX3ROLTFWbGFkRlduZzQ?oc=5",
+                "source": "The Canberra Times",
+                "is_premium": false
+            },
+            {
+                "title": "Pacific island Bougainville vows action after alleged mine arson - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0pKTnFWaEZuaWhwYmcxMmdQd0FIeHIxTk81QjNNRXBTblQ1NWdKVWJkUlA2OTRfMjVLcVhGNmRoMXZvcFdidGtybG52dlYwZ3RkVXZsd1R2TlFpY1FRTkdGZDdTVG9iQTJnUlN4WHp3aTJNQ0JKVjBsYkFJVlNnd0c2MXBFd0VidlJ4ZUZVSnp5MWRqVTFB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

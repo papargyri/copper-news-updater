@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-14 11:37)
+
+- **[Copper Slips as Inflation Data Raises Bets on Fed Hiking Rates - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2xvYTgxWm1BR3RxaDh5RUFZVWh0bldaaDA0YTlvcFpsaUYtaDdPLUctdVNIRlBnUUhFUDdFVTRiekxwTkhISEw2M0JYeTQyb1NUOVhvRmFYek8wRjBGUi1ISDROQnZnc08tMnQ1TnZOYUROV3QybTJOVG9uU0V0aGUwcVF0NWVMazZXTE5yOGthN3J3eW9waXc4dW9qeEwtdV90bHpwQ1A3WmpYZ0pQRW1qUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-14 11:32*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-12 09:59)
 
 - **[Copper Heads for Weekly Loss as Doubts on US Tariffs Intensify - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2ZQXzMzVHBOajdkVE45aUl3dUJVME5aWFJVekZ0YWJpUGpDcHNuZnFONGpORzdkR1BNc2ptOTA1OS1ZU0MzeDV4V3NjTnZYOVppWW01Zm5iNVozR3B4OVA3U25Hc3ZRdkp2U09tZjYyTWFtQzV4VmY5d1Q2V24tN2lnTTFldFZpTmZ4cmhLNTI5YW9EQkZQNmhBSXNYcG5PeVFZT3hBREVnT1dpMHFWZVhQWQ?oc=5)**
