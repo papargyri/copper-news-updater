@@ -23859,5 +23859,78 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-15": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 11,
+        "articles": [
+            {
+                "title": "Kodiak Copper\u2019s results season kicks off with \u2018best-ever\u2019 intercept - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmNIVkltR0wzZ3Q2V0RpSU80STJNX1E2TjRTUnZFMTJUdktKWE1aWXc2ZUpYNTE5Uk1TMzFWS0dMQ25RNlZ2ek9tLUxWWURQWi1vYndkSlNwTk0xaVo2M2liTVpUNjVteHI3Ul9vNF9KeHRYN2l0YnJiZ2NNLXExOV91WnlFVlFHemtWTDBpV28?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Berenberg Upgrades Antofagasta to Buy With 4,400 Pence Price Target - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTgybmZNbEh2OHR1VDZ6Rk5tMTJSUkNMM2xTZlJPVFdsaGF2MXdqTjFKaUtUMzJhU1Zhb2RoWi1WRHAyeVZ6cFJGMlVoR0VxWHlXWERJZko0Vkt1cFpWbm9iRVdkNmFRSmFVMUdsamNiRDBoLXBFVGtyTndhNXpHMHpJenBiVVpuUE1ENVNn?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Canadian copper, palladium producer Generation Mining secures $140m federal investment - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNm5NeU1yVWMwR1FVRlRhRUVwSnMxelJ0M1B5c2RnZmh2OVhsZHZZaTVJd0RXTC1aZUttQ2RlTzBkTXlaYUtDZHhKUE9rUThIUWU1WEtpYmlWS3Nqc1lzV1Vfc0dMbXJNZEc1U3BkMWtveWxYdThKVU93SGhzOE1IU1lTM3AyQU9UVmg3R3BCd3NXZ3d6RzdpUmxRcFRVZVVHZ0RxclFnM3lCUnRFYmhUY2F1UTNQeVRGMjlKNWFCMGRCR2VJMnI4MXRTbmU?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "American West hits thick copper zones at West Desert - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYXNCaEE2R1JYTkcwX0FMbk44UGNHdUYxRGVDVXhSVGNJbWFVN2NKdHI4dk8wdlhSUUtkZjlPYmhtWXBhV1Q4ZC1HTFU5bE1yd1ZiV1pBdjluejdHN0tVR1lDbVh5UWYtSE1BSlF0am8ycHFNY2xTQzdWRkx6dXhaWQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Generation Mining banks $1.8 billion for copper project construction - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXMySkxVUEpnSzB2WmczYk5kVnNaZFYzTnRLbXp3bVpDcTV1YjV5cDdBeTNiU0lUYW9tMVlzZUFVOEp0SXpkSTRvZzVYRFBRc3hocXVYMmhyS1hZVlQwdnp1RGJtYWowbndValE5VExMa0x1OUppbVUwTktfU2loWGhnNWdwLUtHa1c3c3ZiaUpmWnJf?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Future Metals defines maiden Eileen Bore copper target - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0xhdnVRR1pwYmR3T19hZjdYQ1J1czlHOVdyanUzbHdrcmw2ZzBpUWpfbV95aFJCM3JsTlg0d1Q4X2pIRTBGV3ladVhYYWJPY2kyR2dlRndIZmFLNzdWcV9SZm9reGlhcVlSSzRDRVkxcnVzd1lTRTU3a0tlRjhvYWhObw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Holds Near $14,000 as New Deliveries Signal Supply Relief - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcEZ5N3JBNkpEdWplSUg0VllNYkhXS0pXeUo4Y25heXBTeWYtMjg4SGREcUNoME8tdF8ydi1DQXlhNmxJTXBoeXMtNHhDMXhSVDExNEwtWTlVbjlKZnFucm1EdGFDUE1ocXhyWjhmWVJqVG9zd291RERqYUVPRkFQQ0VPTldJb3hxVTlHSURDcUJfbGoxeWZsWnBJSEJKdXRObzZBZ3VBT2daa0pJT3JfSFZWUTg?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "BHP and KGHM explore new copper opportunities - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQnBQSnJJZ3c5VTQ4WURwR0pzeHJVZDRhd3BnTjgwZ3h1eTVmLXNxTkNoRVRvWTlrWFZWOVR3NzB4eWxIZDhIRTB1S1R3V2VlZGRCQ04yODhqUlU1bEhhWW9IYnFIcXFBajRKeVdaR0Fzc2JhSXpJQ242X1ZfWWt6WVp3?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "AI, electric vehicles, and data centers: This massive copper mine could become very important for the U.S. - Earth.com",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNERmSC1JVGZtck9PandPSnM2blhwaEZLSXp4YkFxZHBacmFYelBkVjlGNjM2REVHbVZ1U2NEZE9kUmpWckVjSDZCejktbnFSUWZRNUh3dGtUSndySGNPdlZKVkczOVdyWHkwSDFWbUwwc2M3c1JHN1p1SmUzRDZxclk0RG9ZZkFoSUtxWFJUamhJZE82a09FYTUtMFdweGRmdXRyTFQwQ1NnLVZnUDlDeEc1bFRkbmF1Vnp2RXJn?oc=5",
+                "source": "Earth.com",
+                "is_premium": false
+            },
+            {
+                "title": "Emerging copper, gold miner Meridian included in VanEck Junior Gold Miners ETF - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODN4bHJwc2tzeUNvVnBIQVJpSWtIUFBpekZVSThDQ05fTUx3MzBUcjBnSTJrZnRXQTlRdXRtMWFzYWE1Mzd6eW43VExINW9oU21XTEpqcFZSdnRfQ1I5Sjh5QWZJU0JYdHdya3R6cmh4TGZuNnJkX1MxbHVvdUJranpuU2JlN3hUYlp0NmFPQkJkRS1xTmxkZUgtLUxLdHQ1Y0pVUHdYUUlVQ3pvamNwQ292V0JwLU9VVnJ1aVh3YXdJbEE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s Record Rally Highlights a Deeper Supply Problem - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLVJPVFVLTExZa1dJSVRDdUV3c1VaZGFkODhpTlYxSklIdjRpQ0x3cUwwb1lzd19iMFdYSVBuQ1FncU1hX0VqVVlMUXZVZ3N5RENBRW1RTi1Nc3g1NmdFRHpLYl9POThoZUJ4ZENwTXF2cVFNM3pEelNSWkYxenFBd1FFM0FTbVlaNldLa04xTVlOWk1fdTJtdGpMS1dwUzV0T21WcVN6bXJmUjhKUzN1VW1VT1dhb1hMMlZkQWVPZ3FEWERSd3NMNVFpNnNkUlNrTmtoMVY1OUM?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            }
+        ]
     }
 }
