@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-17 10:52)
+
+- **[Chile's state-owned miner Codelco says restructuring plan may be delayed until end of 2026 - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlY2aVBwcU96SC1LOXZNNXI4Y1FEcXBKTW1QTndKbGZwSmFQT25FYmV1MGNfZHJqOFZPYlJVTzQ4S2w4RUZUWkowemdfSngtcmh5aGFjWVBURGphMVBtVG50NTZKdEJ5ZGZDUWU1bzdLNko3dkRVdHl4VnZGUXlxeGRvTWZwbmdFUXNlWlRQR3c3Si1YTUlvcmlIYzRROHNhdDh6VmFCaVM5UWl5alJCa3RTZktCd0ZQYWJNRjlmLXdtWF9mLUk4?oc=5)**
+  - *Source: Reuters | Date: 2026-09-16 19:41*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-16 10:45)
 
 - **[Copper Steadies Ahead of Fed Decision as Supply Concerns Ease - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkNLd1BsVHdiQzY1ZkNhWFctT0hPOGVJLWpNbHZOTFFBV0lJdFhpVW1LUDFnNmpteHpYaG1GN2JDWUcyUy1YSktXLWtXd2cyTFpiNU44RFRGaUpKWHhFYm9PUE9aTEhxMmNEc0s4R3U4c2pFelhnc0cxdjhrSG9MOURQRmJvNkdub2w2cUJaYjAyOXhOY1hPalVGZWZ1cUFmcEszX2RJSFpNWEw0dXlseVV3?oc=5)**
