@@ -24223,5 +24223,11 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-19": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 0,
+        "articles": []
     }
 }
