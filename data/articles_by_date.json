@@ -24229,5 +24229,72 @@
         "premium_count": 0,
         "global_count": 0,
         "articles": []
+    },
+    "2026-09-20": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "AI boom turns copper, aluminum and niche metals into 'compute metals' - Global Times",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mTUtTTnJqekozY0lHTXB3Zl9XamRESnJMMVpUcVRmZEJtXy1pMXZjOGJ2UFJLY1BscDNyampHZHJtMHhTWF9oQnVpV1pTcmdfYWVCaUpLUnVvV0xHRzVBTm9R?oc=5",
+                "source": "Global Times",
+                "is_premium": false
+            },
+            {
+                "title": "Amerigo Resources: No Longer Deep Value, Still A Buy For The Copper Yield (OTCMKTS:ARREF) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmwxbkt0NnJlR1JhOFVLMEk1RmxxZHNJWUFrMlZSUHhqWDBTYWhBZGJydVB2bElzV1lsZk5BbElYWG5yUzRuLWh5YTE1Zk1Kd1VXXzdPajNLdHdhSGh1VHgtT3hjVFg3aEhnMkYzRnhlcjdra1ZQZ1YxYUU4OU42OE5QVDMxeGd1b0VsOXVvTkl6MmY3LTZFcWxfQV9pbGdFanBZR21FdnJIdVNJQWtSWFB3?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One expands Majuba drill program - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oXzZZUGVYdlFuTVdtejRjWC1yX010UnFzQVJyZ3hjZ2dMaTNTWl8zRlU2WmlEekx1MjZOT1U1MG5iYmpQUi1QX01WRlQ2Z2xmb1BMVEJjUjZ4ZDc3MjlUcTB6c0xiaUNmMzB1NUVscw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper mine supply risks first decline since 2017: Sprott - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2VCWDBCdG8zRFluUklzZEp3SXM1YmF6MzFMdy1IZV9VNVBBVkRjcUVyMURIVXBBSWVpQUNKVFhYV2RQZ2tGY09rcnB3eHlGVmhodmJzU244SFJ0NWF0VXJWNzlISUJheGhycnVsYlpPUno4VDVMdTZPa21xU3BzLWpMSnI2UVE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Deluge of copper arriving in US leaves New Orleans with logjam - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUkxRGhkYUMtd3VOamQ1czJBT0hfVEJJS21zc1VPV1ZTVVAxVG9SMlpXbDJBWTM0dnUtUXRzMWtkaXdjdVRkQkFsV0JHTUxUNTdPRHN2Vi1VRHh6Qkg1aWtCQ0R1NmZSdFl0U3NsQVljcHNkVlRreHhzY0N5eTRkcTNYMDkwZkhFU2l4Ykh0bzJIRlF5?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Lion Copper Corp. Engages ICP Securities Inc. for Automated Market Making Services - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcnVOR2QxUW50Z19xbW1vS2VRU2JCeEJXRmFCbXVVUDhHdk9aQ1hMc2Q3bWVVa2pVcGhlc29BVV9jMjVwR2d4ZlgxTzBTcVV0Y3VrRnhpRzFmdF9qX3J3S2hiT0toZWt4WnFtN0lSQ1BnNWQxSktXNTh6c0JDa0NoVzB0LUE5R1ZpR0RtWlVGUE8yTTlGam1QMUNVZlV4R3A2a0hKUFBmbmhXZ01vOWdFRGE4cTJIOHFfdUNKaFVMVllPYzlIVGEyNzQ2TG9nNjNrOWJMMFRCTWpDV2x6V1NCZHdpdXEyNHgwWlFhUjU2VWVmaWM?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Deluge of Copper Arriving in US Leaves New Orleans With Logjam - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFZGdFNjNmRVWjFid1UxZGxUQ0EyS0dlOVhQRXdjWHBWOVhJX1hicnVMbnRNWlgzMEoza3FsWGI4YWpTb2d3UXVUUWt4MTNHUFlGY3gyY2tTWGNiZjdLaFNsYnBocjRBM0hmelRHTVJtLTVCOUl3WFpQRWo1LUVHa0NlOE9scGlLek1xaTc0dmNyeDc1R2Vfa29IU1BERjFUM3JYMnR5NkJmRWJLQkkweEN6MA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Friedland flags copper supply constraints amid growing demand - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXhnMnNFODNxRG1lYlMySzJKSEFrTXpGM1RMUTBXXzM4UkxrV1FTcUFFNUtlUWtVZldDS0hCYk1qZmhNMGFEVWI2YjlzaVBUUzBpMk8zNmRvVGY3bjhOOHIzaE1aVFNhMTQxNlF4NEpuSDJpMmNlQmk1QlY4UVowRU9DbjZxdWNFOC14ZUF2WmdxanlLeVVtSlFISWJzdGtGY0Rpa2g3aXREU1NEZFE?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper: opening Schr\u00f6dinger's box - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVDNibzdTT2NuYUVuNUhmX2ZBQzdtU0g5YzdjWTdScDZ1NHV3YzAtN2hXb3UtUU1wRnRtbFQzRWljaHpEcmI4QlBUMk1MT3RMaFRoS1E2OEFEVVBaOXAwUmlyRmFpYVhfTy1uV0RGMmE1dkpBRGtjY0IxbTBjNTF3M09ISjEydVNQeUVSdkR1UW8?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Rallies as Signs of China Buying Lend Support After Hike - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGQxRWg5Qk0xRjJDWVdiU3FkOUxaaFIwQlZzRlBFazJJTTNVVUtOQmFpMXpZdEc4ekVjVjVoUkVYRmRTVEUyR1IyYlQ2Y0M0WnVZREdEeWoyNWN2OVNlbF9LSUNZT0dyQnVLSkctb1N6N3E5c3d4X1ZWejQtRHZBZFcwb2hNRXV3OEFIbVhFOXBDT0xMUTRnWVBGYTgtYk9yNDlyeTNob2pXRER4RFVINEk1cVQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }

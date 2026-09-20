@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-20 10:32)
+
+- **[Deluge of Copper Arriving in US Leaves New Orleans With Logjam - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFZGdFNjNmRVWjFid1UxZGxUQ0EyS0dlOVhQRXdjWHBWOVhJX1hicnVMbnRNWlgzMEoza3FsWGI4YWpTb2d3UXVUUWt4MTNHUFlGY3gyY2tTWGNiZjdLaFNsYnBocjRBM0hmelRHTVJtLTVCOUl3WFpQRWo1LUVHa0NlOE9scGlLek1xaTc0dmNyeDc1R2Vfa29IU1BERjFUM3JYMnR5NkJmRWJLQkkweEN6MA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-18 16:23*
+- **[Copper Rallies as Signs of China Buying Lend Support After Hike - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGQxRWg5Qk0xRjJDWVdiU3FkOUxaaFIwQlZzRlBFazJJTTNVVUtOQmFpMXpZdEc4ekVjVjVoUkVYRmRTVEUyR1IyYlQ2Y0M0WnVZREdEeWoyNWN2OVNlbF9LSUNZT0dyQnVLSkctb1N6N3E5c3d4X1ZWejQtRHZBZFcwb2hNRXV3OEFIbVhFOXBDT0xMUTRnWVBGYTgtYk9yNDlyeTNob2pXRER4RFVINEk1cVQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-17 18:38*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-17 10:52)
 
 - **[Chile's state-owned miner Codelco says restructuring plan may be delayed until end of 2026 - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlY2aVBwcU96SC1LOXZNNXI4Y1FEcXBKTW1QTndKbGZwSmFQT25FYmV1MGNfZHJqOFZPYlJVTzQ4S2w4RUZUWkowemdfSngtcmh5aGFjWVBURGphMVBtVG50NTZKdEJ5ZGZDUWU1bzdLNko3dkRVdHl4VnZGUXlxeGRvTWZwbmdFUXNlWlRQR3c3Si1YTUlvcmlIYzRROHNhdDh6VmFCaVM5UWl5alJCa3RTZktCd0ZQYWJNRjlmLXdtWF9mLUk4?oc=5)**
