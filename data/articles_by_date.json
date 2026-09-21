@@ -24296,5 +24296,78 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-09-21": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 11,
+        "articles": [
+            {
+                "title": "Capstone Copper to sell Cozamin mine to Luca Mining for up to $385M (CSCCF:OTCMKTS) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEFvdnhLSVd0YUVDWGdjeDdKaERlYVNJN3R1YmFqc3N3WTM0dFN0UG5KUlBPekxNcjdOOWh2MDdEZFdkV1dVYmtyaDNVOGZOT1FPLVhoUUtfSmIwRnVtekZoYmdETmFhb2JzNTBuWWpadTVDcE91MXB5MlBTRGZxZzBuODBWRlE3YnJsOTl2MFZKRFYxcjRKWTJSTjc5ZWUyTHpSLWdIRQ?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Pecoy Copper Announces Upgrade to OTCQX Best Market - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWM0ejVPYmI2amhheWdEVjh3aHVLSVFoeThZT291dzU3SnY0M3JjdlZCSkFfZ28yOHowT2pQN3FyRmZXbjF0QmFCUkpwN3BhZXY3Q2ZrVmZMQS1JWnp1U21WTDRMNnRXX3dyMkV6WTdzajhvcHM0dUtJYTY1ampRc3dPeF9PVEc4SFNPNm1vd2dUWWRUbEFqSUVfV21mc2dJVTZQTExqZmlfaW5RcnNXbjhLRHlXR3hTMHhSRzlaelo5a1XSAcgBQVVfeXFMTi1uRzg4LUd2MjJTcENudllKSWpFVjRlM1ZNdUtNaU15akM4QldBeDR6NEg5di16bnNWV193Vkg0QWlJdWd1OGNnV0Z0bkFWQVBsZ2ZMZlVqMXNyWXVVN0hjdmo3Vk9pUzd6UlN2VmtBOTVBTjVBWGlmTFYtbU5URjdzQW4yRmRlUEtxWGxWRUJRUEppWnowY25JSnhGNF90U2U2NWxXZ2xDOHM4eTBlTzgtNHRDTUZwWTAtTGI1d3RHSmFQa0VVOHQ?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper Announces Filing of TSXV Listing Application, Execution of Definitive Agreements, Closing of Subscription Receipt Financing and Leadership Appointments for Kay Copper - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEtmV2NpZlpqeFJZc1Q2SGhjdHVCaDdXRWVPd2dWVDl2Mk5oeUZ0eU9CR0ZtcS1fb3RKTDhVS2E2am9DcXAzU2l1S2JJVnZzanI0VnN1clQzQ19UX3Z0NTBKVFBnTFNkQUNEcGQ5bHEtUXlqdmNHMk1aTG1STDFWWDM1U1llVlRJUC1lV0xUUU5XZ2JZZ0xkRUFRbHhTV0RNM0E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper Announces Sale of Cozamin for Total Consideration of up to $385 Million - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGxCam50Tk9DQmNIX2tZN2VkMzFOdkkzanBMcHI3UXhSWV9OQjFQN2lPTXphbGFWdDQ0VEY0cVotZ2UtMUJrX09CcUNzeGMwMi1IN3Z6dGFaLUIwdWRiTWhJd0xPM0FYZFp2NXl2bFhzS0NxVVpib0hfMC1rSEFVWXk4VHE0MkNtVDN0ekVXZmZUNWdIUUQ3NzR2ZWU1VUhlSVUxTzJjMzZIN0U4?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Holds Gain as Traders Weigh Signs of Near-Term Tightness - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmZFX3k3ZVdCNlpXTDgyRkZvVXdvcGw5Y21JU3RyNUd0ejNDSl96bzB2T0ZhVXRTZXBVRXdXaUd4dkhRUUEtdWd4U3NqR3dIM1g5ZjNJQWk2SF9uM3pnRnBncEFvcHQyUmlnejF1cG8yNDVSY1R6TlczTFF1ZXJ6MFZ2MDIwZl9WdFAzcFpTb2xWb2x1dEtxN1h1NFFWODBSVXEydFpsU2RmbS1jSVBPOVZZdXA?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Anglo Asian Mining maintains 2026 copper, silver targets - Report.az",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0h2RS1DYzNQbkJsSXB6bHZ2TUdyTWpyaG1FWFE3YVc2NEdVY3dRSHFXUG85eW9oS21SOTBlMlZxY0NmYVdGYXZ6bGYzNXlrUkxqd054UnVXRUxmbXN2S3FKZ21Rc0JKaWJpTFYxV1psTVpEZTdLMkc0WDJXa1lnUjNaN0t3bVN6d2lOel9n0gGTAUFVX3lxTE9tWHM1aDZFa0VvYnpoUVFkSGVWZGhvZDdVNkZtZkN3QURkT1FSUnlHbjBNdGR2QTVtcVFUYzRZRVd5akRIMDBPUG95bXFnTnZqdkxUbEk5UXl4NENjcnFsbG9DZlJNQWxBT01vYmw1aGJQR0JoVFUxWFpVT1k0TWJkWmU1dUQ4WFJmRnBKaUlfVjZmaw?oc=5",
+                "source": "Report.az",
+                "is_premium": false
+            },
+            {
+                "title": "Anglo Asian Mining H1 Revenue Rises to $141.2 Million as Copper Production Reaches Record 8,840 Tonnes - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONW9SSnh2cjVqNzhnQ2NUVE52bk1ZMHhIZ1pZbzY2c0dTQjhfZ1A5RHdtb0NMUXZpamNXREhMU0xmUVlCcG1hX0x5SWN4eEgteGZvNE9halRJZE5TdFdqRlQ2NXFpQnA1djJ0YXVkZFpRSzFqajdTcGszMEx5OWg5UG9SWEM?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices poised for higher highs as global mine supply faces 2026 decline - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUkdDOW1Tc09SbXBmWnN5VW91a2hOTC10d25lM3RKX3VSd3l2RFJudGRpU2lxVjR1MFEtZHR5NjEwR3FENnpqV0syVThtT1FKdE03XzFIYkJsZDlUY0Y1RTNnazJPMWczSnVQSXI4a0Izck1sVmszRVVIS2JrOUY3cExJNUJMdTdqcnNmNWFhZ0ZNTDMwY2liWHFMLURPcjN0ZXNNcXVWV25yMWJfVlRSNXdFV3VKNDFlVDJ3d2hOSFhRZS1hYTIxMFp6TkFMaHNBM2RidUM2YnhVdWtjclIxRkNhZw?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Hemisphere goes deeper for Llahuin\u2019s copper core - mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHBtUjBYVmNUT2pDODM0VjNncWNMSUZ1RThmOUlfdE1EWENBQlZjbGw5Yjl0SHA4Q0YtTnlabWpMcXZoSkowcndHallPNGlzZVhRRDZZM2MyTTZQV3R0UFdWV2JSUDg1aUI5dzB3TGc1TEtYaGlWVGNHUWhOaUUzbHV6N2ZlUQ?oc=5",
+                "source": "mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Tom Brady drops on-air expletive after gruesome Jayden Daniels injury - USA Today",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3ZOVDNwWHFlWG9Fenl2NGlDY1NEckFSWUI5SXFOV2Z5ZVdGYnVDQkp0NDBiOVpQYjNlN1RTN3Z4YTJnOGN1RXN1eDJnYzc4R3RFMVN6SVRULTV3bEFFbWFqLXpXU3dPVHhmaVU2WE9RWkh6eE9NWjFQUU83UHZkRlhQRzlwN0pDQWN4M2prWVpvSnB6NkpyWVFpYVc4eWJHQXBtREp5am9MQXBKYkpleGUzdndLN0kzLXphNElXdXA?oc=5",
+                "source": "USA Today",
+                "is_premium": false
+            },
+            {
+                "title": "Lion Copper Corp. Engages ICP Securities Inc. for Automated Market Making Services - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDM1cC1tT2tHLUJmYzJXWE1Bd2lnUFYwS0ZCenN0cGQ1eHZFZ1dhZ0o2ZHNZQ2cxbTQzRFQ3RW9nRXZidFpLZWZZZWZuemJpZGF2SXJrUUdOV2VhSnI4TGo1VWprblBBY0xqN09sck5DQ2JkaXhTU0N4ZTNURm56VG5iakIyVzBNNHdtVXhtcXpLU19OaG5YNQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
