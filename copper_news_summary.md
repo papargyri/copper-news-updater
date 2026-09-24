@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-24 11:01)
+
+- **[Indian copper producers urge government to cut indirect tax to 5% from 18% - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3ZVUy1sREVESl96b3c0MGVNdDZuQWdGMzZQNnc2U2VVa0RIR1FhcEppbzQzZ1paNlo4UllhcXUtZjRORGN0a1dDUTVsclJuam5yUXZaTmlkRU9OOVdIQU94NE50UWNPeVNhMmV5OVRHeHN6ZmRHbkdTc3luUlo4VjVGeWpaaUdTcHBxOVFoZW05WU16Mmoyek56Ukh6YjcxVHhDUjQ4S0hUWjljc0E?oc=5)**
+  - *Source: Reuters | Date: 2026-09-24 09:56*
+- **[Indian Copper Producers Seek Tax Cut to Navigate Record Rally - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXh5YkRkUTdsV0k1Sk4tWnJhWlVlMkNaWGJ3d3lYVDdfZE9wQlROYXc5M2VvalpnTk9GMWowTEhxa25jbDRnYXdKZ2RjbHhKLXlhRTFKX2UyNEdTNnc5eDBzUGdXcGdZcmtIa1lZLV92T1I5eEJMYlVkaEplMDNOTEF4QlFTTjZlM2tIandOOW9MN0pncDhrNE9wM3FoSkFYUnVMaVFEdDIwa0ZSWEg2S2l3?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-24 00:45*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-23 10:41)
 
 - **[Mapping the Market: Copper could be gearing up for a rally - Reuters](https://news.google.com/rss/articles/CBMieEFVX3lxTE5vZTJoTF9lY1lDT3JsdVR2X1ppQzlDREh0N1dpSHVxWXRRbFBPWlI5YzRfUEMwOVZsR3lONElLSE1pZDFySjQ5bnNJVHM4a1MwRmlPV2E1RFMtcUd0T3dLRHNxajIxNm1pSzFNcXRKN0FhWERDN2xKVw?oc=5)**

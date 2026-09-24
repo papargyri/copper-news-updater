@@ -24677,5 +24677,108 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-24": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 16,
+        "articles": [
+            {
+                "title": "Indian copper producers urge government to cut indirect tax to 5% from 18% - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3ZVUy1sREVESl96b3c0MGVNdDZuQWdGMzZQNnc2U2VVa0RIR1FhcEppbzQzZ1paNlo4UllhcXUtZjRORGN0a1dDUTVsclJuam5yUXZaTmlkRU9OOVdIQU94NE50UWNPeVNhMmV5OVRHeHN6ZmRHbkdTc3luUlo4VjVGeWpaaUdTcHBxOVFoZW05WU16Mmoyek56Ukh6YjcxVHhDUjQ4S0hUWjljc0E?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Low carbon aluminium vs copper: Who\u2019s really paying the premium? - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVmFkcFhZcXhJV0xBVXg4TmZwd1RuQUJCaXJpWm1WekNuQXJwVXcySU8xQjQtTWpuQ1dhZmN0cHBkM3JlQ2lZYWRpc085RHEtRjZtM1BodHRaX1lDTjhEX0ppcEJYandfRU5OOVF4NHNQRGZzTWZwdm96UUFqMzM1bmtoVU9QbFRISFBrbWJIbFd2NUlxRVhkYjJiSEJfTVdvVHZBYk9MbVRBeTZFckwzcXhCQkRZMHdfOFFrUWw2djFPMW1uVnY1Qk1NYmlFU0wxMkVLSmZTTGx4X3ZvZDlUcHV6REtVODA5?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Indian billionaire hires Chinese firm for $498 million Zambia project set to become Africa\u2019s largest copper-waste recovery plant - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZjVlZnZfd3hVYzB6bzVLZXRndUNDZ0VwVzFOS045blVReXNGbktlT0NvQkxRRjRwRHFnZk1kNmQ1MklSeHduc0tHdGpvSW55NDN4UWxQX1RISGFoU0dHYWJDdE8zU0VxbjJ4clVxQnhIaWNFNVNtUUNPNnBHN3k1MlQ4Vm94cmdNdlVMbjZ1a2NwMFlnTkNHbzBpRW83RGZkMGV4RE5QV3I4ZURyYmY5OURERTV4RWZMZ1pvWGxRNUxmNE5PSERPYUx5cjJSclBFYTc0NQ?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Mining giant Rio Tinto planning to expand metals trading business: sources - The Business Times",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPazhXWFE1bGFvN0pJWVZ0UXhEYjlTLTllOFk3YTBtTVBTYXRESW45WlVNcnlXLVNETTVvU1hqTng0Q0h6MmNMUEJUUjYtWUx3M2xZanU1VVhyWVZuaTc2UnQ4T3F6aUlhOXpvZGU3d05XSHpzUjlOVDB6aUNvUUozelJtT0FSV1BodkxRU3VXV09Yc01qRmRTeTZqeTJqdm9BaHVmZE1GTktWNGl2NVRVTG5UTUdYWk5ZcF8xbUtWd1R0R2RiUFNXaTBhZXRUbnNWa3FsdHg2NA?oc=5",
+                "source": "The Business Times",
+                "is_premium": false
+            },
+            {
+                "title": "KAO expands Chalkos copper drilling to 15,000m - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc2xTYWpfOEl5TlNnRU5acG9lZVNXYXBHZmQ1d3hNUXprYm5md21iUjM5Tlo1WmJ6SXNlV0JBNUYwRmhqQlU4X1pYSmROVndjaEQ2QWpseEoxQ0xnNjNiakkwS25mTmktaTVwTjJpNG85Ui1RLTdZZzRrcjNSbk81bEJBSnFBWmNjOEstRlU3bGpnd3JHWWw5dENyRkNURHhLRXVzNi1qQ0Fkei01eTZ4Ri14NlBiZG5yZUcyMFVtbHFHc1pFSFlyM09hUlFiak41YXlsSl9VYkFCVE4xNHRlM3dqZG42VGR4MV9MaFRZeXROWnpXQll3Rg?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Indian Copper Producers Seek Tax Cut to Navigate Record Rally - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXh5YkRkUTdsV0k1Sk4tWnJhWlVlMkNaWGJ3d3lYVDdfZE9wQlROYXc5M2VvalpnTk9GMWowTEhxa25jbDRnYXdKZ2RjbHhKLXlhRTFKX2UyNEdTNnc5eDBzUGdXcGdZcmtIa1lZLV92T1I5eEJMYlVkaEplMDNOTEF4QlFTTjZlM2tIandOOW9MN0pncDhrNE9wM3FoSkFYUnVMaVFEdDIwa0ZSWEg2S2l3?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Fatal accident reported at Escondida amid worker strike threat - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0FJRDBmMmVGNExZOURfc3cza2lRTmxwNWRzUUdMZUdkeWF5SjdKV3FHVzJEbGMxeHJodTVHcklrWjhaTkU5NTc2R2VKWnoyU1hremFibzdwR1F2cUlyRmRmRFc0OFdIdWlGTXpoZ2hnUnoyZzJCV21tQnBuTUYxMzJDaTVFNVVnSll6Z1lB?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Unions call strike vote at Antofagasta copper mine in Chile - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcmVPNUhYZXU2QThsUHlNeVZGYjl1a25kZ3ZzaVpVYUQ1TFlNbE5na196S004LXZsdWxSRGlsVEJjZHQ4cW5GUXA4aFBQR1l6bVpQMUJ2YWNVNmZJSDV4ZHhXM3JrVjRsQWhoQl9BTzdmblhPblhrT0czenVmc1NldXpVWkZGa0ctSGhHWkVvZUs?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Erases Tariff Selloff as Shanghai Stockpiles Hit Three-Year Low - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1BkclRrcy1WeFpBdG1MU2M0N1A4aUM4SGJPVERqNUNxdzBzVFZsdXBfekM1YmtQcThpVTVEbEhkM1NJN0I0R09ZVVRVT1dXOG0zSFY3b1c2LS1iSW12MVVFM0JIa3NsRUU4Y2lvckV2UmNsQmo2UmxiTXBEQ0JGcjlyR3IwNXBhTUFKcXBUV245Und3eWdTTXhqU05LbTJVeXhrZmJGSWxJS00?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Selkirk Copper\u2019s Minto posts $494M value, nearly triple its build costs - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXhCaTZXVUwxSnVCQzFZWVpTZURjYk1EMWlKVE1MOC00bHJLQ0tBTFBxdVZEdkNHbk92UEs2aDlZNHdVUzRSdzZDVm4tdmZYczJWNm9TUWsxbV9aLXU2VTlCYmsxV0xrbV91aF9LSW53MEllMDRIWmtuTXVSYm4wa3k0MmhPakRpZXdDVjRkbGY1dVU0NkdF?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper Price Target Raised to CA$56.00 at CIBC - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGppNWZON1h5ZjVndnRQLU10TFlzaHR5cXFmNTNQdWtGclVsZjZibjBpRXVfU25uaWtlNU5pbUR1NmZoUmp0Mk5hTDhsRVRvZzVnS1ZnOXplUFNGbldvSnBBcGxfQThVT2NaLUxPNGo3elhrTWNxN2NET3hqMS03UFBzaFR1MVJObHFmMUd5N3FCdkJZU21fYzJPcw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Clarity Enters Agreement to Acquire Idaho Copper Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPai1BMmU2UkY4OHZuQk1RdlNRcG12cTl4VVcyeUUyNWFNLXZnVE0wQXQ4aUdIcDROU19vU1dzeG55N1RqZGZEVjdRckw4TkdXcWhveHVNQUxYWGFZYUJ3NTd4Q2RueVZtS1FTX1ZVcHZjVTJzdkVtcWZlQTM3UXhScFNfYS1YUFpsbTdzelFfSW1JdXhQWlpaZU5tMkhiU0NXRURFaXp6NEtyMlRu?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Fitzroy Minerals Reports Copper Recoveries of up to 82.6% from Mini-Column Testing, With Preliminary Larger-Scale Results Trending Higher, at the Buen Retiro Copper Project, Chile - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlpKUF9ONWdwcXhBckxESGQtd3BJbmZpUmJOdkFxQVdVYzhSYWFkTDNDdk45UFRuQnVnZmF0MmRIRUxyZGgtWWx0WlVOWWhmUEJROGFVbnVGcGdsOUs2TmxYWVFtTFFrS2FWeEJsMGxoeWJSQkVjODUwaXFZQUladExuU0t3a2haVlBLNTIyRnE3M3hHa0p4c1NSTmdoQ0dLSlZGM2ZXelpxM1NjbGk4OVhR?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Colombia Copper Developer Advances Mocoa as Giustra Forecasts Larger Cycle - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb0lzZ3RHRTdOWkFiVS1PRVQ1YUZRUjVKMXdycnhWc2g4WUxzbXdmVDNGOTBGdTF1U0FkN3plRzc1SlQ5cWpOeDlLVlNBeFVncUVQMWZWc2w1c1huRkx4SVM3b0p4Snd6a3pXMlg4ODYzR2N2YzN2ejgwYTVPNW15emVCTDlVbERKQXdDLTNmNmduR2dHQ3BxR2N2SjFkN0Vub0d5SU9lbVh6em83QW8wLVR6RVBPTUNOYWM0TXlnRzhzajRPTEwwWUZTbHE?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Ecuador Gold-Copper Explorer Hits 905m at 0.60 g/t Gold - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMEJjb3BEN0M5LVJwRnQ0bG9mRWtOSl9aTE5qcFpMc3lLRTU3Q01JV3BvX2k5T3psbmR1eVh2VFZORzRvRFFZeUVCblVqNDlTazNNV0daRFNuSlZxSjNRWXBDSm9rcXV6Yk1hMkg0cmZnQUE2VV9JYnFHY3ZidC1XNlh5VW1PNjdhQ1MzUGZrTkZ4R0kzWlNDS3l5R0J4UWg5RFAySGttM2JnY2xCT3AzNmVKMA?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Missed the AI Rally? Michael Burry Is Betting on Copper Instead - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMm1fSzBUSFlibXZ0dUk3am5LVkdUMGVUZjR3cFhLOUY4Y1BPM1pTY1lPRWZ5TW1idmFSa0VFMm1TajZWSGs0bTB6UEVEX3VyVktFX3diUDlYUW9LZHlqeVZza3RESWZHQzVHbzBwbHNaMTJZdXplbklzeWdqQTcwbWlOcGhScGNHTHY3dnlJY3M5UzZxNWZXb0NCUGxZTTl6?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
