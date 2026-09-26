@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-26 10:44)
+
+- **[Chinese, US firms line up for Peru copper projects as government cuts red tape - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0oyZGViMVQzS3NuVzhCRjY2MlV3WnlWUUtrUEs0cnFtanE3WHR4THZ4Q1czMlotd2tzSm5keFR4LUZ2X2xaMEZRVWRkY1lNZk1LMnRSZDhQb0tzV3UwbnpJUjRQWERLaTh3ai1PUm51TmVQYVFYMFdvYTZSWXhQTFhMS0M5bnAxbFFfbnhPa1M2YWN4TUplWlAzRnFQb0g5aF9ldzVhQm16blRqcGd3T1JCQy1uMThxYkE?oc=5)**
+  - *Source: Reuters | Date: 2026-09-25 16:41*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-25 11:01)
 
 - **[Copper Retreats From Near Record as Traders Weigh Fed Outlook - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVVjc2NGSWN3YmRlZFJvLTR6WWphRWVSb2pBdWdyeDhzTEN4VldQYTBnYVNuWkxXcjJScEpPT3RBNUEzQmpKa0VpSGN4VDdxalh6V2lVVTIzMS1tSHAxeHVycVB5Tm94ZzlKOUYxSGdadmxWT0JBNlB3ZmlHcjd0dm8xWFhpYjhYc0ZYOTU4RUZIMW1SMVh5VUVWcENNbnNWTHBHTjVRQ1cxY0hvR1hIMWVB?oc=5)**
