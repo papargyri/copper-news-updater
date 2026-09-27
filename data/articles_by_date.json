@@ -25004,5 +25004,24 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-27": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 2,
+        "articles": [
+            {
+                "title": "The Copper Surplus Mirage: Why A Tariff Rejection Could Be A Buying Opportunity - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHNZRWk1LXJJV3l5OHVtU19QTzBha1M0bnJZSk5XR01YbzZjYjVJOU9nUm1SYjVPa0NyX3pXdkpKLUdrdk5zZTJ4Y25MX1BRVUFNckwzSHpDdHFwRzBYN2ZXbC1PcHpjNnpLVGE2Um5zSlJya2lZUTk5cjVucGgzN043Vm5zSExkaTNvYS1NaWVpRThZNnhmdTdobm1qQmdyNF9lTklXbXFnUnR0c0JMc19vNWQ4bTJaSVFF?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Recovery Hits 82.6% & the Bigger Tests Are Running Even Higher - streetwisereports.com",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdXEtcGpfRUZXdXc3ek5BRVZEODdyV2lXQWVaR295V2U1R2xNOVc2cWl4Qi1oVkY5VG1jUFFoTXB6ejRJMjV5dDJYQVdSSy1XNUNVdzNiem5MZ1FaSFR5czl5NjE3aEFxVExIeEhGak5uY0MydGlEU2VpaEFaUmJIRk80bkRFRjQ3dkxKbmJqZzR3emNkeGEzTkhpTXAxWE5IYzNEVDVYeE5GOWZyMnN3aVR1N1o5eVNwUXAxTnczVmJnbGM5QXhF?oc=5",
+                "source": "streetwisereports.com",
+                "is_premium": false
+            }
+        ]
     }
 }
