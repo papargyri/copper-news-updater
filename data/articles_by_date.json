@@ -25023,5 +25023,60 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-09-28": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 8,
+        "articles": [
+            {
+                "title": "Idaho Copper to Participate in Noble Capital Markets\u2019 Emerging Growth Virtual Equity Conference - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdnNTOHhQZWdJcjFiRElGMkxhUTljWDY2RlFLaktCYjdULVE0X2hoNFA2Rjh5TGV5TTNUaW5zUzFtc0F3ZXRSamVGb3REaWQ3eTJzZlhNYUM3cWF3U0lVcHJtSXQzRzVsS0VtR0I2T2hRVk85Qld1b3YzR3BIUldKMkN6Nk1mWXc2MzJoZWYzODh5b2FWQ0ZiYlluRHRvbHlDRmZ4OUJhd3ZLSHA2N0Nxd0RUM1NmNDFIWlFHNnAtWDJIcTR4dDkzaS1tSy1XaVFHRzZONEVianF3c2xtRFppZDdwVDRETmxWb1BhbXJaWENyWUxISjdDVnFzMEPSAYICQVVfeXFMTTNhOGg3cHRoYURKUnBLMVRUbTZBdU9faWc4T3ZDM2UwVWxpaHBNMHd5eFZQalN4SS04a0pSZnZtTzlDWVZKWmt4c2FXRGhrY1ZMQ25Fakl3ZjdBVGstR2pxcUN4T294LW5ucG5SQXF3cFBpWTBSMzJNU0xheUpWT2hYN1NqYjcwZkNMZnJqby0yd0hTMmdKOUJxVUhiZ0RIUGR2XzRreFNheVVxblhYWnBfVUVtQVA4R3FSQmZlcTB4OXF5T3hlVnV2a1NCNENRaU83Zk9XZV8wN01NTVAtdWFlSkhWbnN4SDBoT1F2TW1aVkRzcmt5Sy1WanBhbFd4ejVR?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "ArcWest Provides Exploration Update - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcC1rdHZ2OFpXcDlQZHppaWo4aGZnaGFOZ29uTnhrNWZkcUl6aHhWVU1URExQNVRXaDREVkFnbk9YYUg2bW5VcnBmMjhnNmNyamd1M2VTWWtyT3gxX1pVd1UtdGM2VjZucm55SGUxY1BfeEZfYVVJSElMVy1ObTZreDh5eS1XTG82TUJhelR3VXRMQTkxd2R3cVd1VkJ2YWM?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Troilus Receives US$850 Million Credit-Approved Debt Commitment Letter for the Troilus Gold-Copper Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejB4V3B0NjZObHhpSHlfamNYMnJTYjdKZmVzRnV3YUd2U0JjUlM1X2FzM1VJUkVkOTBpUFFYN3JmaWt3MlpDRnVKZ3QxVjd1dGtwajU0MExPU242czNOR2lUZnVuVUl5TjF3Z0lqSXFubzlkaDV3cTJNbVRpVE1YVDZXM2NBQ2RqYjNQNURJdGVadmF5V0ZZZWhSaWM?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "U.S. GoldMining Expands Pipeline of High-Priority Targets With 2026 Surface Exploration Program at its Whistler Gold-Copper Project, Alaska - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaURIZWJsTnp1VnRET0dlSzdacW5OSHduRHozaVl3TFA3QXJyR3c4U3ozWDN6YjFfYW1qVm1VS1NIOUJXN0ozRncxNEhOakJKRDloUllLZzVTM1Y2bEFwVjhZY2dSRW9ta1BZMXFrXzlsQ2pUeFdrNUZDMGdEM2pfU2VFMFlSX3N6d3Z2ZWgzVUF4TTZWZUszX3ZEX0lYYkZrNTJkWmpyRHdIcUszSnNGUHRaamdodGFYa1RkbV9LWFhQekZTVjdSelc4SHhQWFZrVTRjMm9YejJZUFF1UmJMYmZ4NkFrcHFSTXpOVzlZNzNBRTFHX2MxMklmUTY4X28xVmFyZXBqcFBIX1VXYTlfcjlrRWtSS1hzYjFDMjFiNkt4eFYtbTdGV1FYeDF3UEpTNnFZYXB0SXNtb0hOdkJmMmRTaw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Camino Receives Environmental Approval for Significant Exploration Expansion at the Costa de Cobre Copper Project in Peru - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOE5Wa3djNWdIT2FIanBrSVhqN1ZwWWtoVk1XZEdwVWNhTWNtbURtRGVqMFJVcnN5aWpONmtLWWhHSWRvRGN2NFJ1cGI0Z1MxdjBhSHBGdGtXNXNOd045MHFkYmxyUXhpMU5OelVTbW5ZYlUyR3k5ZkRZYWhobGlBVFJWeGJ1Q0hMV3lQLUI2QTFHdjlNU2syLWhTVE9RV1piTjUzejlyajZVa1VwTTNndW1hcF9Rempodi1JNw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper advancing MPD Project on trajectory | Beaver Creek 2026 - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVB5Q1hBdkNfTmZIcGs1cl9ycTV0NmZjdjN0WFJFNVBuR3pZSFV3N1dwQUdPRDdTbjE0RXl4Vmg4anFwaWxRWG8ycHV0cVNBaGNYMDFoNHF1eFZSMERPMy04d1ptZ2V1b1k5bFBDRnhtNkxBUzNMTDNUMm40SkhNc2NhM21xeHRhdlZrQUY0eEQ3LVhV?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Sulphuric acid shortage looms as pressure for Zambia\u2019s copper growth - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3A4Z0VwOTZQUXJUNk56R3I1XzdkM25YRW4xSFlXSzduZDY3dE1oUFdEMF9pRmpvYl9LbG03X2VxUTh1ZUJmY2NFNFVWd1pUNTdINkhJMTdnWm1jcHdRVTlEdmQtWElwOThyVE1yVV9EcFFobk1Fc1NfZnEtR2hqVnY3YWJMODhuajhYakZhRjZfb1VZ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Peru Wants to Unlock a Copper Boom. Permits Are in the Way. - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXpEcU1WYXZzTUhnbUlLTVgyWkZJd1E4UGV0OTRpXzNpSHJfb1B2cTRXaDBDRHJ0RUJfZzg4bFBZOUhJWHA5dERsLXg0MUJzWlNIYjI2OVAtMTZFejIxRVUyY3JmMWtIYUVla0sxRVBVbzdsajk1SXIwN3RoSjZUNFdMR0J1eWkxT1Q2ck50Zk5BOWZPZVJsU3M3c2w4WFBt?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
