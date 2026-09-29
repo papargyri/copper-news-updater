@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-29 12:02)
+
+- **[Copper Set to Give Australia’s Mining Stock Rally a New Engine - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVpqTmo4QW9OMUtsV2NoRmVxRHY4empfakFQQWV2TlI3MkRnRXpWXzNoUldjWGVpYnVyQ3huYW13NTRwZWprOVQ2blVzUWlwRHFRcjc2U3RjTVExT0JreEwwUENWQnpqRUdYanNpVTlGaWJOenZ1eUk1Z0NFdTZ2UTQ0QUYtLVRyb0dxYmpvY1Z0QzVTdC13UHFjbXozakpGeVJoWUxVMm5na1dmeEtPejdDOA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-28 21:00*
+- **[Zambia Firm Accuses Abu Dhabi’s IRH of Breaching Mine Deal - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3pEOGFNN0ZuaTI5MW5QM0JrLTRJb08yNzljSTN3OXRMRkczZVpPQS12aXljdEtSZmVPSzdxVFlpdUUxWVBPS1FKMVFjR1VtZDFldGlnbVc2M25ZOEFwTVh1bExSZ1hxSlBMN2lLOERFb2Uza3NrNUV0czUyTzZVY1N3RDJrelI4WWVjQ2xkeDZFbVJzM0lYOFNlcGV3b29QTXJucVNwdzJHYlU3N0Zna1pzdUVkUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-09-28 17:30*
+- **[China's refined copper output on track for lowest growth in decades this year, analysts say - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2lGWkVRTlprU2llNUN4LWFHNTdVNHVYYjhWcDZxM1h1cGhGUS14d3VVYWtaOWxRWi1hOGVkcm81SlJqZzVvZWxmdHhuUEhDLXNhenFuRmtsZnFmdmk3MjFUT2IwOFg5eE1hc3hYWHZycGkyMEV6OTc5Y3FMVnllVnlPX2J4eTNjeWpXbWx3NVA5X1F4anhJbXhEZG9EV0RqUE0wSFNHdDFnZGl5amJCekFtODVMR3Z5VGtfcy0zbzVEQWEtZ2hpLXdhQ0F2Rkk?oc=5)**
+  - *Source: Reuters | Date: 2026-09-28 08:21*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-26 10:44)
 
 - **[Chinese, US firms line up for Peru copper projects as government cuts red tape - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0oyZGViMVQzS3NuVzhCRjY2MlV3WnlWUUtrUEs0cnFtanE3WHR4THZ4Q1czMlotd2tzSm5keFR4LUZ2X2xaMEZRVWRkY1lNZk1LMnRSZDhQb0tzV3UwbnpJUjRQWERLaTh3ai1PUm51TmVQYVFYMFdvYTZSWXhQTFhMS0M5bnAxbFFfbnhPa1M2YWN4TUplWlAzRnFQb0g5aF9ldzVhQm16blRqcGd3T1JCQy1uMThxYkE?oc=5)**
