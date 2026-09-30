@@ -25259,5 +25259,120 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-09-30": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 18,
+        "articles": [
+            {
+                "title": "Fastmarkets Base Metals Market Update | Sept 2026 - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDRENjFUX09jRWp5bE1xTW9kT0FIVDRxT29XSGl5ekJlYTYwVW5vc3lROUdoN3o4S3E2MnFkSHpLSHJLUWRHb3FOUUlrOVROVHhKMHpWb1ZhS3dPX01WNWpORlVRUHhwdUZ4LXRqR25UazV5bW5GM2ttU2FrWEw3VWlkZUdHM21iUFd3ZHln?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Copper push intensifies as AI demands rise - mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wSlJTN1ZHM1RzN1QzU1FiYm9LZWQ4Q3VaZ0xISDVkUThLX1ZFLUJVRUROTTA4UnUwRzVJaUlPMXpucXl0VlozdDE4Z3ZEdDg2N2JCdUF3aFM1cGx1ck0xZ1c0LWRkZ1dDRkJGYkdRd2tSUUk?oc=5",
+                "source": "mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Panama government to recommend copper mine restart through state tie-up, sources say - reuters.com",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclRSVnh0LTNSQklxNk5oRV9lS0RrMmtXVUVqSnR1WHFLeXdvbkFOUnMxNkc4S21oQnZlVVZ6UF9QS1FZZXl6cGl6d3djUVFuRXhPbHM0dnlhckFad0VWelB3ZkNIRnBzS1Y5dThySUl3NHRuVE9VWXF2RGI0Z3hpN2k1eUFHaUp2b1RlSWtHbTE1bGRzTU16UVN3QW1aQkZ3SVBVVlpJWHNRUHd4WTFRVy1mZXpnUXlPc1BRRDFiTW1xZi1NeG5vbXlBSFJkQQ?oc=5",
+                "source": "reuters.com",
+                "is_premium": true
+            },
+            {
+                "title": "Zambia's copper concentrate export duty waiver set to expire September 30 as KCM restarts Nchanga smelter - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnVKdGdNODAtSHJhRmU4c2g3UDlTeEpvQzVpc0Rfa2toUnRwTW9QTG5PNXZzMzRwdUFJSzY1cTB3WXZQa055Yk9jbldLVjF2NVlsdXBGbjNKbFBJZnNibHhtQnpBYV8wZURjNllVOC0tc0tpZEFoS2ZRQ2hjam9mc0EtbVJIQm9nVEVra1YwM1Y0NzFVQ3pvbmx3SUNUdDAwS1c1ZU9yWGNmUnBwME8tRm1PMjJXZXBXQWlwRm1jSmtxVnQwZWJxcWNBYXdQSW5FSkZSSEFLeFFVdw?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One closes $8 million special warrant offering - mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakl6eTE3clJ0UWhCQ0JKX3owb3ZUYnIxcEZFZXktZGMwOTlhdWRyLUZKOGxzZ1draXFUTHFfc1hkM3UxU3R5dXRGcW1YLXgzbXUxVnphaXlfMllHUUd5YzI3VlFYQkpmeWJxbVBOYm9Nb2gwTHFJSHpfb3hGNTBReg?oc=5",
+                "source": "mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Hemisphere begins diamond drilling at Ferro South - mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjFJSUYwX011b09UTzk4cEQ1Z0J2RHZTc0VBSVhKTW9vWldVWmJic0pPTUt3VE9wS3dMb2ZhRVRvVTF3OWt1emVYYzVFSm10Tk9oYXhjc1ZuNk1uUFAybVB1TGVwdnNaNEtBdm9CanpEaG1ERXlSUEU3cVhseGFTZGtEODljTFJB?oc=5",
+                "source": "mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "QMines gets 24c target on Mt Chalmers push - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWGRYVEluYXFjT1ZrcElIc1FPLTc2OWNIM3BzZVZjMW41SHlnQ19BLTU2dzFyYXl0b2ZqckZlZjV3eUVNdVM2clpxb0xNZEttUnFtSlVQV1BUZk5PN1c2bVlyOFdlWW9FM0lObktuX0U0Q01VNmRxNWtXT3RjYkpaTGxPQ0g1S0I5Rlo1a3FpdGdVRzhHbUU5NUtVWDM1bFdMdWVHSlFZdlhlS1NpcFFUeW1PODZKcFJqcFRoWFZ2YkJtdXcxbExncGs3VVFkTmlKMDM3dWNvdnNWZnVsMHhYY04wVGZzcExYWkxnRnQyZVVBZEx1RmhKT0lWSVZ4X3IzN3RkOGZWZ3h1YWM?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price holds firm as Chile mine disruptions support market - mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzcwbldKcTMwX3dNUXlQRFpuWjhKSmhIOHdRZ1U5VXBwN3F5bV81c0VEV25jRDBBcnVkSGpoRXozYTliTGFuODR3VXQtb1dJTU8zQWVNb25DVlRlMDNqbm5kVkFqWlFkbm5xZ0p4U0FxczZxVkxvdC1yeEJfN2Z1V1hMSTdnWDJwYkVKc2owOS0?oc=5",
+                "source": "mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "PVT maps out its Horden Lake copper development - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeTBiSnQ2NVg3clBVV0Z2NDMwOURHdkdTNWNNVmtudE11dEpteUdkdFJLXzJQZ3lGRmRndHVMTVgxcTdMRFZESTJOZjJSWTFmdmpvZFFCNnRSV2NPUTBaWnBRcUFzclFEZEhWQ2NVSC1pbkJoaGs5VkFqRUF4cE5RVEFUeTFDWkNqOFNXbTlnLVF5a0RibWt0MGp5aE9MRlhhUGgwNTJBUUZBUDlaTVNxa0NMeEx6ZGJEUlB5X1VEc2ZZNkhXaGNCMXpwVGRvVG1VUTVheEZMWmNiMlJiX25td29BWWxlWXBK?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Unions at Antofagasta\u2019s Centinela copper mine ready for strike - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdU1ORWRjRGVfd19tQ0d4T1lWOEJhMjVZeGgwNlZCUE1HQzZaay03YWlHOXJsRGYyX0NvN2ZpckNuNjdzLWZFTnl4THJ4YkVlRHgtSnZsbWZ0OGtTOXk2RjRBN0xxN1Q0ZXdFZHdfMVhzUWYyMEFESmVUM2M1VVVjbXRGczcyNm5fTkRSVXlRNERDTjA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Get ready for tariffs to set off another roller coaster ride in metal markets, Goldman says - Business Insider",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3gyVkdPQjdSUmhSQVpkbl96cXBmeklzUHlCcWhhekN0c1pHRjRZWlU4dFlDOG5WcGZseGxicmpPV29Ea3VUekNiN0c3S0hZYm1VdmVXdzBjUjhSc21lcWtCRkFPVFRnci1wS2t6UXltcjdqcFlPXzFEWEsyWGNFTTZqRG5BeElUSlJuUUdiWlNWZWM1UnJNZzYxbWtOanhfdlZFMGRmOA?oc=5",
+                "source": "Business Insider",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Intelligence, CoTec partner for DRC tailings processing - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUlJZHR0dWxnUG5kZDdlU2tRN21zZGNNdUY2TjFBa1FKaWZTYjUtcGxWWjhJOXh1bWxObE9WR3NVd0Etc3RSbWtuNTNPQmt4ZHNiNnU1SFd3WmlnVVR1NDRrcUZxbF9GNUtsX1N3YlF0LUhpZWZZZEg1Tll2Y3J0eV92a0ZxVU95SklzY2NieENEcmdxc1E?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price holds above $14,400 as Chile strike risk grows - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnlxUF93RmY2ZVpER2JXRm91MUlNSU5TM1RBaWRRUWRPUEZtVFhmUU9oblZDR043RkxraUl6OUdBWTc5eS1ZNmNrVnU1VFpGYnVCaWlkS3V2NDJFMGRTUEpxZUhDZjlwcDNCLWhHODA5VndDbU9peXZYalBmV3BURA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Three Points Copper Appoints Nick Tintor to The Board of Directors - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVW1JM3lYVmIyOWpOUHo0LU5KQjVFdngxT1I2ZDZjenFkckhhQmZKakJpc1ZTeGc2Q0Vqc0U1eVhyYlNMUUI5TGtDOEFELVMxRFNQODduOWpPMzJTUHdHdDVfVDRkbW41SXVSTzhreXIxcExaemNPX0hwcUIyamdNQVpnYWdaTUNoZGFmQV9SdGRzTTRZQzEtWVcteDBVdW81SW9HeFZ3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Credo Technology: The Copper King Has Already Paid For Its Crown - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVFnSmgyUXhnSmhfcmpLNHRyRFFEelNPZUg2WWhPb3pXWmZ5Wkd0bXNfamw5X1BRVUZ4Z3lERm84X2xtWTVkaml4RHA1SmdSU0ZROGZYN3haZGx0WnJ5UnJXMWRzOWQyai1idmVrUnh4OUpkaXRtYzY4aTFXTUI4ODR4YVU3dms1RHZGOFZOeUs?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Workers at Antofagasta's Centinela mine reject offer, pave way for strike - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaktCYW5pM19iSE81aGVHRnBZMlVCYy16bVI0TUlTaWo3WTByZlVPUWw1aWhISU44dmY2VFUwRWo3X3AxN25MRWVCb1ZhRUlBTHREZnluYW1wWkJsUWI2dk14Vm9zQTAwZ2NwNTR3M0FQNU0zQ0lTSFotLUJ5WGNZTUpYWnVwWUdUQzYyQTQ5SExxR3ZlczlKVVVhWTc4aXN6SEoxYVVRT00yTXd0Vnp3cG56RzRtdlV1ZGxv?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper prices may surge another 50%, predicts Deutsche Bank; supply to users could exhaust by 2028 - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUW5pc3c4TlhHeEdWRk1uRkxVSkoxM05WRTlqMUJ6d1R0NF9GS0tGUlVkczJrMk9TVVY5U1Z4VDJYNmkzd3Q1UndhYkVaNjRITGFJT3JWaGpNUV9MSVRrZkxicGVwUlFfU3ZSV0ZYOHM2TEVFNTZtMFRqWjBvbV8wYngtN2ZmLWpZR2M5elEtYmZIUzBRc1lVMHZxOVBIaVEtdG1lS3VUbUFrb3YtWUllbVpaazViNmU5eWRJNnRuR29JOFMwM25kSENySVNCb0dFMlJqYklBT2Y4WVFGallxbkN6WnIwNzJ2WXR2NkRBM244M3ZSaU9mMVhEU3AyMUwxcUpBYk9LVXc5VUt0eS12OUVtTFN1WFA3RkZhVnl2NNIBigJBVV95cUxPRHVpMENtbFBCdGw5NXFlZ3lKZ05sTHd5T0t5aFUwNUtkUDJ6eG9QVUEyT05PbE5TVXptaVBsTi1XTlJCcHBCaVZzNHh1MWlBSTlvUU5hQ1V5blhFY1F1bk5McWhaZmxQcHh2MG42aFBaRzZ1NE9PcE4ydUhJS2dUSGVTTTBPV2UtYnY4bFBiU0RfQXZrT2VuRm5sMHBLWE82T2x2NmlpRU5jLUowYlNSc2xzQjhKZXFIVHdZZ2VuMFJHRXREMjBRLV8zM2JhMDdEdXYwMXpkZE1qczJDSFdMa1F0OXQxaExGNGVGeDd1bjFpdEFhb1IwSFctRjU2M2pvZjl6Z1NTdS1GZw?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper slides as China industrial data weighs on demand outlook - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3FFeldOUm9qR1kzNFNCLVhGWHFtaUtPT0sxQnFuOGo0Q0xSNHM0czQtc0g4UkpqZnpodkFaSjQ4Qm95UmcyRTJoYk1CWU9UX3AzR3pDcE12UVJJaVBXS1R5U2drTkFORDBxY21qeXc4ZFZ4Wk9uV2JBbzYwRzRRd1BFZzRYNXRQb3FDTw?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            }
+        ]
     }
 }

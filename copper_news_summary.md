@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-09-30 11:50)
+
+- **[Panama government to recommend copper mine restart through state tie-up, sources say - reuters.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPclRSVnh0LTNSQklxNk5oRV9lS0RrMmtXVUVqSnR1WHFLeXdvbkFOUnMxNkc4S21oQnZlVVZ6UF9QS1FZZXl6cGl6d3djUVFuRXhPbHM0dnlhckFad0VWelB3ZkNIRnBzS1Y5dThySUl3NHRuVE9VWXF2RGI0Z3hpN2k1eUFHaUp2b1RlSWtHbTE1bGRzTU16UVN3QW1aQkZ3SVBVVlpJWHNRUHd4WTFRVy1mZXpnUXlPc1BRRDFiTW1xZi1NeG5vbXlBSFJkQQ?oc=5)**
+  - *Source: reuters.com | Date: 2026-09-30 10:07*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-29 12:02)
 
 - **[Copper Set to Give Australia’s Mining Stock Rally a New Engine - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVpqTmo4QW9OMUtsV2NoRmVxRHY4empfakFQQWV2TlI3MkRnRXpWXzNoUldjWGVpYnVyQ3huYW13NTRwZWprOVQ2blVzUWlwRHFRcjc2U3RjTVExT0JreEwwUENWQnpqRUdYanNpVTlGaWJOenZ1eUk1Z0NFdTZ2UTQ0QUYtLVRyb0dxYmpvY1Z0QzVTdC13UHFjbXozakpGeVJoWUxVMm5na1dmeEtPejdDOA?oc=5)**
