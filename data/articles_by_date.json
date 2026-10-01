@@ -25374,5 +25374,84 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-01": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXJYeDFLZ0NtNmthempsLVU0R0hyeUE2RjdrVjNMM0hmcVlnRFpldzdPMDNJSEF6ZWVZWGdiSUpNb3ByaEV0MnhTQXo4VkNqWjZxT1dQUnBjelpDV1I1bExnWnRQX1JrVV95YWR5a0g4eVpOWjZBVnZnZkhVSU5WVEh3cEx3dnVfMWFtcUswZnptcWg3blIydmEyQmtPeTNocUpkMVN2STlhUVNn?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Chile\u2019s monthly copper output sinks to 15-year low - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52SzQyczJYOS0yYV9XLTJGMG41QVJkeUNEUEtRdHVLRDktUExqdTlSZ0pUbmdCLXkzVnR3M2N0bktGWFJVQ3dvVTN6bE9UcmJqd2hEYmZZaFJJMTlxUUhqOU9aMXhlNUVhRjV2Q096NzVFNU1VMF80YlNrTVI?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Resolving the Alaska copper paradox - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEM1WEJNZHVMTnhNVk5WZ1Jjek9lUDhRemVIVXg3MURkVnVhSmk4R25PS0g2ZFVSNEo3elJ3Z1JjTGdURGZVeVM0MVRyR2JMdlM1S081V25Oc2FpWk1FUGUyX1pkdTJkSVJITTVFVEJzY2xWQjIyb3AzdGFJOHdibkVFOTJ4emFJSWVMa09pd2tRT1hpbVpaeU9YMnNYa00y?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "The projects behind Alaska's copper paradox - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM25kTG1aeFhlMWI1M25zQWlDd3AtMFpMVExyOHVrdHRxbjItRlhUTTJmQWxYOVctYWtXSFotT05mUjhkMG16amY3VGp4dGVyZHdJcU5Gb0ZFcDJCQ1lfa1QydnA1Zi1xcFNWdmxvdU44bUxnM3JFY3Y0SHFleThjMmpPZGlJNnRub0s3amZ2Z09TbDVLZS1rZXd0RlpfMC1ndTZZV29fX2FsUQ?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Hercules extends Idaho copper discovery - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIY0FXcVFjSHh1c3Yxbl96X2tBdzFxcDNCZWNIcGxiVVNRekJiekoyLWNrbGRuREJSZUpSUmtlWkp2UmszTjA1Q2JzYzhhekNtTnk2cjhkXzh1bWlFR1hxMms0LXFrcHc0WFVXRkx4SUc?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Prices Near Records, But Which Signals Can You Trust? - discoveryalert.com",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnc2SmRXMkRmXy1FaW92Uk41OC15dld2Q2xNMGN5V2c2MUVSYzQwOExuVmVhdjRmc3psbGx5NERiYmJNTVVpSmFCNHBvQk4xVTVDVG92UG4zc2pHRmhnTUlwcnBqTHBLaVRpUks1Q19JNDlFQ085YkF0dU1ZNlhVcg?oc=5",
+                "source": "discoveryalert.com",
+                "is_premium": false
+            },
+            {
+                "title": "Panama commission urges orderly closure of First Quantum\u2019s Cobre mine - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0JqMi1OZVJXTnJWV2hBS2FyLWo5d2E5WTM0YXZZamdHMVVrMDhXX2FmR0FWWGI0RG1NX01CbTR2aWFlSGhJeUIzV0J6QTl2dkNDc2hhcXBYYVpVN3VlYWNtcWdFamdjSldnOS1nTGkydzhWdXp5WTJEZ2t3Z0wxQnlFU2wyckh2V0loUmhtcXRKLTBRMElj?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum shares plunge after report recommends orderly mine closure - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQem84VkFmb3Q0RmNsOVVLSzh6ZlkwTTdPQmR1a0k2NXFlRXBUNGZKWXhHQ3hPNkF4Y29LMmgwOHlsdmxUQ2s1UThieVZ2eFZpMk1tc0JhdDU2U0o1VFNZM0RMOXM2eFRZOWVLMnAtb0syU19sQ1hUR0VyRUQ0cU1qRHFON1JuUW5OUllocElXSUdzejJKTXBfRUZsZmRjLWhjYVY4c2pmTHZUdWluNzlaY19HZDBIa21hZS0wcnlya0EtdmYtWl9XcGRlcGtoQ0JJaHZHcjk2ZklFYlBUMERUeHV1TFk?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price set for 3rd straight monthly gain; aluminum hits 2-month low - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0NGX29OeUtnd1Z6Vnl4a1ludV9weTZjemg0WXpmVnpRZ3BhYU00am9PVFFtdzF6Qy1lU1gyZTd3SVBENnhqcTY2UmJiLWJuRXphWU8xLXpqcjRPcm9UWFFsOVlJeldQV0hBNTZEQm5tU3ROUVdpZUhQS0xMVlNKeldwZlo3YUpRR0tacHJfazI3bEZDc2FtZFB4WHQ4S1RDNGc?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Theory is emerging in Northern BC - North of 60 Mining News",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTlnUXpXLWtsOWMzSnZxazZyMlA3dVBZRkVCRS1rMUpTUjRscTJVb2JKenJqa3JiVzJhaEtYWTZOM3hBNmdyUzY5OTJyT2tLX0p0QkZVMDMyTTJpSTJDTTk4TTQ3MkctVE91Y0xZc0p2aEwybE00bXZNZEFNZHNsa1Y4alZrYmU1bkpaOXhfMkZRMnNXSWRIdWZJeUdRbl9oclZBbDVDZHhkd1RBbUI0SUU5WVN4MWFYdGc?oc=5",
+                "source": "North of 60 Mining News",
+                "is_premium": false
+            },
+            {
+                "title": "Chile\u2019s copper output falls 12.8% in August hit by weather conditions and ore grades - mining.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjExU1hzVzFobEM3THVad2tpZjItcFRpWEl3TURyTTdMRUY2Q0IwZGhkOVNJLXlKN0NsZTN2VHNGV1gzRVdVY2FtUFEwTzhDVHYxWWJrWGVqNmRPa3VRZnNjaW1uVDRUU0phSmZGbXFGZDNlVG1iX2hsM25RYWt5R3pUREVXZTFUenhKMjRXekJnaXBUVUdSLWNwWGxpLTBub0JHdkdlallHUTdfR0hn?oc=5",
+                "source": "mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "McEwen Highlights Los Azules Copper Growth Strategy, Sees Market Value Gap - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXRPYmh0TjhUU01TcC1pV0dwOVFzSGtMQWl6eDBvLU5kY0tMb2ZWLUlZLVpUbnBNMWE2OTNuZk1jVmxmVTJ2a3daYVJubXFncllDQWNlNUNnUmtBUl83Sy14ODV4SEdFNlRPaGt1Z1VmRElKb28yRDk0SXQwN3FYNVJSdTRkV2pDVGtPV2RUV1pDWEdDWnctaGtmR0lqMm1GN1V6X0cwQ0k?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }

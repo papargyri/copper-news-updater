@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-01 12:20)
+
+- **[Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXJYeDFLZ0NtNmthempsLVU0R0hyeUE2RjdrVjNMM0hmcVlnRFpldzdPMDNJSEF6ZWVZWGdiSUpNb3ByaEV0MnhTQXo4VkNqWjZxT1dQUnBjelpDV1I1bExnWnRQX1JrVV95YWR5a0g4eVpOWjZBVnZnZkhVSU5WVEh3cEx3dnVfMWFtcUswZnptcWg3blIydmEyQmtPeTNocUpkMVN2STlhUVNn?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-01 10:52*
+- **[First Quantum shares plunge after report recommends orderly mine closure - BNN Bloomberg](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQem84VkFmb3Q0RmNsOVVLSzh6ZlkwTTdPQmR1a0k2NXFlRXBUNGZKWXhHQ3hPNkF4Y29LMmgwOHlsdmxUQ2s1UThieVZ2eFZpMk1tc0JhdDU2U0o1VFNZM0RMOXM2eFRZOWVLMnAtb0syU19sQ1hUR0VyRUQ0cU1qRHFON1JuUW5OUllocElXSUdzejJKTXBfRUZsZmRjLWhjYVY4c2pmTHZUdWluNzlaY19HZDBIa21hZS0wcnlya0EtdmYtWl9XcGRlcGtoQ0JJaHZHcjk2ZklFYlBUMERUeHV1TFk?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-09-30 19:47*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-09-30 11:50)
 
 - **[Panama government to recommend copper mine restart through state tie-up, sources say - reuters.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPclRSVnh0LTNSQklxNk5oRV9lS0RrMmtXVUVqSnR1WHFLeXdvbkFOUnMxNkc4S21oQnZlVVZ6UF9QS1FZZXl6cGl6d3djUVFuRXhPbHM0dnlhckFad0VWelB3ZkNIRnBzS1Y5dThySUl3NHRuVE9VWXF2RGI0Z3hpN2k1eUFHaUp2b1RlSWtHbTE1bGRzTU16UVN3QW1aQkZ3SVBVVlpJWHNRUHd4WTFRVy1mZXpnUXlPc1BRRDFiTW1xZi1NeG5vbXlBSFJkQQ?oc=5)**
