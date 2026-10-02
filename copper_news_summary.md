@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-02 11:47)
+
+- **[Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU5ZbFdrRmVkVEhBUGYwYlY2cGJmUGxKZVUteGx3MHlvVC1xSFRLWGdyNC1YaHVQb3RwX0FXX3FPNUpwRFRXR0pmLU5OVjdZc0N1T1k5aG5PNWhTaE9zNERscWc0d0RGLWRBV21tUmMybVVHT09QcmIyQVdiWVVPQzMxQTM3R09CbzBYbWpQVzVDalBJdTYtc1dtOTl6cndHb2MwVjZXWUMzNDRNYWZ5VjNWRQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-02 04:07*
+- **[Chile's copper production fell to a 15-year low in August - BNN Bloomberg](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWhkd0lmdFdoUHp6bXBtQ1V4RVdicFNLZVViNmUyVGFmZUw5WGhjdFJoVzRDUE43ZEl4NnI5T2ZObGt4T2hUNEpmejhjUkVMbU4yOTg0QVMteXEtaEljazZrY2FMMEhBVkM1UlVmU2xTM1dHcXlNcWttQUZnRzc1OF9selVlT05qTkZrMDBiMTlNVE4tSEphU0gyRnlEZGd2eXktVzJCVklNT1RZUkl1R2FKMlJBOGRESUYxRw?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-10-01 19:43*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-01 12:20)
 
 - **[Copper Steadies With Focus on Supply During China Holiday - Bloomberg.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXJYeDFLZ0NtNmthempsLVU0R0hyeUE2RjdrVjNMM0hmcVlnRFpldzdPMDNJSEF6ZWVZWGdiSUpNb3ByaEV0MnhTQXo4VkNqWjZxT1dQUnBjelpDV1I1bExnWnRQX1JrVV95YWR5a0g4eVpOWjZBVnZnZkhVSU5WVEh3cEx3dnVfMWFtcUswZnptcWg3blIydmEyQmtPeTNocUpkMVN2STlhUVNn?oc=5)**
