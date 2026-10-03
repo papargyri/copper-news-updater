@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-03 11:01)
+
+- **[EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - reuters.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzhLRWZhLUFJdVVORElYVGRzdmVHRXdtQklrVVFuUHBRVVZWenY2a0ZEV1N2X21YVHF6bGo3NFowdjFEOFlnc0dHSzRMZ2M4NUFpc0h5MldrcDBxcFJPQlRXY0phRDVtallfOHNjQTAzQVZ0dWVMWTZQU3RyYjM5YmtHQVVWSDlIRjI0UmZLZG9FYmFLeXNZU1M0UFlELW9NNjJfWmtMcXBrN0JIZUdQYUt6Q1B5ek16Tnc1RXpEVEJGLXpma0xGeUVB?oc=5)**
+  - *Source: reuters.com | Date: 2026-10-02 22:30*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-02 11:47)
 
 - **[Copper Heads for Weekly Loss as High Energy Costs Limit Demand - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU5ZbFdrRmVkVEhBUGYwYlY2cGJmUGxKZVUteGx3MHlvVC1xSFRLWGdyNC1YaHVQb3RwX0FXX3FPNUpwRFRXR0pmLU5OVjdZc0N1T1k5aG5PNWhTaE9zNERscWc0d0RGLWRBV21tUmMybVVHT09QcmIyQVdiWVVPQzMxQTM3R09CbzBYbWpQVzVDalBJdTYtc1dtOTl6cndHb2MwVjZXWUMzNDRNYWZ5VjNWRQ?oc=5)**
