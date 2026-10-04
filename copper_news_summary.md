@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-04 11:43)
+
+- **[Fatal accident at Radomiro Tomic mine, Codelco partially suspends operations - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMThFd1FLOXd2bXNjLTZKTWtWOVBOelpsRXZhS2xabk9GVHlpRFJ6M3hGa2FEdGdnSjZSWmxvaWJSVEFpRk1mRmp2cDBaVWpudXpDRXo3ZG9sRUF2R3R5Zjlpbkt5eERLdU1jQ3ExbWh1MjF3RHVDYnFPOEdtbWpFcnROTUl3dWJZbDlhbUg5VFZiYjV0dHA4ODVGcFFWM1dLV0ZaQ21teTMyMzJGOXo3YUJuZDNfYlhxanpVcGlyay0?oc=5)**
+  - *Source: Reuters | Date: 2026-10-01 15:57*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-03 11:01)
 
 - **[EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - reuters.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzhLRWZhLUFJdVVORElYVGRzdmVHRXdtQklrVVFuUHBRVVZWenY2a0ZEV1N2X21YVHF6bGo3NFowdjFEOFlnc0dHSzRMZ2M4NUFpc0h5MldrcDBxcFJPQlRXY0phRDVtallfOHNjQTAzQVZ0dWVMWTZQU3RyYjM5YmtHQVVWSDlIRjI0UmZLZG9FYmFLeXNZU1M0UFlELW9NNjJfWmtMcXBrN0JIZUdQYUt6Q1B5ek16Tnc1RXpEVEJGLXpma0xGeUVB?oc=5)**

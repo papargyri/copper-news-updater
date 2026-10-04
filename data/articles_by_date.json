@@ -25731,5 +25731,48 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-04": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 6,
+        "articles": [
+            {
+                "title": "How Investors Are Reacting To BHP Group (ASX:BHP) Expanding El Seguro Copper Footprint In Argentina - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWm42eS1LcXdZZmticWkwVEpaYUtrcER2Z1M1TVhjeDRXclFIb0ZFTDQ1cnh4S1Z5TGRUcHFUcG83THN3ZWVTTmg3LXNPZThibWhPM3BtUU5CbWIyQmdsbFNraUJZN2NJb1gzbng1RGFMdGRxY2ZhaGViNlFkaXJfU2t2MXJHNmNDb1JpcklPWjRobzFoMkp5RXpkdmxHUQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Lake Raises $2.34 Million in First Tranche of Private Placement - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFZsV25OZnlfNmRYWDNPVXlrMEthOGVrTnJ1M0ZNQXhsVVR5NEJ0OGVmSmV4WVJ1eUgzY3B4amlsaVJYOGNJM2R2SC12V3VNT2RJdUp4ZHdSRjI3MktTd2s2c01xNkdMczFuY1dCajA5YjZGbTczUnVDQkk2ZnJ1WkV6THhoazhwSlA3eGJqODBzc0ZPb2x6TzlDR3gtOWFCOGFQb0RLdzBVb2VQWS1YTTBXNWJmSEx4UEN6OWpFRnJJcUo1R2VjQUhXbzJWSmxoYXo1MmI5RU1NYVlsWnlsVHNQOGs?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "3 Trends That Will Push Copper Higher in 2028 - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjZzeUtWYTNHSDhEVjBnOHpyZl8xTW5Pb3RIQ0xPZmQ1SGE3U2dCenFHOHNrTDFqandIdjFmRTVNWnpiME5fR29lT2R3Rnp2Yk5jOGl0dHZpRi1aZlV3SVozNUdoQ3BYVEtnMXRqMVBFLWVsOFpuWFdIZGhqQVM3WG5QUUJhaVVjYlMwOTR0VXJLdw?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "Everyone wants copper. Could Briggs help deliver it? - mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MWXhEOXBINUpnMElmcWtnT1VTSzhGQnByYk9kbkp1SFJfTDZJWGNNRmZDZTJTcF92OTVGVXpBdGJHdUpMMEVKdWFBWm90c1MtMTVIZzNidXY3MlE2MmJSaklBbjBXd2lHOXVhQlYxVlNmMmRTdkVFS2s2cXpnZw?oc=5",
+                "source": "mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Troilus gold/copper project, Canada - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFBhdWNIaVlDOXZ1ajFreFpFaXhydnpRdkhMTWpzOGxYOENFVmJFdWF0U3Jwc1VYd1BqX0FEVGMtVks0bi13OEI2aVdmY3hqMGQwNG1vcGhzZWpXVXlyNU9wT21EYUVlRnF2bW1kSFllMGNnaEpmb2NESlIyRm5EY05qUE91Q0E1?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Fatal accident at Radomiro Tomic mine, Codelco partially suspends operations - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMThFd1FLOXd2bXNjLTZKTWtWOVBOelpsRXZhS2xabk9GVHlpRFJ6M3hGa2FEdGdnSjZSWmxvaWJSVEFpRk1mRmp2cDBaVWpudXpDRXo3ZG9sRUF2R3R5Zjlpbkt5eERLdU1jQ3ExbWh1MjF3RHVDYnFPOEdtbWpFcnROTUl3dWJZbDlhbUg5VFZiYjV0dHA4ODVGcFFWM1dLV0ZaQ21teTMyMzJGOXo3YUJuZDNfYlhxanpVcGlyay0?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            }
+        ]
     }
 }
