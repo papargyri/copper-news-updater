@@ -25774,5 +25774,11 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-10-05": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 0,
+        "articles": []
     }
 }
