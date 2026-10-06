@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-06 12:40)
+
+- **[Copper Gains as US Jobs Data Offers Relief on Fed Tightening - bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHJ4WjNIQUVnR3lNNER0dUoybmJBb2lVVl9Zbkx2dzVsNEdrdFZUcFp2X0FPVDV3YTFoMUxXVFVvT1JnRE15UUJFNXF6aTBUOTYxMXNicnNuUU9EZkMySkdRWTlvRjV2MEcwOXFxdldaekR5enFZRkJVUjdzblJlMUd5UXJFQzBSdzFFWnhfZjYwRFRWMkRDXzVTaEJIa1JsTUpxZFNTSEttM01kb1hINg?oc=5)**
+  - *Source: bloomberg.com | Date: 2026-10-05 19:28*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-04 11:43)
 
 - **[Fatal accident at Radomiro Tomic mine, Codelco partially suspends operations - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMThFd1FLOXd2bXNjLTZKTWtWOVBOelpsRXZhS2xabk9GVHlpRFJ6M3hGa2FEdGdnSjZSWmxvaWJSVEFpRk1mRmp2cDBaVWpudXpDRXo3ZG9sRUF2R3R5Zjlpbkt5eERLdU1jQ3ExbWh1MjF3RHVDYnFPOEdtbWpFcnROTUl3dWJZbDlhbUg5VFZiYjV0dHA4ODVGcFFWM1dLV0ZaQ21teTMyMzJGOXo3YUJuZDNfYlhxanpVcGlyay0?oc=5)**

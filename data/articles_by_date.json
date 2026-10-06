@@ -25780,5 +25780,96 @@
         "premium_count": 0,
         "global_count": 0,
         "articles": []
+    },
+    "2026-10-06": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 14,
+        "articles": [
+            {
+                "title": "EBRD lends \u20ac55M to green Bulgarian copper mining - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVYxa1ZIbFFDVTZBT2N2Sk1YX3FHZ3czOEJnN29MSzlxcGhyc2VPQ2NfUmZpcmZ0eE9nLWlHNXRMSVF0QXMxSUItRlQwcXNFLXFKWERxSTN1VWQ4QkZLR1RCT3psYWdlWVM4alBOQk42ZXB1Uk13OHJxV2Rnb0dxVndGSlVvQkFNbGpYYm5TeWRFazV3dW5zdXVEVENhT1ZLN1U3b3Vn?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "Vedanta eyes $3 billion investment in India and Saudi Arabia for copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmNGZFdTNVA4b3RraXV2SGFnMmxySmRQTUVYZ3FZSURtMG9GdHFPVFY4NDZ3Z2VIM1d1bGxBYlBrTUVUTkpKVXFWRHduZ21YWTBwSkR3SXFaUEJDRk1zXzBpWEt5OVhPWkVvUk10VGg5RFRVVVBZV3pvT2JlOUU0NjBKZmNqbl9hUURGRm5BRGFYbXNLVmdyVg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Vantage confirms prospective copper contact at Kalahari - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaU5vcG9JU0FNODNDOFcwdDlzRHFrclRGUUwxNWgyRlM2ODRuYzZYRXgzOHc3QmVvWVM2aUZTNUJ3Szg3OEx0aWdOcHZwLUFnQnU4WldZNmdvSDZ2ZDRzMjItVkxCZDFETHd0alRfMFQxbjZ4TjVqN2QwdmpQdWZnWUducmE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price firms on reduced likelihood of higher US interest rates - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTjg0ZGZUS0w4UG02ZHpURlY0dWdUdktSTk54b2M3MUxUZ0l2UUw4LW1nREg4RWd3R0l5TTF0T0dfdnhEbTJKZGRLczREUUJQcmlHZUJsTW1iWFpnY2swMnNWdUk2SDRTV1RhR1BQaGJvcW42V1lvRkRSNFpaemRSb21DNHpsY29zS21iaGIyZWNiRkxMYmFUUHk1MzQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper floating solar project wins Asian innovation award - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1JjMkczanh6NFBLeVdGRWZfY0E4dVRNcHM5anJNbnBLUFdNcUxiLU1SZEtUc015V2FTdW9PNndDTUUtcGQyMDVHVWpMNVZBRUV0amdWdGVqU2FnNWJiaTRwTHFjSGM1Q2c5VFJjXzRaOHQySHlxT0M5akNLYzMwYUVua1UxRzA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "[Interview] Toto Finance Founder Monty C.M. Metzger on \u201cAI\u2019s Next Bottleneck Isn\u2019t Chips, It\u2019s Copper\u201d - koreaittimes.com",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95U0ZOX0x1RXYzV0c1WFhDTkRuTzJhU1lFeHJuQWlFOGpJYXlWUUNPeDZQME5oUTBGN3pDaERnQmVCQXdkZV9LcDN4M09OTkNFUU9qNVV0M2FmVm5KVDhUcVYwZFFMbEl2enlhYl90U1E?oc=5",
+                "source": "koreaittimes.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Gains as US Jobs Data Offers Relief on Fed Tightening - bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHJ4WjNIQUVnR3lNNER0dUoybmJBb2lVVl9Zbkx2dzVsNEdrdFZUcFp2X0FPVDV3YTFoMUxXVFVvT1JnRE15UUJFNXF6aTBUOTYxMXNicnNuUU9EZkMySkdRWTlvRjV2MEcwOXFxdldaekR5enFZRkJVUjdzblJlMUd5UXJFQzBSdzFFWnhfZjYwRFRWMkRDXzVTaEJIa1JsTUpxZFNTSEttM01kb1hINg?oc=5",
+                "source": "bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price advances as US rate hike bets cool - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80bnllTTlNRFROREtTS0ZoZnlMWFJlUmd3ZVoyWlVSR3dtRGZ3WjNSUjAzeExpSGFKdEM0RHBmbXE2enhjT2NOMHFDTi1uNWNieWQ5UTZQWG1JTjBveEFGZXU2VU1HY0h6ZFhmdVJnYWFtbXVsdnR5RHR3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "2 Mining Stocks That Are Quietly Becoming the Trades of the Year - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnpCdEhPeVd0aWV1bXBRSXF4bFJpTHJNWklWRTFGczVFLTZKcmUwT05rQzhRME92UlpQd2RRdEVOdzluTDlwSnJ6S0lOOFZTYzBwamtFS3NCeTNvT2E0UHVmSnBkVTBCWkQ5SV85Q1A0WUFUU2xER0tIdmhxLWZqWVZHSU5aUUhhMndNdUQ0RVhmUQ?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "2 Mining Stocks That Are Quietly Becoming the Trades of the Year - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzNycXJObUpKYWFVN0E0Y2h1bWFRYUxNWFNjSzdsWmllc1FXVFQ1aXIzYTQteFhEQzY2M0ZQSnVuOWhVYU5EME84YmIzaElzTnlzQldBSklUZVh1OXNTSlVwWW5VM2h6eGVFUWtZVGRTQ21iTmZhdDZsVVhXU1ZsbzFIT0lSRmV4TWFtcHpIOFNnMEpUdG4zRmZJYzFZb3ZUdjlsamVWS05JM1lrYVlqd3pqbUJOUFFobmxKWkFaWTJQZFhYV3RHNTNsUUNUV0JKRk9uTDJacnpoUDhSamlNQ2Fhdzk?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "World Bank backs $1.4B for Chile\u2019s copper giant - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzFtOVZJT1M2R2V1ejJmVlpFQXpMcndmR3EzbjdZTXJtQ2J5MVFfLWh2Y2FjbVRFMG9MdzY1NHJhS0Q3VjRSRFItdnJMWUZGQkdBNG56SzM1Q09RRDVNSUpsQkpwWnVESVZ1OVREU3FJZS1zX3JSMDlzZVdqZWtSYTZHdWZRaXg2NEZDX0FtdndxcHZGTEE?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "AOCE Lifts Copper Price Estimates: What a Higher Deck Means for Miners - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzJ3VlgtNlIyLUNvaXhoaEdUcW92UFNfZ1otdnY0eEpfUUM2aEZEaE5KeVNvOU9rWWF4cVF6cHVHRlQtb3NIS2stTERhZHRUc1hfMGZRTUk1NFdkSHpJWXZESkZ4VEpPYjdMT3JsSXZLQzNGOW9sTGw3dnFSY2oyeWxtZUpmd3NVajQ2SQ?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Credo: The Transformation From Copper To Optical Is A Major Opportunity Still Under-Appreciated (NASDAQ:CRDO) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcXc2bDZxaW5mQThXOW5BOEo0bWtIWVE0c0Y5YUtkbnlkMC1oMktSNFJEY2NLcUxWRzhzVHBJZjBUTmh6eHd3X3h6RnVDQ1A2akY2d3hMeEZyS3FwZ3l4RElIQXI2X3Q3QzBpb1ZBal8xS09NbHVqWnkycVNTTjdETlk0cF9tbHdIYm5INE9oaGl0dE0tbXBrbVVRcFZYeWprOGN2ckptQUVaNWhuWlBmRnBrb1liMHRESHlNWERua1BNN2lfQVJYZUJSdDRDN09I?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper gains as US jobs data offers relief on fed tightening - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81bWFnV3hHY1JKc3lGbXhGaHgyaTVYMWhaREktM0ticXhCYkprUjlCVWRuRXdIUjFLQS1RNHRSTW5LWkpnMTFsa1JkQWdMQ1hoT3ZPZE5GMkxzYkJnZGV4T0cyWmo3ZmtmVDdabXlzVHBneTdVdDhkYW1oanFMTlU?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            }
+        ]
     }
 }
