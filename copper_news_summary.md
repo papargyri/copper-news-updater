@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-07 12:33)
+
+- **[Antofagasta Copper Miners to Strike as High Prices Fan Tensions - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWdWREszR1hzZDVjNGVHOUlmQlh0ZXZRMGVENV9UcjlTb0YxemJMc0NXU1U2SVFvZFVpVTJqVjdVeXpZR1Nxd2J1Y2VsYVRFV19fMVVQMlljTVdOdFAxR3FQRVFBZW5Db3pQTEpack1zdmwxb0RrbGZweTRyM3hraURSakFDeXVTdTZJcmJ2Skp4S2gwcmdEYmJNZzZjY1doZkNRNXlaUHhKdTdMbFRnQUs5aUY?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-07 10:32*
+- **[Copper Stable as AI-Driven Tech Stock Rally Holds Near Record - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2JvcFhnSERUdWpVRnJ2VlNZd3R4cGRyT0E4amhRZjhINHZmX2Yxam5TeWpLaVFkQ2VsbElNdXA4YmRIUHZfZzRzTXlheHlTcHoyQ2Nrdm5BZUlfazhFclp4NUh0Xy15YlR2emNCeHhEWWtIYnFnZHZzNTlEVEp2ampfYk4tMmNlVWlwMTN4QWtLMXQ3VWxaWDNOVGYxeHg0cE1qWnpFcUlndUo4VFQ2VDdR?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-07 06:26*
+- **[Geology's merciless squeeze on copper - BNN Bloomberg](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUlrb2J1am9OeXR2eEdTRVV2NGQyaXppbHJ2dTRUNHVqSGFSdlQyY3M2QnFmM0dYTzZOdFRlUWhTaHc0djBNLWlyU0lScUZKR3lEQk5hTWJnM3lFQTdIbkc4RDFLRlR2LU5OTWRDRWF2LXNWcWdSVUM2STFobUg5akhsMG9ic1dkVjlDUFo3ekNhNkY2M1dGSV84amVtY185Z3c?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-10-06 19:32*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-06 12:40)
 
 - **[Copper Gains as US Jobs Data Offers Relief on Fed Tightening - bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHJ4WjNIQUVnR3lNNER0dUoybmJBb2lVVl9Zbkx2dzVsNEdrdFZUcFp2X0FPVDV3YTFoMUxXVFVvT1JnRE15UUJFNXF6aTBUOTYxMXNicnNuUU9EZkMySkdRWTlvRjV2MEcwOXFxdldaekR5enFZRkJVUjdzblJlMUd5UXJFQzBSdzFFWnhfZjYwRFRWMkRDXzVTaEJIa1JsTUpxZFNTSEttM01kb1hINg?oc=5)**
