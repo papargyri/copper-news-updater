@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-09 12:29)
+
+- **[Copper Set for Weekly Gain on China’s Return and Supply Concerns - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGJSelZ3NFZXUUd1MTFsbTJsMVpQQU5CM0R4Uzc1dHBzM1JHcUgwcy1Rei1oeTlxSWtnLXk5OUpfcnRCSV9jNW5zYWx0UlMzT1ZwZUxjbk85NHJ5M3pzWXVBVk5kMkIxaUFQa0QxRlhrdEdYZzJUeC0ya1FPeE10M054dFI1T3hsLXdwQTFZZ0hLaGExanFYN3VXMUdoYVRoNlJZOGpnd0p1QzZJdGlUWXJ0UHNGdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-09 10:54*
+- **[COMMENTARY: Weekend Reads: Brazil bulls, copper reality, China's oil shield - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ3dSWjVraENMVWY1bFR2SV81WlJzTHZZbXQ2LXZ1TnV1V1dSSXhUWjZaUEZqcVlsaWNacjdfYl9lY0VNbGtkeTZ1MUludjFHMFZsSjQ4NWdMUUQtTWNkSEphNnFuTk1xZ3RueFg2MVM3cXo0YVEza0FiUWdBWUZBblNIbG9xMllZd2VIbmRvX1J1V1F6Z2t0eUJwRHlVOW5QeTMwdDVKdVMtZEhkelZGYXhGRDZzRk1NN1N1Sk5oUGRMNzBaZm1r?oc=5)**
+  - *Source: Reuters | Date: 2026-10-09 10:49*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-08 12:43)
 
 - **[Copper Gains with Other Metals as China Returns in Positive Mood - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUd3RGg1QzhpTWwzcUg5ZVZEeDlUaldmd3NyRl83dGtSRTQ1WlJHVVVpYU53WjJEU3lyTnBuT2xsQVVBYkNOQXllQTBWNk85cjFPdjlpTWRFTjB4cUROcW91TzJNZkpCNWpaNlVpUnpaRHdPaGJINW1hcmFSZWkzMWN1X2MyazNzV0Q3ZVZTazhocXo2NVVpdERGY2p0Z1FPbUN0SkJmQ1BKUnhNTGo0UjJZRmFSdw?oc=5)**
