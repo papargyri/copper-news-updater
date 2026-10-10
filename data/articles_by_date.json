@@ -26270,5 +26270,108 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-10": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 16,
+        "articles": [
+            {
+                "title": "Southern Copper (SCCO) Could Be 22% Overvalued As Its Project Pipeline Gets Priced In - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVzVTVXlYQm1fbVgyMmI3bTVRblZqUzMzMjdoS3VwYkNsZTJXZDlINElCVFhZUUFxNDV1ZkhkaFJ0R2VlOGk5aFpPQkotenFEcDdJdlBlM1pFc01va0VZblRMZHdaRVpBR251N1dObkxjZEdXa1gxUEV2V0o2Zmg3RTVPS29Xdkc5MHBGTGZZb2JWTlhUcnFtVDh3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Is Jiangxi Copper (SEHK:358) Undervalued Following Its New Three Year JCC Group Deal? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzk5aVNNaDhsaGl1cGhBTEF6TEVvaDJyVmxEMFBUOFZENW1iejhPYlJSMEFiZnFNdTNFVnNYVTNIbURtMUhZTTl4WU1rYTVFdkVqUlBEaUlBLWRqNkRnOFhNUHRqWVFCT2FfM3pOUGdYOGhvb3Q0Wlp2MUhiS3NLT05YZ1duNjdkd25hQU5sTW9MYzdOQjE0dzkwbW1wSE1NS0E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Adamera Expands Max IP Anomaly to 3 km at South Hedley Near Hudbay's Copper Mountain - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcFpweTNyZkhidjhhbmt5aWhSVUlhYXd6a0tIWVFxQlNzRE94N21uZWlYUnI4cEZQZFlnYk5DeFFYTWYzSzlfcExQOHlkNXBnMTZVbTRacXJQZEFtT2g0VzZzRnFEMV9hbHdBSWp6U0xadjZISXlieW1PZTVoUUd5RjF2LWtKRjI5OEdjb0dCT3MwOEhTT1Z2SkVlY0VnWGlQVFpoR0lWeGFKenh5SE13VGx1cEJYd2xyYVFiQlZQMkJneUpIQ1pla3JfTmFKalNBM0pkRGpjdkg?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price clinches weekly gain as Chinese demand signals strengthen - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTdrQW5JT09Eck1pYVo4eTRJTzZyc3VKMHc0dDAtZWx4eFkzNl9NNGpSVVFvaURkempqajJkRTNGNFV1NGR3bDJNaG5nTHZyY21GamlWeVNJOFNzdVZwSmh3YXlkdTRNV195QllTdFlJYnhTeGh6bTZKZXlrV1diQnM0RnZvZmpVb0lHby1wRWpvX0plQWphZHNtaUdBX0E?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price heads for a weekly gain on mine supply risks, China demand - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmJuU1ZmN0k2UHNzZmY4MUZXZ1RwSXdpNHJuT2ViT3k4aEhHanNaeVBMd3ViZk4yMDA0Nnh4Tk1POUdXVmMwNFV5S1ZrYXg0VDJzb0tPUHZObmNXREJmYlZJcS1abmJBXzFGbExZTFR6czJGU0FuN3Z3a2V2Vzc2TnFKa1FUQi14ZGZOZl9OVVFkeXF1QkZydA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper output from Codelco up nearly 9% in August - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uOTlGTUVpSlZ2VzBSUnRDRnJqSTczbzdmX3VRalNjd3h2Tk01YzlYLWJsNFhqeTZ6M29TdGoyaEYwWjZ4Z3Y0QVFOTUFpckhCbDYwN2JRQlk1aWZRMEdWM0k0ZTcyR01kcW0xMFhDNGUtdkhOZVlSSWI4dw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Qu\u00e9bec Explorer Gains 14% on Earn-In Option for James Bay Copper-Gold Project - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOazNqM05WRUM2bTY3V1lYejJOa1FWZDBxSTNScXozVzlLTVk1NTlPMzBSd0NjSFhkTDlvN1Z4Y3ZuOHM1ZlhNdDFwZEI0Sl9uYXdtcHl4b1BfWlU0WlZJbHI2NTdTVnVHdHBrdHJsS0ZMc2ZLQWtMZDNMbVM5ejJia2UxbTZGVFJjZDNDbGV6djF2U0QxU0g1TGMtUV9RcnR0aHJOSUgzYVI4cXlaNXJvVng5T2lnc1ZFNy1TSWZmZ0IwdlFpckxzRXQ4aWJHdk52LWRPZGhNOVZjV09Xb3JvX0RkUzNSZXRobXc1dFNEOExJTXc?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta miners escalate copper strike with hunger protest - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemxpcU5FOFphZlpuSHdNUTItMXV6eTNsTWZidmQ0ekwwcFg3dlJnTFZOUkFFR1gyZlJvSjBqbXJncnJXNWdLRkYtSm1TY0tWR3dWTEhoS0NiOXdEX2xKdHB2ZlpYTF9DcHpLWHFGblhlblpvbEg4Yzd4NjBOXzJiNmRGaTVENkd1Q0NrYWVWNGNxNVU?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Video - CEO Clips: Coyote Copper: Exploring for a Major Copper Discovery in Arizona's Copper Triangle - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjFWc2ZxdEpkVDkwSm9iYWRkb3B2Ty15SnU0Y1MzYWc0YXo4NFhDV0NLV3dRZGoxaERpb213ZmZYVW5GanFKS3dtclNybDVvbVp2M2NnSFlZMkhiZnJtaFEzM1dsTjY5NzUwa0xDMUREMmxwMGhqRTJZTjQ3Z2VsdzNKb2VrWl9Ock84MVV2ZXlBTk1mQnNHTVhxWWNWSEF0?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Hot Chili drills shallow copper, gold at Chile discovery - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHdWb1RUX0U3MVFLOW9BWFVFVUhwRnBfalNHU2ZfTHQ5aFNGR2NCZzlaemVURW5IVV8xQmg5V3ZXUXcxa0FBYWhUcUh2R0o5YlgtSjZseWZrNWtoemdvUVdEUXBoSlNnTTJPWWJkLTVYM0hXVkRsX3hWVk8xdUZyS001Qjk0azhxWHJqa1dJaTEwMmFMR2Vkakh5SGU1QjU1?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            },
+            {
+                "title": "India gold demand slows as prices rebound; China emerges from holiday lull - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXRQVWQ5U2F2UXlnaWg4ejcxSXhEekVzZGx5UE9QQWo2cWdJWVJwVlBGY2pGQ1FqR2pnQlRDSkV4LXdIZTl6UWpBSWNWRHdkNFhNRXNVMktKTzZqblF3RHl5anUxMl9UczZwUUxCbC1sZ2xtU0hiT2tTLW5QWUZfeHkzSFp4RmljUllkZk5yLVN4b2hXazJxV3VNM3hsYUhZNHNB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Record Copper Prices Squeeze Friction Materials, Rimsa Says - The BRAKE Report",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ra3RxcmlZQU12SE9UdWtCeUJBbDJjSFRRa1RQR044UFIwVTNXM2RRZFVYZWFYVklrN3VaSjlmZlRva0VVbkszOFc2aWxhaWZNQmtSczVBNFJueHR4d0FJTnV0Ni1la3pVUUVNQ3NHYzZpakdk?oc=5",
+                "source": "The BRAKE Report",
+                "is_premium": false
+            },
+            {
+                "title": "EU puts KGHM\u2019s $2.4B copper projects on fast track - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xdS1aNkdoYllFZ1l3dTNJU1NYZF8zXzZCa3JMbDhqZmJhUzd3TzVhb0xhSllTQlEyNlRNbFRDX2k1RVQ3LXdOM2VSeHJLWG5MQ002b0k5aHA3V2NQT3UyanBITV91VDB5NTRuTmdCWUxBZ1JaaEROdUUycmM?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "NeoTerrex Executes Definitive Agreement to Acquire 100% of Reservoir Copper-Gold-Silver-Tungsten Project in Qu\u00e9bec - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNE82QUhyTllibXZyWXN3MnUwWnBUM3JMRGtyaGJISHFNODNwNmpuWGJaeFJqeUdDOHFQMl9WeU0tOXFxNUgtbTBval9WUmxSRE9zT1FGTWRkYVh2NlpBZnJEMzk2SXdFYnR2U2RnX2llMklVM0l1RHZoOFVTOF9ObEdxNUpLRXliRFh5U1JPejlQeGtneVQ0UHRhSXQ4cGdfaC1UUTFXQWF5TmJKSjljeUp4RFk3TXZm?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "2 Copper Stocks to Buy and Hold as the Market Tightens - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbFMxNExoT19ZTG5ISkdHSEo5YnN0UUI1bjRLVFIzZGVpTERoc3ZMQVR1bVZnRUFsdzR0THhwWHNkWi1TbnRtRTRqaWZWZHh0NlU2Tzg2UnJOMTk3Y0E0LWZaenhYTFpHTmEyZDUxV3pIU2hNTWRpYkF1TVZsVV9ZcXNKNmhCRGVIcE8zajJFOE5mdGlZNllRVVZ4UnljR3NtZmp2WXVhaUFMbkU1MEpkUDZ3TGs1aDFGU0R6VVZnTVRsakpyZ2k3TlVMLTcwQzYxeUlxcUdzSF8?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Deutsche Bank\u2019s top picks in mining as copper market faces potential squeeze - Yahoo Finance Australia",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2RpQVdMbXlHUlVXa1VyMjBhWE9nMWp5WWljdVhKNzI4eFVqU1VJd3ZFODJHMTVZS3JneFZUODROZkF6ZXNndmFUSWQ2ZkUzR0ZySnFtRTVwcm1jNWFGWl91dWRMQzUzUnhCemh1MXNXSTFISm9OU3RhLTUyMlNaQWVrbzJxdw?oc=5",
+                "source": "Yahoo Finance Australia",
+                "is_premium": false
+            }
+        ]
     }
 }
