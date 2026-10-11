@@ -26373,5 +26373,42 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-11": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 5,
+        "articles": [
+            {
+                "title": "Rise in copper prices jolts Coimbatore MSMEs, orders hit - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmV2SHpKQjlSMzBtQnI4cDZkN3pSaEppRV9SRFlRckJFcjJpekxHbl8wcXRDTzdTbDZqUnVOTFBSbGg1RkNmX3BZN3RINXdSdHZlUUVkYlRvU3hWYWNRV1NCb0ZIbU1Sb1dFWmtFQjAzMVllSFc2RHhOYUJPMzQwbEVHTk5FUE1zaFljdUZnbTRtOFBVVHhQX3NnYU5Cci10eEQ4RGEyZzY0Z0VlbzNvWnllX0l5Y1F4LTNyTm9xeC1PM24zcGc5Y2FBU25WUdIB0wFBVV95cUxNdi1OcFdrUEMxUmZoZzdJVXlKQjhZUHp0WGZuRHlObWZIT2tiUEV1dHlBSktySHNCOGowOU1KVlkwS1ZfN1czdlB5VURzb1FwOUdZaDc4dVUwTEktSW1ZeDdmQ1ZFMXNyLW12RnlTMEpDTDBCZHUtMGxGbUQyMmVZcVJnM3ZBOU1ZT1NRU19JdGsyRnhrMGZuRnhYTlRTdy1xRFBNRDBZWVVFczlncWc5YVgtNzJSanVzZmhERXN2LWVMQ2ExeU5jUUc5QkYtYjJWQ1J3?oc=5",
+                "source": "The Times of India",
+                "is_premium": false
+            },
+            {
+                "title": "UBS Expects Copper Market Shortfall to Increase in 2027, Forecasts $15,500 Price - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVo0eXJrS01GdWZRdW1TSG43YkFxN3k5Z1E2QlZBQkFnOEFoc1gxYXQtY2tPckVZcUg4dXktekVxYXV6MGxWNmlfX2w5dEFwYldSOW9hNGF6LXExR3dCM0tRU3FncGdSakE2aVNPdGdCZVZvZTRzb3BWM2sxNFMtTWp5TEZjSjZrVFg5aA?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzhUdjFENWtjRERCaWZRRFhTQ292b3lTZTJ0NXZrM1JBcllyb1ZDaHVVcFp1ZkpEWEs0c2gwNmdsRGdqMkt0b3FqZDEtN2VzNDhXT1lYRUlHeFkyVjNRc2RkZVh3TEIwOGlpRUtvRXFUVDJsNDJ0R19BWlhOOEpqbmxuZzBSSkd6ekpycjdXeENYOW9EVUpJVDJfcWN5Q3VkVWtYTXo5VWk?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "What Does Copper Intelligence (CUAI) Gain From Its New DRC Tailings Venture? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTllKcTdYT2h4Y2I3VGVXQlVmNGRkSUhtNTc4T3dnNVpZRTNNUE90NWdQRUJaYWFiRmVZS3IzZVN1VXdBNGZFTVdqNTF6UTdZRktSdUhETzhISHNmWFJ6NWQyTkZxYWN5czRVbzRLNVFGXzhTWjB1LU1tbGN0UnRuOGlRYlhHR25nTDBPU25sWEoyd3NoTmxNejJ1MmZrRHNhRWxWSGxpYw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "RBC sees copper equities as undervalued despite record prices - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGx5aXdRVEFLN3VWZ1NzNmtPb1lBdVdMeUVFZzBqRGtIQmU1VEpyVDlmRWJ2aVBQZlFYQzFVUDI5bG5nSF9FM29ueUhQWlBIcTJxVS1zOFZTVHpCc2s2cXFtNDFkQVVPSjNSTTZKWnJoeTRpWlVjVk5YdVlKX1BlZzJYNkFiRVBja1E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
