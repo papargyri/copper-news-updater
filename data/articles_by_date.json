@@ -26410,5 +26410,72 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-12": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "Transformers could become UK\u2019s next grid bottleneck - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QSnRXdU15ZldGbFU1OE4wVGs0R0xSbnpyd3M4T18zRjhvV01IY1kxcGdvdWdqNjRSbEp0UEJKWUZnaER6V3VaWGFGX1RsYXBacmlsWV9RNUllZVY3NlV0OC1yRlBkUkZWYnVtZkpMVWpjYXBscHJySE03bWpSUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Cooper scoops up new copper acquisition, expands Philippine footprint - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEJGWXMzR041Q1BzZjlCaDJ0Vm1BSUpfUkl1RVF2VjRjWTE0SXBPSzJaSnBFZ29TV0d6NGh4VHMtSFh2NHphMlQ4emtqbHV6N25LaVBvZ2gwaFNFSERBMWRWdEJCLXpQZEl5OUZ0SGdWVkdJNFQ3S21XVTZsemQ0Y2ZRQTBuSEtfdC1NajdMZ25jdHhZSWc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "COMMENTARY: US has built a strategic copper reserve. Now can it keep it? - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzA2M2pxajE0NjNnQ1hIM3A0Z0hGdjMzWTZuTjZuVHN1UlE4Q2VUcUR2NUkzWFNDTGVBbUZwVm9aT2VzRmtIN011U2ZlQ29INnNNLTctV2NlR2lRWk9BeWx3TXZSbjlNYVFNaUtWSDBuTDV2WGFqUU5hOWlBQkpTanRPQnFkaWdiZElNUzc5TFIxSXZzQnl4TzZOTFNITE9ubHJCWS1mcDNfQjI0d0FjMHRQN2Jkenc4M3pKWWlsNVJQZUE?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Mudslide hits Codelco\u2019s El Teniente copper mine - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Hc0JLUnQ5Zk5fTU5SZEFYckhPWG9WX3ZDck1JUUc3dTZSSUdzQW42WGRyVEp2MnFwVEFKVkRrZTA3OFFrZF9tYTU0WFFLaVUxM1VGMkhTZFlwVWRwWUZxTHhoR3lZTVhtRHl2Y25uWDljOFRDcXN3Zw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "QMines strikes copper discovery outside of Mt Chalmers resource - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGFTSzJFZnZpbjVQa1d1WEpGakVaYnYzWUhUX2RwazB3QU5GZXpjYnh2ZG9iMDRUUjlhNGpxLXJEMk02b3E5SUE3Vkhac0FWOVhIWGJiYUN2V1hIRW1FcE1qLTVXdWFROHBCOGFKQWxabU02eGVoRVdhZ0Uyc3F0QXpfS25scDgtUU93MkFFTQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Better copper, not more copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TWFlmdEJIcXotMC1NVXotendZazM4ajlhVVBwRkdXdGxnQWc2bVFZVy0wbUozUVE1SmRURmh3emxXY0pCcGNjdGs0eGV4MDVza1Itd1BNdVhpSlFKS1hHdGV3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Cobre gains control over Chilean copper project for $17 million - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1ZnWWNPcEZ1RjN4bG9FY3JxaTJoTlhmSms3LUdnOEQzSGFFYmlTNkdkU0JWSWwyLWdPWlI5NGRlTXhUMTVUUXlPdGpFN3dzLXRFdU0zcmFFdFJtNGxFYlhYOTdPQlhKRjg4MkZsT2ZWQ1gtVm5vWm1Od09fQlllU0pOM0xKRmdmY04yc25n?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Centinela copper mine, unions to resume talks Tuesday amid strike - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1ZhMEJpZTFENTR4ajlOczZ2MERDWWRCcnpZbHBQZE9yaHZyNUx5MW03UzF5aUs3WElqc0xCbHVZZTNCdGVlejVKVWlLQVYyYW1YRTNhbWZJeW5QYmZsNWpDZ0hjV2FPWkNGVDA1akY2RTYtU1VFdFp4ODFoejQtUTRoWWctVTFGU0EyMHRHQnpsTXdYVElN?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Could Buying Freeport-McMoRan (FCX) Stock Today Set You Up for Life? - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbUJqbVhndGtVTkh6QlM2bjBEcWRZYTl5cS1xZ2ZHb01aZlZvV3M0WVVLbzJKcVd3SkZaV3BQZTlZUWNaLWU2Q3pBWWlLYUkzdllmSFpkaEtKbnNncmI2ZmFjaENoWjA2R0MzZmxTd2d6Vlowb1FsQjRVM3ZxZl9IS1lMeXFwd0RMWjFyQW5VR3dZanFJXzZheG45aVBqbHMwNXVhSEdmMWVFLXRNV3VEMWhidVF3enc1S05FamJtZ3JDWTZxaGtMdkloTnB2azJjVGJGaGt1WWh1UnVl?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Gold, Silver, Copper and Critical Minerals Companies Present at the Precious Metals & Critical Minerals Virtual Investor Conference, October 13 to 15 - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1R6RDRqYXRwUFlZOVhkQ0pFXzc2Y18waDI0ZFdyQThZbWVuZTdGellPMXh1UXFhZkVDcFZfMnlEczZST3VNanJlX3c0RTFxVWQ5R1dvQ0N3WG0yS2g4MUp4SVVpXzVreU11Z1h1TTNidXAtdG9VNWw0d1g3aTZkQlZjMU42aTdGOW5FNHFfWHA1SXFHLVVfQXJrOEdLTTN4YnJIbGt0Uklidw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
