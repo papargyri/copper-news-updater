@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-13 13:26)
+
+- **[This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation? - The New York Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHhYMWVsNm5jSTVGWGZTeVdOODhFOG8wSHYtNFNuOGpBZ2xsT2hlLW1TYjFoZmEyc3MtT3dhNmpaUHhQTEI1UnRnaEtFVEZUYjVKTmg4Y1pUWkUydEk0aEZ0N2V3T0ZOUmdoT09MdzA2YmFpQXRWN2NwbjB1a3FwV0V0eXptQno4X3ZMTXd0YTlhVkdsMUVzcHc2UTk2ZXRwUG96UzVR?oc=5)**
+  - *Source: The New York Times | Date: 2026-10-13 06:19*
+- **[Codelco Races to Rescue Workers After Accident at Chilean Mine - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWVRdWk4aVd6ZWZhS0gyNmpOb19QZjBSOTA4MEk1cGVJVG5oVHRFbDRYLWNlRWJ4cGg4Y2I5OHUzYUwxV3htRUtPd0tLb2x3Y3h5MTdpX0JIQ3BYczZ6YmY1V1pkaEZ0NG42Y3RYUnZUek1nU1VCczU0cFlGNHZkNmpCUzZIMnBZQVlna1NiZkZCV2VBQzlXQi1NNS12VHNqY0x4VnVOdFJZZmxncUpSeVRKdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-12 13:35*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-12 14:16)
 
 - **[COMMENTARY: US has built a strategic copper reserve. Now can it keep it? - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzA2M2pxajE0NjNnQ1hIM3A0Z0hGdjMzWTZuTjZuVHN1UlE4Q2VUcUR2NUkzWFNDTGVBbUZwVm9aT2VzRmtIN011U2ZlQ29INnNNLTctV2NlR2lRWk9BeWx3TXZSbjlNYVFNaUtWSDBuTDV2WGFqUU5hOWlBQkpTanRPQnFkaWdiZElNUzc5TFIxSXZzQnl4TzZOTFNITE9ubHJCWS1mcDNfQjI0d0FjMHRQN2Jkenc4M3pKWWlsNVJQZUE?oc=5)**
