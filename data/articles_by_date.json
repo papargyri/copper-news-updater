@@ -26592,5 +26592,114 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-10-14": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 17,
+        "articles": [
+            {
+                "title": "Tudor Gold Expands Treaty Creek's Perfectstorm Zone Copper-Gold Porphyry System, Further Defines Higher-Grade Epithermal Overprint and Updates Status of PEA - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQWmQxLXJrS0dtQ09pdkRKNnpHTVlQM0FpeWt4RUotT19qTzRNcHZPcGVlRTNqMjEyU1JKUTN6S2ZZbzFrU2xJZUZfRTZjYVc4WkgzMVhaTlBfbFhUckZjYWZOdUFmdEoybHg3OWNTd1lVdTRhVkZaTUgzZFlpSzF6U2hoMzN6VTRkUzhfVHJwR20ybVdHZ1QtcEJGWGdjTHYtbVRpT0o3N2s0b2gyUHJQSkRFVDlKQlBWVXdjWnZUWTRNY3NSQkgxbmtIWG9kX1gtNm5WX3l1enhhNGRXTFdETkdnQndIZjUwcUUycXBjSkdmRGRHLXNETmppVnlXT3VnVEw4d2ZTcWlkeE54QVE0N3lQdXluaFVCaHZiQVlFQTZPanlzVVlhenk5OXo0VnJwRkNFN1dRVzAwODNrdjZiTjRaSWN3WkJEMUhzVURwUVJZVGZHUnJZ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Correction to rationale for copper EQ cathode premium, cif Shanghai assessment on September 29 and October 9: pricing notice - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYi00aEFiYXNYclNHUmYxLURpT1dpYTZjbUViQnZlak1FVVZGcWtVVnBvZlFRa1RzYTJDeE1DdEhLSGEtOWVWbzFpRU9yNkkyS3RKYllzREQ3YTFWaGZKd1N6bm5sb3Z0cTl6dkxCaHNlS094R0MxbHF4UVNyWnU0YmMxeXU5M0RFSC04TWRwV1VtNFlPOGsyTHZCSXI1cFJkMUdxcFY0d1IzenZjSVdDYmtCY2tVenFhbDlDZGxMenlaeHdDd0RVOUw4XzNwWXlxVEFUbnMzVFJ6M0E2UVI2MkRFUUVlam42V3JRZUxVQW0wdw?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Australian Gold and Copper goes two-for-two in Cobar - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalYxUE5NMnhNaktJUXp3d2JSLVRzTUlOZmdwQm93Rm94NXVvX2RFNTlkV2VIZlp1WmVzb3BpQmZONDNvVnJZNWlhQkZKZWJxQU5vT1p6TjhTajZxbjhPQVVEMkpBN2dtWENuVEZNNFJqbGJseXUydnQzMjBvVGtTdQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "LinQ Minerals\u2019 Gilmore gold-copper story is heating up - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3liTVNSNEFVX3R1YnBRTlhkazFDUERXRXdsWDVXdGZxQ0lYaEg2cUx3akkyOGhOY1V1dms2bGgxSXVUeEU3aUkxYUhiQzdGSElRajE2NGwxWW5wRkcwWnpnWU1TNWtYYUtkYzZrZTZPdXpqaWREOU83QXFSOUFGcFhn?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "BHP's Escondida, supervisors hold talks in bid to avert strike - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlNvOWdKZnIwdVZkbF91Ymk3ci15elRDY1NtREk3UEc1anQyU2lOOC10ZXZkV3V6U2NRZTJUakJZZ1lpa1B5cjF4OVllV2p5U2Y2Yy02Y0M3U01MTUxzZEFGT0hCczg1WTVWR3NjOVptWWU5eE4yOTJDaE5ySl9MUkd4dVItbVdIMUpENGNqeHozd1ByR3NxaGRVdHJaVVNIMTZlMy1tWDJVeWFI?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore shares trade higher on ASX debut as investors eye copper - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN29kWWltaGRNVW1TSklla0ZLRGJsV3JYaHZmTGlUY1dIemxBTFJrbkx6b3hDcmd2bGpxWk5tbnZSS091ZHJETzBSa0dSLTRNdlY1bGkwZEpyeEFnRGl1QW1RTXlieFJYV240NVlvTzNIVlRtblFyODJjRWlsQ01IMmZCUHZpZlc4TWV1M19WZmNlZWt5N2FkX3dVTTU2VUpGY2tXZ180NUNFdWpORFY2OGVqZw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Erdene to Announce Zuun Mod Molybdenum-Copper Project Preliminary Economic Assessment Results on October 14, 2026 - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbXlaanBTRUt4R295aEFFSW10eTNDaGZzZTd4MFYzY2k2SWRjRFJLcWd5eDNMdnB0RTFDcHFGYWs5QkZOeGloV3ltZ2pwT3hvTVpSbF9qd3pfQmdpdmJOTXM4MDlNY2doc0RlZUppem1IaFQ0TlpwVzVHUXZIbkxSOVZMZHl5Tmk5cm1lblBfUnRMT2w1WjhqRFNHTWxmMGtCbWsyVmNZaWU2YjlxVWdtb2ctalRGUkY2YjlxdVhUNU1mamkyNENDVGsxLWhqUkpBUUlrTlZ4WW11NWh4ZmJBY0EwU21qREFtTllpSjg3YUZKXzkwWmwzTVVKR0x5Z1lBbFlXYndOUmprS2NQeVZOcWpvY05SN0hnVkZQVjZoTFhEQ18z?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "World\u2019s top copper mine in final bid to avert strike as prices rally - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3BaUG12SHJCdGJXNVBKUkNUZDZJbzhDWGxIcDI1Z2ZnY1UzcjhsdEdVM3l6YUo2NG1TQzhnVEkwRG1ZSHhyOHBWVThBZmN6WmhCeW5iSHJkam5kZnU1am05OGhEdFJZcnhaRlJHNVV0TFN4TFQ4blZrUGNCTE9rS3VBVmFnQkxjYjRESHFrejdqa05pcXNqUEpvbw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Glencore shares to start trading in Australia as miner hopes to boost valuation - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXAyUmhCRmw5OFVKYkFqYkFDYXJfZkU3dEI1azl3N2U1VVVNMXRjWUFHeG9Uby14UEVlbWR6TEFtMk4yR1ZBYUtad09aaDh6ZWlYT01CWXotcFNKRmZ1d3Q1MlF3LVZaTkE4MGRMV3FNTzBPRnRIQnA3QmN0RjQ4NlJIODQ5Q2VLQnVyaVh3QlpFRGhqTlRvRUtCdlZrS2JyR2oyWG1hLVNmbjQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Price Could Hit Record High as Economic Indicators Turn Bullish - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0hoVV82Um5YT0pwWkU5eTFCbWFub1ZIQWVLT2p3N3daZEpxNm9LbVdXMHpPWkJMLXlROVhQdUhzd0l3dkxELXZGajZtcFY2R2t5bC05dzJrQ3ZLWTlSY3N1bWdDYnh2d3ZJRlIwOFdrR2M5bkhOQ1JXbHRyNFZLVVlRVVlsLVFjWUYxaFJjaXYwX0VKdFNBUEl2QjNLVXMt?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Australia's copper mines boom while coal struggles - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWFRblJQYkR5LWx6VE5wc1N1bEtIVG02cmU1SUNha1pXRUJZQmRsX3VraXBqVUZSbWRXTDNrSXE5VVpWZ29Xb3IzSzJqb2tlZ1BtU3kzTk11MkR1Z0ZkS1VUZkktWVhfZmVMUVpWV2JJRVo0Zm9qUFh3MEdzXzltSk9ZX1BJT1NyUmxVeW1aQTFrc1pyYlJucU4xOU81SF9sSHpDTllB?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "Striking unions and Centinela copper mine restart negotiations - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOURMcTFVMThwbjJXTE1pMnl6YnQwV2NNckJpWkY1SlFmRVpRVjhnUjN0Vmh0ejBybEZDVWRydlQzODBveXFwN2MyZ05hVHNmUkFuc1QyMlk1anlLRzBTNzVrNENjOWx5TkhEQTZlZU8yQ2hUN0ttcDJBcXctSVdMOF80YTQtbWVHTnhVWkZibU1tRDlLdVE0aURrelBiS1lJWVdaSUlMak0xMEcxd2FvaVFUYWFzd2J5?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "South America\u2019s copper boom faces a $170B reality check - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmpkOGppWHJSU2RQT09vdHA3T0xic3o3b0hWZjc1UG1yVWhIZlFxaXlqVkpiWjl1TmNqOWJMNUdDODR1cERrVVppUEI4WVdlck9KVmc1WDVOM2xjWnh1TjQ5dW5XV1ZaejctY05XVTFsc3R3TFJOX0dwS2l2WlFPT3hXdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "World\u2019s Top Copper Mine in Final Bid to Avert Strike as Prices Rally - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNCbDJYbFlQbDBKV0c2Znh2T3U2WEN6Vmt1bDdQbnhLWnc2VVZXek9qM0FDX3pWM3JZb3F0WXVjU29BM01lSUpERDNLeEczajJjNTh2REI5YU95ZWpwMGlTYVA2eHFnel9zTS0zNlAyUlA2a2FvLXFST3JubmozY085UHdvRTNuUUFMU3R5LXFTeHVDdmVRelZtT25Cb1VpQWpoUlo5aDY3WXBOcU5ITG43Tnk1X0xXakE?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "BC-Copper Futures - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEp2VmhyVl9jTFk4ejVlRVF1c1RnVFRNSXZKSjFrX1NNNVNxMjlIVVF6TDEtNnVKM3dFUVlnZmRjVmdOcG9mOTVfVHpnQTVMbmlCRFZpcWlYWWFZSTNLNnUyVDdqMUhvZTBYVDhYTjczdloyOV9XVVJqN0xEQmkwVy1VYVN3TnNOdXRnczZsR3I?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Op-Ed: AI will not just add copper demand. It could change who sets the price - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX1h6ZXZCaFl0dW5iUkM2ZkJrQkJmbm43eE50V0dFMHJjY0NWcEJiYkthX3dwZ3dJdlM3ZGpQMUxaLUhIdVgxUmVOVFlyZ2RRRzdRTGgwVFc1Q0p5UEpDU2VUUFB2S1MweGFmbHB5alBMTDdjX2F0NzJmOGFLVzJ1RGpuMWZndmJRR0dYZFpLTEwyYkc4d1hxQmlLOGJudllX?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile copper supply under pressure as disruptions mount - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2xTbWxfeWRrMG5tMk9MdUQ5RzlJYzB3VTFLWUZ3emNJeVh4SW11LUJtejJLa2NFMUJEUXRONTZQUFotaDhqZVJ6d0VOZWJ3ZzlBWjN6RnMwb0JEQWpyS21kajU0bUlhOWRpRVFsZEppQXJrSDNLMWg2dld3WmVCN29SWHA0UQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

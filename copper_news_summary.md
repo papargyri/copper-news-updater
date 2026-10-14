@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-14 11:04)
+
+- **[Striking unions and Centinela copper mine restart negotiations - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOURMcTFVMThwbjJXTE1pMnl6YnQwV2NNckJpWkY1SlFmRVpRVjhnUjN0Vmh0ejBybEZDVWRydlQzODBveXFwN2MyZ05hVHNmUkFuc1QyMlk1anlLRzBTNzVrNENjOWx5TkhEQTZlZU8yQ2hUN0ttcDJBcXctSVdMOF80YTQtbWVHTnhVWkZibU1tRDlLdVE0aURrelBiS1lJWVdaSUlMak0xMEcxd2FvaVFUYWFzd2J5?oc=5)**
+  - *Source: Reuters | Date: 2026-10-13 15:31*
+- **[World’s Top Copper Mine in Final Bid to Avert Strike as Prices Rally - Bloomberg.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNCbDJYbFlQbDBKV0c2Znh2T3U2WEN6Vmt1bDdQbnhLWnc2VVZXek9qM0FDX3pWM3JZb3F0WXVjU29BM01lSUpERDNLeEczajJjNTh2REI5YU95ZWpwMGlTYVA2eHFnel9zTS0zNlAyUlA2a2FvLXFST3JubmozY085UHdvRTNuUUFMU3R5LXFTeHVDdmVRelZtT25Cb1VpQWpoUlo5aDY3WXBOcU5ITG43Tnk1X0xXakE?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-13 14:13*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-13 13:26)
 
 - **[This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation? - The New York Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHhYMWVsNm5jSTVGWGZTeVdOODhFOG8wSHYtNFNuOGpBZ2xsT2hlLW1TYjFoZmEyc3MtT3dhNmpaUHhQTEI1UnRnaEtFVEZUYjVKTmg4Y1pUWkUydEk0aEZ0N2V3T0ZOUmdoT09MdzA2YmFpQXRWN2NwbjB1a3FwV0V0eXptQno4X3ZMTXd0YTlhVkdsMUVzcHc2UTk2ZXRwUG96UzVR?oc=5)**
