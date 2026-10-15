@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-15 10:46)
+
+- **[Copper Falls for Third Day as Strong US Inflation Spurs Selloff - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0psUFhiRzE0dTRhNF9VT09tUG9BWmw2QUxYOWE1Qy1aUURTTVBrRHpHVFAzRDNyLVdqV0ZfaUEzdXRYMDBGWnNHTzlkVzhJYUw3NWJTcHY3dUl5MDRlcGNNSVRDQnZFZ1N3QUJnRFhqUTAyei1aRzBxU3dIZm1QbFRWVjFoMDFsSVBQa01DR1JadUxXUk9XZzFqbTNwSXRIRExpeTk0R0hVUzVCckF3U1UzcWQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-15 07:00*
+- **[Trump tariff threat built a US copper mountain, but the effects are fading - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3gxd3YzdVNNTjE2dnBDNTRBcTMwSkw4U0Z4R3pybkdaVHlILVBYUllUdVNWLXBVbGJLaHNmU2NkSzVWZTh4UHBWM3FwQlh6MFdmMnhoZE5CWU1sT0xfSUFramVfaVpoaTBUdTdrSGFJb3gxWENXZHhORnJiXzlWOUJldFBhVEJCM09SYTNSTWV6ZUtqREtmSGtuVnNHOHljRzZzVWQ5YmduV05zVnM5bDNKVTJ0Z3Zxa1E?oc=5)**
+  - *Source: Reuters | Date: 2026-10-14 17:32*
+- **[Zambia Says Some Copper Sales to China to Be Settled in Renminbi - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRm1ZZTZ3emlBa3lSOFNJSE5mYWxvSFFXUlpXZW9pYkItbTEyNXZiRzlkSXo1aU1TY1NBVTRGVnA0b2tJVjVNaDZxelNmdzBlUjFhMy1vbmRlX3UtQXdBOTY4VHVkVlJuandxNTRYRFZfTzFBelQwb2dxV05nT1BkRzB0bFFiTmZ0MUhBaXoxbGJheDA2RnZqa3oxaFJ0bjNJQ29ZQUdEUDloQVhOU19lNUVWVThCQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-14 13:58*
+- **[Glencore shares trade higher on ASX debut as investors eye copper - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVhtZl83eG5iYkR5elJTMndCWlB2UDBhZEdSTTlUSFlNTUhncmZscUtsUE5qbmt6NVJQZWZkb084dFNWWk9ocENKMzZXWHV5LTJfQXh3YmRGUGxFdTJqX3ZQdXZJNk1hSTFBMC1JSEhvNFZKbElVTGVqQkJINTJMVmdUSzY0ck94cldGNXFnVlBvcHliaUdGdmVmc2U5TS1zXzlnQW5pTEFfOFMtOUlvd1A2M2w4UGJSQkJNRzJZRXppZjEwOG1z?oc=5)**
+  - *Source: Reuters | Date: 2026-10-13 20:05*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-14 11:04)
 
 - **[Striking unions and Centinela copper mine restart negotiations - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOURMcTFVMThwbjJXTE1pMnl6YnQwV2NNckJpWkY1SlFmRVpRVjhnUjN0Vmh0ejBybEZDVWRydlQzODBveXFwN2MyZ05hVHNmUkFuc1QyMlk1anlLRzBTNzVrNENjOWx5TkhEQTZlZU8yQ2hUN0ttcDJBcXctSVdMOF80YTQtbWVHTnhVWkZibU1tRDlLdVE0aURrelBiS1lJWVdaSUlMak0xMEcxd2FvaVFUYWFzd2J5?oc=5)**
