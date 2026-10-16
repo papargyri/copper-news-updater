@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-16 10:34)
+
+- **[Austrian investor rushes to boost copper production at old Chile mine - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSm9ya250OUF2VWo2QzNYMDB2MjJjb0dMS1Vhc0pIMndnUTY4bnE2MDVnNkRDWjhhVnk2eDZCWVluOEdPanlGUjZ4ekc2RjRkY2NHdXdVYWtPUFowYk5henNCLU9KWjdhZHVSZmtGdS1kVWpPS3BQelNMWGdoZldXMVYwUFJ5eUlta0NMY2ZfME1oV0JTY1lXX2ZGdFBGN0t6cXVyMjNPa2hiZFE0TVBFMFMta2NOQQ?oc=5)**
+  - *Source: Reuters | Date: 2026-10-16 10:20*
+- **[Copper squeeze breathes new life into old mines - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3ZjZklOZ181Qkx2WmlyNG5LSFZoZ01DdHE3NlVzYjlibTVYeHNWVkJVNHhUSnZEMTRIa2JHVExCMlFLSDFoY09hZVpTbWlYSnZwS3IxdV9MYmN0MnFZQUxXRVZia3lORkh1VTJLbjdIcDRablNFU01KQkNYa252Tmg0Q3hQVU0xWWNheVU4UEhTWGVtR1N1V0FnUWVIcS1pdmtLcW04X01KSlNfWndF?oc=5)**
+  - *Source: Reuters | Date: 2026-10-15 06:31*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-15 10:46)
 
 - **[Copper Falls for Third Day as Strong US Inflation Spurs Selloff - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0psUFhiRzE0dTRhNF9VT09tUG9BWmw2QUxYOWE1Qy1aUURTTVBrRHpHVFAzRDNyLVdqV0ZfaUEzdXRYMDBGWnNHTzlkVzhJYUw3NWJTcHY3dUl5MDRlcGNNSVRDQnZFZ1N3QUJnRFhqUTAyei1aRzBxU3dIZm1QbFRWVjFoMDFsSVBQa01DR1JadUxXUk9XZzFqbTNwSXRIRExpeTk0R0hVUzVCckF3U1UzcWQ?oc=5)**
