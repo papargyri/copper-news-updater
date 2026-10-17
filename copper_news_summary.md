@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-17 10:04)
+
+- **[Congo Arrests Hundreds of Chinese Miners in Copper Heartland - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVpHcjlEaGczQk05dFhXU3Q0OXB1Rk9BbmhtaGtJN0NmRndUUmhKMGI3dVRLUEdMUS04MnVGTEozZFpMNUMxSWN1LW1GZjNmR09QcUxiWDRiWktjaXp1SkRDUW55SF96SmtmMVpxcTczWFlMNGlPd3Q3X1BYZkV6NzFNSXlZRU1CS0FtMXc5TlhTT0RZV2s0emFnUlk1bEt3UW95Uy1jV2JqTVZURE1aUA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-16 14:01*
+- **[Traders Are Shelling Out Millions to Secure Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFlGRGF0OXJYVXp5OElRdmF0N1NWdUZ0TWNMRUdhUERvWlVjUUxpaGpmMU9GNTRnRzFGT1YwUk1rSWFudnphOWVKdk95bW5FYnc3UEhHQ1ozbjhxNVA1VmczbFp3WWVMTXFCQWdCelgyeDRIZF9DYmYyWmhhSC1vSC1GcmhSODJoN1N1RFNuLVNjV2dOYzBuT2NrZzNnT3NiekpTNXBoOA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-16 11:41*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-16 10:34)
 
 - **[Austrian investor rushes to boost copper production at old Chile mine - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSm9ya250OUF2VWo2QzNYMDB2MjJjb0dMS1Vhc0pIMndnUTY4bnE2MDVnNkRDWjhhVnk2eDZCWVluOEdPanlGUjZ4ekc2RjRkY2NHdXdVYWtPUFowYk5henNCLU9KWjdhZHVSZmtGdS1kVWpPS3BQelNMWGdoZldXMVYwUFJ5eUlta0NMY2ZfME1oV0JTY1lXX2ZGdFBGN0t6cXVyMjNPa2hiZFE0TVBFMFMta2NOQQ?oc=5)**
