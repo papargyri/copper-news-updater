@@ -27262,5 +27262,48 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-18": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 6,
+        "articles": [
+            {
+                "title": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzZFY0kxSFE0R1lNVGVaU2lGMjdYYUxyaVlYTkZYS2dBZXBMazFRWHRuN1pIaU1aYkJ3bDh1eHUzU1JBdWpoSGx4X2RrSUU0ekNXZV84Vy16WTByU3VJWElOTTRDUXRGWDJELVBiM0xmdHlpaW1xY3JIZ2gwTTY5SFdkRWduYUc3RGttcUQyUXJ1YzVfd0VjUg?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTm5ud21QaS1JSG5LUWlnVHpLMWhFcmo5V0xyd0R6bzAyWGJmSnN0ckU1NlBrdFRjRk9BMU93d2hJZV9YZVRINDJTSXAyR2dranBVWHJQNXRSNmFLMUlGVmhITm1sS2syWTZFUlV4R2taYzdQUEo2N2p3ZWZ2S3FUTnVaNjI2NS05Vzh5VHVFTmZ3WTBHcFNRM01EdW1zcWhxUWY4VmNna0RaUW13T0VXNTJfY2hhMkM2QVlUNVpNWUExd3QyVWJVYXB0T3ZJMmgyUURxa3NMUFBYdlhNLTlGRkdiYWNBZ21jTU5N?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Unions at Antofagasta\u2019s Centinela copper mine reach preliminary deal - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkR3YmRDREVBQ0xxZ3hNVnk5SHNPN2pkSkMtQWc1bjZWZlppUDFoSWlxMy1lVkRmeUloTFVqaGc3MWlGcGZRYlBOVjdjVTBiQzFFYVUzSGJCc2lRNGJiR0VWWkktU0RvMkJSSHhEZkQ2MEtESDdxZE1zOXUtTUh2REY1Q1MtQU5iNENDb0lyZnQtekgx?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper thefts leave Perth roads in darkness and cost taxpayers millions - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOUJleFRXZnlLcFJwSkxqMHZDUlVWOEcwNUE0cFFUOE1ZSU9PcWUzaG93bHVBb3BvSGVrdmpkNmxTOFFMRVB1MU5JMk12T0VwcEhtRXJSRjRrdGVjQkR1VmZ2d2F3eF9qWktMSV9VWnRidzFHYXJwWmh6NnJiWUUyMEpscmw5bllHYXRSenVQSkYzUnJNSjFzZ3U1RFlOcW8?oc=5",
+                "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+                "is_premium": false
+            },
+            {
+                "title": "Austrian investor rushes to boost copper production at old Chile mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVljOU5iLVkwREpya0xYVVRRRjBVZTN4UXltLW1sQXZHOHlRak5ZMk5YVmp4UGhQbXFia2w2aVZfQTZfbXdVLTdvOU83bUw2NXczQk12M05ucTN5SklOci1qMjk4TDljUHRYeUtTcmFjSDN6d01rTVM2dV8ydElhc0VxVVNDdU5faXQ1d01vbnNWNHZMNDdfVWV5WDhsMUNmcFBEWUJ1cllIbi11VWtmT2lUWGk3Nk4w?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper demand to double by 2035 as mining struggles to keep pace: Teck CEO - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUmt3YXA0LVVVUC1laFlYNEt4WXpkQWtFRFY2VHpSUVNTZ2NRWmJiTUJSUFlFb21XMlJTVjRNNUF3Y2ZSa1NqRk5BRmNDRVlrZHNmaml3UXdRX3BZcjd2VXVOTlNmZXgwdFdtQTZvREc0U29vdS1SbG5wajlqREtZSXBSbHNFMFFER0p4Zm9jOHFfeS1rOXBtRk8ybjJKSTdnMzhEc20wT29sYUd4eDhMUFEtNGVRVl9HdEkxaU9LbzNVQUdvQ2d2Y0Jla0x5d0hObnBGdjdDY3BRcFV2dl9nM1pB?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            }
+        ]
     }
 }
