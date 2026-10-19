@@ -27305,5 +27305,138 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-19": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "Copper hit record prices. The bigger squeeze is a 17-year wait for new mines - Washington Times",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPXzR3YU4zVHMxUFpNWUhsYjR2eEFsU0RyWkdIZGl5aVdDUUZGaDNrcEZrSU1FazRHRE5iUHhtdEVWSXR6TVl2ZGhUMHpucGFWTW1SdlFyd3NzVV9kYV95TUUyT1JyUkVuVldvTENPXzB2N2N6ay1abEIxLS1ESnQ0LXVPS1lYSW1CZU83eEdET2ZUWjRIZFpFRDF0UXhsbWdZc0VZaWJfaGo2bk9EQ0tsUERR?oc=5",
+                "source": "Washington Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Road Announces Management Changes - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0IyM0pZU1hqWDcwb1VXTklmTmpnZjRRMDVhcW1GbkZlalFpeEZhRWtwN0dBVlRCeFhTdFlhOGpmcVdxYnNrUkt2NkZQVVJmV0pwTGo2dnYybno5UDFkd1ZIWHRCSEhBNGhBSVVjTnBISXphLVNFaTFsanAtbThJc3pfYzF4R1M2aVo1YVF2emd0N08wXzlRM1dlbXBQal9QSW10U0loam8?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Second Porphyry Discovery Confirmed at La Verde \u2013 Company Announcement - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhKZncteGkyRVJ2MG1aTWF1TlRYc3VZRDE2QUZVekNpTjN5TFlraXFYNVhyQWFWblRyX3l5Wll4S1k0MGVSamVtZG4zX1ZiUkEtdW5EUllyblZFZzB1enMyUFI2SUxMRjdWMmVFUDNONFdzQkYtdWh4WVoycU9NZTdxekZQRFlWb3dyT0tnMTdNWXlmdlE?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Fox Provides Update on 2026 Activities at Schaft Creek Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXJNaVJDR05odnZ0VEZQcWhVdUhwNkppZ0N4cTJHalk4eUwyWFRFd3pVTHIwZ3ZYMVFzbkh5ZGtJZWZITnhMZTNWWWZuLU5zb3Naek9SU0lGRTJ2SkdnRUtmNHRnMXYtWmJKdDh2dWM5X05GWXVSWVpmUG5qeENXZnh0T1F2cXdqMGptTUhiMFhyM2ZXYzdTSDhhNk1ENXJWVkE0TmJUT1E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "LS MnM weighs copper output cut - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JZzBYeGY3WDdsbWdUZlBDcjRRemNSam95NUhkTGs4ZWg4dUs2S2pnY0VxbUc3U0RzV0YzSnM3WXFLa0pyX1FyVG5rdWxzTldXOXpCYm1fUVR3OXFKMFQ1eU5tX1A?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "$40m for Prieska Copper Zinc Mine development in South Africa\u2019s Northern Cape - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3loVnUxVFA1c0NmeHBoNzM4dGZrTnVPaUkwZmZVR284aXBHWGcxVkQweFU3RWt5NWNOV21kVU01NnkxcUhWa0F4aElJZ1c1X3lfRTVnT29WZGQ2VjFxaW9IZkxLVjVuNmhtTDd5Y09URGtIcVJJUGk4M3haNEswazlOdGtkdEljVFBZYXRPVzNhMlQ3RVJPSEM3VWFJajZOOUhGYlFCUXRqVzhyc1FrLXBOaGExX1FvQl8xUXZmVXQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Startups are extracting more copper using microbes - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJERGM4RDhHSGNvNVB1eVpsNW9WeC1HNWJvWlVYMFl5VW9QckJEX3p5WlQ0WUhfcm5VMEpIdGRYazM1d09jWXBCeENDT3FUcFBrZ0RvSTZzRkFUNlc5cTJSQWJ4dVgtcGMyX1RKR1pRN2w0Z1YyU3RXRnQ4N2hJVVFPYUNSdjlxcnFMVmlrdDgxU0NCZGRaUTlkT0pVQ28?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Startups Are Extracting More Copper Using Microbes - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmhRdG4xVVNCSHZTdWtHS2hKVzQxWFZCT2RFOFJWSWp6clBJODVIdHNGMmR5NnFxZWNkVDFCVVRmQ2M1UWVqUzBhTjBwc0V0TXozNk94ZG4wbVhIc05TdGE5Wk1xVkJOSHNPYnkyTW1ONldNeU9sNkVJdWgwdDFLbXpLczdIb09rRG5oRlFKajA1UHhROV9MaHV3YmpnMUhYWjhoVU93?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Fortescue sells copper concentrate cleaned with arsenic removal process - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0VVclJEVy1DZFZOQ2FPSjN6cUE2dGhIOTFHSTZBLVlJVVNuQ010UkRNVzZMRHlrc1FJbkd6Rm81ZzBmU0NvdWp6R1JZZUJrNXlUUUZ0RExyQjlmMTc4RTRreW5SRi1oTGNraXltV25FXzFlZUpKQURPMkRPeDZXcWZGQWtFRk14QjMwYVVYdHYyZw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Antofagasta's Centinela strike ends after deal with unions - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnFDX0ZrWThrUndkMjhGbTVrRkVNc1VDQjlQZG1TMHhTMmxKLS1YRUtfNlJjWkN2Sk91UG5VbkRJQlhKOGFxajJpaklJNEo3eVZyNFV6ZWU1T0pQdmhoQTlQSkoyaGhYallHbnZ3UVE3VENoMXRVaUZ2ZVluYjJEMkxMNGt4T3pudjd4MUhCRzk0b2xJUkVwa1NDTDVteWcwcjNJeFVRaXY?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Australia's South32's first-quarter copper output rise, slightly misses estimates - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDdmZDRJeHJiRTNma0NUNGJ6cTB6MFZKX1hBXzdFVEdzdk1ZN1hHUlJ1SXUtNS16YWNZUnFVdlJEYkNYR1dEREQzQ01EdGxHX1d2eENTNTBJNnRIeE80d0xlaWFaVlVZOEk3OXByM05ueURfbEZzSk5IRl9nX1g1Z0I3UWNDU05rUFdEc2NFR0Nrc0MyQkE4MVZ6bXM5U3ozcUswVWF0ekZBNlJDWXBFOHlfRU5wRWU0aUk3Mzl6M3lHRkdn?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport bets on chemical solution to reach copper leaching target - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNndETHB2UHpjUkhEQlpYR0kzalFybU56T0dUS1U3Wjc0bFNzd3NlYlNoVDVnc25sS2s4ci1HczF3QzdYNFlCRENSQVAzTF80U0dmakRpUzE2ZGsxdXV6WTVoRkJrajRvTWY4bVVkU3ZtRjhFWXJwVFlTb3U3VThjczkwTUlMNFFLdTVwNFZSQVhQdUZ2djRxZE9xNnZNMlhzbWhVQkJoSlh2YXBUMWN2ZGFkUFo?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Why copper and zinc will shape South32\u2019s future - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORl9SZkl6a1FaWUllb19ROXRVdHJoUTR0VXFSRmFXMy1IbVdBbmkxdFIwWW1rdktCSnEtY0psSUlpRFZZbTF3Z2ZNemtwdE41VmgwYnlzY1puNWV1Qi1GOWYwbVdFdUVxN2RwSExrRFZfS2tyWWMyak1icE5iOFdvSmlHOA?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One identifies new zone at Redonda Project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uaFNwTlRFRk5rdk4zRzdvSkE3QUp6QjctQ2ExNG4wYk9oVVBPZTdaZzJiUVpzek5sQ1J1bC0wTHBsamJQSGxPdzQySi1jNUd0SWpkeWlaWlViS1pwbzhmTFhzNmM2UnJGVlJuTUp2Z1lSS1FqVHBPOTdyNGY?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "QMines intersects copper-gold beneath Mt Chalmers pit lake - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFVOeDBiUElxTm5XeHdUUDFPYk1rZWZUYVVPeHVMZk5wWlFmaE5VUTBMbVBVTzBmRzFMWGR4U2s4TWN4Zm16dXB2X1dZVVA5WUxsbEE1LUJzYV9meHY3TlE1TnRFdVlKRVNkQ19PTEVWRG1IRnk2a0lOUGZra19DdjNhcWU4UVVE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "South32 opens FY27 with an 11% increase in copper production - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGJ0bkN3cDh4bnpsTDQ0RGVYY2ozOU5uT3YzaG8yNnd2dzVnbUZUdGFDcHQxMUh3aEotZTJ3QV9kaXF6eXdoTVJJM0hjZ05xUXFkYmJTWlprSllGUWMzbDhpRnFNS25UUzdSdjVtMHNIRzFkSmdyS2VjMldSbzdxMXZBNVdJcmE4TFZ5SUF5WE5fWVFWSS1OaUNaUTE2TnNWQVE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "South32\u2019s Q1 copper output rises, slightly misses estimates - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXRLY0ZXNy1pbXNZY3VUOE9uVloxbDBJdFBLWHlyd1hyRDhHM2E4R3JYZFZCZkVUWUFKM3ZONS0zOUMwbHhYTkhRZmpqeWo4bExVMUlIYkhDZk5LUkthNEpnVkhOZFhtbi1wOWN2eTVuakVnQnJoZXc1cF9EQzJWaXVvUlFraWc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Orion to receive $57.5 million Glencore funding for Prieska revival - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXpFLTc3RHU2QzdTWGg0b0FYX1ZBdHJQYVFocWVyNTg0ODNwYWtrcnJUQjdscUJHXzVWZElNVEctQy01NkRyNENMNjQzY21fV1A5OUFEMFp0MmFUbDNyblJJM1JIWUQ3UDFFVWs2T19EVzlNSnkwM0JFcS1iY1ZQai10X0pkamhWdC0yc3p5WHY5Vk0?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "U.S. Copper Stockpiles Have Surged: Could the 2025 Price Collapse Repeat? - Barchart.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEVNbmQydTB1MVNnTmJERS16UXNZZDZHdU9OeXhCMWN4ZEZ2b0dJZS1uemdGalhLZVV6d3dDZkJHWHFRUVprZnlqQ3JkS0g3V3dTejRPQjEtWGxXbHJiX21OejNzMDNwc01WdU1SbDRLNEY0VUhHcWhtVU1oMnBIeWVyYUpzOVZkT1pJNjdlenZhdUV1TzNHSDk4dGVEdDVuX2dvWEdqa0Nsa0dpOWNBOWZyOEI?oc=5",
+                "source": "Barchart.com",
+                "is_premium": false
+            },
+            {
+                "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWdtNGVsOU02TXFvOUNyRUs4NTZLbXFZY1N3RkVSbjRuendpOE5waWFyWjVVMnF5aWlwZ3NOZG81QW95WG9fUUkydmltWkctaWg1R204UU1nRU1teU1FR2diZHdJMy13Z3NXbVliRTJLc3dSWEVubDRwVjV4WXh1dG9lcjJPa0dhbVBkWklyMVJIT3JSZ2VUQlFORHIyeWg0d3NjMG1vODFESXZlMVBXMVZlalk?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmpGNzZ1eDFtbjd1NDBRWnhOcTRUNFlwdTZXR2ZFMk94NGduQU1MdV9uMFJYXy1zNnk5b2dYdHB5Q2pxdGdQZ2tkRV9uOGh3MkJ5YmpYbXVZZFJuRzdHbU9yUEg4WDk4NjNjN3RUaWwtSDRQTHJ3NEZMWmVodXlwSDBSTmtkRFotZVNnTncwQWFyeU5JaUJ6cXJXUDJwMVZWLWc?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }

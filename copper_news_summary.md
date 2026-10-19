@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-19 11:57)
+
+- **[Second Porphyry Discovery Confirmed at La Verde – Company Announcement - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhKZncteGkyRVJ2MG1aTWF1TlRYc3VZRDE2QUZVekNpTjN5TFlraXFYNVhyQWFWblRyX3l5Wll4S1k0MGVSamVtZG4zX1ZiUkEtdW5EUllyblZFZzB1enMyUFI2SUxMRjdWMmVFUDNONFdzQkYtdWh4WVoycU9NZTdxekZQRFlWb3dyT0tnMTdNWXlmdlE?oc=5)**
+  - *Source: Financial Times | Date: 2026-10-19 11:00*
+- **[Startups Are Extracting More Copper Using Microbes - Bloomberg.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmhRdG4xVVNCSHZTdWtHS2hKVzQxWFZCT2RFOFJWSWp6clBJODVIdHNGMmR5NnFxZWNkVDFCVVRmQ2M1UWVqUzBhTjBwc0V0TXozNk94ZG4wbVhIc05TdGE5Wk1xVkJOSHNPYnkyTW1ONldNeU9sNkVJdWgwdDFLbXpLczdIb09rRG5oRlFKajA1UHhROV9MaHV3YmpnMUhYWjhoVU93?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-19 08:00*
+- **[Traders Grow Wary of Copper Bull Market With No Sign of Tariffs - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWdtNGVsOU02TXFvOUNyRUs4NTZLbXFZY1N3RkVSbjRuendpOE5waWFyWjVVMnF5aWlwZ3NOZG81QW95WG9fUUkydmltWkctaWg1R204UU1nRU1teU1FR2diZHdJMy13Z3NXbVliRTJLc3dSWEVubDRwVjV4WXh1dG9lcjJPa0dhbVBkWklyMVJIT3JSZ2VUQlFORHIyeWg0d3NjMG1vODFESXZlMVBXMVZlalk?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-18 20:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-17 10:04)
 
 - **[Congo Arrests Hundreds of Chinese Miners in Copper Heartland - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVpHcjlEaGczQk05dFhXU3Q0OXB1Rk9BbmhtaGtJN0NmRndUUmhKMGI3dVRLUEdMUS04MnVGTEozZFpMNUMxSWN1LW1GZjNmR09QcUxiWDRiWktjaXp1SkRDUW55SF96SmtmMVpxcTczWFlMNGlPd3Q3X1BYZkV6NzFNSXlZRU1CS0FtMXc5TlhTT0RZV2s0emFnUlk1bEt3UW95Uy1jV2JqTVZURE1aUA?oc=5)**
