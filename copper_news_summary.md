@@ -7,6 +7,24 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-20 10:51)
+
+- **[Codelco Sets European Copper Premium at Record $350 a Ton - Bloomberg.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzBNZ2Y1ZmZ2bS1Iemk2MTZzNWhibEdSSGFlQzJhWXEwci01a2VycjQyaEZjS19VYV9fbVlWNkItOXFpeGc3WVpEcVItamdudEZsTXJSQWV5TUhZa3pUODM4ajdNZWoxQ3RmRk03TFFKT1JvTFBjeDV1ZjFhaWpLVHByQUd5c2I4RUs0eUZJNm9JVnd4TmxIaWp1Z245S1R0RGI0NXRhSDBWWkU?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-20 10:31*
+- **[Copper Holds Drop as Traders Gauge Risks From US Tariff Policy - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnNUZW5sQktjanBIbW1KZi1ta3lTeHVRbVNyRHotbkR5eXZEVVpXZndRV2hyUXI1T3NhSjB2RjlxZDVkd016UEVGUlNwcmdXUlJUTHVLTUVGYmdlUndQUDJER0VsbkRBX1k5ZFh6Tl9tUk1FSlkzZ2dzWTZpRTM0TUpQTXpKTFRqeTNuZkg4VHlBWVVjUkxNa09YZlRQcENNTUFBT0RVajNJM1d6Z3VmUGY5SQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-20 06:41*
+- **[Copper Mines Need $332 Billion New Investment to Ease Shortfall - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdtRmVVRFlYaUQ3SVlhWjdpTGtqVTAxTm1ycHpwTnBuVG01dmt3UDdfTktzcEZJT29xR2NEb0t4M1lOc1QyTGFkNkJXcFVHOGRMSWZfUTBYb1Y2UlY5SHdNTGFYclc5b1daR1FwX3FtWnpKbXJ6amx0RWFtVjhFcGNCTkxKMVdOMDZaYVEySC1KR1pLbmhBU09zVlotdjZTcEd1cFgtekJiYkJtUWhOTGZRbw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-20 06:00*
+- **[BloombergNEF’s Transition Metals Outlook 2026: Global Metal Supply Shortages Set to Ease, but Copper Faces a $332 Billion Investment Gap - BloombergNEF](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM24tMC1aTHlWR3BBT3dKaTRpdllQQ3R1VHUyaVQ4TGRzenpaRUpvd0ExZmI5WlFpdUI2VVpyYUM4RDV6eTIzNDBQRVVPYkxhU2RfWmZmQnZmZE5CSl9QMjZkLWpCS2JGeTZHSWUyU0E5emJBN1RNMHkxOVpwVktaUXNVUDlBN00zOVdTQ2xIN2NLRUs4OTJtbGRIendYOUROUm9wUFk1emtwSHkzR1dtemxUaHY1N1JtN0JXMjlrQzhzXy0yX256Z011TXNJdjVGS0JTdzRFNXVvWTNfUDd5anFmTUZ3Vkg2TVpzQnRSTW40ZEFaaG1XMWpYaFRIcFpMZDFCN1VLNzM?oc=5)**
+  - *Source: BloombergNEF | Date: 2026-10-20 02:13*
+- **[Copper Boom Belies a Deepening ‘Mining Recession’ in Top Producer - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUZZV3dka0trejF6WjhKRkVKZVJ2TEU1bktCX1lsemQtZ05kcC1hX3lHaVlHckROWkpHNEpBakc0cTNMQVRzdFJSaUVXbUpubnlMYUlBMHZVX1l2WjR5cGUzZWFrb2oyTU9MQjBiNUZkQjdJYVZWWU45aTIwTjYxeXdjNWhXMEtVbzFuSk00OFlaaTBTek03WktqSnZIUWthU2NTTVR4U2FGc3RlMVduRkFNd24?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-19 23:00*
+- **[Microbial Miners Are Being Deployed to Ease the World’s Copper Crunch - Bloomberg.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWFhenFlT2tLdmFuWWhKaHZUd25Bb2pxQnRfcDBQQUlwRHdVeFJ4X3AyWlFwa3R6T1lPTXJPeXpyY19ndTJNZnFLME5FSUgxb0Z5VUFLcXhRWnAtR2J4NHBJc0sxTE1SMDVIZm1iSU9CNkJSRzFia2ljQ29LTmFlc0Y3SGFCVWphTXhWbzVaM3I2Y3MxY0Q1QVZKdFpqcC1iTnhVRFFLTmJJY3VZWEJLWTVWUVVGUFAzMHc?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-19 11:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-19 11:57)
 
 - **[Second Porphyry Discovery Confirmed at La Verde – Company Announcement - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhKZncteGkyRVJ2MG1aTWF1TlRYc3VZRDE2QUZVekNpTjN5TFlraXFYNVhyQWFWblRyX3l5Wll4S1k0MGVSamVtZG4zX1ZiUkEtdW5EUllyblZFZzB1enMyUFI2SUxMRjdWMmVFUDNONFdzQkYtdWh4WVoycU9NZTdxekZQRFlWb3dyT0tnMTdNWXlmdlE?oc=5)**
