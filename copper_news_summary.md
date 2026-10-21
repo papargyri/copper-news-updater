@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-21 11:04)
+
+- **[Trader Known for Big Aluminum Bets Is Back With Wager on Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxORXFjS2hXY2NSTThVYUI5R0ZQbDk0ZXEyaUJoTTA1a1BrdFR3WlBwblRyNHA5bzlUbFBYYmxrME5SZ2pCR1BVNHhPWkFHQ3pvSlY2NTRqVDhSUU9BY0g2eWoySURCU2JzdWFYcm5lemdYZzNzNkt6UE1CZy1KeFIxYWJuaVJVcWFQODJGdkFfbzh5WTJyeFVQMFpTckpkS2JWMk04Xy1nMEIydmFwcDhwV0d0d0o?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-20 16:35*
+- **[Traders Grow Wary of Copper Bull Market With No Sign of Tariffs - Bloomberg.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWtrX0JqbVFtZVlBUzQwbEl1eUQzSFdTLTExQ2hRWUwzN0o0ZGFUOTFkbm5md25Gcy1BSnFqcHp6ODBRTkVXTnpvUmY2dEhxby1hdWtNalBhNjk0Vjh4OHh1bU1oTzBaSVZDUElKZjVQY0JYMmVTX3UtUEpBZlBFTW84aVBCRVlBWmhLR0pkZ3B1dGZSMkJpY1Mxa2hZTTZQcnZJLVVUeFVDdV9vZFIybUhwWHl1VlpCVlhZMjFsQzBwOExm?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-20 11:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-20 10:51)
 
 - **[Codelco Sets European Copper Premium at Record $350 a Ton - Bloomberg.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzBNZ2Y1ZmZ2bS1Iemk2MTZzNWhibEdSSGFlQzJhWXEwci01a2VycjQyaEZjS19VYV9fbVlWNkItOXFpeGc3WVpEcVItamdudEZsTXJSQWV5TUhZa3pUODM4ajdNZWoxQ3RmRk03TFFKT1JvTFBjeDV1ZjFhaWpLVHByQUd5c2I4RUs0eUZJNm9JVnd4TmxIaWp1Z245S1R0RGI0NXRhSDBWWkU?oc=5)**
