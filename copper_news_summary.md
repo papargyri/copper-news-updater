@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-22 11:03)
+
+- **[Copper Declines as Tech-Stock Selloff Dulls Appetite for Risk - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEljYmU3djMyLWxYRlJTdU9XX2dkZUxlQXg4Rkw2eUd0aHctRkwwbTNlN1RxTU1xRV93ZVhFY2x6WElUX0Fxc0RGODYwNXkxNUtNdjVKS0RJd0dnc2VQX0dkTmU1VE9qa3EtZkFNR0JaQWNzVFBWa2RadmNBYUw2RmptQzg2UkZJVWFOcklWeXl5RkFPaVdiSnZRSDJlTGViYlM4cHV5SUcwbEYxTnJYMjRB?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-22 09:01*
+- **[LME-linked group battles to secure trading data on sustainable metals premiums - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWHlzMWlpZVFsdXg1emNsMUppeWZoZmsxeEJaOWRodlJPcWFVaDNMNWxvNVFvcjRqSTR5Qk0taFZYTXExYnpXRzkzQy1ZTk1hZ2hHMkY2aldsdlJBSkNKWHBITVY4S0ZlVXRNNFltT2NlbVJXQlJ4TzNOOXlPdFBJY09hb0RCRkxHeUpqVHNrdG9oSFcwQlBQTzU2RTRSOE1tb1RmZ2daNENUZWIxbWhZT3dzdThpT1RaRG9KRjhqMkctM3c?oc=5)**
+  - *Source: Reuters | Date: 2026-10-19 12:27*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-21 11:04)
 
 - **[Trader Known for Big Aluminum Bets Is Back With Wager on Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxORXFjS2hXY2NSTThVYUI5R0ZQbDk0ZXEyaUJoTTA1a1BrdFR3WlBwblRyNHA5bzlUbFBYYmxrME5SZ2pCR1BVNHhPWkFHQ3pvSlY2NTRqVDhSUU9BY0g2eWoySURCU2JzdWFYcm5lemdYZzNzNkt6UE1CZy1KeFIxYWJuaVJVcWFQODJGdkFfbzh5WTJyeFVQMFpTckpkS2JWMk04Xy1nMEIydmFwcDhwV0d0d0o?oc=5)**
