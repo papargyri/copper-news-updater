@@ -7,6 +7,24 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-23 10:56)
+
+- **[Copper Heads for Weekly Loss as AI Selloff Hurts Risk Appetite - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVM3S1dKdjNwcnVGSVVBdWhJcHlEV2NTYWJyb0xZLXBUZ0N5bmtBNE5JN0JVOHlFRFFVLTJvN1ZFbEhWNWlnWmw0NEpSdWNYZ0RFZ3FiUGNQQWIzVjlxSzVvelJQRHBLYnBRc0hGb0VzRHhXWmMydjdBTldlQ2dXNHdjcHdfRnhVMk41cURYU2hyYlc5eVM5SVVjblpVdEN1eUpSeEVidGZPaEpJNlMyZXhSZw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-23 07:44*
+- **[Chile Copper Slump Deepens as Storms, Accidents Hit Aging Mines - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHJJMl8xVVZyaUkySkE4YjF5Q2RaM1d3U0g4MlFtZlJfdlFEZnNKU2NrR1RVX2ZTSzJza2ZwSVJHSTdUVXgxbXV3WDlJQktBX01SeFQxQTVqZTJ5S2tYOEVEbWxlXzh3RENhMjhoeVV4QkpmcFRkaGRnb0J2OTJfeUpTbFQ5a3NFdlh6cms1MjhaMThESUVQSS1iQWh0RDhOUko1d1VfSnhvUjVyUG51bS01MA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-22 19:46*
+- **[Copper’s global demand grows as AI, grids and security collide - Bloomberg.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQamNDZERVRlBiSUJ5YUw0eE04SmlhSHhubzRZcWVUUVhVNGFfcWxmNGRqQVFqaUhqQXNUd3piOWVxVjFBMW90NE91OENoQVBud0RYNElBVWRzcUoxeTNMSnVmdnFvTjdUNkc0VTMtb0xUc3J3eHp6a3lXMXdQajZrVkVKVnJnb0xLS2NYbE5IdWFMcUxYdS1vVDlqTTV2MlZDaldTT2tzVTN5bTFFTklNZmNQalItS0dxdEpzQ2J3?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-22 16:42*
+- **[El Niño Stirs Storms in Chile, Threatening Copper and Crops - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ202R2JSZVVXV1R4ZHE1cVphZnZTNVdWd3FUSVpfWThURGlIWTNxTzlXbm9CNGJLYzRfTkN2S2kyS3BXMkdaX0FHbUpWSnZNbEZmTG5rRWo0ck4wZFJuTFBCekUyTndBQkpvTDZSUmRjcWoxQ3lMa3FWMjRUdE9aWWZpcUdvdDF1V2dsQ2Njc0o0YllhYVJDYUlLX0pCd0ZQLWhMX25oRHcyQS1DTnc?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-22 14:00*
+- **[Chinese Copper Smelters Plan More Output Cuts Ahead of Fee Talks - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUZqTU1aaXdUT21OTHFHNElxTldyZzFvdTR6THJ6Mkg5VGNjWGdqUjhhbGM1d3FZcVc3MV9nV29iWUlIR2tDWHp4MGEwbzBMRjlQOWxodEVqRG9xRS1IcDhQOTdWT3lqQU11QXBNbU1xYlVJand5Ym4xVjNjbjYtVWlfWk9PT3pMYWd1eUtWZ3RSZ016bVJvMFFDcy1rdGtjZzd2Z044Q2hkTHRTX293anhsc1VLQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-22 13:47*
+- **[Watch Copper’s AI Tailwind Faces Supply and Demand Uncertainty - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWl84TGo5RkNGYXhSdDhxdG9YWVJTODlUZk9YZnllVWJ4eEFpeDMyVko4SUlvc0RPM1RTaGlsOFRXdUVfVjRoYmhrdUllX2xsUWhGbUFRMEdMSE9fYVdtVDFoenVqSmNMbzlwQXJsU19HVjBoSDBzY3V2UEpTUjZvc2UzZlVNTmk2UlBmcjMzbDZ5dXVxV1lVWE8wZEtLVnI0dFVnNnFCTGRjNXl0WVF4eQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-22 00:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-22 11:03)
 
 - **[Copper Declines as Tech-Stock Selloff Dulls Appetite for Risk - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEljYmU3djMyLWxYRlJTdU9XX2dkZUxlQXg4Rkw2eUd0aHctRkwwbTNlN1RxTU1xRV93ZVhFY2x6WElUX0Fxc0RGODYwNXkxNUtNdjVKS0RJd0dnc2VQX0dkTmU1VE9qa3EtZkFNR0JaQWNzVFBWa2RadmNBYUw2RmptQzg2UkZJVWFOcklWeXl5RkFPaVdiSnZRSDJlTGViYlM4cHV5SUcwbEYxTnJYMjRB?oc=5)**
