@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-24 10:11)
+
+- **[What the coming copper crunch means for the global economy - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjdGamJsMUlncDFNNDR3WWVhUnh0QkFZbFpQTlRLdFA4S2E5Zm9BREhKb3ZJMExBZVhZZTJnNWVQYXRQakNZWnNIOWpiUkZnRFJ6TVVuX3JlVUo5Vko0eC1rajc5RnczNG1hLXFsUkI5VFRQcDlFaWoxdmNobTAwRDRNV0M?oc=5)**
+  - *Source: Financial Times | Date: 2026-10-23 11:01*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-23 10:56)
 
 - **[Copper Heads for Weekly Loss as AI Selloff Hurts Risk Appetite - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVM3S1dKdjNwcnVGSVVBdWhJcHlEV2NTYWJyb0xZLXBUZ0N5bmtBNE5JN0JVOHlFRFFVLTJvN1ZFbEhWNWlnWmw0NEpSdWNYZ0RFZ3FiUGNQQWIzVjlxSzVvelJQRHBLYnBRc0hGb0VzRHhXWmMydjdBTldlQ2dXNHdjcHdfRnhVMk41cURYU2hyYlc5eVM5SVVjblpVdEN1eUpSeEVidGZPaEpJNlMyZXhSZw?oc=5)**
