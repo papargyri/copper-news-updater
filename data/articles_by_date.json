@@ -28391,5 +28391,78 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-25": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 11,
+        "articles": [
+            {
+                "title": "The missing link in Queensland\u2019s copper pipeline and future workforce - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXp0SUd4TkxZbVlDREh3WjZYcmJCb01lVUZnSUo2aDc2LXpMVjcxR3hNdmdBQ1VuV1V3VUhmanRmeWNSMzI5S21vNGF6RVM3d1g4Qi1LYXc0UjlkM2FXMm5tdlBWaG1qSFRWVndoYVJuWVRBb0xiVmw4aGJ4WGw3bDBHbnRQdnVDTU5CRk1Qc1RpWF9JdGc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakVPU2RYUmNtdHIyMXdTdE4xVGkzREs2Z2VxUFVndmUzOXJaSUxfYmV1QnBzaHNfUU9QTFFUODNZdGg2S2xJTmg0Z1RBYkNtRDQ0MXYzeW85ZnNRZFV4Rm9IVDZJYTJUc0E3U1ZVSnU2akdmYUc4Z0NrZW1qeTJuV19JQ1g4X2ltVXA0Z2hScHBxTzBkN3RiZDM3SHVjTDRyUEpvN0FwcVEtRkdMWmdQcm1HNFg5d2RpOXBYb0hFWks4Vkp6Znc?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Teck Provides Update on Highland Valley Copper Operations - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVJDXzB3VGhCWHJKRnd4V0FzbnRRZVA5VWZvRkJPOTkxQ3c5Z2l1WndKUktPdkxQMWhpWmo5MkpXU00tbGNJOU5QWm11MkJDcWJyVDBfS3lLTldfTlJ6TzVfRlF4ZVIzTjdrYWd4ZWZNc2ZxZHEweU0xXzZwY0QwZFZlNTBiWjdpMElyejUwa201MjZQVUpveVFCd1pwYzlTTzduS0NKZG1EZw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "New copper frontiers emerge amid discovery drought - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RWVzRmpWZndialY1MlNpV1JNc3VzOWJNelVRM2RVeGIxcmFwSVVQdGJ0Yk5xaWtqalpzR014OHhhVXRFaFhERkkyazQ4eF9uVHp2UnJPS0NEMkxkYkQxMGRMREIybUlaVjcwckVXUjZFT1JpOVYyY1VPeUp0QQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "This $6 Billion Investment Could Open a Relief Valve for America\u2019s AI and Power-Grid Boom - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU9kdXJ2UXdtMHJnM0FpU09ZcUw2WGdka3g1NUlMTlh5UkNvNmVfdGYtZkUtQzd0VFVRem5VcGp1Rl9hODl2dld1ckxLU0pneWtWUVNMWVFVZ1UyTkxuMEloSU05VTFEYjhNOFQtNS10VTVBM0lNR2pTYlZMWl9PSnhlaWpnV1lrMXFOSDhwdUZtV3pwdXQ3NFVBcw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper-Silver Explorer Fits Veteran Investor's Golden Age of Mining Call - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnN6V29kU2xlNjRBOVNxdkdhaEtJMVJYSnF2bVlvaFhtZnZkM3Iwc1ZVd3BxSDJKLVJ4bElzSEdiVTIwaGFsWXFrQ0dCa1FkYzF6TjdCZnMtaUNDNGJ4alZldGtNeC12THlvRWFWUGt6Y0tLU1JJRFFnY05ReS1PNFE0ZXZCMDJxdWpib2NpTElVOUFUbHF1RDMyRzZFWkkyb3h0RzFVYWs0X01Bemk3QVd2N3dfWl9COXI4UkptS2ZBNVNJUzNEag?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Machine Learning Identifies 9 Untested Copper Targets in Chile as 5000-Meter Drilling Program Begins - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNERzLXhNQnBjbno3SGY4RFpkT1hYNUNOS29wdGk1THI0eWhVXzdxem9vLTNtT3hmMXdHTmNyNUlXcEJVOVVuNXZoZW5YT2doR2pmTkpXRWFhSkw0Y1ZhTWFqYW1uWko4Mi02ZFNydDFHLXQwcUYwS3lPXzVjRUVRQlVLeFAyZHpCa2pZQzJ4bWF0cWpHWFd3aDlOUEVsV093VkxhV25pdkVYMlFaWUp5YVdfVWZwcVA5b0FNbzZTWVJMcEVrUG1ET0trVFhBRWRNQkNRbm1Lc29vQ1dqbGhhdDhtQ1pLY0ozcXc3LVUtR3E?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Gold's Next Big Move? Experts Warn of Market Turmoil as New Copper-Gold Opportunity Emerges - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaDdRY1dBU3pRRTdQbzBNcUtBS0UtUUZwMTZicjZ6bS1XVTBoS2lWS1JROTVDNlVWY3k0UWctTnExd09zZlJnSlpvMV9Cc2ZCUVQxRlh2ZnU0TlBpSmRpQUo5SGsxM3Q4T2t3Y1hMUzNQWnhOUDg2UTY5N2hUd1FBeE4tUWNMRXExU2ZKb1VHUjQtM2dvRUpMTmRiOEpwNVVvMlV4SmhlY0ZCbWNFUHpHejE4UzFpdzFHbDBCVE43aEdtMG5PYnpBbjdHbklpZnp5cHc2Sm5kUk1jTHNiVTNqVjZvcw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Off-market insider buying at Copper Lake Resources (CPL) - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkt1aEFBU3JJdWVlSmZDT2tTLVNsU1cwLUtQcW9Bd2RVSXZGZUUtX2lHMEowTG1ZQk9oaFNEUHhCNWxSRFAyVTl1WDJaWjFCTEM5X2treEFPcmpPRjBsMWJJdC1MVm1wRTlqc0UzVUFmM1NZdFh3X3BBaHZueVcwN2lHWVp1VFdTekNZeEtkYnJ5RmxYNDB1NnpnNHFQM2lGZUNUYnZzMjFaU1JJamU3SVhubDFmLTB2LUVnN3kxc0NseXFTdkZuS1hLaHV5TGZSUDFMYjBnaGxhdU44YWc?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "China\u2019s CMOC Sees Earnings Soar on Copper Rally and More Output - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemJsekRJTjVvRkRyZ1hSV2hrRnhoRDZTdjJvQkJpZ1pmTHk2VlM0Q0NRZVRWU0hVZ2JwRE82NzFTV1A5VWlKZ0h3YXB2b09qSEtJbngyTklYU0VkZi1neGVsTkFKYWNDVmtpYjFVdmFCV2VEWW4tMGhhTFBoNXlrVmZ2aFdLSzExNUpRQ2pzZUpkRFhRSzVvdmpuaHVIam1aTzhJLW42RjhTbjlERThsVUlCblU?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "US-Backed Group Congo Mines Deal With Glencore in \u2018Final Phases\u2019 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3dTd19yaThjNDJwVTRhclJYQWdoV1dMMVlWbldqMnB1V2ZQRm5aNGRKODRjYmdORXZPTWdwVDFPOFF2dmxLUTJ4Yl9HX0JmQWN5Ul9BM1NGalJvWDNOV0FxbUtobW1FSnhjRFBYOWNjUHRVRldvNDhWU0NYcDhkZXRFX2k5dm8zeGcwb20yNkhDcDAtUVdFV29hZjNXLUM3NWFzZV9DY09iNWFpbmtSaG1yRQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            }
+        ]
     }
 }

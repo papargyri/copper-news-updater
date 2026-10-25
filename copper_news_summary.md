@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-25 10:36)
+
+- **[Teck says strike begins at Highland Valley Copper mine in British Columbia - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQakVPU2RYUmNtdHIyMXdTdE4xVGkzREs2Z2VxUFVndmUzOXJaSUxfYmV1QnBzaHNfUU9QTFFUODNZdGg2S2xJTmg0Z1RBYkNtRDQ0MXYzeW85ZnNRZFV4Rm9IVDZJYTJUc0E3U1ZVSnU2akdmYUc4Z0NrZW1qeTJuV19JQ1g4X2ltVXA0Z2hScHBxTzBkN3RiZDM3SHVjTDRyUEpvN0FwcVEtRkdMWmdQcm1HNFg5d2RpOXBYb0hFWks4Vkp6Znc?oc=5)**
+  - *Source: Reuters | Date: 2026-10-24 20:22*
+- **[China’s CMOC Sees Earnings Soar on Copper Rally and More Output - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOemJsekRJTjVvRkRyZ1hSV2hrRnhoRDZTdjJvQkJpZ1pmTHk2VlM0Q0NRZVRWU0hVZ2JwRE82NzFTV1A5VWlKZ0h3YXB2b09qSEtJbngyTklYU0VkZi1neGVsTkFKYWNDVmtpYjFVdmFCV2VEWW4tMGhhTFBoNXlrVmZ2aFdLSzExNUpRQ2pzZUpkRFhRSzVvdmpuaHVIam1aTzhJLW42RjhTbjlERThsVUlCblU?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-23 12:52*
+- **[US-Backed Group Congo Mines Deal With Glencore in ‘Final Phases’ - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3dTd19yaThjNDJwVTRhclJYQWdoV1dMMVlWbldqMnB1V2ZQRm5aNGRKODRjYmdORXZPTWdwVDFPOFF2dmxLUTJ4Yl9HX0JmQWN5Ul9BM1NGalJvWDNOV0FxbUtobW1FSnhjRFBYOWNjUHRVRldvNDhWU0NYcDhkZXRFX2k5dm8zeGcwb20yNkhDcDAtUVdFV29hZjNXLUM3NWFzZV9DY09iNWFpbmtSaG1yRQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-23 09:51*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-24 10:11)
 
 - **[What the coming copper crunch means for the global economy - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjdGamJsMUlncDFNNDR3WWVhUnh0QkFZbFpQTlRLdFA4S2E5Zm9BREhKb3ZJMExBZVhZZTJnNWVQYXRQakNZWnNIOWpiUkZnRFJ6TVVuX3JlVUo5Vko0eC1rajc5RnczNG1hLXFsUkI5VFRQcDlFaWoxdmNobTAwRDRNV0M?oc=5)**
