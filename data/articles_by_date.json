@@ -28464,5 +28464,90 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-10-26": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 13,
+        "articles": [
+            {
+                "title": "Kincora Secures Option over Outcropping Porphyry Project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHM1LUZyNmNFM1J6cWlhSU5kWGlYOERmR2c0Umt5MnJydFo0Z0pxWktiYU1QMUhaZzNUVmxoQnE0SmlqckRBcGk1MFlmaXVkZDdBNEVhcVBCc3VsVWx2d2NzbUZFTERGeFJsVnVvSkg3VmtNYV9jTF9SdGNBSl9tOG1yQ3ZZd3U5cllhRlFMak9pUlZJVTYwMDVieERZY2RiZEVNaTcySTZlTk9FR0E?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "New copper, gold mines set to begin production next year - Tehran Times",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdENka2p0MjVKTTlxcWNOcFdXVjl3WjdzeUtSektTdW55NjJHWjZFaVJabTg5Unl6VXI5cFdzb01qNG5aT1o5UWEwM1FwV280MDhMX0Zhczg4a1NsYldDb3ZDY2ZXbnNhTkxIQkZUZE90R1RqWHlQb1hXZ19qU2FaOWY0YzZTQTRmOU1jaDFmaEtKUFRGLXYxMjRuSQ?oc=5",
+                "source": "Tehran Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXNPdGpiZHFxRGtsZzJXa1NWQ2ZtRW1YMENlQ0JFWEtoTmI2S245dEdHS194RXg1V05veUVWOGl3TFcwNmZUTzA3dzY5akhZX01xNV94eWwxNkdtZEQ4bkdmSFhQQ252a1p6Q1dWUVllLXFyQWFkZzNFLXIydXJmdnFtVXQ5MG1tNjJuNkQxNFZfOFduOTQ4TmZJZHk5UzhJVU1SVi1jSmJ3aEowcFBR?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Can QMines turn Mt Chalmers into a copper hub? - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRm42aDh6Qm9lQWJDY0JjZThCVndDQ2VTcGpqeEtrWEJ4czBNMC1tTGRCbHdHTHZ4eEpXQU5NcjVnZHh0WFZmRWFCU2ZKcVRwcDBrNkgxX0JWRWtrbHpHZ0thamlGeHFLazhqei1aYmtadGpqQ2hqYjloQ2E3M1lwVTRB?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Bumi buys $31 million Queensland copper project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2OUZfMDVhR3ZIWmdGUFBuNFM2bTRLcGlQdW5kM3lKVmpsRUtnbGJ1SUVkMTZLS0REektCaFFLcmlrZjNuMlN3Z3lFc2RXR1FvRUpaM2NjazJUYXVTOEV0VGJjWnFoUEM3Wjc0UEs0OTZMbTkxb3Bldg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper priceeases as LME stocks rise - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2VS1GdERuVl8wdnZOeks3NHY1UnVLaUNOZThtZnpjRUlKcWxIUGtJblI4b0dBQ3RYajRsa29CNl9sdzM0RUJSdEJ4ekg1MWFXVWl5SkxWdVQ0ZTNIOHlIS3BQNGZybEszQUxF?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanhBOFFNaFhyb08tdlVnZS0tR05KbFd5azBqZjZ6VHRqTEI5Mk5VMDBRcFEwMFVjcG54eHVjSEh2ZGxJckJyWnkwamo4bWNOREtSVWYzZ01PRnhiUjlGWU5Pb3hjVVg2cXV6bUdSNEtpMmhzZXRES1BVWUNTWVBuZXhEZ3pod2NrOGNEMVBVYkZ6SUdpd0NRWEdmdWlPQzkydlU0RVRDMWd6TmVkN0p5TG1BVGVfMUxXeUxuTHdsTQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Philippines seeks Australian critical minerals investment - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzJnYlF0NDdkRlg4WVctelVIZjVIWXhNYWRTc2ZzNzJtQUhiRzU2eDRsaDRrN3NyMzI2OHpkRE8zaTEwUHdNUVFjbVB3QlFFX01UMVRtTnRLOE1ZSjg2NFdjUkJuY3VVc1QtdGdWTFNONkZQMFFVSWJ5VWM0d01VWnl1V0lEaXM?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper One begins expanded 3,048m drilling at Majuba Hill - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFViaVEzVDFKemVyWHZDelA1dFE3dzM4SlRDOGZXc3RUb2J3d0tLQU5QVWptVXlhbk94VGZGZkhsNlJLX05YV1VXMnFPbWhtMEhjcWlyZjczOVJ4Q3NlNGpJNVdwRlFOUklHVlJxRDc0TjZaWG9naVZqakhBRmxDQlprd0o1QQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Kodiak Copper advances MPD Project metallurgy as drilling continues - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3F0WEpIRnRmcjlkVHY0RmE5akJOemFxTS1EUHRwaUdwMWNNZy04X0NtajdxUXpxeFJ1QzJGRkM5ZzJpZDk3M1U1bmk4UzQtMGFDa3FTOVlYSmVyR1dLSHp2LUREejVSaWhWem5Uc0t3dDY2RmE2UU9NZHVvUnhKWFFWdzd5d29GZTFQQWR4VTJMYzM3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Africa welcomes its newest gold refinery as another nation joins Burkina Faso, Ethiopia in refining gold at home - Business Insider Africa",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZXpCLThZUncwN1V0MkdYMEFHcnc0Z25abG1YTFhJeWQyZHF2RlpvOWtmaDRHQVNGNEljYWV4RW9iNmtVSHlWeXRmSkVldi10R1JLUXZWclJIR3NIcmluNGxTLU4xNDJ3TVlZWjZqY2Jhcm1ucXBJUS1mcWpwZjJYbDd6QXhUT25nTzJjSDlRemtLYTMybkE1ZDVHcFVacXVUaGFfNTNjMWVSTWZnbTBmZDlXcmJ6RnV6cjJhU3E3VnNnN1N0eFM3UEcwMDNmZGc?oc=5",
+                "source": "Business Insider Africa",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper's 2027 Outlook: Leverage Down From 2.6x to 0.8x With a 24-Year Growth Project Waiting in the Wings - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON3BDOTFqRHpBMFpLWjhwa1FlTkp1dTBpQW8tUzlHc0dFZ2plVWJuZGZIWmZyY1Y3WUhrWHRRRDUzZVd4ZGYxX1lpS0U5V2dMdFkxQUI4Wm5KMnhqQUlvTVpNNV9CV2dHZjBiZWVQT1MyWmNOUjV4TGxWMVpsVWJmMVFWVDM0d09Ib0k5RGw4NmI4SGZzalpFRlVtdmdMbGc1WjJuWi1oMWdNWlpDVnlqQmtCSnZsZnJxZ1NpaEVwbW44Z0U5M3RhTEotQ0IyRTFpOFFNaWpsMGlFVmdwZ1lVa1RIVmJIQTU3STJCQ3BXc3h3UQ?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "Off-market insider buying at Copper Lake Resources (CPL) - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamxrUlZzZE41SDdtM1g5akRKaU1nRHMtMlBOVTVjM2duSVBITXhhVXhPMURxQ3B2VVBnRkl0dFAtS3RlYVJyS2JKWFJoLWNCZXJ5MGFUaFpRMXFZenVNTUNwQ3ZIbTFEZVN2WGJSMExSdThxZFY1OGtPVDZrakM4eXF5TUlyZlB3UzJDTEtHQzk3eWpGak9QLXFFTXJYU0ZNaVZpN2Zmc0JTSjBDWXpYMGwwWkJLajVvblV3MkZFQld4M2oycUlTX0RjUF9jdVhFVmd5YQ?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            }
+        ]
     }
 }
