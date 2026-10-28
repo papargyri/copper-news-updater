@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-28 12:01)
+
+- **[Copper Wavers Near Two-Week High as Traders Look to Fed Meeting - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlxLVRzdXdET0JOdFpWX1JPX1ExUVNtNUFCZEhlenRPOTR3cVBFYkdzVW1ycTlpOS1pVFpTSEI3UjNIVzRPa1BSWHNkc1Y3MjNyQ2FmbEI1dUxEMnBOVEw4M2RLRzlRZGd1OUU3U1ZoUFM5MFBYRUtqNy1UcEZwcm9jRUo1TjV6Qm5YNWZIRzFiWjlQSVVWZ05udFZ0U1RCWl9TVmhITFYwRDVNSkF2a2gyRVg?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-28 11:01*
+- **[Super-Strong Metal’s Surge Has Freeport Dusting Off Growth Plans - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlY2ckpqVC1lanU1MWlUSV9UTTBjRXZXRTlmZzg1SE56OW1Bcy16LUNBMmFrVy1QcGRZeXJoNEpXN1JhVXN0YWZ1ZEdyZGdsMnY3enZVSTdCdmZKV2pxMHlXQk5Xemg1cWI4N0JLYmpLUVNEb2YwOTROWWpqVFd5bExGR1cxbm55aFpyS2NhT0FXeFZQVkktME5xZ2NfY1Vpd1ZoT1dtZUZFNEpnNy1CU0Nxb2o3Zw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-28 01:28*
+- **[Canadian mining company Teck Resources says workers began a strike - BNN Bloomberg](https://news.google.com/rss/articles/CBMixwFBVV95cUxPczVHWURBU0QwcGlQTnpFNmN2LV8zdzRZc1F1TWg2dzlCYVU2alNhQnN4RFVmVnh4SHhwc1NOcHB3YmZQXzJTNEFUam92MFh1VUczRWRoMDRCeTdmNVM1ZWhqd1JpcWVXcUJOVHlrc2xncjJ4NDFFSkg5aE1KV1JqbXFJOTRaSDI3MEg4SmVHMnNTR19pc0phdGRpaXpGY19WY0oyaktPNVNoUVJzdDh5NG9OekpOWWZ1ZlQwTFhKSkpFZDR2NzJz?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-10-26 15:20*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-27 11:31)
 
 - **[COMMENTARY: Quantum copper steals the show at LME Week - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGJDN20wTnk5SG9CNG81Ykh1WndBNzNya3B3S3J6dWZ0ejlNSkdGdXN0NDE4LVBUZ0s0VFZRamRkQ0pjeVNIZ21MSEg0Y0QzU19vQTFwaG9SRmVNTWJsLV9rdlZ0UnltZ0FISmpuVHhSTUxfSGFNMjg5MEljUWgzNkdyNDBiZ3IyT1FpSzJQbzFNbkhNMXdkVnlSUWRrMmZsbjlxYUJIQQ?oc=5)**
