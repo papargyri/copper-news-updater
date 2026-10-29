@@ -28935,5 +28935,198 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-29": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 31,
+        "articles": [
+            {
+                "title": "Teck Resources reports higher copper and zinc prices help boost Q3 profit - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEF1RU4tdFpqbGpDczJ0WWk1ajNNUi1EYVV5OHJOMW5TNmMyZzVmTzlkZGhob2VZamlvUEtCX1lnUTRnWVlCcU90SU5IbVVnOWVJMVV6X1NSS0R5SDh5UUdROHplajMtYmZfQkZXSF9DVWs4QkZkc0RiUW4zT1FNSThpVE8yT0s3NU9WMzc1SkZKNUdCR2tDc0FlZmFRanNvM0MxaEpqRS04QTNBcnptRC1lbllSdURPMFZLYUtyVWNFWEZvdHVTSTVkZlAtaVd3?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Teck Resources reports higher copper and zinc prices help boost Q3 profit - Toronto Star",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNGhYbVBQd0tyQkFBU3ljU1pOemo0QzgxLXYzMmRhS3dtUHgwNmhCWW1YdW5aanBSaFFRd2d2NjVYajBucEhCRzFBNEt1RlZsOHVpUzJLN1RxYnJkVFRNZjFEdHVhbHpEeDFEdUkxRlZjWUtqUzZmVTlFZ0JsMTVRYW5vZWFPRkpndTk5UmZpaG9jUUFpYkF0OHpiV0RlX1pMRVlvbkFTMk51LURJeWNvWXVmOTFneV9DbmVlY1RsM3FjZTFnRWNSYWNvcWYyZl9WMnJUMS1pSFI3eUhud2QwMWF4SEhrdmpYbENpWA?oc=5",
+                "source": "Toronto Star",
+                "is_premium": false
+            },
+            {
+                "title": "Battery Mineral Resources seeks current for Chile copper - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVRxX0dudkEwb2poN3JvTHkzczIzZ2xGb2c5TnpFbUJXTEZSZkUycFlqY2dpaGxHV2dMbXk1WFd4bV9hdjZxX2RTNUV3bTBiWU9keF95Q21RNUtLcVdmWFlkczY0LUJYLWltUmNSM2p0U0JnYURkd19xeDhiSVJjQ2hwZGZSUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "New study dates Spanish copper mine to Bronze Age - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mT3VDSlR2bFRjOU9tc1g2WTE3OTEzN3lhR0haQXVEX21uNnAtWmprSXBGMnM5allJd2t5dEYzT0xlZmMtOEdsUVVwcGxyZzBTWnlvSWVSanF5QnBtSlc3M3I3ZHJxMnZXZmJYSm50U2JUUkFqQTI4cGJoMkI?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "NorthWest Intersects 73.9 Metres Of 1.39% CuEq, 0.51% Copper and 0.79 G/T Gold From 457 Metres, Expanding The Western Zone At Kwanika - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjgxeXlwTlZnY09qQ0Jja3c0R05EcXVoUXlXb1hiMzR5d0V5SkdFcVJ1Rjg2c281Z0I2WnVEUWUtRWNMWnBOclJ5M3o5T0RwREJzTU1uckpBYVBZc29ZZkFkVFdrOHp1dVFPYzEwNWJpd2dKX3N0cFl4T0FKczZSVDF4RUFEOGJhVDhEQ2xXV0o2enVXNnBQU3NYb1FXd3kxQ0VWbg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Burrell Resources Completes Drone Magnetic Survey at the Rainmaker Copper Project, Nevada Magnetic Anomalies Coincide with Mapped Porphyry-Style Alteration at the Ridge Target - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldqcnJwU21MR2JqN1FITkFoaU5KMWJaZ0pEVThRSjc4cl9qMXdSdDdWOWVFbzljV1BrNHdMNDV5bmE0SnFlWnF2ZDRWb1dwM2J5QTFzQUVTS1JNZnlVcWRUV2ZVOEM5bklmY3piblBwRC03Rm9pY3hjcjhXekxJRjhNX0xVS05aX3ZTNUxORlhna0U1OXFPZGJhdkZBYVlmeU12Zm5yRE5aTjVfa0g4WHhR?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Mongolian mining company says copper exports have dropped due to China border restrictions - The Seattle Times",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVlUZV8yam5uWUx2ZWM4ekZ3WXJzNUoyaWNSblIzZDBEc3E2MFc3NDE4RHNyUXQxV1l3aTNqNDBQbHdaVU5jREpWV2ZKRnVpeWVEd3VhZ21ucHFSdVlaRG5zN19GZG9wVWtJWEhCbjdIaEY5NVB6U2lSUlgybW1lbnBTZ1l3dGo3V0dNYU01TVB0aW9TX0hMQXhTc3FUM0VuZTNXMWRFUjRHRTl4bGRzSzZ3OS1LLVVIMmdqbFFLX1FuZHRVS045dg?oc=5",
+                "source": "The Seattle Times",
+                "is_premium": false
+            },
+            {
+                "title": "Ballymore surveys Mount Molloy copper extensions - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kdzFnS0Y4S3BBV1dfZDI3VllBY0VzdzZ0VGJ4X3JXb1BaQUVOQjRrZm4zOC1sTndhVW5lamI0QllXUFBDXzFodS1vVUdFSmpOUF9pVU5OcnI3aGpYUjdEQ3VTZFFtYm03b0RhcDZ3Vl81QUlDVUJyTWptdw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper \u2018Sold Out Everywhere\u2019 as Key China Gauge Flashes Warning - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNVZDQTFiNUJfWk9mb1VZS2E1VkpIU0tMOVVzMC1ySS1LYjJFTHJ6VGF5a0dicERoemxzdTc4eUstVEtlb0t3d2lkdldVSV9DLVFRN05uOVVMQlB0aDZxVTVmRmVEQk9lZkhFYk8tRjRWbmYxS0U0NGVkUlB6ZkFFdmtUVHAyeVhFNVBScTJSaEZnb1N1ZkJTdDFnUGxOWnV5Sl9KalRFOC16SE56bEx1RktR?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Copper\u2019s AI-fuelled boom gets a reality check - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW5PUDVDbjZlV3Nnb1o4Z0xhM0pPMTlOZndIYkU1TlFXX3VSajZOSk9PT1prSkVlbmtwOVQ0ZHNmWTdlTUxSMVhxQjlXOVJRbHprQ0huTFFual9jREhjQWwyTHYzMVI0SUpvWnA5MjhmdGxQMV9DRWJVYXExYVpRamcwelk?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Southern Copper Corp (SCCO) (Q3 2026) Earnings Call Highlights: Record Sales and Profitability ... - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcG5ZSE1kanhLMjkzOThnZnM4VHdwWWFtdnYtUEtuUWFOcjlWcUtZRDRmY1dib1JSeWMyeGR1S3czVzhIRlFZd210eWlqUnRKWjRtSG4zajR3d2pJTUc4TVNUaTF6RC1kMFVnVXNmQ0R1REJTenM5TG5hdUNtSkM3R2NTY0lLQnV4QUJpbHpFdk5WcndOSi05OA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "QML drills copper-gold below Mt Chalmers pit - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVlptcDdoVmN1ZnlsN0JraUE1bE5uQ2pKQXIyTmhUNF8tTGJHemdZeDhVSTNKaWQ5emw5S2xVcmpmVGs0VENuWFVmal9sT1dxU2ZmYllnbEtWY3lLQUxuazhNU1lKQzFxVlFhMy1JTE9FQWJFRF9KWDZiNlVLeS1xNjJYZ3cyOTdTSHFQc1BMd3hwSjRsLUtjV2RKaGRDekVYTHhMdTlIbWgzbzIwRTdsSEh2VUhSNkd2ZW9UeTQyWVpfYXM3eVMzZWwwS3pUS0NrWjAzb1JoNG9xSkZaNlBHMHRjYzdTUQ?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "QMines returns copper-gold beneath Mt Chalmers pit - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fWjhVckd3WmxHSC1HOFRfTGxpd1k1QXI5aE4tcU81aVhqQTIwajY4MklPa3FXeHF1YWVVSGJHZlc2ckstdWpfdnk1SHlCeDlnd1JYVTVFUHNlckdybmhRUmJHOWllQzRZMFk2czdnbUp0aHl3WnhHMW1UZkxLUQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Study confirms FireFly on track to be a significant copper producer - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0FuWDVzRi1BZDlwOEQ4YnotRjdDcFVxQjREaloza3Q0N1Ztc1pRcFBvOW5VaUdpN01ZcGZTSzQ2NTUtck9QaVE3OG1CNmN5ZEktcHI5RVJkQlo4QzFfdkNSNUNLUWxvR181NXh4bmd2T1dBVnZHME05MGRmYXdCd2dZd0IwNkotems3eDlsSmlHUkN1YWZfdi1rUEtwV0dtRkNjQzNwdEtuR3Z1UlZj?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Colombia plans investment regime to grow copper industry - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUF3aVlrUk5NU0NfWnlnbFlJdWROOTA0WVVvNnVTdHhzb283dTRobzZES19TR29Xd09uakxacjVxRk1GMkVzU2Jid2VDaXFBRlFBMGZkc2pmQUdWZkZVaHJRX1RUUHlWbVhTUVVrcWVPd1U2Sy0xQjhLUUNHLWZZSHdpejNLQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Super-strong metal\u2019s surge has Freeport reviving growth plan - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEhpU3dQa0FxT0FuMmNrdWtGVHBpY0xvQlpWZ3Mtd0FZMnVWMmdxNERkSGVXcVpxNFF3aXphX1A0bWJ0LXNqWGV2Y2hudFFpczh6SVk5ZkYxUHZ2NW05VDJndjJqOXBTWjlxWi1nZE92S0xzejEtX3dOOHpCN0FTQmFvYWJjdkxaRUVZR3FIbkk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "World Bank lifts copper price outlook by 18% - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YVm9OaTN5TFF2QzNianRkZjd5bmtlTF9zUm0yM1V0YUJ1c1VrUXRNV1VGR2FJWmx6ck9aVlZuU1B6WTV2clBBWHRJcWtON0twZ214cnJmekZwZkxLRFJBY3dFSG9aOG5qM1FHM1daX3o4Z294QVE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Video - CEO Clips: Selkirk Copper: Reviving Yukon's Minto Mine with Strong Copper Economics - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkRoeE54Vkk2akRDMExzVVhZWFJWNXBUbllEOUNGR2hVQUtpdWlCc3Z5Z2h1VEdRTFk3WmkzcTdUTXNiMTB2czdyZVdjRlhrVlc3Yjk3c2ljNVl2TUoyaTl1Ni1WVHpMUVg3aHQ2akd2UWhxckh5cmZMZ0Vmd1NzeXhabGZmVEVLb2dKNmtPZ2tGcm1kQjJRUWdZMFdqOXlwMkE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper rally helps Chile explorer line up $400 million loan - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0g3R2FPU2FISFpiTHI0Wm8zNUlrOGFVdmh2UERYN1poZVV5RzUtd1ZhcUJxOGVaMWNud2hIaTlmRldnMXhXZzI5TUk5bFhrbDhvZm1JRndHX1dzMW9rOGt2UzY5bWJiemk1aExscTF2SmJwS3ljMnpISWt3NXhwenRKbWtYSF9aV3FQcGR4OA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Mining Forum video: Toto Finance pitches new route to copper funding - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkFYZlpIZlJWdlBLZV9uWmxqZW1DQ2xiQmcyb2k0X2VCNVBqWURzUDlXRjZLRlRDaU02TXVEbTZBWEF1a0xqNUdIR2NoUlBTbC1aUnRsM3Q5WEw4QU1UT2hsNk92TEZvVVl0MF9GeEFCMXl4bVBoZ0NJakVZNmFhM0d4MVYxZjNhSlBjV2hSOGVoVS1pVTlHbzNGaW1wNTA4cGNzaEQ1cWhYSmF5M1QxZUU3RE0?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "KAN adds reserve tonnes after depletion - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdmgtY2JFcm5abi1VQkFCQnNSZURZWFVhXzdpZDdlWllaQ05zV0tjcmNZN2xRM0p3cUdLbVotTHBRUFZzRUdMS1VCWlVFd3JHdUUtUFdXUHk2eW90Wm82YWpYZGZ1cFU2NTliWGl0NmRGY2lIWXkwVFI5Y3AzMC1fdEZMOVNKcTM5M3g0TU01Yld2cnJlZTlzaDFJTU9SdHc5Yk9ka3dLZUlwTWJLWVBCalNqeEMtRzlZdXZHcGxKV0FYdUozOGhqdmUxZnp3SElMZ2RkQ0YtdWE4dw?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "What Does Anthropic\u2019s IPO Filing Have to Do With the Copper Price? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlczNXJzdnQzaGoxbkhSOHJtV0g0WWE2TXhIRlVudFBUU3ZYYzZuajk2a2hHTnhzbFRGWEdEZ1E3eHNIdExNX0NBUVlubjNpN1JydEc5OTlhUmxYeGNUNmwyd0pOYkQ3Y1BHR1lodHYzR1EtV2dUWU9aeDg2XzRET3lOcnRxdkJGdjJPU2hzamJMUHdNRUtIZ3o1QTBnNUJDakoyVg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco relocates 74% of workers as Andes Norte remains halted - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTdBSUxoaEZiRTE0dndVMll3YTNBUXpuLV9WMFUtZDlEdjJpSEVkMWtaSnZ6OGFPcXFzMzFSUjVnazBVM3EwQUw2WmpBRGpuaUkyd3g4bGRWX25Wb29IVFBqcXlDeFAzendSMExwdzJ2ajF2RUFaUWZEZVc0WlM1dEloOHBNeWU2eFJJcV9R?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "SSAB tops profit expectations as EU import curbs boost steel prices - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmtaaFZET2p3YmdvN1JNYU9ib3luOVItcEpocmxTQjFjTlN2SkFFN0FUekFFX0p5bi00THJpb2F4Q1loTkc4UlNnSDF2VFR4SjZYZER6d25HQjk0SzRGbFBkbE9DZVZGcGE3XzN0LVRWNlRaU21hQUxOWlV3T2d5ZEtjWDM3QWt3VGNqOVh3eDFMNnZEX3VOS3hGZw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport trims copper sales outlook as Grasberg recovery advances - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlRpT3VkQjVfWlJmREZPSndzdE9sb1NXc2tScVhIRWZYRmpydVM0UGpJTm16dWRuRGNMbWc3b1B6RENtT2I4VkxfU0k0bzYyNFNDcDFkUzY3VHk3UVREcTNoNVpUeUxsOV9BeUFzVnM5R3R3N29ZWjNHQ1UyOHJVd3QyUmt0aTJaZzlmb0dIdi1sRXhHZE9YUzE0NDJnNDI2dS1CYTVXMlZ0Nm5aZUZtY0h3?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Here is What to Know Beyond Why Southern Copper Corporation (SCCO) is a Trending Stock - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1ZBeTExVXBPeXBfUEVMMktBYjVSOWJLaVdjSGp2aFZoUU5HTFFERGtZZUtabW5zVm1kMTQtTXN5X1JzUHZEa0p3emxUUlhkdEtvYlhTQlRsWE5FQ193X0ZpeF9QZHFyTEJaVnBsczlWSndZX0lENFJhYkZ4YkxQWVJsbmtEa0NOeE9lUUZ3bGNGQ3FCSHg3ckllUTI?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia's president appoints new mines minister in cabinet changes after election - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkJINDNWTi0xMlhKWTBGWWJHdTdlbU1QRWZ5bnJBdmN6aUtRM0xYRDNqSzZhUXNMWUhNY29SZnViemFWZHRZZFVGMTNUMzhBM0xWNkJoU1JFN0Y4QXJOMXA3bVViU3hSZ3ZhekYtblZUR3VvcG5jY1d5cDdLcWFWZ282VlFnZjd3em11cGZDQ0VaZjBVdkpFdmJWbDhjaHE3SFFqbW90RkhxUWJYVnhvY0N1Z1JpODg5aFRPSXdENFIyYWM?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Copper Nitrate Plant Setup Cost 2026: Production Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXdtV0xHNHNnZ2lJUWREa3NIWFRpbll5WjA3TnhGZENkMnd5NTdJd3pWbDNOTG5hM0ptQ0xKOGVFbXZla0hfdjdINU1wNjIzVnp4S3ozV0FzaEU2SUk2Wnl0UGhkOVlDY1FCUXhWNFY3UzY5UGVyYy1VNU1kSTVVLXFYM19mZ0JNY0RRZnBhT29GNGtjcWlnaU9HemJXdw?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport tops profit estimates on copper rally as Grasberg recovery continues - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQalFCU2NHdzZWZVdwdmZyZEhXSzJPeUxHYTZ3NE1QdkptRTZMbi1uTnFoTS0wRW5ocktQc0VXNnB3RGVzYnhkSURiVFNvZWhVZnctMW9tQzhYY0hMMUJYVnNEcW8xV1R2WXYxcTRsNF9RU2tmQTlOSTFDX2k1dEVTNm9CaFpPRlNqcjVFeUdhejhlRThjSUI5Y1p2eTVQT0ZiejBoTWtDTnFUMEdmTnJhbXdNcUpXbGtKTXRpZ1RKX3Ztb0E?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Webuild, Odebrecht in line to build key African copper rail line - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakdNdEoyTUxrbWtMNVkyVWExbk5GVm5QeWdQMm1jRkwxcWJMSjVyV1J1Ry1IVWlSVnBkeWxFUXpEXzBwY05zWVhpT1FuaFdONXA3WWV4VnNfalBsSC11ekZzSEJzb1NPS3JmbmNnRUlzRnZhNjlha1dxb1ZXcXFaMVRkOUhDQVppckxzSmo4NnBpbUxVYmc?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Antamina copper mine halts operations after worker death - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzdpanlSanhrSGtlcFR3MzFFWGpQWkIzcTY3Ykw1bGNMNl9TaFJHY2tfYm83TGlMamhDRllUOXpqbFR1ZVlFWnlXaFJNZzUwdGRWcFRTU0dQNEFLbDVUUlJMZUQ4QURhbnlMMy1wVE0xYWNpVVJiWGRNVjFmeDFmdkZHcFpZSTFhWHZMbw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

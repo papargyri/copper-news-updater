@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-29 12:11)
+
+- **[Teck Resources reports higher copper and zinc prices help boost Q3 profit - BNN Bloomberg](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEF1RU4tdFpqbGpDczJ0WWk1ajNNUi1EYVV5OHJOMW5TNmMyZzVmTzlkZGhob2VZamlvUEtCX1lnUTRnWVlCcU90SU5IbVVnOWVJMVV6X1NSS0R5SDh5UUdROHplajMtYmZfQkZXSF9DVWs4QkZkc0RiUW4zT1FNSThpVE8yT0s3NU9WMzc1SkZKNUdCR2tDc0FlZmFRanNvM0MxaEpqRS04QTNBcnptRC1lbllSdURPMFZLYUtyVWNFWEZvdHVTSTVkZlAtaVd3?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-10-29 11:46*
+- **[Copper ‘Sold Out Everywhere’ as Key China Gauge Flashes Warning - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNVZDQTFiNUJfWk9mb1VZS2E1VkpIU0tMOVVzMC1ySS1LYjJFTHJ6VGF5a0dicERoemxzdTc4eUstVEtlb0t3d2lkdldVSV9DLVFRN05uOVVMQlB0aDZxVTVmRmVEQk9lZkhFYk8tRjRWbmYxS0U0NGVkUlB6ZkFFdmtUVHAyeVhFNVBScTJSaEZnb1N1ZkJTdDFnUGxOWnV5Sl9KalRFOC16SE56bEx1RktR?oc=5)**
+  - *Source: Bloomberg | Date: 2026-10-29 05:14*
+- **[Copper’s AI-fuelled boom gets a reality check - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW5PUDVDbjZlV3Nnb1o4Z0xhM0pPMTlOZndIYkU1TlFXX3VSajZOSk9PT1prSkVlbmtwOVQ0ZHNmWTdlTUxSMVhxQjlXOVJRbHprQ0huTFFual9jREhjQWwyTHYzMVI0SUpvWnA5MjhmdGxQMV9DRWJVYXExYVpRamcwelk?oc=5)**
+  - *Source: Financial Times | Date: 2026-10-29 05:00*
+- **[Zambia's president appoints new mines minister in cabinet changes after election - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkJINDNWTi0xMlhKWTBGWWJHdTdlbU1QRWZ5bnJBdmN6aUtRM0xYRDNqSzZhUXNMWUhNY29SZnViemFWZHRZZFVGMTNUMzhBM0xWNkJoU1JFN0Y4QXJOMXA3bVViU3hSZ3ZhekYtblZUR3VvcG5jY1d5cDdLcWFWZ282VlFnZjd3em11cGZDQ0VaZjBVdkpFdmJWbDhjaHE3SFFqbW90RkhxUWJYVnhvY0N1Z1JpODg5aFRPSXdENFIyYWM?oc=5)**
+  - *Source: Reuters | Date: 2026-10-28 10:55*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-28 12:01)
 
 - **[Copper Wavers Near Two-Week High as Traders Look to Fed Meeting - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlxLVRzdXdET0JOdFpWX1JPX1ExUVNtNUFCZEhlenRPOTR3cVBFYkdzVW1ycTlpOS1pVFpTSEI3UjNIVzRPa1BSWHNkc1Y3MjNyQ2FmbEI1dUxEMnBOVEw4M2RLRzlRZGd1OUU3U1ZoUFM5MFBYRUtqNy1UcEZwcm9jRUo1TjV6Qm5YNWZIRzFiWjlQSVVWZ05udFZ0U1RCWl9TVmhITFYwRDVNSkF2a2gyRVg?oc=5)**
