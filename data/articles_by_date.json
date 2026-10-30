@@ -29128,5 +29128,186 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-10-30": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 29,
+        "articles": [
+            {
+                "title": "Copper Declines as Tech Selloff, Oil Rally Dent Risk Appetite - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzBfN1BnUGNHLU51amNfNTFubUNBb3ppbTFRMmg0NWFTcHk2MC1iVHBqeU9RdTZsTHZNbDRyN1VRVk11UzNSNEdKeXpmcDF0dGJsU19HWWg1OWkzbzZoU0lDVWxqUXlac0xhenRZamR3c2xqVnNibXMwcXNsejJINENDLTFxdnVTdHdpV1RYRjlsaG1EVHpTQ0FMMG44cC05TGl3MVBTSllZQkFaTjZ0YQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "New Analysis Finds that \"Cobre Panama\" Copper Mine Could Generate Net Losses of USD 23.11 Billion for Panama - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajJCRFRfV3duUmlreGZocFNubFl1N2gyMXp4R3A5dzFiN0dkX2Rpa25Ya2tXdFQ0LWFQZVUzVldFRTN3Vzh4Y2I2Wk04enVzb0RIUW5KQmRJcGRVTHVnT05qdzRnclpaVVZqNjhfN3JpS0NRN1V3VHg4aTNQWFBwSzJuSFlnbW01ZWVZYWNKdVZtcy1YZDJ3VW9NWGRzZXpk?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminium and copper battling for electrification dominance: SMM - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1NZUVd5YnNzUEFzSGhMRW81WG94Y1A0WC1FNVpQa0I1MGpyb21BM2Nzekl4Ul9pRDdySXRyaVZjOVFxRm9fMFhnazl2VVp4UXYyY2YtSHZWeUtndE9fM3VPdnRCbkpPemJ3WTl5WDFEOEs5MDNESnpFMUJHRFpXYzBxLTdqSGo3Y1YtV2dnZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Philippines cracks down on illegal copper trade with Cebu arrests - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmQwX0NpZDlxNmRsSE1GYTFrVHZYek0wTEV4TE9zN0FidlUyVTVMV3dnSXE5Y2xiRWJzMHpJU1I4NldzNVlEZHVIRTFIcWpqRDFSTTg3aFRmZlFVc3JqamI4eUZGVXJDWVdxYWhEMG5hSS1XZmNka185MC1xNzc4LXFnVVR5eUIwRDRFZnF1OTR6Zw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Vizsla Copper secures Alaska deals worth $36.2 million - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUhlRHVuSy1kQ0VqVWdMS1lPUzBUX2ZRbktXenlyMXctR1FDWERoMXhWTi0yc2s1dWw4a0dQWDFhSlFYT3JxUlloa0c4MVNlbUU0UUJqSF84Z2NqM1dRSG9JYjNlZDJkS1JqT2xiclo5R3VEYmpIbU4wU1lrVFFESGtR?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Pivotal advances multiple copper-nickel targets at Belleterre - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUkZhWjVGUXBBWHVQcWxBdW5OelhKcVJ2Rldad0tucDl6Q1czNzN1RHF2UGJvU25UYnBBRGFGcnB0c0d5aC1aZUc1b2ZWdVBwVVdPYktWSjkxRHN0WGFLWVhBSXhTMmNBRFZ3c29jaFR0dTlWVVlFLTdPZEtiYm16dDhXRWVHV0hISzVLZA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Cyprium lines up $83 million funding for copper complex - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXpIeGZKR0twY3IyVnRIZFFlMnNPdDdZNnlZbllSeU1YVTJXQmxYLW14VDdOLUxCVUpIX0FqSkpEUklabVJVaXpmSk1aNGI3cGp5cUhHMmMzdGdLWWw5OTJHVXlKSW8tRFpieEpKcXR2LUVEcjJLVHBUUWMxekFEUWtzWQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Infinity lines up Cangai copper sale - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NY2s5ZWFUYWRoalpQaUVhMUhwaGdJRjF1T2JuTWI2U3VkNjdjTllYaFB5dExPNEVDeXZxNjdqR3VZWTcxZHJySDNWUlJNTFlzZ2pscXdpSnVpbkZFWklyaUJGZENqQlNhM2F3?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum Minerals Ltd (FQVLF) (Q3 2026) Earnings Call Highlights: Copper Price Tailwinds ... - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjFzaFBiOE5pYmtWYmRkM2J2aTAzSHJpSWRPUnFrM2V5VjV1TF91NDIzU25VdFVDS2txNUFQZTh1TVlWWE1qRDZ5T3NpdjNLbTdsS3hPelZfSUREd2tab1U0dlNJZFZVUkhIM1JuNkpUNWJCOENkTkNLYkc5SFIzQm1SdDJ0MEhXbHFhQmd0eTltX0ltZ1NkZzd1SVJFMURpdEJ2SA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto\u2019s Oyu Tolgoi Copper Mine Halts Underground Operations - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkdLbHYxdzFHaTJaTTk3eUphbDRUSmxWR3ZEcG8tLUtjNTVUQS1MOUFWclRucXBRTlpWZjRGWXBwck1UR1ZYb1NkVjRuYmFuVGZid1VZVDF5VEVVcUN4aGxZajI5UjRTSHdUSzN2Y3Z4TVpsYm4xUzVsNTUyRFB2LUFSVHNhSG5FZ3lnR1huUHJrUV9OeTFRajFWUHVWbmlpOFVZNlFUTG5YQ2N6a0VZeg?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper price slips from two-week high as cautious investors stay on sidelines - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWk51WERUWWh2Ym1ldDVCcTdNby1CLU9TVlpDWGVNY085MFhJR09zRGd5b1FTVzZkSTRrbUF3dEpXcTBka2x1WXNRYS11djd3UHBZSE9iWEZDc252YnAwRDlnQ2RrR1hJb21RU0NaMDZXbHhuZlFhRTY1dW53d3FIRVhHNXF3V0t0czRRRG0tNlFuQTBjTmEzVTI5S1puZWZLclE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto pauses Oyu Tolgoi underground copper mine after seismic event - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbWdGN01vdmJOX210cnpnYUNHbzNYUnB6MG00bTd1MzlFQVoxNEJxZkFGOGdlU1ZnTVVZWHYwTDVDWkN6Z3Z1OVhqUDhtWVNMMGNDMW93Y2k1cUpEYWthVnF5VHh1aFprUHMxMXpwTWpwNHBxekgwaHRaS1l5aW1sakotQ282ZFlPZXFSaEx3Nl9xV2NHblhqaWoxZ2U0MEFySDdLaDBtODJ1eUdiNEJTRFhiRDl6MFNrYWRJ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Iron ore prices drop below $90 tests high-cost supply as losses mount - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1lXRTJ2LWllLWRVYTVkbWdVZDA0R1EzdFFJS2h0YzRsdEg1OFRNNjZjQjZGdWJmb0Vfcms3Zm5xQXFhdXF1QTgwRkw2XzdYQXFsLWN0M3diRXVXOFJtaVJJY0gxdDQzcksxRTVQVkY4UEZNWlhaWWV5RldMekJmR0tZU0R5aW91NkwwSEpQWnBuWGdHaURxS2JBa1A?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper Reports Third Quarter 2026 Results - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcl9vbzd2bGtPRGNHUzNIZmlVd2VqYmNnZHd2eURfajVfWWhraUNnVGRadkFFWFNqaHpLZlNkejFTakNSa004MWdCYk9KX251T01ySUltbVhVWFk1LUlwdkxQb3RDR3BWQUxTOGlHanNhMUtRMnZhS2N4Q2lIaFo1cVBzdUpucy1keWZmM3N2UnU3OWtEdFQ0ZDJwOUJjX19DbElkU1poZWkxdEU?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Boliden cashes in on higher metal prices as profits jump - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlB2ZUNiNml6XzRkZ3YyRGJjVkRUVzY2RkxZRTlrT3F5NmdQQW1TelRzOHFwZ3JKcWlrSjFYSmNBcEN6TEZJY2NFVnR2WHV2dnFhbEt5dXBreGdraU9KZlFBUER3RHZqRWRKVUYzY1ZyQkZCdXgwS05oY2IzRTdBRVVmeVR6QmdwaVZBSA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "China border checks cut Oyu Tolgoi exports by 70% - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjMW9HTTU5eUJ4bXcxZG53aW1aZ0kyY0ZYZ1BMNFg2NE82Sk4zWThTRmhURk1hRDlsdXlvMXBDYXctZ2FwX0lON29ySFl1VVpHcTNfRVV0ZWF1MG1rckRSampMbTVtZDNhbFMyeDdCYWFHaHoycm11UGVHcUk?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Teck Resources walloped by extreme weather during Q3, but sticking to targets - BNN Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdDh0YnRwQVRQZ1ZGdWFCTHg5UGRWREpEbkxiRVhmcU9TOVBGSFdkVHhuTkFYY2RFUi1JcmNkZlJuN19YR09oa1V4NHdMOXg3UUxpMENSNEFCd0UzZUVUejBHMWxlSnpyZjNsT0N6ck0xMmVHZ0ZnaVdMMUpfQ0x2SDlJa1p2TVd1d1VMUkFtVmFOcDFmcmhZQ3cwMnBkaGJPNDZYYjZXVUd2NDlQZGhZV1FDa3VXYm5lT0V4Ui1fSU1lXzBUbUotdFI5QWdEWVJtdzlseA?oc=5",
+                "source": "BNN Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Copper, nickel at risk due to El Ni\u00f1o\u2019s disruptions - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80cDNlSFJ6X2UtS1doRXRKZUV2c1VNdG1TaER3UlczMjBBay01X0lwZHBsRlRNdGlYeGV0d1FrRFFjWERYYXRMaXdfUTQ4MU1DVHZkdmNNb2ZRcjlicnlmb3FhYkJLZnhaM0U3TDUtSEY4Q1lDdWVsUHI3dkRYdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Why is Teck Resources rising today? - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ19rZ2NUVU9ScXFraEE3TTl4MWdHTHNNcFoyNzdta0tNMnUteU0yNFZvWnJrOE9KUlZwLUw1dHE2dXBNNUVIYnFOcS1GbEJFWWE5NlZUc2E0TTVqRmxSOUp0M1p4VVVwWTR4U2hoMzFIZXh1WHh5LU9zbTNQQk9ydVBGalkzU00?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Mitsubishi Materials to end copper processing operations at Malaysian unit - S&P Global",
+                "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQWJ3b3UzVW9LYTRGSlNHQ3hZYlBhbGsySnJuWklSM3ptcFFacXR2TkV6UjRNb21uekNnVDBvTWVLbjlDd2ItSWF0a04zYWwtRlZUYzF3WVltSUE1M1NvV2wtbnFVdlJBMTRLaVVXRzlXcWRNS3o3Nm5BMlZDeTVKN0VjUWhBVUcyWnlXZUdhSVJVTUZsRGVxRWZJZE4zQlc0QUVTdXZUb3NFUHNwQmcyaXE0ZXVyb05JYUJ3UGpxTTBxNlRzMkw5MDluTDNLQXpxS0U1TGZ1UGVac2JwRVhtaEc0QzhvWmRZRk1ZRTZsaHpteUFkQ1E?oc=5",
+                "source": "S&P Global",
+                "is_premium": false
+            },
+            {
+                "title": "Komatsu lifts profit outlook on construction, mining demand in Americas - Nikkei Asia",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTE3TDlkRjZJT2hWNld6Vmx2NjZCV3FHRmEtVUdGUUVKSW1LTjZHbVREeUJzaWZNOWR6bTgyUndMSUFxNllPY3JfMUpxamJHaU4teEp5STZTN3pBSTI3akplc0JTbVNUSXAtUHRqU05mUGdCMlNhaGRoejljNV9xb1QzdF9CYmZtRnVWSk5zaE1ZRXpmQXpPUkZNUW9DdmRMLTI2T2dxVXJuOENOV2V6QTFrcw?oc=5",
+                "source": "Nikkei Asia",
+                "is_premium": false
+            },
+            {
+                "title": "BC-Copper Futures - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkJDZmJwRFlDRXVUSDJBMUdKMVJxTnd2SWZ1MlFlek9XZWdUU3Z1N254WXFOZ1FkMW02VW54dlVQZmFTeGI0TkFfbEpLbFp1eVB2TVZzbWh3TkRkZjI1MnJUc1dscEZubW1tc3VMYlpkZF9PdDM2THBfa0tKczV3Q2JUTmFHQTZDekpBU2NTNXI?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto assesses new lithium plant in Argentina, copper opportunities - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdmZZS25mOU9jNU9leF83bndGR3FaZVpLZjBmX0ZrY1FGM1V5cV8yaldOWHpmeTBxMnlGa3FJWVM0UjlKTGVPaGpZSjRZT3hlWER3eDIzcjRvTDlBUC1TWFVDb1JMWHJmYnQ4MlpRajl1REhiT2RNT3ZyZmNScm8wdnVyeGFEQVpwMG50UFNMWXdIWGk5b1JfYWpYSzNqLUI4cXdFWWExcnZLMmV4TFpGNVdXeV9mY21QOWc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Teck profit surges as copper prices hit record highs - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzlJWVFPcl9DaEVhYzhJaXU3ejQ3azhwQ0FmZ0xveFNkMkZZMGZlY1l3bzU3dXQ2Mm1VWkpaS3BxbHZyZnJIQmpVMUw0MkkxODVMQnhLRnotXzItZmJFWFlPdXFIUUhVRTk4Vnd1TmpCQjJEVU1wRHZST3BkYWFEc25B?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "US copper stockpiles conceal growing global supply crunch - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHV3LThGSVpqMmM1NDBRbmV2OEdFZEFLaGxmaTdTSWl6Qy1TUHE5S1NvMzJzVmZidnJJdEQyNm1iSjRMdjNPam84N1hYY29jUE9rUkJjT19JREZKdlRIbUdEMlFHRVhRclJHNnR0WUNHejdGRDIwVnpwNXNPdEUwTW80d3lLRUlQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Is Southern Copper (SCCO) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWs4V1JldS1vdGp3UTM1WWVkOHk3Z0dicGh0TWMxZmJQbHJ2R3Z2ZGdjcUlOaXdCdTNJZEV1ZUI2WDRqX3kzRnpiUkxTQzdhSFhEODd1WmxfZGRkdHZwLUhLSGpJY0k2WTBVWjNkQlNwSEZ0djByUHZPa2k5U1V2cGxSS05OckZjSHRhRDN5WUR6NWlnVHktNDRRRTdmNVlDdjRZ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Mongolian mining company says copper exports have dropped due to China border restrictions - The Independent",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXM3QS1KNWEteEVGS2ZCdnI3RlR6dUMzZXRlcUxVZFFmUHZxYkQ3cnZ1ckVfOWUyaWhtRDBjZ1Z3ZEdkQ3JCVF81VzlCc3RQWjMtanZBWWwyWUVEZjNfTXlNdjhsLXZXNVZVYWtlb19TYmgzVjcteVVGS2l1WGR5X1d3NTdOTTBlaG9FUTQ0WQ?oc=5",
+                "source": "The Independent",
+                "is_premium": false
+            },
+            {
+                "title": "Copper \u2018Sold Out Everywhere\u2019 as Key China Gauge Flashes Warning - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUN4aktDOVFvUE1vdzY2c3ZsUEQ0UHA1SHFKcFdxQkw4RHoySzB3MEVhZktyaWZsaVJoZXotMDNjWk5tWlZXNlB6RFpNX2dMRWFIQy1aWXZKTy1VbjIxM2U4SkZSa3NDVzltY29tc3dlVF9DMldESlN3R19YbG9XeF9SbE5mU3Q4?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport trims copper sales outlook as Grasberg recovery advances - Canadian Mining Journal",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTW0tWHlCZzVxVG5xTnpOcE4tWjNGc0pfcTkzVmxObnFjUG1SX29fYlljV1BHLW45Yl9wMXhMR1FnNDBCcWY1alNoTTVmVVJScjc4a3VKMTF4dTZjcEdqTXF3cUJpaUFtWE5nOVFSRUVHM0lqclh3QUx0TmdvWHlqMWcyYmNHNTJ4bXJ0enZGbWYzRXVoM3pjSmdYS2VfTV9yUzdsTjVSemI3WTB3ZHc?oc=5",
+                "source": "Canadian Mining Journal",
+                "is_premium": false
+            }
+        ]
     }
 }

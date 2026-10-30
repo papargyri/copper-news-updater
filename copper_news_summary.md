@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-10-30 12:02)
+
+- **[Copper Declines as Tech Selloff, Oil Rally Dent Risk Appetite - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzBfN1BnUGNHLU51amNfNTFubUNBb3ppbTFRMmg0NWFTcHk2MC1iVHBqeU9RdTZsTHZNbDRyN1VRVk11UzNSNEdKeXpmcDF0dGJsU19HWWg1OWkzbzZoU0lDVWxqUXlac0xhenRZamR3c2xqVnNibXMwcXNsejJINENDLTFxdnVTdHdpV1RYRjlsaG1EVHpTQ0FMMG44cC05TGl3MVBTSllZQkFaTjZ0YQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-30 10:45*
+- **[Rio Tinto’s Oyu Tolgoi Copper Mine Halts Underground Operations - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkdLbHYxdzFHaTJaTTk3eUphbDRUSmxWR3ZEcG8tLUtjNTVUQS1MOUFWclRucXBRTlpWZjRGWXBwck1UR1ZYb1NkVjRuYmFuVGZid1VZVDF5VEVVcUN4aGxZajI5UjRTSHdUSzN2Y3Z4TVpsYm4xUzVsNTUyRFB2LUFSVHNhSG5FZ3lnR1huUHJrUV9OeTFRajFWUHVWbmlpOFVZNlFUTG5YQ2N6a0VZeg?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-10-30 02:31*
+- **[Teck Resources walloped by extreme weather during Q3, but sticking to targets - BNN Bloomberg](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdDh0YnRwQVRQZ1ZGdWFCTHg5UGRWREpEbkxiRVhmcU9TOVBGSFdkVHhuTkFYY2RFUi1JcmNkZlJuN19YR09oa1V4NHdMOXg3UUxpMENSNEFCd0UzZUVUejBHMWxlSnpyZjNsT0N6ck0xMmVHZ0ZnaVdMMUpfQ0x2SDlJa1p2TVd1d1VMUkFtVmFOcDFmcmhZQ3cwMnBkaGJPNDZYYjZXVUd2NDlQZGhZV1FDa3VXYm5lT0V4Ui1fSU1lXzBUbUotdFI5QWdEWVJtdzlseA?oc=5)**
+  - *Source: BNN Bloomberg | Date: 2026-10-29 18:11*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-29 12:11)
 
 - **[Teck Resources reports higher copper and zinc prices help boost Q3 profit - BNN Bloomberg](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEF1RU4tdFpqbGpDczJ0WWk1ajNNUi1EYVV5OHJOMW5TNmMyZzVmTzlkZGhob2VZamlvUEtCX1lnUTRnWVlCcU90SU5IbVVnOWVJMVV6X1NSS0R5SDh5UUdROHplajMtYmZfQkZXSF9DVWs4QkZkc0RiUW4zT1FNSThpVE8yT0s3NU9WMzc1SkZKNUdCR2tDc0FlZmFRanNvM0MxaEpqRS04QTNBcnptRC1lbllSdURPMFZLYUtyVWNFWEZvdHVTSTVkZlAtaVd3?oc=5)**
