@@ -29430,5 +29430,54 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-01": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 7,
+        "articles": [
+            {
+                "title": "Cobre targets 400% growth in copper production in Chile - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakhxZDFzT2hjMGdxbklRUjUtSWxJU2NuaERKNzN5c293M1MxWUJjYnJUQTlUMWtqT0JVZFo4a0JuU0hGSjdyU2dvbUxZWHJoYjFiWGxCb1lYalpraXRIb1Y2NkRESlV6VEQ4RHo5VFlvMWkwczdjNWY4c1dzNGduak5vSQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "A single mudslide at Grasberg locked copper into shortage through 2027 - Startup Fortune",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVF5ZE9TdVktUXZLaVFQOWNXaDFNS1dHZlRRRUV1Qmtqbk5vWl94dWZNNUV1TGNldDZKb1hDSlM3QWFJaTg4WHl2Q3JwVnk4SlJfU25LRlVqcjRJajU4ZmV1VmZlYThGQ21QVU1SYk1VbkZqLS1VV1JQRElTNDRQOTRUMGNhREpVNXhiTmtoSDZtUm1rYWw3bVhBN0Q0SDA?oc=5",
+                "source": "Startup Fortune",
+                "is_premium": false
+            },
+            {
+                "title": "Teck Resources Ltd (TECK) (Q3 2026) Earnings Call Highlights: Record Copper Prices Drive EBITDA ... - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVgzalVZYmtzRU1KYlNpYkdUZnBHX1ZqZloyakpxcTdDN2JaWkZwZ3hCVzd4VjkyMlJJenpSYU9BekFTMFNGUzFtaHVCdE10RDVWbUE0RnBMN0p1bDVWdTlqMU1IMTBwOUlnSTZxM2VNS0hpOGgzYXJzekk0d1kxNGdzWDNDdEVNanFwV1pQNDNyZmdhRVFydktmYnM?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto: Good Price To Buy And Hold For A Strong 2027 (NYSE:RIO) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3lnQUVzRGlHY08yZDdaeG0tT1NaZTh5MjhqMDZqbmgyQmlFOE5TcVZLNnkwQ0JVUHZhdWxpaGlKUlM3WHNOUERoYUIyWVpNSEplNmZCWFdfUU1iZ0RzV3NNS2pLT3Y5Y3J0VlhZampSdy0zVUV2N29XZ2ZQa1NncHpVR0hra0hidHVVY3k1TXgxN1lYcU5XQzlSMA?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price set for first monthly loss since June as AI spending worries weigh - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFlFXy1ISG8tWUdSWXRXc2steHRhWEF1bzAxZm9JSXpHemlxd3RBZUNHanFVT0VqSHM0ejIwcGRaR0FjcGFVSGdWZVhDb05tZVA1Wncwb25DVjgwUzNVekRRSTNxSnZjQnlFcWhrTHFNTi0xXzcwOTJGbG1lVnFOZ0VMWDM2ZkR6eGQ5ZDJJeklYQXFoMS11RlY4VzlZMWFmajR0YjBQV3ZLTWs?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "World\u2019s no. 2 gold miner says diesel risks driving up 2027 costs - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjFtNmR1b0tZbVpkYkd4ZWZQeXJvSFJtWnpoTUhNbjdOYTNucGZ6Y1pBTXJzMnVXZGlTWU80ZFNmeDRyLThjRE1JLWxheERuaFNWT18wYm4zbkhWcjg3WE5TMVgtVjVrS1ZkaFdleXh2cmY1WDE1SmFNMXhwT3lPUmhTSktIYW9LaDdKZ3otWkVsQXNw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Lynas posts 55% revenue jump on record prices, flags plant shutdowns - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUS1veVo2SU92UGk0VGhFeElCR1J4UWdwOEtiYVlnelE4UVkxcXZ6dFJvOVI2Ty1ySXd4WG5BSEtTRlN5d0s5RWhuQmo1MnV6azBqa20zMFhVZ19BOEo5ejNqNEEwaGdKQXhFSFRIUUI3MWNSeXNhMUh1UXNlYWdscUZnNHRCUEprMkVaNzl1Qi1nNnQ1RU5Sb0N3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
