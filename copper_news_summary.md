@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-03 13:31)
+
+- **[Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1czb0ZkMWd3UVdFOV9OQXlKQ01WamJqZ1N3UThFTVpRelVBX0kxbnNZU2U4b2pvSUNPWnRRYll2NVpXRHdIMktRbkRzZXVUS3YtLWJYbi1RdXFrNk1veGhfMFVsckVqZEF2TDVlaVY3V2RBSW1Eek9kZThKR2FQb2dPQWxraGFKbllXY3gzVE45b2p0S0NrRTlTMnBpWjNKdEpJeFkwdktDeW9MR2h6TnFB?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-03 11:45*
+- **[Congo to Probe Illegal Mining After Seizing Copper and Cobalt - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxNODZYdnhGd09Qd1BEaDdnbzl1b0owWlJVcWMwYzJnYk5wb0JYQjE2RjllcmVSaFdoblhlcUVJMDRRaVNyZ1pWbXN6ejc0LUlwVVZfOUtIQS1ZX3Z0cTgyQkRCUzV3RmNqRTVWMHVvSjNlbFR1VFg2Y0lYMmpaQ3hXMGFDOWJkQkRMWDEwRVljNjJ5Wlk0UVJ6ai1iVEFXWjE5SG1yTlpucUZFckptX2FBTGd3?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-03 07:25*
+- **[COMMENTARY: Copper concentrate pricing slips into the shadows - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjAxNUlMdDcwUGlpV3g0dW1yRmpRNEdwOEY4UnkyV19PZU90OUdwQ3BKTC1oTmpPak04Zm95b1ZKTVk2aXozMEJYSW5PV1dweF9yRXRqVk5YSmtWbWxLZ042cmhLaHRlXzNmWlgzeFVWQ1huNDEzZnhYRHlLOE9JcTZHTk1KZndpNkV4T3VYcllRbWEwT0NrY0NIRzdpNW1iYmphM0JmUlg0ZG9BRXNrWk16UUI?oc=5)**
+  - *Source: Reuters | Date: 2026-11-03 01:00*
+- **[Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFkyT093bWFlenU0eEFuY3ZfVmczb1VRclB3cTlBdDVyME9TZFctSEVZbGo3amNjTVdXc3hBZS1ibXk0QlotUFpDUTNscURad1FjOEJrQ0Izd2dxQmJzYk03bTJsNGswVmloZHN4cUZ4QngwTG40aS1sZDRKdnpuMnV6QVk1ajl6cmlyM0FQc1FYcFRUT0FNMEZ6NzhlOU9fQ3RFQU9oM24zVmJ0LUZsaUhxbzE?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-02 10:12*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-10-31 11:37)
 
 - **[Chile Copper Mines Deliver Worst Quarter in at Least Two Decades - Bloomberg](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVndhOXlmaFYxSVF0NXE3ajhXdExiMEVKME5oNXlEUTlhMnZybThCMzVacjRBQWxTWHpJUkZHcm1Ia0RBd2dmZDQybXhOQlJMczFUek1GWndjVHNJTnhDV2ZURmIxaDhNLURPYjdxWEhqb0N1dnJvUzNjMmZlRWRoNEtIWFBIajdNV1VxQTVkbzYwUHk3TzVDekpjR3FiUW9xUGFaVDdZRUc3OE0zTWdHYTFlY0podw?oc=5)**
