@@ -29769,5 +29769,174 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-11-04": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 27,
+        "articles": [
+            {
+                "title": "Michigan mining push tests Lake Superior safeguards - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTdGd2ExRVN5QTVIRlZsZThVc1FBUGx3V0NhU0QzT00wTlpCcWlGUndUb0ltNHBmNjNXelowazVYd0s2a3NZYW42d3JEN2JsNG5FUE90Q0xmb2tIdTBHQ29LaU83d1FGWFZDQ19ISERUbV9GcmVGQ19aeHZwNTVHRW03YU1TdV9WRVVKX1B0RzNuaE5uMHlXWndQVkNBUGc?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "60 Autonomous Electric Haul Trucks Achieve Site-Wide Operation at 5,400m Copper Mine - The Manila Times",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaU01Zm5hamt4aTdHUW9XLTluWWhhOTdTMGU3bG5fZHBrT1c5a28zZzNSTGthbjZGa2RkZ2g4RzVOWVhYOHZYOGFvazVrdDNKWjRtNkdRakQ3UTZmUnRMSGtLX3dTa3V1aFQwUl9Na3Z2Z2J2SGM5YTRKZllMNnlwZ0E4RC1SWnl2MWJzcEdkcnJwZGRua2JWS1pkcWljcTBDUjhyZFhvQVFEYUhOcDhsRF9hUndPbFUwMWNMSkZ2Z1BYam52SzBMV3o5bFh5cGFJZzJ1Zkp0ZGFPT0thUElCUElxRVhlVDlEQ29N0gHwAUFVX3lxTFB6eVhsVkhqTmNvaFdCeUFla0JmYzlzbmJkVVhXMkFnbmg0d0h4QjRZMmpQTWVMbmVyTTBHWmFEd3ozN2FRMDNVVTJVc2NMdS1ubXFSUlpNTlRvSmwwdFUyVWE4dEVyVGplUTBYTkRHRlpOYVBWWVVPbjNVdW41R0tNMUx2QklzeW85Y2FLeDl4bXUzWURiX0pmZ2ZjX0I3UWZDVF8tNWNrTnBZZGVSNGZpTzJCT0NNN1AxMms5QmJfY1N1c2FVMGo3ZkRkbFVEUHRJTWdHUHpiSklJdDhFYXU1US1ZM3B2cTN2WUU2aGNabQ?oc=5",
+                "source": "The Manila Times",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Hemisphere Mining looks to grow its 220-million-tonne copper-gold resource - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHBBVmtHTTM5Qk5ZdjkyUzZjS1RvWWFFa1dmVkZhOHk0TnlXcF9XNGQ0VGJYM1FWUTQtQkV3N3VhcjFhWmpXTUUxRlRyZllhRHVVd1Q4bkJZeklmbk5IWXAzNlFCSDd5c3NQY0dDaHk0cldPcEF3ZDhYWHBLTUtINmFqTmItaDhKSnEyazM3RThnODZYODRndDBsSjN4WWhqNERJbWotU0Vidw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price claws back earlier losses after US midterms - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2RWcW1lLTRBVS0zc3VWRzNWbkh1czZOamZ1WlEybHkwRzlsZ0pyUFhTZ1pTR0wta3RkOHpLQUhnQlp6RU5nQXVibHQ0N1hWODIwMURQQTVld3Z1aFExZ1hRTzFoRXhWT2FvVHZETEdTUUl3WlJTX2N3VkNGOW84R0hGU0RTZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper and conflict trigger profit surge for Buffett-backed Japanese commodity traders - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlNreXE2T2dFaVF4b29hdkFLUVl2dDRtV3BsSldmUEoycFB3MkxoYTV3MmJKWTdmSUZjVjBSRTd5Q2tzbjNKbE9JX1Y4enR6TDRFUVlMd2h4WHM0T3JkQlRieWtNMUtiX09oSTJrZndCNjNtZlJlc25saTd2Q05SM0dZb2k?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Archaeologists discovered hundreds of stone hammers at a Spanish copper mine that likely traded its metal with Scandinavia - Earth.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHgyMC1nNEVDWFhtMS0zNTVfYXM3a29qdGRTY09KUlpBblcwYmVxT0x0cktXemQtZ2Y5SjZtYzRRbXVXMnVraTdZSlhvQVE1eTh3dHVKTXB0SjcyVl94eWZ3Q1V1ZHBIYWhLN2FxWFVrU1pORWVOXzZxR1huczlqbmtSXzk?oc=5",
+                "source": "Earth.com",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper Q3 Earnings Call Highlights - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVG5Vd195ZHA2emtfM2R4YU96WDdhSkZ4bFFBUC1FdlM4c1A0LWJlUjVaZEg0RERqS0VBSjdBanhISFQtS1R4cW12a3VnZmFWanhyejRzNXhYeWs2TWhoUmU3U0lBa0JjeWpwV2JtOHlsNHJ1V1REckl6ckJDLTJkdkdraVNOelYwbmxPR1ZRdS1aa0FwdV84?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "JPMorgan sees potential for US copper revival - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmVDFaODUwbGh0MnJlczNsTk1LdzhjckVuWG5FNEZ6SWVFN2JtaV95U016T1hKQk5NaG5lbHRKdjJScEM1YS1YeWRzcU9ZdUY1TmV1Y0h1TElJRVVRVTZSb1d3ZmtxbkFQYzNqY0xiWFpFZTlzNjJr?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper developers build their case - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRDBiYU1YNkF3VmtDMnBDLXduOVdzMExzSl81VTVjczNQZnpZckY3U3V0bXgtdFVobzc1WWZSdmVfaS1MMWN4allxVGxLSFFkdUp0c29aTWhEYkRCYldaMHUxSUJRODJ0X1FwVGNEbG9mcnpoUGpjVldCbHlSdVN5MTF5XzNIckVtR0w5WnNDWkQ3TFZrVm5pakw5MFJZdXpXUXpYM3dBNk1UM19TMmkxUWFVQm1tY0ppQWFSRkJuT1I2UER3ZDcxd2VQR19sZUtBX2YwTjhTWV94TVpqOS1JVjkteXZHb1RGdlNvdG9TaXhYZWxubkE?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Copper falls amid uncertainty ahead of US midterms - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEWVRCSVhaY2JsbGlMWHcwNE8wcHl2Q2xpMGRuNUJTNmhwRl9UMkNMd1dmM0daMGRBX3owRUVmSlF6UnFSRV85Qnp3ZWV4bldyb3lLNnk2Z2hRb3VsOW9HNjJGY2Q1RXZpWE5aWlZaeGZNTzFKRV9ZSzdsYV9yQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe Mines Issues 2026 Third-Quarter Financial Results, Overview of Operations and Exploration Activities - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0xIN283SGI2VzVXblpMbEgyUkMyOTUyaEhYaWVhZWFYMGt2SGJORExoRmFBMVE0SERjbFlzVVF3S2hHZFBRWVRRYjZwNkotb1pXWkZJMkxQTGdJb0lQSGxyNF83MjM4Qndtdl9NcXlhekNveTBJelBDSkRJQW0zbUN0bk9xLWpwZHZvLTVKS2h0OHRtcUlJRE1CcmtaLWVCcHFJ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "RareX confirms copper\u2013nickel system at Khaleesi - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEZ3VUM0R05tRjZpd1RoNXVET2dpTl9MOXp3d0dHN3cwd285S3MtSkpiaGs4NXlpbHQ5VGJuc2JPVDh5dGNQa3BNalFiX2NzLS01bE5uUk9VN1lrSFFtbnlyTGhNY0FTYjBteFBncGp2T0RBd1pacTc5c1BjUjlxSFRFM3g?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price falls to 10-week low as risk aversion grips metals - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1JDTFdwZ1VsMlQteVljWVhWT09yMjVVdk5jMG00c0VwQVVKeHAxZ0txZGJSNTVhNzlGQzJvZjYxaFhwSlpSRmFKcVZxN3dNUi1ncEVfcE53V2VkT283ZjNJSjRoSkhJZDctMjBaNEJqT0h6SzNTWnpIZER4dTlDZFVXVmJlMmpULS1WYm8xQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper (ERO) Q3 2026 Earnings Call Transcript - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekVUaTUtSXZOZ1dGaGtxRThEdWwybFc2MmNia2V1YTF4X19ZY0FlUzNXdHh3NVp0NzZoSGJCdUJ6dldXZVFlWXRxM0VDZTcycXZwMXc1LTBOQVBFVHhFc01LWm92VWt4OGxLMzlLR2VSVUU5UlJzMUxKWnViLURReGxFeDZ5ekQ3ZGozOWxrV0Y?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Will Copper\u2019s Bull Market Continue? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnc1RGdMcm9LNjJFUnczcGhBUFR2Wlk1dWk5Q3BDYVNRMFVZd004ZkdoeGVUSTRCUGtrS3hlTWY4ZXBiRWlvQi13OU5wNTg5amxlVVdnSXFaNFM2Z0hBc3c4MXBvdXE5NjFzWnFCa1JuSmxSOWpWWThTc0I0VU1qYXE4ZG1iVGcxVW92Y2huMzRUMTZHWHdvRnpGWTFzZw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "JPMorgan sees US copper output more than doubling - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JUTlfT1dBTHdBbGdBMV9kUVp0OVh4bWd6NzloUjl4ZmpZVUtLek1zWWNWR3NfRUlrNGZXTkFZV3lxVUNyZko3ZFlGQXk2NzlWd3ZUSkRBZzRUNWRDNF9WWnR0VWk1WUxBVnpkR0xoVkdxUEkxZ28zdGxLRndJQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Five Metals Producers Trade Higher as Gold, Silver and Copper Futures Pull Back - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXpQU3FJQ1BpandqTFl2RFVLS2RTN3JPUGsxNjJhZzlVWFVvaUFOZ3BHaHNDUWVOWlBiQ015ektUWnZIU2dYcnNuV29FVTlWYW4ySGxaWlJtcjFVVnZ1VGpYNndUZ2M2ZnJqRnpnUWdzeC1SU19aTXlVVjRpaFF1YUZNT2FwZ0pIZ1RTalZLWDJVYVdndEQ1cHBvRl9CUlFtSF9yTHVRWQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Black Pine Resources Corp Completes Drilling Program at Sugarloaf Copper Property - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2thM3FWMGR1THVtN2NRMFBzcjJLam9paF9mcWFyanByLW0wV3RGUnZpeC15YVQ1QmR4M2N2bVBNOUt1NlRyVDJSVEhTZ3RnNGxtVkYtaVFkLU1EOVlaa00yb3RaUGc0aDVQYmF1VXlYaDVuV2M2a1VSczV5N091ZkQtY3Ffc3V6MlFZaFpLX0dKYUhZbUg4OTc1OXJ2NmlpNjA2TGJtMEg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Montero Mining expands Abeja copper-molybdenum claims in northern Chile - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0ZCMlhWY0dyU1NiLWoxODFMXzg5dng0S3dSYlhXUElfbXpPMkZNcWNoMGpYbkg0Y2JQNDV3b0d1c0dudmQtUDkzRzNLMXMxOEwtWnRkNDY3ekZ3dlZvTWlHQl9NbzJWNDhWTHlaUmg3dnNzSkhWbDdmRmdTbDFMcU5iY0lPY1NsNkx0a2RSWlhUZ3dFcVNnaXlLMjEzVE56NEl1ODZuYVE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Congo seizes copper, cobalt in illegal mining crackdown - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXVlc3REOUI3clFmREZZeDFwZnV1YWkyNk1DTEl6NVp5WTRMakhiSWtMejhoSkRsZkh3c0ZMd0tueEd3ZEhmeUpjQWdQOEgxLV9HRGMwdkZ5bm4tbzZVWmhvZ19SQmZrNWhSbFpmVWJrMm85dFpGUmdXVURsUFBXZTZNTk4?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "ACG\u2019s $220 million Blue Moon deal creates European copper giant - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkx5WEtXVHR5aGk3MUQzbDUzU1VfdklNWmMyMWFaaXN1bXgwdjlGLXB5akpncDVENnc2Szd1YlJyZmQwWDk1SFV3R0FRczRXTVNlTHM0X0NKVEtOX0JlWkM3ejdwSWRJd1BLTGpOVEhEdFBPeVVYeFdIdWJHZFoyczhFR08tZzh2dEVaOXdR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Super Copper Advances Copper Exploration Pipeline with First Drill Results Pending - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzUyNmdKNlViaFJTbl9hbWV0QnVSQUsyX0RXY1N3bnJGWE1uQ1hwLTFuLW1TanNYSkJYdk1OX0tqU1o5Z200cVVpUWlGc1dZT0lJRklnSGpYcTVvd0RyRVJxVlJPTmJaaWt4V05aYjN6T3htR05BZ1lsMDk4N1Q5MG9aNnlSVzVTSGR4cEd1SmRSOXZfZDRaWmxiUmdYdkxza3Z1c050RUJ3NEFyeDd3?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "LME Week 2026: Fastmarkets Review - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlFFRDMtSHBDYXRIakZlWmZSRUNiTXUwSEdMTkwwYmZ0eVFEb2NVa25mX2cyQUtIcTRaV3M1M1R6V2Vhd1N1c2hzbTR1M0RKUDV1Skh0QjVxWEpLUGpCbmpJWTJ5YWVwd3hRLXpZc3QxSFZSenNHOVpn?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Pecoy Copper secures C$49.8m strategic financing from Hudbay, another investor - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTNhcnlqOW9ma3ktamI3dC1JQzVRRmNkamFEUVp5MWF3UUZjdVNYNmNHMlNNM25xVUtpOEdEeTROYVJmUldxQ3hoa2dhNHdUVFNIRmtsai02aW11VFhRM3J4eExfNUhqdmlWMHFQMlpsYnBUNUMzWmZibmdHSUJBT0JranM2b1g3dW02ZjNJY0VCamlyRTY4LXVZTW9UODNOMkgteVFGeVpWNC16dGlNY0paT3l6Y21OazZienR4anM?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "ACG Metals acquires construction-stage copper mine in Norway - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ085RE5kWDI2SWpDOVdQcVBJRVZ1UUtHSkxDbGZ5WWt1M05OVmI0UjRwV1dTQjlheHExb3NkbkYyMjlURzMwUWJWdnpsUUU5VHk1WWlGY1NhdzR6QWI1NFdKV0RIeW5LZ29DRktJcE52OUZhTU9YbEdSNXNpMzJxZUJ3bm9QWG9oNXZFaWFfcVM?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Cramer: \u201cAll the Copper in Data Centers Will Eventually Be Replaced\u201d by Fiber. Lumentum Wins - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmIyYkNQb2tnelJoUU5FX3RjSTJWdEEtelV3Z1E3T0FEYjNHcUZvRjMweDJxdWNLQzdMM1ZFOXo3WElnYkFsc0tqOXhUcmpWbUpiLXNPeDdLZ3IzaUxiNldlb3VCZno1WW5LajlmbWg0NTg1bE9FY1JHYTltLW5DVTY4dWpLQkUyeGNOaGxhQkU5T2phM1RZZjBsUjJBbDhFQnFISQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Chile copper outlook worsens as price forecast rises - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOW9KTVZjY2NQdnhkWVBrSkRiX0pkX09aRTlqTDE3Tlpfa29ZeEt1NVdVZlpZNk43djJuWnUyRWNfRjlFTWZWNDd3UEVQMldDTEVkSF9qSWVhZzFZMnUzWW9nWU5ILWxSR2hBTnBiZXVlaVYwSFVTeTlMWF9KcnZtU0JCY0dtbDdDdXFmMkNHRllhS0tSd1VxbDhjU3daVklj?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            }
+        ]
     }
 }
