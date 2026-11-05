@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-05 13:54)
+
+- **[China’s Copper Squeeze Deepens as Buyers Scramble for Spot Metal - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOelVqYlVrV1VlOVExRHR0eGowUFpCaGh4LWNlSUI3NDd5VGpUVlF3T3lNN280eGR4RnRES080LTJCODE1R1VCWFR4QmFzckVWOEhOUV9NYlF1cXVJWF92OGhUQ21YNlhzQ2luNlczdV9EY2FRNzBDLXFUem90Y3hzRHZJMUtXZWxhb2JLbmllUzZDdV9xRjVobFYyVWpoN3IybFhyWWlrVzJEbGVqODEyQXg0R25rdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-05 12:27*
+- **[Copper is booming but not everyone is striking gold - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDJvaDJraVZwaTVPdVE0Y1J2YnNGTDhnc1otMWZSN09LWDRzTlRmcFEwRnJZeDRSYzJoYTdzd0JpeGZxNHV2UFhVVWVrREh6TElKdkFXaTVHYTJCc0FlRHpmazJ0alRKcVdLM3pwUjctRFBVQktBN0JFTERZOEVMMVhNNHI?oc=5)**
+  - *Source: Financial Times | Date: 2026-11-05 00:01*
+- **[Freeport Green-Lights $4.5 Billion Copper Expansion in Arizona - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1Btd1M0NTEteFpVdmt4N1N4aVNYN3R4VkhCQVlSOE9VZTBiYkNYQ05pcExqN0dTNV9MbENJam9sR3FRc2lENnVwX1dDWndYT2JZeTFzeGszYzBrZ2RxcTVOSVZyVV8xbTJmeWRWVzJEZERncXo3bEZxRHZaUjAyd291Yko4RHZ1ZGhYcG1OTmpZZjF0aFlTcHFZemgyaW5lNTRNekRsRVA5VTl1dVFpRHhR?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-04 13:50*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-04 13:42)
 
 - **[Copper and conflict trigger profit surge for Buffett-backed Japanese commodity traders - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlNreXE2T2dFaVF4b29hdkFLUVl2dDRtV3BsSldmUEoycFB3MkxoYTV3MmJKWTdmSUZjVjBSRTd5Q2tzbjNKbE9JX1Y4enR6TDRFUVlMd2h4WHM0T3JkQlRieWtNMUtiX09oSTJrZndCNjNtZlJlc25saTd2Q05SM0dZb2k?oc=5)**
