@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-06 13:40)
+
+- **[Markets, Not Governments, Solved the Critical Minerals ‘Crisis’ - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMG5jQU5Sa0hlMFk0NlJPQ2lhNXppZHdQVWNUbzVhX2haTDUxektaUGRHczlELVI0VGUyaTBBeEZkYzhLeVprZG9iU2JzXzVSb1Jodm1VcGhYMkVhWjZIUEwwX3hNWFk1czdIWGNacDFjZVFUckt5Y2RmVXdZanNPWThBcHM5SjFmSFZ5M1NmRE1HZTBJZHptRkpGeGRvWVJjN1dnSVh4b01McHo4STdUcHZLcw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-06 12:00*
+- **[Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-06 11:24*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-05 13:54)
 
 - **[China’s Copper Squeeze Deepens as Buyers Scramble for Spot Metal - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOelVqYlVrV1VlOVExRHR0eGowUFpCaGh4LWNlSUI3NDd5VGpUVlF3T3lNN280eGR4RnRES080LTJCODE1R1VCWFR4QmFzckVWOEhOUV9NYlF1cXVJWF92OGhUQ21YNlhzQ2luNlczdV9EY2FRNzBDLXFUem90Y3hzRHZJMUtXZWxhb2JLbmllUzZDdV9xRjVobFYyVWpoN3IybFhyWWlrVzJEbGVqODEyQXg0R25rdw?oc=5)**
