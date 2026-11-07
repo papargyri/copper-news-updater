@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-07 12:21)
+
+- **[Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGFVdnpkOHNnMWs5bUtCdmVpbzdwX3REMFZfanc5V0c3dUUxcHp4MjdTLTQ5aVEtcVBWcElrdkZaWWF6YU4xNndfTkJFQ1hHV3BVYXRKTC10ckozYm8xRURlX0xCY0ZfSTJLMUFTQk5QY0NkQ3luRGtZTzV3Nk1BVU83NTVONERvMmdscENKTUQtNWJVYWZLaGlSbld2cTN6N1FfdGxuelloYWtPX1ppUUp1dw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-07 08:00*
+- **[Copper prices fall on fears of AI backlash - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjdEQmNUdWxHYXF5SzNyamxRTXUzYUdLdEJxakpud2dqWndMckVSa2hDdjhMc01sNWd4dW9VTlphOHpjei03MkVZSmxOc3NWSWVMZDZlbHJfZTJDbldhUmVBeklHTmJ4V0V3WDN2SHZ4em1kNHZJNklmMmhkZjdieVA4aUk?oc=5)**
+  - *Source: Financial Times | Date: 2026-11-06 16:31*
+- **[Congo residents sue Chinese copper mine over alleged pollution, statement says - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOakhtc2NROXQ5SFdGRjdwTDdxWFJCSXpMeTZacnh0OUEyMGZaQkZEVnRYZ0d6MVJqcmM2SDNSWnpBR2s4OWJlUDJOXzRTNTlpWTMwZGlLMjB4TzUyMHVCdlE3SXhxZllNQTZCdk00eUVLVzdYWTFzS0Z2SzdqMk5CNHF4dV9zTzlUazFfcEo0c08wODZyUHNSc3pVd2lpLXplR21HUVV3WmREQk9Ra0MzaWRpSlNyRFZQQjBHcGtPT1czRmJfZGxhZ3B2cjRVbFk?oc=5)**
+  - *Source: Reuters | Date: 2026-11-05 14:51*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-06 13:40)
 
 - **[Markets, Not Governments, Solved the Critical Minerals ‘Crisis’ - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMG5jQU5Sa0hlMFk0NlJPQ2lhNXppZHdQVWNUbzVhX2haTDUxektaUGRHczlELVI0VGUyaTBBeEZkYzhLeVprZG9iU2JzXzVSb1Jodm1VcGhYMkVhWjZIUEwwX3hNWFk1czdIWGNacDFjZVFUckt5Y2RmVXdZanNPWThBcHM5SjFmSFZ5M1NmRE1HZTBJZHptRkpGeGRvWVJjN1dnSVh4b01McHo4STdUcHZLcw?oc=5)**
