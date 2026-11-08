@@ -30421,5 +30421,30 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-08": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 3,
+        "articles": [
+            {
+                "title": "Powering Up: Freeport-McMoRan's $4.5B Copper Expansion - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdERkZTNSSVNrbDN4MFBuU29yY2JxZ1JOQnM2RENHbjZUck92bFJGX29hR1d1VUJEUmNMVWdlVHpoQThwVlVjTUtUeVF4Y0prTTkzZE5kcWlaMmw2dFVRbmltMWptZDkyTDE2akpNYXlaU0NzQkVTRDh2elRteldkSzF1VnpaQW5neEY3N3Fuek4taGxQMF80cEdUNDY2Tlprb2ZJ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price falls for 4th day, heads for worst week since March on AI rout - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY05hOWhTcXBWalhmWjRWVGRnZ3V2blV0VFFnQ0lfT1RUTldZbS1RRUFJb2VTY3loTVQ3dTBlWHJ1R3BEQVRqM00zWUs0eHJXV2pZVDRqaS1Xc3pBYmlaM1ZwQl92OENCZk11b2tpcHBxTVFBWHduYkNLWnR0ZHNxSHAzQkdVYXphNkRvaEJfUGM4OUdqWnNnY3M3bmM5WlBWbGVEdk1rYng1b1FMNlNTN1hGQzg5RVk1VDF0V1YwaU1LNkl3ZDZTclloMjNUOXh4dnhJc1ZQTGJsSHljRUxhag?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Rio Tinto approves $144m for copper project in Arizona, US - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTZUZV9DdFdtbkwzZElSQjZnbnI2VHRtdUFodTkxQ1hicy1WSlMxdkgzWjF4VTh6VV9salZlVk00SjJybDhCX01sdEdfcURmWHpZeVFiWWczYlY5d2xDQmx2a18xN3ozOXBNdXJJc2VXTEdNWnhYS01XbGZVa1FyUDNn?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
