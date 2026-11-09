@@ -30446,5 +30446,120 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-09": {
+        "price_usd": null,
+        "premium_count": 0,
+        "global_count": 18,
+        "articles": [
+            {
+                "title": "C3 Metals finds large new copper target at Khaleesi - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaU10emo3ZWs2ZnVOdDBVUmgzTkNreG5TOWUwR0owSmpVUzdWR3lNZnAzZzltMGVtRDFBVjZYMUR2ZjRwNUVad2dKQUUtSEc1TGg5YV91eXIyTFZMSUVGUVY0dWlMb1U5VTBqQVhmNU9TUlIzd2g0OVZRY3pUaEJWT3IxYVFOLUQwc05pMTJZZ3VEbzg4ZUMxMl9ETnItaDg?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Northstar Gold Announces up to $1.15 Million in Flow-Through Private Placements to Drill Cam Copper Surgical Mining Target and Allied Gold Zone at the Miller Copper-Gold Property - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQM1plQ1VWWFozQmVEVXJrZG9faFdVTFQwanpOb0VOYmFCT29ZaDJPVFFNSWs5UGxpeVpPelhQUFNobzVya2ljZjV1cElRS0lSeWN0RHdJNjFtbnVZRTVyT0pQVE1SbEoycWhsODJMREJQMGJJel83UDBzRU9ERzlPY2ZvS1F3aVhRdndrOEZlRVFTWEJIOHI0UUZnUlNtaGlOVmpvTERydEJvbzdvMlhGWnpKOWFFbWhGd0ZxLVFxem1QZ1gxOWtISUptSTNjb0FSTlZBNzFacXgxRzAyZUViSW8wbmRVUjBDRDZiejJJSS1zeXdGM0Facm1Vb3VUc1RhUVc1Rm5xRjNmWVVIRWdKSlZXcUp4WTE4a25EWU81cDlJU0UwNDMteGxGZm5DZHozNlpTYXBRN0tJZFpRZGRWSVpheTBoakpDU2pEamxBTUlDcmRTUnNjT3BqeFgtWTVKOG5DQUZqUnFwSmRxaGt1b2cySHc?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Four copper targets defined at Aterian\u2019s Botswana licence - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDdVRm11dHpXNXJncjF6d295dDE4dTZPZS1zc3FCMTlNTGRSMlFadV9NQkx6VmVIV0ZocEJ5amhidDMySGZHYlRlZW0zM1RNeTdLeU0zb0VUUF9uNDZvVDZoaXZxVHlzaFRpa0tJVXB6cXVHYVRKVlpuSHFfdWd3aFNNdGZWX0ZYX0xDZFJ3ZGRjNk5PUGUxV0JLM19kSVJsRlFQQ2xMVQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Barlow\u2019s Research Roundup: Copper mining stocks are undervalued after sector rout, says Scotiabank analyst - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNHlQelZJZWVxQjFLTHdXTHhBQTRDT0J5T3V3WGpTcmZ1a05rUkZVQmtsWnZBNW44T0FUaTF1a2tNa0U3OHBZNUZ3TnI4Vm0zdEVHYWIxUEc5cG5iRHNFRnZJUE1mS2JZbExfSEFSZTMtQkdNdlR3VlAxdXM3Ty1hWWI4bWRTNDVocHNWRUdsTTZUQ01kNWR6ZjU5WEk0YjF5akxfTWRibjQzZVFuby1ZeTNvNHM2VmVzZEdhZHpwOFJuMlMyQ1ZlRDJVbTJkQVBTcks5bTloNmU4elds?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Barrick\u2019s copper mill construction in Zambia nearing completion - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHRGczFxX2RsLW54SDc1RFlmNkdSeUVucTA1cWpFckxvc01jSFhIVjU0VGpPWGM4ekFpak4xYlpfMW5KaFlKbmdIRjctcXVkekFxY1R6ckdrVDFqSUFJTjY1eUJudkNEbjJxV2xQYk1lZW00ckZYclhNNldpM3BpNF8xTzhCdmNONUJpRnJQdEZscFZobGZIWnVzSWJfWEkzVENsSkI2b0lNamlna2VR?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "African mining well-positioned to grow but bankability risks require urgent action - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVlFUZnpwdlZ2VGhtcVphcWZKNHdxZERydDgtRTlhUDlXZndtNFQwakFVbm5DWVJVWjBZUHVjRkdQME1iczR0c1Vua2dEZmI0cThwV0JCUGwxU3NZU2NMekVIQnZQdnpHeUdUXy1SdjYwbXFaZ3lxQWdURTE4UVRGcWhyUnVpVjBYLVA4OXNnUk5QNC1UdVBhYXpuVGFHdE1CbFZ3VFFUN1ZCeEZBa0UwQXpoSDNrb2k4WkY1eW0yTk5TSDVwWTlESlV3?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Okopa advances Namibian copper project - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDVwMXc5T1NkWHVlQmk2cGNpQVZwc2NGM2xRY3o3a3JqLXNrMDFlOGxRbjRkU2R5OTFQcE1ONExiNXZqUUF4MFVKR2x2ZktJTHNqb3dyUnp2QzNEOGdJNjl0d2dWcmRRWTl2X0FmelVBMHZsT3J1ejVsUHVSRG5JaFVLZmxwc2dWamFJZXl2OWZuc3AtUUxMNg?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Intrepid Metals Reports Large, Multi-line, Multi-Station Gold in Soils Anomalies Including + 1 g/t from Mattie Gold Target at Corral Copper in Arizona - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0kzcjZzT1hMRHJuNjQtajloOUJ0amdVaUFXdWV2RV9PM3NCcFZsQXU2ZW1DeElpVW9UVFVPTlVlczBScVJOZEl6eUJLdjRoLVdUOHVqc2pQZUJaTVNGOFpiSy04T2hfWDEzTVN2NHhMYTJyWXVNXzNUd3hnc2hYNk1sZmYzR0JFbnh2dkxJa1laRmxwaHYweVJWTEhRQ0l5UFZqcmItQnQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Midas returns \u2018shallow\u2019 copper at Hartbeespoort - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jQnFVNHVSRDEwTXMyOWw2bUs4S3p4My1laXlIU2JDN2hsNTE3VEthdWdGSVdyUGQ0U1Y3OXZoVVZFR19yeVhzM0J4by0tcEFfOWV0TkZJMWw0MEVWLTlvamcyaG5XRWhJNkZ4c0p6N01nM19PVFNN?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Walhalla Gold Establishes District-Scale Geological Framework, Identifies Gold, Antimony and Copper-Nickel-PGE Exploration Opportunities - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzRFb1dabzlLakY2Q3lZenBKd2FOS19RanBEM1FRMTF4U3Y5aEJ3OVFVakNnbFlnTEt4TWlTOXZYUW9IelZ1bUdFOGJjYWdWOXZQaHFIZUstT0RPTGxNUjB5X1FOZzl3YkdjbVZfeUgwZ0FPcXZXREZCYmkteXZzQnZ0X1hYaTZQc1haUW1SZjBVNnRTR0ZLb2RrNzYxTzJkTTJYSFZnZ204WnZoYnJJ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper, Novelis recovery to cushion Hindalco as aluminium prices ease: MD Satish Pai - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX3JEV1JqMEFVS0tXOG5MZHhaUDlVZE9wcF9xazJYelhkMUlEdFlDanNiQU5Ta1pxTGhvR2RnaHZNQVpib3VENTU2LXMwZmlnZFViUU9oWkZIdEV4N0FHQkY0NkVOTWY2cVZvZnhuWU9ta1BtQlF3akpGTHVkbDVnNXZUanJReGt2NG45bnNoU0RLQmh6WVVLN1MycVRxN1FXbTJqb24yTGg2eVpPOUUybVU5NElBcjJNVDV2d0pLOF9RczZXdXNKZFJSbFI3VHJ40gHWAUFVX3lxTE1iMUJ3RUNFV3BsLXlrVVRUamJOQ3hCR1F3ek9XaXg5YnplRXNzZDNsdTJpWHFjRjhzejgwMnd1UXA4aHlJbjFOZDc0TjlQV3FJSlpEQnBJVlRvZFFuWUVSVjBjNEcyMmlKeUZscFExakVzOEtXSzF1ZkZRY1RSMjQyLVZZX0hrdkhpVjczSkc4V0g3aVdTLXBMZFA5ZXB1dHAwdUpyRS1adXQydTNNS1l1dV9LdHIzNjFnOXkxcUNiU1gyQTVVWjl3MEI3T3Y0dWJYQnpGOHc?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Meridian appoints EPCM firm for Caba\u00e7al, mulls funding offers - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFpGaUItdXItV2lVQ2ZsYV9IcEExX0VHUUJfSTB3dTF6Umk5YW5GdzJsMjl0X0VZUzBSeHkySjk5N1cxeEFiWTRZTWp5T2lidjRqNGJ4bDBUbHI2WnYxX3pSSDJ1UG1MdmlIc2FmYlJmZTFqOGQtbFBRUVlIUVBJRDA0bTUxSDdyZDBvUmhOYzFvVFk3VE0tVGpnVnVrd1RrYzAxLVMwLWdGUUk?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Explained: Why copper prices could fall further after four-month low amid US election outcome - The Economic Times",
+                "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcmFGSEFVSnJMMDlwTE5FOURjWnF0VnFwUWtuTHpKb19BZmlobGVybm5FOHFhZTRFYTJGM2d1bGpFOE9FdW1veUxXMWpJWkVvRnExS1JyU3B5RVVxbFNNbGtWaXl6VnU3aHREbndUblNyUGdtZ2x5RWNwU01EcEdWM3Rldm5IUTAxQ1VaT1BPdTlFeFFEeDE0aE5XRnlHaWJLYVRtdXJjTGVtWEhOaS1KSUlYblU3dnByYXhPM0RscTY0LWJrRWhScGVpYThuS253VTl1VWxFM0E4U0ljSVJYaTVieTZvMGIxQnBydXUwekE5aXhEVmx0NU1RLW9KUFBM0gGGAkFVX3lxTFBqeFlVeW1kSkVHVDA4eVBYS0RQZkdDNFJqalRFWGJKYkdnMGsta19HMDVhRWdlV0IwU1Y2OVRadF93TU8tZzBKLTk5Rmt0OXd0QW1LRG95QmtFOGl6TFA4aFRIZlZoSjl4YUR1dnlNSVRiZzkxdDJoWmpMTnJlVGd1LXBXR0FFZVk1bzdkeEdoU01Rckh1QUx0NVhTZzRJc3QwMW92MGI0aVhscldrMGVuWEtKVTJtVnNYUnZUa3VhampOMUxkbXFFN0dDLVlaMXNwZW9CcUFIM3NoTXU2VnBtMlpFbEh6emE3aTR6OWppZjliRE1VM0FWUkl0NEcyWldYb2VjR1E?oc=5",
+                "source": "The Economic Times",
+                "is_premium": false
+            },
+            {
+                "title": "Trafigura targets copper supplies as China squeeze deepens - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUNJTldRNkEtaDc5SlJpVzRrbGs1alNQLXZhVXV2MnRibHRuanB0N0NYSDV0aG1WczlIeHd2VTBvdEZHcGpSc3k5LW1YaTBJNi1uWll6VWVyeGRvanZ3Z0ZVaGZVRlRvM3FvWUpIb2JhTm1mTFdUODEyU3AtMEozTTNBdnRkSWVt?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Where Gold and Copper Prices Go From Here -- and 3 Mining Stocks to Own Either Way - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzFnZEhkNVU0eFlvRmtKR04zakdkdE5RY2puSHhmUFp5RFdhSk1DeFUySnlkbDZwNm03V1ZFaXNlX1h1R25saFRnSjI1NHljazljbkdSaG0yWW5JcmdlLWRNZUF6UDhJM3BmYUQtY3JwUUUxbWdZWUM0QmktNUdEZk15aXNnMExPZDBTOTNjMjRLYTRubmdodW1yLXU?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Where Gold and Copper Prices Go From Here -- and 3 Mining Stocks to Own Either Way - The Motley Fool",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVNqMEJvME53bjR0b0NBTlRkZ3RqMGZUTThHVjd3VVRjUlFxUUpPajEzajZ5cUNFVXRhbzMxRkRsSkpxQmJ0QUgtLXBVZjRZVzI3cGQtMU1zeWV2R2Q4UTEtOTgwTWVvcjVOWVdjWHVzeWktVEV2ZGsxTHB1R3BCbGlxU2FwZEZMSGVXOFBudWljdw?oc=5",
+                "source": "The Motley Fool",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy - Rare Earth Exchanges",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmZscW5RcjRCWEpUeFpfUnB1WmszRnRhMjhONEY4SXFNTW1QWmhUV2hkZExkSVBiNUFjcndGR01GR2NGUldOVWVfUDZFSFFBWmpqMTJXUnQ4SFpmQ2JvdVRKY29qOWozZWN0VzFWalBzb2FlamZtam9vcGhhOUNyX1NqWWJvMDg?oc=5",
+                "source": "Rare Earth Exchanges",
+                "is_premium": false
+            },
+            {
+                "title": "Copper faces further slide after US vote: TD - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3ZoM3J1UHF3eVgtdkhPalByZmlUOTM2c2ZKWlM4YlJadTF0Q2hEdWZ5SXU1c2cwWEIySFB6cHZVWTM2QlNjLXNpRFpfTFRBQkl5U1ZWM2Rjc2ZoYzA5S3VZQzVpM2h0bGxZM1lGbDNDWmp2cHFUOUY3WVNJME5CSk5aZnRZdVAyaUpKakVUQXp4bWZE?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            }
+        ]
     }
 }
