@@ -30561,5 +30561,114 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-10": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 17,
+        "articles": [
+            {
+                "title": "China copper concentrate imports fall 11% in October - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WRjNvVWdfWHFoY3B3QmdqcGw0YzhaT0lnRVJ2MjVpa18zYlVGaGpMM3NhN3Y3VjZCdk9uVzZnVmtXNV9GalNPcDBDYXN1Qk5uemNDOURzTXNERVVBaVF3M0FSRFJWTTJQR0JEQjZkWU5ac2V4TkFwbXVPWmNmTzQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Gold grade from world\u2019s deepest mine up 10% to 11.55g/t - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0c2NzdpSUhaeGlEeS1KMmxUT0ljelhmRmJzcHBfallHYmNxNjBrUHppY1huakNYaS16Mm1UV1l2bTFYTEtWSklBUDFxUU1Odi10aThBcGtzWnZlLU14NjdIYkx4TjN2OUl6aDZ3VkV2djRQUnVsQWpLbGM2VDFmcUF0anEtajRXdHd5V3BHR1BrMkE0MnpuSHBwQU9MeFpl?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Extends Rebound as Global Technology Stocks Resume Rally - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXdpaWVfaTZzRFo2YVpFOFV3N2RkMmdvMEU4SVhaMGd1d3NlakxOZHNlbE9EYjY4S0NhdTdzTmM1SkZQNTRRdEFtUTBMb3FsZUdyWGFjVlF5NHBEMWUzbDhCcENpeEpqUXZ5cDAyMVNrMnBVZVpZOGFhVUIwQlRlT0dUQ1ZhdlJ6Y0tKZWxhVVVOdHZFdVNTZklRQ0dKeDJ4VnV5OHNPVHNaS29mMGdsdU4zU3k?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Okopa signs deals for Namibian copper project - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWNLeFcyV0NQWUtqc3lnZzdRaW80TWpmSEt0eG0waG4zS3ZFZ3RObDkxbVhlTFZYQUNXNHFxQTBkbkQzT0VRRjNrNElGUG5vVFZOSXVvMG9NZTBvRlgwRGNWMFBCT0JIZUU2Y3o4NG9YUzhfLXhwdTdaaW42OEo5d3QwaWZSUQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Gold Mountains bullish on gold, copper, and uranium - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQUzNFX0Fjd2lBVjZFZHR2SXp2eURGRVF3cjZRN1B2cW8wOThqYkdDLWFkd1pxd1ZmVzNjN2Y3a3BWaW9RdE5vWUVqNWZXejROZmxwcGJLWlFXZE5SZ1FSN1dWY3NnMk02UF83bHhtZ0NZMXFrZFJ0QndfLXU?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper supply constraints: why new mines are scarce - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3VmJhbWhoTEVmMUxBZTdUVWdjRkNVOW53ZFFKdWtpV3ZEZVdVREUzVEgwUmJwNHVkbmZJUldwREsxb0dvVG05NG0xTHJ2UVptejhCN21ENHJFY2ExR3Q3LVVjVXVQOEpZVFJGZGI1TFdyajEtaGF5QVh4SE9Hdw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Legacy finds shallow copper at Emu - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UUFBOaG94Z0w2cXVwbVpkb1BqNEN5V0FsQXMtSXQ5aW16cEVIeTh3T2U5elJ3MktQMzVXbHZhNmRPblF6NlBlcGZhYTJNZ21IS0c1ZkFmd1hMYk5OczVIV0pscF9xZDl1?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price to peak in FY27. Here's why and which ASX shares experts rate a buy - The Motley Fool Australia",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamdMdUNXc1BRa21nTnZrbU9wYmJPSU51ZkxPRlc3WGk3M3Y0ZXZLRUVPZ1N2a1JnbDFTZU9tc2c3cWtpc2swYjZUcTJZSW5yRklXLURod250Vlc3Q2dkcm4tckY5UE5XRkJtc0ZfZTBVYjZYN0FZeG10SzBDMld2aXVBUExhQjVtMnhmTjh3eVJ4RExkMy1YZWphQXpPSVV5My1LNzBqT2FiWHIwRkpWUnFEYno?oc=5",
+                "source": "The Motley Fool Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Aluminum faces severe squeeze as London market awaits new supply - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVJKM1UxM3VUUnEyMlhHUi1IQ0sxNXVSazVjcFVucW1ySm1kT1Q2NFVmTnZuejltbkE5OC0xYnVxNDVSU2didXd4TFV1NGNhaGxhaEZvN1dMZTJsVHctREFocXRjMHhYVWZBM1kya3BKU0UyMDhWWFduUzNfeGJQNThqUmxtdWVmWWIxYXV3Z2FobGRPemVN?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Vale Base Metals to triple earnings to $5B for 2026, CEO says - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMThMVHBuYVZTNkZWRkhQM1dKVGp4cm1nTy1SRGgwam84dWEwSUYwLU9Ib0xvRFlVY1hMYzk2b1BnMGJlX3ZlbncxZ1ZKQlVhYWdZaGRWOVFKemRobTNsWTZHQXQ3NTAwOGdVbnZqLVBlTWJuRlpyVjg0U1l2Y0doM3lRWEViV3FadXh3?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price rebounds on firmer risk sentiment and tight supply in China - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnpMSkdaUE5TNHo0UC15d0lQNzZJV3hqODBZUFEwMVZTRGNNbUpSNTBDbHNtbkxKQWhOSDlkQkNVRkpGQm9pOEwtVDc5ZjN5T2lyZkk5X29BZTlESFFZOEdzSU9ac3Q5aEJPdjE4Z0RoQldScTVyeGcwUXhyZUtlVlI3TTRReXhOajliRElUR055d1F1dmc3cy1yZw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price bounces after worst week since March amid scramble for metal in China - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEszMzZGbFVOdlNTYUZLcHhkUzNYQmVGMFJJdTVXYlNzMDcxdjhmM0JHUEpCejdtOTBWSXlzei1VRk9WWXZ0U0J3Ylo1QnBBNGYzVWpwaUhSeGxWZGJtWm02OHdPb3djZ2VxQUNQYzJhS21TbHF2V2JsLVliRzdQRmluY25CWEpoWml0QjM4VlF4T21XVGd0dGgzcER2RDVrcS0xU3BwMzIxQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "What Keeps Southern Copper\u2019s (SCCO) Operating Cash Cost So Low? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVoySWNRRG1zbHVXQkhOYlREOHBPN0g3aGdFT3d0Nm9qdXB3Zjl6SUt2NV8yc1FwQnphUUZCQldiay1IMjNJM3IwZ2twb3BsZkJOYWNtMGs5RWlVeVk3VWZ3T3VudWVEMzZOZ2lyZjZQMzlWcW43OGREMldlWEtodVliMmx3Y2lTekRHQmV6QzJLcWlablJ5Vk5hSWFlOW1UMEhFUUNYTW01Zw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco, Pucobre clear key hurdle for $870 million copper mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMU5JUjRqaF9yemtSRnFPZkM1c3VvOUlIdFBHcF9fZVRkTWlEd2JtRktxOWJRcktjMW04aHV3VU1vS2xuNWd6VzgzQ2pHT1JxSXJHWEFTVEJqNHhYMU9WdTU0SnV6b3NFSi00Z3d6LVA5ZGRxQnZEZHV5MV9NQUVETzlsbl9sd3BBc09Daw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "BC-Copper Futures - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1Exc2xIMHVHUzA1NUNjY1BxRTU1akpmcHZPSnp5TDRZMEJZekhBMkRDZ1hLbll2SWJKYjl3elFNVXRISHJUd1BRQXVIcklDZ3hUVDR5TDZBVVZwTms2UkszazZHN0RMcXlvZk1OSmZtOTVqUWVzdkkyQ3p0X0JESzVGRUNrLWVvNVl1SkhfZUE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "TheraCopper Unveils Its New Collection of Copper Bottles and Traditional-Inspired Drinkware - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXVFcXY2aXlhR3ZvZ3F0RlFHSFdxTC15S0IzSlltSTdNZmtRdUNXZjZCTTh4VzIxUXQ4MGJlVjB3NEx1MXBDU1FKZ2ZPeTdPRkM1UTdyb0Y3M3MtZVIwRm9NaDV5T3JxWC1RUUY3cERUY3FrUGwzSExxbXR1YzNWbDBmUlpGWWZlNGR5TWlPb2lRaHlobnktalJZSFJwa1BaazRPd2FGTWtXQXhtczdJ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Okopa advances Namibian copper project - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRG5XY3M3bzNDaXVmdFZIQlRNWDR1ZGlOakE5dXdZNGZkWDMzdUctWWpUSzFfek1sVE5RamQtWjk3MXNLS29iR2xNUGQ0X1QyQjNNdUpEV2RrdzJwNlMxZHZKOGM1VVJBX1BfQUY3U05hU09EbmlRb0tEOFpBRjllaHNyeW1VNmRqM2k3U2pLOA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            }
+        ]
     }
 }
