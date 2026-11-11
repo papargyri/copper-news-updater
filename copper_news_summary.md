@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-11 13:28)
+
+- **[China’s Copper Crunch Puts Industry on Defensive as Costs Soar - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjVRWWpkNDZLX1F6VWZNdmpxd1ZMQ1dFZFMyeDBpOVhRcVgzaHRRMTloS3NyTFlmUHZQMmZGdFZuU3hwSDVKREZzZXJNWUZHWGQ2MDRXdWNtSllrNms4d3hVMEJsaFFDOVpzM05zWTFQTDN2SW5rQTZiZEQwM2Q1UXZjLXJhaUFMRDRZR3d6QU0teWtsTjgwdV9Qc1Q2ZHdzdzJDVDdwSm56a3BKVG9OQmVsSQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-11 02:30*
+- **[COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5)**
+  - *Source: Reuters | Date: 2026-11-09 23:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-10 14:13)
 
 - **[Copper Extends Rebound as Global Technology Stocks Resume Rally - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXdpaWVfaTZzRFo2YVpFOFV3N2RkMmdvMEU4SVhaMGd1d3NlakxOZHNlbE9EYjY4S0NhdTdzTmM1SkZQNTRRdEFtUTBMb3FsZUdyWGFjVlF5NHBEMWUzbDhCcENpeEpqUXZ5cDAyMVNrMnBVZVpZOGFhVUIwQlRlT0dUQ1ZhdlJ6Y0tKZWxhVVVOdHZFdVNTZklRQ0dKeDJ4VnV5OHNPVHNaS29mMGdsdU4zU3k?oc=5)**
