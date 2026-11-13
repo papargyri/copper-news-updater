@@ -7,6 +7,16 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-13 13:50)
+
+- **[Copper Climbs From Three-Month Low After Rough Week for Metals - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXVpVmxzWlVNUW9reTA0bUp3T0NiSDktOGJGV2NNWVhCYVZwcnZ6SkQ0aHZLQ1prc2RONXJwUzFxd0RicXQxMmxMdm5VMXRaYzJxS2oydGp1T3dpSGlMRFRTY0tmUWR1NHVoeHN0OHNyc3NtQlpUYmxfRnRJa2ZFc2F0SmhpV2R6VlRmdXlpdjljQzItc0NBR1BRRlpSeHlaRzBiMVhZamxvQUpIMmFTOElfVQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-13 08:13*
+- **[A Shortage of Ore is Causing a Pricing Revolution in Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVm5KejJnMmR0Mm1Icl9Fb0pqSGd4TkU5dE1MbGRBZmFKU05yT3VkZ2J2TFUwbWlvenFWaDNac2FhandsWnRjcmFNbmtnVml5NTh6SGNtaUZYRTNlWFlmaG1WaTdRa2FmNGU3V1huRnA1NHc3MHg4eUFTeUgwRVNjcVc4RFE4a29uSlJ0c2IxWlBpbHh1Z0lma2pUQVdkenM4YmVjQTFHYUdUMFVncGMw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-12 20:51*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-12 14:31)
 
 - **[FTSE 100 gains as oil, copper lift energy and miners - Reuters](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa25IQkVOY1YtWUFRaV95Njh0YVVnVUFDd2VfWm5Td0dLSVgyM19RcnUtTWFESWxvQ0wzRFhxX25LN016Q1pFUVZJRF9EOVlIT2VOei1DODg2LXJWeDU5Y3BzZjBoUlVvZGhSRFh5RlBxMVhCbHVQbXprbVNYUWF4SmpmN3pHWllyd2c?oc=5)**

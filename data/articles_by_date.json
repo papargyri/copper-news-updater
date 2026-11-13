@@ -30984,5 +30984,150 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-13": {
+        "price_usd": null,
+        "premium_count": 2,
+        "global_count": 23,
+        "articles": [
+            {
+                "title": "Copper slides to fifth straight weekly loss, worst stretch in nearly two years (CPER:NYSEARCA) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNanpTQTItWEJOWlR4VjJOY0FBTHF5NExNQU9KTUlBVjRlSmt1WU1EQWhYc2cyMy1BSElSSXM2NVk1ZWg2RGZYXzRBUHNTYktaa0R5Sm5HaXpQR1dHQ2QtVWgybWlBTWhWVmR0MHRSS2JYdEtvYXVsOTJHbC0xYnBOM1NTMDY3MEc3WlhJQmNBTTBvQzBqTFk2TGtLOHNXRXY3WWx6elVNb2hvdU1wLVdFeTluVnJXdw?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper benchmark rocked by miner-smelter tug-of-war - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VkYxX3V3NkRtMDZIRW9DYm0yckJyM3hsUnR4THdxbXlBQWpQYlZ3T3l1QXlPemw3YWhwdlJpY0wtV1NETDN2WTVGLVF6dnc2ZmZlc1B6cl9fdzJhMXkxMG83b2Fub0NZcU1HcTYxQVY2MzgwbGdRWkZkdGNweTQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman Sachs Projects Copper Prices at $15,600 per Tonne by December 2027 Amid Supply Constraints - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXJSbGNvX1VybHAxcTVTNUpqZ3F0WlNGaGRlVUs4OXhOenZUb3pTN2tJWFdKQXNOQWZyVjk4UmpDQ1A0OVdfN0VsaGVmaDc1NGVRbXU3TVJSdTgteTQ3LUFKWk8yaTdhd1VtdEdSdHZlT2NuTnd3RUpFREpMNmc0aFo0RXRBUU1paGFheGNB?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman Sachs Forecasts Copper Prices to Reach $15,600 per Tonne by December 2027 - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3NZcTZ5bDVJcTJQeWI5b2pMZGlBMzdLb0JMVzEweHY3YlZZU2JBY3RKUURWd0JyejVsSGZJWThiQmxoQUEtUFh5YkFJa0dub3pFejVCT2Y5dExERlBLamt0NzE5Y1Z1cnpzaG1uT2pEUTBEMER0M0hPR3h3X1FFZ0ZGY05NQXM4RzVVbXJrZFlOenhUbUlDdHVEZ1BjYjhLR1RtX19ZdUp0aU0?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (NYSE:SCCO) Offers Dividend Investors a High Yield Backed by Strong Profitability and Health - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb1BtT0tybjZXalp4YV8taFVvdU1XeE1pYXZFLWQ3OTdLRUVOV3lpdHpFVW1Id204S296aHUwazJoNWgxQzdYYlRURGViejZ0M2VlSFkzME82b3hYYmZYSzBDVGFBR0dZTU92NUU0LVV3U0Rmc0QxWFRjOThQSEZwcDFDZGUwTlFmQXB3SWtkMUFxX1ZOMUQxQkF4enlHc1E3Zk1LWWQzcWVGLV9jLXZ1MDkxRzNzMHFxSE04U05kNmItaEFkZ1Y4SHhhbGhQcDZkd3hvNTUtb2pFeTQ5QTUzbmFLdmdXNmxWcjlCU3pB?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Climbs From Three-Month Low After Rough Week for Metals - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXVpVmxzWlVNUW9reTA0bUp3T0NiSDktOGJGV2NNWVhCYVZwcnZ6SkQ0aHZLQ1prc2RONXJwUzFxd0RicXQxMmxMdm5VMXRaYzJxS2oydGp1T3dpSGlMRFRTY0tmUWR1NHVoeHN0OHNyc3NtQlpUYmxfRnRJa2ZFc2F0SmhpV2R6VlRmdXlpdjljQzItc0NBR1BRRlpSeHlaRzBiMVhZamxvQUpIMmFTOElfVQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Capstone advises of delay in Pinto Valley recommissioning, revises full-year guidance - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTE3ZUtyWV9ZSTkxeE0xSV8tYXkwZ2J2bE95Sm1McVRsdUF4Q0lpdWJldDZOWDZPdUsydFJBRk1yU2h4Vlczd2NjQmVRSEVkZlNjLU5Cdjk0SE45N0FvUUxpamh5aGk1SERhZ1VZQ01WVnZpOUtEU2g5RDA0cEtGZkJMYy1oZUZNT1FYMjNGamZuRVNaLXVXMUd0aWtyUHdYZEIxa1ZBbko1YUNPbHkzWWxoQnRQWEVid2xMTDNsV1pPNWhLMlFEUTdpbVg?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper wire theft disrupts East Union High School senior events - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0x2cVJYVVQ3MXBpTlptaEJWdndEdVRJUW03SlJNS1hBcW1FOGNFbUlCRnMwVkFKdUFrb2RtSHVvRFVWVklLWXpEbFVpSkdUTWdSZm83dlNCSTIzbmZfdVhHcUdWQjl2cWRMbjdQYXRjdWFWa0FjWDFfZWI4aVZHVVBOeXBJb09GU0hJMUxSZ082ZVhRbWxXUzd0R201Smx3LWFYYzkzZDY?oc=5",
+                "source": "CBS News",
+                "is_premium": false
+            },
+            {
+                "title": "Goldman Sachs flags risks to $15 400/t copper price forecast for 2027 - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjl6UU9RalJsbWhDMGJEaTFOZF9kU2hmWmFpNHhXLWtSekdYcUk1bUVhR2xUX1A5cDZLbExfcmJzVV8zaUhkMl9kR0U2aDBEU3FfVkZ3cDAzblFNa3RObW11NUZjQUNhVEw4bFNjYklPV2szVE5IWTFQc3JuRDJmU2ljZlJvaE90cWlkWDlaYVFIRmQ0cTJNUWkxRVVqLXNYbTd3V0prdlFrTWZvcDRVYmRnZ1hIZw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "True North Copper clears key hurdles at Cloncurry - Mining Magazine Australia",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVZVTzVTVHRINGdfd2hoTklrZnI1djMzN1hsc0JWdFliZC0zdWJndmJzZmgwTEo0YUp2VVRrdlU4Z0pMeVpoNVJ6Vzg2c0pNZExwNG1QMTRfOWFXMmdRQTRPYzFNNjhGRkM2eGNBLWNidE56ZllCWHM0LUhPQXNpbC1ZbmR3bDQ?oc=5",
+                "source": "Mining Magazine Australia",
+                "is_premium": false
+            },
+            {
+                "title": "Leviathan follows the copper clues in Botswana\u2019s Kalahari Belt - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUR5VlVNUFVaV0NURXppeENOek8tbXZydDNkZjZNY3dLdDN6MVFLOWRRQ1lCTWtjY01mUVBKdUhac29fdGlQa21MeTNuN3hYVENUMU90Q2hzdEZMTkhDUk9icEVjNlVsdWZmUDBzWmk3ZzNSbmFCYk94NDRWWjlNRGVJbFpCUnBsNzR2Uw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "St Augustine secures $44 million for Philippine copper-gold project - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkJjaTRtQWJQNXY4eUZqN19kV0FBR1V3ekY3cHVjc1R0cGh6QjRNeWZ3VjNmWkhjMkdQYUhkWHgwYUdubG5pNG1VdlNZTXBnRVJya0xMSmJlQ0tCODk5bHFWWWdTc1ctQkNKVGIwbFpsaDl1NkV4dllyWkJYRUdOUzdNUzIwWHpxMXZfTm1wRDlMV0U?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone Copper delays Pinto Valley restart, trims guidance - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhrOUJDU3IxYlBOMW4zc2VjcHQ4czNsel8xbEJVbEppREo4WmV4OVdUR3ZoQm9ma09OeVVDcHlIeV9yOUdVajVLUDZydXRmN29sZUpSQnFpa3UzMm1JUVJZTEpPbmpBVFJZOU9mM1NzN1BWTmE1Zk5FMjFYWllaQlJLck04ckZ5?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe Atlantic targets Pakistan copper with Mari Energies deal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEx1NWpJY2JjOUVjQ2YwVGI2OWtVRnVSS1Q3V1J4R1dqTi1nc2cxbXhISy1hVEVzcXc4WnJyZmNBWjltUlVyZm1EbG9CRHdHcS0wdXRfaS15ZmI3Q1NVVGtwTDJmT2VTangtVGtDczZnTWRBUk9lQ0ZqQnJBWjd1MWRyTTRqdw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Hudbay cuts cost outlook as Copper Mountain improves - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkJkR0hIemNqcDVpRXpXd2RqckJXUm5GUFY5VnhrX3NVX256d2Q5SExuYzZ6V0lwUnlVR2VqUXBqM1ZBTnVIa0VXMXgyNk5OYl9vY2VJT25OelNtVndiVjBGR1YzbGJFU3Y3TkFJbF9LeUpxZmE4ZjFJTzV3dDdCamtB?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Skills shortage could constrain Namibia\u2019s copper growth - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbk10NHM0M3ZQSFRyZHk5Sy15dVhjdUJ5ejFYbWFqZV9rQ3Y5cFRPVEtkLWhXdkJHOERxd2g1OTBaYXJzSEJBcUVWZjRnaUVKaVhFU0w5ZkRfUlotOHlHdGdaaFFBUkxlVzJJcnRWRFhwQTZqV1VEOEhUUjdBTmttNXNoLW5aVk8wZ3Qyak1TbGsxVENYS0pxclNEMVZ5WnZ2aXlJLQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Reaching target requires range of actions - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1N6OGpxcXByUnhpTU5qSHIwc3FidXFSb3ptMk5nVXFyV1FScmVfSkxGVDh0ZW5UbVJiTWFHMDQ3eVl3T0R1XzBJWTAwQXBoeGxjaHQ3aUZwMkRDMmhueEROVGxsY0VpVDRtUVdyTlFnNVYyQ0JZZHMwVnNBZVVsX1NXeFZub2x1Z0xaNDFWbXBUbDA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "A Shortage of Ore is Causing a Pricing Revolution in Copper - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVm5KejJnMmR0Mm1Icl9Fb0pqSGd4TkU5dE1MbGRBZmFKU05yT3VkZ2J2TFUwbWlvenFWaDNac2FhandsWnRjcmFNbmtnVml5NTh6SGNtaUZYRTNlWFlmaG1WaTdRa2FmNGU3V1huRnA1NHc3MHg4eUFTeUgwRVNjcVc4RFE4a29uSlJ0c2IxWlBpbHh1Z0lma2pUQVdkenM4YmVjQTFHYUdUMFVncGMw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Sulfuric acid splits copper producers into winners and losers in Q3 results - Fastmarkets",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGhoeDlvekJOUkp4THlNRXg2b0RoZ1R2SHBRS2wyUWJZMGFXdlhBLUZhVlZYRWZ6Nk00QW9BbVdmSDRmSEo5OVdKSUNzbTdCVkZJaXNXQWpPN0JET1YyZzFqR2VJbzFfNDJtSHM3azBnaUlxMmUzSk1BaUxUMmNkUGs1UzVmc3dZVnlyaDdlOU9aZEtfV1lSSDd3SDZOWHM3RVkyUGhDWDFBdC1BZk9UeE5VOA?oc=5",
+                "source": "Fastmarkets",
+                "is_premium": false
+            },
+            {
+                "title": "Deutsche Bank\u2019s Daniel Ghali sees stronger gold demand and higher copper prices in 2027 - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTNyYzllLWkyZkI1ZUhYWUdEcUxnT3Nhbkd4ZDJKcUVjaDMwLTV1Q00ydEJzeGVvSEp2a0hxaHlMNEQ2T3NrbE4xVVQwY1JPaUlHblZzczVrNUNyS2hIM0xsWjJYWWc3dWFYUjJudFh5cHVycDg5Slh0eUdmMWFZWTZsMFl1UFFjNzRSRkhMNFRiWXZyLVFYV1dtcUc0RlFDYnRsRTM0QUFJb1Rmekl6TVVfSk12Vk0?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Gold Price Today: Gold Falls 2.9% to $3,871.6, Silver Down 3.47% - JournalArta",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGNtQURfaFJKemVhREhoeEwwUmtOM3V6OUNWZm5FVnZNT242bFZwbGxndHFoLWFQY05FRVpLS2tLdjlKbEhrR2NrcWJ1d3pWMV9FcjdhdnB5bTZ3a0xLTXFfVTBGRTRWbEJKMkMyUGlpSFNETmhaWDJPSFBSMFJEUUdhcWxUY1BabXlWc0VQM1ZaZjRHTWxSNEJrMzFNdHF5YTJZOG10WVJ1T010bzkzWjloai01SHFTWVpocmlXeWtFUQ?oc=5",
+                "source": "JournalArta",
+                "is_premium": false
+            },
+            {
+                "title": "Public market insider buying at Western Copper & Gold (WRN) - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbGZVT25SS2hrbk1jZGZEcDZrS2w0Sm8zN3JKVExrZHJXTTJoQXF4XzU1RjZmNnlydnBWNGQ2eFpwaHZTWkM1MkpGbERMZjVQLUxPRmN3YlVtRXNUdkt2WTk0c1ZDRTRoNnFaQ1pHYnVnYm5zS2tUQkI5ejZ0NEpfVHliZTdMVTBPbWZibHU3OGF6QkdJQXlMbUhqVG1qaTAtME9Sd3NzSG8yY0dXeWZjX3plOFRmXzdKMUg2blBrOFFSSHZ0cmVHc1pPWV82QnhwNnNRQXV3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Fuse Battery Metals Options Foggy Mountain Copper-Gold Project in British Columbia - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWktNDhHQWF3NjE5ZTZ3dzlOcW5xZG1WU0xaY2lPaFBfbXJILTh5ZXhmWUlJeU5jWEhBeU8wUnVsb3RQdlJGZFdzS29qcWM4dUx3Yi01b1hSeVgwemR0UW1FLTcwZk9kZ213WkhCaDNyU0ExVGo2V1k2QXA2RjZGMmlOODJrZHNITGpZRXVTR0JlUDdZRGhSTDU5RnE0MXlhSTlPeTZB?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
