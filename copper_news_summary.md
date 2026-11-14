@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-14 12:53)
+
+- **[Chile Copper Giant’s Woes Put Private Capital Taboo in Spotlight - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1JVb1pIYkRxa19rRmZ4YTZoM2trbFFPZEg4WkVvZEdNRWZrWGtHU0FqdWpJLXg5cVQxenBXbjRST2hSR3pYMWI4WHBUaXVscGpTQkhfeGFUMUdIRF8xN2wyRl9YXzAxUUpFZGNtemJIUEtUQjI5bmxrckpFd3NIYUZJc0RiWXRpbHlYaGpwQzJPZGVBektOQk5Mdmswc2lMTEszM0VsUlBCdnVvMHQxTHpEVWNsZw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-12 11:39*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-13 13:50)
 
 - **[Copper Climbs From Three-Month Low After Rough Week for Metals - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXVpVmxzWlVNUW9reTA0bUp3T0NiSDktOGJGV2NNWVhCYVZwcnZ6SkQ0aHZLQ1prc2RONXJwUzFxd0RicXQxMmxMdm5VMXRaYzJxS2oydGp1T3dpSGlMRFRTY0tmUWR1NHVoeHN0OHNyc3NtQlpUYmxfRnRJa2ZFc2F0SmhpV2R6VlRmdXlpdjljQzItc0NBR1BRRlpSeHlaRzBiMVhZamxvQUpIMmFTOElfVQ?oc=5)**

@@ -31129,5 +31129,108 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-14": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 16,
+        "articles": [
+            {
+                "title": "Copper and Silver Explorer Secures C$7 Million for Drilling - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdF8wUFZwN2lBSEZUdnMtV2htRTV1SzljbGxHcTk3RzVPSlM3UFllZW9XREZRQ1lYazZadDZhcmdHemZCV1p5cnpFSnN6cklTT3lNTlVwYmM3aG5jRER2U2Y3OWs0TDFEUE1ldHYxcHI2aDk4VHAyMmFXRHJQa3lKYU5aWXNONWdvVHRvQmxvd1h0MUxUM3l1cjFKRlRoM0JaZndHR0ZfSnZGYWdldFctbjlGdzNaMHR3bEl6aFVZdVA2Mm51UGhLNFlkSGpHbTY3WEljVGRuMzNmaVk?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Cobra\u2019s Shadow Rose copper hits put Manna Hill in focus - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNEpzRk1EUWZVV1NsbVFlVnY1NVZYQ0QtZnZNekFkaUxVZGd0ZElnMUF3U0otYzEzaDF4Um93UnZjQTdiRDZMUXpybnZyVVNfdWpoTHhreTQ3T1ZhUGZEUGJIRDVkaDhMMkZ6YW9xR3FZMTJ5VWNtVHVDYlA0MnFFdkQ1WQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Freeport strikes $77M deal for BC copper stake - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrV2UyN21hMHAyVk1COHk3QVJQcXVxQl9IWHItbTlkX2ZSRlRFZUNIeXRieWZzRzZEbTBiNlpfX3ZwbG1aRUZoUzVFTUhodHNVWlhQV1pYZk5aUjVEZS1sdE5VOVFLeElBOS04WlI3aTZaVG9qWi05eTBn?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Capstone cuts copper outlook as restart slips - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWFZxUms2bm1GckdHbFc2SlFuT3lsZmxhTjczRi1vSHl4T19oaU9ycDlpeHFzcmhOcnlpOHlaWm9Rd0tkMjh2OXY3alAyS1UwT2hiU1dBNW5QajFMbkR5cFBYZzZieE41ckVudkdtVndHcXRIUkN1UA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Gunnison Copper reports Q3 output, revenue surge - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03V0tWZzlLbkxsWVJvMDVsUjlWN25rUzJ3MWRmUWgwczRnc2pjQXE0WWhQUFdWM0JzdmhOM0htTWVibzRPZkMxdFBXWWIwZTIwSUhJczNhTko1cFhHc1h4a05HZHRKMUQ2QmUwSGM5Q0djb2RWYjdHR0Rn?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price heads for biggest weekly drop since March on AI rout - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjhBQTdQUHZRQV9rOTVLcnNVU2szY2tEZ2tqeWdWVlhpU2RBWUw4U0w5SHBfR2l6R0xtcW1aN1dzYkdsRlp0Y0ktM1I3bUlkTWhiUk93XzItTnlJUHpMZmJxNkRWSnExU0FfTUhGQTBwQnUyQjNSQ28wSC04cDh3Nm1SSHNQWHNySjFIaEYxUEZZM0Q4b0JKeg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Norway's Nussir copper mine sale faces scrutiny over Russian links - High North News",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1BLSmFZcloyVzdPblFiMl9EdEwtSGtXN19jaFNCTEZSZjRBTExuSUNDUVNnX0lCTmltRjlSdVJlLW9lZnNuQ0ctY2t3dU5oUEw1WDU0ZTVBd3RCS19DUUR3RjJfWmxZemQ2UzVzVTFrbU1GZjEwaFl2TXBjQ0x1VWRlY0d4c0NEeFIyYTZDMEJJRnhHR29vbl9qamtBUnM?oc=5",
+                "source": "High North News",
+                "is_premium": false
+            },
+            {
+                "title": "Copper shortage or surplus? Banks split on 2027 outlook - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjdVQkZBNzZCSl9oZ3VmLUd2cEtRdFNWR3JkYWhQVmNiOXJxSTZUMExwZGVJYkRULWhuRzFHZGpLTGpnMUVjOWRES0VTSnZHcm82MWxHcU5HRVExM2hKVkJhSHB3ams5YTNMRWdIbHVuSVZGOFBQVzNGbU53Q0sxdzFuZUY?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Low-Carbon Copper Market Trends Support A 9.5% CAGR Outlook Through The Forecast Period - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklLYm5RRjFkUE5wb016QWs2ZzBtSWhpdGtYZi1OcG5wNVYzcmlLbjFaamx4WXFOaHFRT1c2aXVQRDJxSHNGOUtiX2EtUjYxdXZTQmVkWXdxWVRoS3hJM09CRjdxTWdxeFFOZU92RlpCd3ktUkJMNTNBWWRPdUJFV2VYVUw0REh2UFkzaHA0UEprejRBQzBvU2dR?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Market to Reach USD 511.8 Billion by 2036 at 6.8% CAGR; India Leads at 7.4%, Germany Records 5.8% - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkV2aENZSzdmSVE1cGVSajFrUVdaVzVFeTJGaEs1MkNzWHk5T3RsTVZramRrN2xuaXhqQTVWLTdtTFh0bzhZM3Z1cFRCd2M1YUtVSUZOcmlObGViWjZ1M1BQa2NMWGlvdUZoWE9XOWVVRk83VWRIcTZaN2dsWVUxeHptRjlLbGh4aUQ2SW1zU1o2SVZlX2FFaC15bWY?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Government strengthens mining security and advances copper smelting, says Petroleum Minister - Daily Times",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVl1QlNreFNzZFhQZVNBSWQ0UmZoQW5WMmV5LVphbThpN1lwNHYzNWlSTTNkVHVMREg0b1l5SDAwc2JPM0F2WnVKaTdtQ1BFZ0tMbGx4dFd0UzlVc2ppeWlGeTlyVkI3RFBzZ1ZvYmdhcjZOWElrWUdvZWU5cF9uUlhROUttSkg4SW9YQ2xSX0RKZzQyWmMyUXltSkJ2clpheUIzTXZiaTVFc2M3Z2k3TzVMSGFTNVRUcGp2UGRnZDlqSWpG?oc=5",
+                "source": "Daily Times",
+                "is_premium": false
+            },
+            {
+                "title": "A 1,615-Foot Drill Hole Offers New Clues at a Historic Nevada Copper Mine - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZzlKbVNjZ1dVaHh4VUstSDJrLXFSSEhWMTV1Uk95UnlqdzRtMDVKSEM2dzJLZzZfVFRSTFJhc2l1bjVlTUROWXRRdFRqZjRhNjlhQzVFWW1Kdk42NVJhMS1zMWN3VzB2TTNvRFl1NmpBX0JaSC1zd3UyamxraFFXOU9ZNmpYY1ZPTmp0d1NfT1NWOF9rR3lkcFlyeVY3MDhlT1M4cU9JV3VaUXBfLUFfNmhWNU9DV2VXcXZ5Z0IwTFVBUFdjRmdxdmR1dw?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Reko Diq copper/gold project, Pakistan \u2013 update - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWEtR2xmR0dXZEo1UHdqQXZGSkpfbW9iNHhqank3YUhmMVkzbjJGRXZqQkJWbFdNSmZ1RVd3NzVFUDlyQU05eUx0UU9YNzdNeVpYYUpWcUZvNXk2b2tIUFlNRHFpWXRWY0dlcHFfcXFhVjEwUmNOMS01Mi1WeFdkd3dxSjdwYXhzRWV3Z3VFWUJoMGdRdmc?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Kamoa-Kakula Copper Complex, Democratic Republic of Congo \u2013 update - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1IxVnBmN2wtLUFMQnNLTHB3NEpSdzJicjlqeE0xOGFxTWxsWnBhamxFZXBmRXYyb0xTdnNieDM2NVlyU3MxclFiSTNNVmYtTHVDZ2gxM0EzVjA4S1lIMTBzNV94SzNXSkJEZTIzWVYzc2dnbTdRWl9FY0htTzJBZW1VbXVudk5POXNYbWh1YVlvX2JCVHEtWjdJbTZBc3phVTcwY0c0cTM3dk5kUEhiWg?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Chile Copper Giant\u2019s Woes Put Private Capital Taboo in Spotlight - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1JVb1pIYkRxa19rRmZ4YTZoM2trbFFPZEg4WkVvZEdNRWZrWGtHU0FqdWpJLXg5cVQxenBXbjRST2hSR3pYMWI4WHBUaXVscGpTQkhfeGFUMUdIRF8xN2wyRl9YXzAxUUpFZGNtemJIUEtUQjI5bmxrckpFd3NIYUZJc0RiWXRpbHlYaGpwQzJPZGVBektOQk5Mdmswc2lMTEszM0VsUlBCdnVvMHQxTHpEVWNsZw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Ranked: The World\u2019s Largest Copper Producers - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSTlxUGR6TTlMREQ0RGxuaThNUVhUaThsSmVRaUF6NXVyc29WX0s4U0d2OXh2UmRHV1Z2d3NFTUFGbWVBMElqN3J6bkdRRFc0NTRpdUpTcHZucGZVQ3RCNmk0SmVMMG5CdEtRV0Z0NERobXZmV1Z3aTJFSlY5YzVuX1R0MXJzWnR1dllFdVlCNEFMYmZzSkxnMFpIeDdiaEJFS0tFZnhubzg0SE0?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            }
+        ]
     }
 }
