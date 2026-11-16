@@ -31238,5 +31238,84 @@
         "premium_count": 0,
         "global_count": 0,
         "articles": []
+    },
+    "2026-11-16": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 12,
+        "articles": [
+            {
+                "title": "Hudbay Minerals Stock: Copper Surplus In 2027 Priced In (Rating Upgrade) (NYSE:HBM) - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDlBVG5WTzFVRjhHWnU3V2dXdzlIZkdOWkFaQzdUVThLMFkyTGFHakZEN0F3WVVqeHJjYldjbVo3ZThLaE10VnJkV3hZNTZGR2pydldTYVh1WlJYcUF0d2V1aGdGY1BGZDBCMWVqeWF2YlY1dUxSV0J0YTF0WmcxYTB1a3p2dlk0NTVrRWppUTFLbmE4bk9HREcxNVNKMVBCMlhlajk1aFhLWnc?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Copper, Nickel, Lead, And Zinc Market Report 2026 Market Outlook Supported By A Forecast 10.2% CAGR - openPR.com",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSHBvdm5SOUY0blRHYjA2Mm40NWxCN0xnUV9sb09mMVpObDdGTlFPekphTWVHSVNqT212eWpiTHZ0NDNZS2l4MnB4bU83VzdtLUdDRmx4UTJNRXI1Vy1JVXNCNmZQd3d5WG9sRk5JcVVoM2xVUFVBcWRpUGZEUVdCVGhKNm9LYWxMR3RmLVBfOXpVZms0OXdhNWhzVUxCZw?oc=5",
+                "source": "openPR.com",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (NYSE:SCCO) Fits a Growth-at-a-Reasonable-Price Investing Screen - ChartMill",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3hYM2tqMS1oU0RCS2VSQV9vSTJ5bDlJTkpZaUFOVkprM2lrTk1oOHdtRUs3UVlCQnhXQXlCbWxleVlvWUREbTVYQnpaWUZ6U1RuSHByRDNOUWJzancxOHpva1RuSEU5TUdoSWVjbzRtRVFQcHp0Yk8yTnlEd3B4bjRJNVNTakQtUWNRTXh2ZFpuVi1WVl9MRXJUT19Fc0NISlRyMk1DMUxyMzFfZjNuSl82dXNpUmxCdmlSVUNqWnh3NE1mazFJMg?oc=5",
+                "source": "ChartMill",
+                "is_premium": false
+            },
+            {
+                "title": "Chile weighs private partners for Codelco copper mines - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcHFtTHdiTkNTZlVJSlVkeWxCU1c4MVN2MzFnM2thNDhpeGN2eFY2blRiUjBaX1R4MXFyR2l1SVhDV0l2R0wxeFl4ejdObjI3a3pMREpLMVhfWkYyNjNlTDBsMkJaal9IVVY0OXl0ZU0yUlFoeEVid3ZxNGFCb0pHcncyaw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1E0M0JYMzBQaWNRMVNzTVVkUUZBVTVHeUQxZ3pCbWN3QVFHeE1DZVE1XzVrRlBYRlBzN0NSSUdWS2F4eU4tdWNNLW8tMW5kOUN1TzkwSVFfYmN5Y0pfNDhhbzhsRFF6elRLYnZNN3FZLXBCRS1IYVlZRW94MDRzT2RTY2FBWWhuTEFZZE5pbUJYb3lydmRhOE8taFFWdw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjdpOC1tNy1RZ2I5cnVybXA2SmJtbUdZVmhrVUoyLXIyQVZPVXU5dnMzLWhna0VkT2xIYVhLRTc2SE52cDdRd1BFeU5lNHc4WjZMZUxoSFRIeXM2WDJRclRiMUl5Y2p2Z3N1RjhEcGpXY3IxLU1JamZoYTBaekVYcDAxSFpoTzNvdHVCSWVjd2RYcnYzZWU1X0JaWGswRUw3ckxtbnhISFJ6Z2F2blY3Q3Bn?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Gold, silver prices may rebound; crude may trade in a $70-$120 range: Swiss Asia's Juerg Kiener - CNBC TV18",
+                "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbVlDSjRIZUFNVUZXSFc0NkhVbFh2THROWWN0T3VNWlVUUy1UZ1lyWUs0bDlWRDlVT0tVd2NReC1XdlBaMkpHWjhFX2k3MjBUVWNydWxtZmVDMGpIVjZySlA4aEEyc2dCdlpsWGRXTjF0NVFIeUVGd1Q5ZWdyeEF6Rk1tam5KV3g1dVdYMThyUnVoU1ozallOSGpORk1JQXFHMGtESnBxV0ljU1R0ZUZSelh1LXlmMTZpVFJZeWlkUnBfU1BZME5TZEVZSjE0Ykc0NHpPX3E0TVM5LXJRNXVEZGtsZG9rN3hpdG1KUEo0Zklib3dnRUEwNEhqYWp3U2U2MU9NcjFvalV6QnYtSE91SENmYW5ZSHRkVDdDZXdBRUpobjdtVl9NLWhWZWZsaS1nRVZlSElQbkZDQdIBvwJBVV95cUxPcVZfLWRxV05vRUZTazZJd1RYSnc2Z2EyS0JnanA0OTQtNkpxdDhkZnpleGJsT2J1dElsdy14RWNZQzVrVllsMUh1ZjVqa0pYWlF6M1lMbHFoWnF1Tkt0N3JsSTduRmNxREtsN3RGMVNGM1BJZzFTRnFnSkpSSGxvYjJORnBmRFoyZTdxUFA3UnJ3SXhKSUxTYTFaNVkybWdsRl9xRHE0VFI2UUM5S2ltcWp5dEdOa0w3cDVqRS03MzVGdEowWFdabGdFMS1zeFhKbm5GZVkwQjBNM2NKc0F2UktpRXZ0N3pjYmxtajdwM1RYMHdrUjkxR1VGTm9vQzROTDVjM0k3XzdkMzIwWVl5M2tONnBNbk5iTE1qNDN3ZDdIcUJXbHpVWV9fYTBteU9Ed0Utd0RkbkhXZm1hcl9N?oc=5",
+                "source": "CNBC TV18",
+                "is_premium": false
+            },
+            {
+                "title": "Locksley boosts copper-gold resource at Greater Tottenham - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUZyMW1JcENFZVpuSmVjX1FyTjJlbDhQV2xfTG9OeW5NaDJBT1d2UXpsdjFKNi1tSi1Tb1E0akw3SmJQNGJuT0lDbm10eFFuMUw1RjJ0aE41d25ubUJXeERYLWw4R1BleUtvdGVoVE9yOW5ITGJkX3BfeGdnd0luY1VEQmtSdUE?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Nvidia shake-up puts AI-driven copper demand under the microscope - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzkyR0xLdUE0N1JzUTNwQTA2MkdiUExXRWVhZEdoaFBKcFM2Um9iM2xSMlBYX19WMVViMHFqUHdQTUdXWE44WkFVQUlMWnVKazhjaTNsUmE5SFA4Q1BWNVluVHU4aXVVdnhUWFVrc0cyTjZ0LUhlZE5iZEZNODEtaGZTdTBMcDJFWUw2NGlGdzJfQQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Zambia\u2019s copper boom attracts billions in investment, but who benefits? - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkRCenVjQjhRbS12dWVtdnhsMHRDOC10RkVkcElwR3Rvc3laMk8xTERHNmo2UjhCRzRpa0pyX0tXZjFqSTFQTmllOWFNZW5SZXpfRVI2a3dtWDdIYXZBbUJiMmZjb2I4d0RVbXJ0ZGNadkQxNUFkb2VKWUFpRl9Hc253cFBWdGxkQng2NUhmekVOdnl6UTMzX2J1MTNxWUhEa2lOdDBPMFdvcmQ0RHln0gG0AUFVX3lxTE0zcW1xbEdYVy0tWGg2QTROcmt3ZEc0bEgtV0NQUDNaRTZuXzRlaHdwZVVjTGVnV1IxV05CWnBUdThVckpUMUlNTHBSa09sLUtWN0h6MFVJYXlsQ3ZVMHVPRjh6MWQybjlnOUN0OFJLR2JhcEF2T29IbVM1cjRBQUZPY0RBcG5waENuM2xvbTMyNmY2alQ0eGxCbXNjWFRyZk1qNGZkRFhybUlLY3dXTTZRX2ZDNw?oc=5",
+                "source": "Al Jazeera",
+                "is_premium": false
+            },
+            {
+                "title": "Presenting a united front for Queensland\u2019s copper sector - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVpZdTQ2TWFBYTFoc2x5enU1YWdHVzhDVFlJc1lOdF9qT1F2MlZoVERlZWlnSG5wSHJzR2o4a0UyVGEwOEg1a1dmWGU2V0FZQWpYTWFhWWhxbElQbWhaV2NtcmFRZ0ZzUk5BLTljUDZRWXdZRl9tZEJiWWx1SC13OU5jek0?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Miner-smelter tug-of-war rocks long-standing copper benchmark - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzZaOGpWd2FGQUJpZHdVbnZOd2RsTjVIOTdOb3B6Xzk1WXJPbnYtVU5ndkxMaVJwT3k2OFJ3WngtWDl4NVl2c3V1eGtCaW1mUThWTG40R0JBaV94ajdyb1RIUGtqbTZzUXJDS0NUR0hnS1lCQkdiVFdaSFN6cU9BOXJUemJXOXFlZGRES0pKYWh4WlE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
