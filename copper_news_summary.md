@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-17 15:26)
+
+- **[Copper’s Unravelling AI Trade Collides With a Historic Squeeze - Bloomberg.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWRTRFQzb3ZxM08zWkJ2ZW5jN2ZKNHJKQkdzd2V2eE0tMUxJejg0cGNvRkt0MGRoS09zb3dOUm5HSk1YQTZ0ZVhlSUZ0Vlc3bVFKdXNoRWVjZzZLanhwb1V1bVE1akZQSXJ6TDJYR2UzWWE2MnhaNzRFd2ROTDVjZFU4eW5TTHVZMnpqVXBjejNDdko5eVpuSTJQaVVrWVBhTUl4d1o0aVZUeXIwR2YweDR2eEZVNEk?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-17 12:51*
+- **[Shanghai Exchange Intervenes After Historic Copper Crunch - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUdKb0hSS1lGektXY0c0bnpxUFNhbk1JcTE2SnF3bGt3Q1hvMGFKTURZNVpRYWo5TXVfOWFrSlZqMl9HUFdoOUlxYVRhWms2NjBRcTJoeVBkckxwTldnUkd2ZEFXczZkVGRWc2NjekVSQjR3aERjWkduclgtZTFRc25NZWdmeG5JQ28zMTdDMnpDLUxTN0pQMHRKX1VCZ2ZxOWRQNnlnNzU2bTRKQlE?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-17 09:54*
+- **[Miners Negotiate Cross-Border Tie-Ups to Unlock Argentina Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVh2aDNmbXlGNm9HcXNCSlJZQU5DS3ZwOTNWci1KNHktWURKeXBBMjBQZkhjZHMzdS1pYkt1ek90Q21EQ05sMkhJeVN2aWdNODJSdHdMeTI2QXNZRHpkSWs0TGdOSTdpTHVIZG1vcDFEV2YxRGhHR2VfR2xGd3ZLWHZwWGRsYzVkV2dnOTUwVThJVnYtQTR4LUlvNVBkVUw3MHRLQ3psRXBJLXlfRUJIMmk2NXB5a010VUNoWjNjNnpzQXJTSThz?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-16 16:18*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-16 14:36)
 
 - **[Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjdpOC1tNy1RZ2I5cnVybXA2SmJtbUdZVmhrVUoyLXIyQVZPVXU5dnMzLWhna0VkT2xIYVhLRTc2SE52cDdRd1BFeU5lNHc4WjZMZUxoSFRIeXM2WDJRclRiMUl5Y2p2Z3N1RjhEcGpXY3IxLU1JamZoYTBaekVYcDAxSFpoTzNvdHVCSWVjd2RYcnYzZWU1X0JaWGswRUw3ckxtbnhISFJ6Z2F2blY3Q3Bn?oc=5)**
