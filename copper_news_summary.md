@@ -7,6 +7,28 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-20 14:49)
+
+- **[Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONHFkYW9abjlUcHNuc0xTR2JMOVlORUJqUGg2U0VBX1ROUUw4Tkdob19rQlJib3paR0NoUlZ1a0E2UHdZN3ltTFJSUnlSQ3dWVlVfNTBsaXg3Zm9RcmdRR2lmVmhKY05fNWMzOHVMbWRSLXl4QU9FZmNWVnF0QTF0MU15amhfTVdMOThWbm1sVTJqU3NFb1F4VlM3aV9rUXUyeXBHa2JtbWZxTTRBQnVqcEV1eUxoQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-20 12:35*
+- **[Two Chinese copper smelters blend concentrate overseas to boost supply, sources say - Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVZOcmxHRTFWdTktS3pnaUpNQXZ1aG1YMURQTEZPN0tZbUtxRXI4SlhhU1dyNHVNZC1IYTVSd1N6cFJUMnBpTktiTHNlUE93RWd1bkxOeXplakh0SmFwZndoOWxrUE1sdFNRUDlmR1hFTkY3Qzd5ODFBZ0ZKODVzTmI5WFBVZ1ZLdnpkTGZrY0FjM2ZkOU5KTjh5VEFPVDk3MlFLVUZhNWFkbzFkWVM3MW94QU5hcmZMNGFLUGdTVV9yTFBXVWN5RU1rY2ktaGk3?oc=5)**
+  - *Source: Reuters | Date: 2026-11-20 10:56*
+- **[Copper Rebounds After Rout as Physical Tightness Persists - Bloomberg.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHk5NjZzSHMyd1ZveTY5Y3JrRVhvcW5NcTBldUVWODBJTklDZHVtYmdES3lJWlR3dHg3WHdCelQyakFPOHRBRDdYSVN1WVBvNEJjWnVGWnJfVnBlU2ZiYkU5YUF1cGc0MEYtX0k4STEyVER3UVlwMUxMVWtEQXlPTzZjUkt4OXVMUVQ4ZzlQcTVDZ0p0cGE2TGQ2eDRvUl9DckMxQXN1QjljQjl0?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-19 19:47*
+- **[COMMENTARY: Funds dump copper but Shanghai has run out of metal - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYW5RRDVsNzBhcFdKb19ZT05oazZRYVktcFZfcndaXzhQTjVWbTlFUEVQOS16bUsydmI5UVZ0MUYzZ3g0bDRRc0ZFVDJiMVY1RDBZT1paMkR4WHlrUDZidk9MUnprLXFvTk1jLUVxSEt1elJ3c3E3ZlpPazhHT055QmxUbEdVVnh4QUI5TWJEdmVWcktvNmpQRkNRNll2NjEwRDFFOTJsNTJDdXdKOTZ4eVZvbw?oc=5)**
+  - *Source: Reuters | Date: 2026-11-19 14:26*
+- **[China Copper Squeeze Starts Drawing Metal From Huge US Stockpile - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjBTcnVMeklkQzdUNklKNE04dlN1MFpWd2lkcFhucDRnMHhuSjEwSFJfaks4dTMwT2h2ZVBwaXJsaGpWWE1NVmNmZWVSbEpwcHZBZDJhS25JZE5iTkE5eEczS3QzY1RuRVdDWTFTSUh4ajZhLWlfbU5JdUxrR1p6Z00tMmNKTDkxMTN3MHhpQXlEYUp4U2Y1Z043V1RocTktMkktWTNxREQxbVYxVm9BcEJRb09OQQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-19 13:54*
+- **[Copper Extends Fall to Near Five-Month Low as Dollar Strengthens - Bloomberg.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0lFSXBXS29wZm8yR2wxSUZPYXJ0UXRoYWxpZ25sOXhOaFZSNFNnWXZIWGd6ZWFTSk12V3VSYnNSenlGWmpOM1ktNW50RmJMc2NNYV9vVXNuMGlvY25YWDdUOHEtX0swekVrQlpVV01qLW1uSzEyWE9tQ01oUk0tSGwydDVRLTMyQWZIb2NSOG1qSTV1SVJv?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-18 19:14*
+- **[AngloGold Ashanti to invest about $2.5 billion in Colombia copper mine - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlJ3TkJUQXpzNWNCYkwzbDhkN2VlMllOVnNXN0ZzLW5aOUN1X0ZHQ3FmbFpsN3RKUVRSX1M3Zy1KamRWTHFHTWd5YkNUQlBsQ2I4RGlqcFhHWlpqdUM4YXlSODNnOGhFcFpWaXJPbkVKYXpXb2tMWndsSGpURm1tSlVSY0w4UlhqcGVVYmF3WC1JWkYxU3pEVEI2ekJDZVN0QlRaci1oQzRReHVEOFRiXw?oc=5)**
+  - *Source: Reuters | Date: 2026-11-17 20:05*
+- **[Stan Druckenmiller Says He’s Short Copper, Neutral on Stocks - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEFaTjVOeG9aNi0tTHp5RDQ1UXZUNnItQUZTWnBnLUNSM0VYMUlQSWREa05nUndVUGpXZC1lWHA2SzBubUdvSndSWUJONDRxVHlSQWNwMm4xR1Z2UzJGNkM4YXAxOW5hNkVzSWM2MDVPTXlqOVh6emdsMHplMTMtS0xZQ284bVp2ODVuQmIyQ01SaGtpOF8yNkY2bkcwRGdUdkVNODh2SklpaVcyY3hVMG1R?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-17 17:58*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-17 15:26)
 
 - **[Copper’s Unravelling AI Trade Collides With a Historic Squeeze - Bloomberg.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWRTRFQzb3ZxM08zWkJ2ZW5jN2ZKNHJKQkdzd2V2eE0tMUxJejg0cGNvRkt0MGRoS09zb3dOUm5HSk1YQTZ0ZVhlSUZ0Vlc3bVFKdXNoRWVjZzZLanhwb1V1bVE1akZQSXJ6TDJYR2UzWWE2MnhaNzRFd2ROTDVjZFU4eW5TTHVZMnpqVXBjejNDdko5eVpuSTJQaVVrWVBhTUl4d1o0aVZUeXIwR2YweDR2eEZVNEk?oc=5)**
