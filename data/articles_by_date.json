@@ -31847,5 +31847,138 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-21": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "Traders start to move US copper to China as Trump tariff fears ease - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmljc20wVUQyeTBKZDdTSEM2cmxRR0RLTjhyX0ZuT0IwX1p4T3lOaTNwRmxIOFdBS2g0VHRLVGdIR0stdU1Vd0syb2pUWVRBVHpPTjlwRm9Bd1NyNklSUzVqLWFBV0FEdUNFSmJaRUtkNmRKdlVlU1A4VEtSYjIxZTJTRXI?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "Bill Gates visit fuels row over who should own Chile\u2019s copper - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSExuZVQ2dnRzNVRSNG9JRFVpRUZaSmtpd3MwamxUX0d5OEV0aktsMWJNYVhsNG5EdTVfSVQyUm1wVTJjMWJScE1PcWZXSkhfVGs4ejA0VGZxVzNoejVRMzhsa2NLNVdYSkQzeFZ2ZkZ0V0duNE5TdTgxMjAtNktWc1k3Mi1KRlZUTEhCcE0zNm9uUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "MMG faces beefed up EU evidence citing concerns over Anglo deal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmxna1JEYmZiVHh6NmFPWlV5U085RXl5cUxHU1ZweVp6Y1c4V2NFMlRFWk96VGY4dnk3V0lpNzZDS3M2cDkxdjB1OFlIcHdLNmNoM0JfUmNnaWV2X09GYXJNYW53dGRlOWItdFRZN3FmY1BuTVNtY2x4b0lsbnNZc2NPUmRyZlU3N2N6eFhHajJSN2ZYeUE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Public market insider buying at Vizsla Copper (VCU) - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXluSEhOcmxPQTBTRnNHYVNFZzFlZktKWjFKZXhOWXBwRnRVNEtfTHNPU2tHOFZmMjEtekRTLUJEcmkxUHN4RTZrMnZEdFRpMTgwdlllelZTV1lvR1dZMFFWZjBYU3J6X2lBVGJkUUxadzhCajJreUZtNGxyQXloQS10UkF1LUl0RFdpWGxta3ozRG9OZW1SV2syS1RRTzVCNFdEcTg2eC1ZbXNrM0J2dlFaRndPUTJ5cURwX3NpWDhnUW9jSlRaTmdHSDZRdw?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Bill Gates\u2019 mine visit fuels Chile copper privatisation debate - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vWEExenJaZkdDS1hlbU1LbnRLdDJHM3RsWmllX2hrNjBQQXY5bW9uZU1ZQXlPWHZaZGMteXRuVTRfZ2k1UlM0cUZLQ3AyUXp4SHJqRnNPejlYM29BeE83TzNncW9SNGc?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price heads for biggest weekly drop in 19 months as AI rout continues - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkVRZEdhZHZOajZPV1BvQVlQcVVYcVJSQV9NU3pOeW0yRVdMWEVidlVROFlUMDhUcndZN0VrbU02U3Y4azFWSUZaTW1DeTlrTTVRS1RWUFRQaHBOUVJ1SjV0akxrWl8xbXZnc2tJVklzMjR2UHFXem1nREMtTkxpOV8wMURNRGhHcElLZGRvNG9HRy0xcXBOUE1MLVJJZGhy?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Chile's mining investment pipeline hits a 13-year high as lithium spending surges past US$10 billion - Latin Times",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQel9zUDl5UHh0TEh4eGIwN1ZNZm0zWTAyVnEzd0YyOVVGeTJFN2hHUkxaeG5nX3NpdkJTZmUwbjdaTXhEWkY3N1FEckpTdHhpVHY3bXkyNmNyYjNMOURjRFRYNU5Dd1dDUDBnUGo3Q1dfR0FvUVpFbmVYbDc0cGFzWHJR?oc=5",
+                "source": "Latin Times",
+                "is_premium": false
+            },
+            {
+                "title": "Angola\u2019s $180 million De Beers bid puts $1.8 billion value in play - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOC15dFlmbm5fV1k0LVFkWmRwSloxUGNpRElBSUlfNUJNNkNrZWhJa0JSaHozOVRDc3dGLU9vQW54emlqVVdfTW5QRW5iTE1sU1M2WU0yTUJIOV9FdVRBdVdrMl9TemJEMXZiWHV6cU15X1dvVmtNZVBManBpLUoxY0tNNFVybUFsa1JDa3dwQXE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Miners drill more, but raise 28% less money - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmVnODlRS0haX1RxMXRqUkZrV0xqck5PMEl5czN6VDRSMU91b2dYTGFfSmswcElvZGc5c0Q2OWRJbzZKMC1IejdWV09kck40amxEeHNKUUJLTWRYZGprMWs3WjNoNDNoal9PWkt1ZEhKMktpeExqdHFkZlE4Q0pVRmpKQTRRZTZDZTRxWFBzLWhyQQ?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUdITlJjU1Byem9WdFRMRjlFem11OEw5Q3lkZVdOX0xad2ZrNWM3U3pzTEE2N0MzTFFxMHZkZGpRckJWajB2b0NvNjdpRUhzZVZQNWc1OXF1VmhqcjgyUnpSRy1Oa1AzU09WUjZ3UVlSZlluV2JhdzVKODVuVFpPZWtiLTJlVkpVdUJrT01kUFVkV3NGMUsxQnRVMzVZYURSSWgzWlJFQQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Advancing exploration at the Kraken Ni+Cu+Co Project in Labrador - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTI2Y3p4U1pLN3AxcW5FT3BpOHZYS3JGZkVqcE5qaFI4eS1GVTBBbTFzc3Q5UUU0Y1JjaDgxVmlUNm02ZGlOemczMHNEd2VSOWN6b0xqQXY3R0pKTkVKejJDRDlVU2REZGJ2cXpZNEhkb3N5MXZTeDhsN3p5T2treTNJX2ZuYmh4RDYyUGtCdU4zazc2QzZqRjc5OTQzMVJqa01RS01ZYw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "The Copper and Iron Ore Behind Your Wiring and Appliances: $90,000 Across These 3 Miners Pays $5,330 a Year - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWpRTXFmb2lEWm9wVnhFV2dGTVlaZ3drSkE4a3dUbDVUbEF3bVdnaFZnSGtwTzdCOVN5RDdMbHVZd0Zhd0lxeWNXcjhCUXJGUUo4VGhvMDhlM2xVQW1VYy1hNmMwWFdNTXBodmp6RHlCbEpKT2trS3NXZGlmbjZ3aTJxQVVQb2lpMlFYT1R6SV9rMUhoMWlEZkJNdVBaWHRZ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Southern Copper (SCCO) Down 23% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVNvYkNtd1R1VWtncTQ5SDJIWnVBTHZGRmJSejZFS2JtVzBYUWdNay1PaG5iaGh2cHlZTUZzTkQ2bXExaVJkWDh0TUFLT3h4UFE0N0tnS241QmxoOGJZUVdzUHpyQ25CTHFDcjJ5RlNPNDQ5a0s0TC1tVU1TeWFHR0hGTmN0ZVA1Y2xlVXByb3hucVhXbzIxcw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper heads for biggest weekly drop in 19 months as AI rout continues - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFNDTW5vbFlvT0txZXVEdWVNYnNqbXp2d21iTXpHbTRkR2JRbW5wbmNmY3hXY0NkVVgzcEFHeGFqWVV2RjNndE9SM3NoQm05UEF4Q0NYM2RURFJ3Z0FoLVN1Wmg4VXdaWUxLTHBCU25SSUdfYTBfbTNNY2tMN1MtNVQzdmxILVZ1MFFqbDZzU3REalA1TjhuUlotaDRPYkJZQ3hOQVVwQTk3Qmp3UEZLQ1hTR2tXU0RWOW11X0J3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Namibian Copper Project Hits US$2.5 Billion in New Study - Streetwise Reports",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2J2RUxOcW1PUVNYc0RZTll3UzcxRF9HU1dBMFYzeHFCNjRCQ0l0TE1ibHNBRmFPWVo2eFYyWVBKclozVHJqajRoZWVnQy1iZ2cxanVWSVppMzJhenA1RXNiU2lPeWZfZUU3Vlcwc1B6ZHQtaXdYMFBJOW9jSTZqbFRkWEE3LU9PNkJhenhvR0xRc0twYXBlTWd6amI3azRsVWZpRXRJbm41bkFRQTFMNXluc2U?oc=5",
+                "source": "Streetwise Reports",
+                "is_premium": false
+            },
+            {
+                "title": "Robert Friedland: Copper is the leading indicator of economic growth - CNBC",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHo0Q1ZwWjdlSFZtUVVpUlMtcEJ0eHZza1FUVnFvWk1ucnVmZ3VKVHZBUjV6WVR2VUg5d2JPbFYxUkF5bVFLS3VDNU11N0J6YS1BM2JPSjZWcVg0VWQwcXZJM2hzZ3Vsbk5nTUUzTGlrcDRnalp0Vnp3UXd6R2hvNXZjNVd0NUNLTzdMWjEtbHNpbHVWa19LdEppODRROTRCenZFQ1Fock5JUFdSa19j?oc=5",
+                "source": "CNBC",
+                "is_premium": false
+            },
+            {
+                "title": "Two Chinese copper smelters blend concentrate overseas to boost supply, sources say - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSENnVGFZVmwwZ3NSbGE3aEROWUhyVHZpODBacVlNNkV2WEJJaWxrbWg0MFBfT0RmTmdFZlRCVF9ORGMyTk1HcjdVd29VSmpWQUVBeWNUWWtpdzRicWF5SExrRUU1NDJIdXdlbWFjanJ3M0J4Z2pEcVZPTWU2VjA0ZWkzSFhndTM1Q0dVdUtTLUlaMFNFZElhdllFY005UnR0Z3FMaFRTSnRFbFhiX2d3RGUxSWhBZ3g5Nm9GNWNvNW5OWVRVVXItc0lB?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Op-Ed: -Funds dump copper but Shanghai has run out of metal - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlhpZ0FHeGFuemZ3X3ZaVkluOVZmd04zei1ldlY5a3M1N2x2bDVNeFJyTEs4b1lnQ2syT3RiS2lOSUtfUk16WkNjM2VyRHI3WVBpM2FhZFBiT1hrekp2bXNqVTgxUWpSeUtwOXhTNzNHQy1qZDN4OU51dDhIZUNTdU9saXpQZzZUbVcwUWpR?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Missed Teck Resources' Rally? Here Is What Holders Saw - Yahoo Finance Singapore",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHFNLWk4amdHcDl6LUwxNlJZMFpXMlJobVNJS1dIak9Xc2tULWNWQVRKeERhdFRlNHY0RmJaUTd3M1RhVW1KQWdsc3RrVmlSdUpFSHRRMjg1YkFLUEp2Y002MmdSSkZhM3pJQ0hMSUY0OTFTSGJHRDNocWpRTUZNMG1YMnJTc3l4ZG9QTA?oc=5",
+                "source": "Yahoo Finance Singapore",
+                "is_premium": false
+            },
+            {
+                "title": "Copper\u2019s Recent Selloff Could Present Long-Term Buying Opportunity, UBS Says: Report - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYk9SSHBoeFVMUzBQUE5WUVVmM0xxaWwzQnFVME9PaGV4ZHpFTnVWTFpaNFhOWjhzanlpbDRaWjFTLXpkbVBxdkR1TDJGeWtRZFM4bklHeXd6MEhjTEphVjNVUmpBdmhsQUFLcFRyb1FEWk1jV3oybnhtc19RdDA2YkhlQUgtN1VIaERSMTlFcEJkem1XSGlpRzRVekd1cXFleHJBZ3F1STQ?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Shores Giving Tuesday Spotlight Series: From the Ground Farmers\u2019 Market Collective - The Keweenaw Report",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQTBIR3Ztb2NMT2NLUFYwd01qd2NSTHJoOTBlaWptMWpXcHhub1hPOXRuRTZuSWZ2UGp2WDYySkp3MW1qU3VYRWxnSlMxVUVJS0hSd0tHaEIxZjBWdVh4eXJjRHQ4V3J1aG1DNkpKMnlhRl9BTFJJTGp4OUl6U0NZWlpOc1VnLTFrUGY1QWhoWmZleXRuUURQa0lBTWlIdVJqWDMzSmJ5TE1zeUU3MjRuMWpNOXY0dDRoZTFERmpOUldWNnhp?oc=5",
+                "source": "The Keweenaw Report",
+                "is_premium": false
+            }
+        ]
     }
 }

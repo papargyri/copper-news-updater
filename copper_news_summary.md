@@ -7,6 +7,14 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-21 14:05)
+
+- **[Traders start to move US copper to China as Trump tariff fears ease - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxObmljc20wVUQyeTBKZDdTSEM2cmxRR0RLTjhyX0ZuT0IwX1p4T3lOaTNwRmxIOFdBS2g0VHRLVGdIR0stdU1Vd0syb2pUWVRBVHpPTjlwRm9Bd1NyNklSUzVqLWFBV0FEdUNFSmJaRUtkNmRKdlVlU1A4VEtSYjIxZTJTRXI?oc=5)**
+  - *Source: Financial Times | Date: 2026-11-21 12:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-20 14:49)
 
 - **[Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONHFkYW9abjlUcHNuc0xTR2JMOVlORUJqUGg2U0VBX1ROUUw4Tkdob19rQlJib3paR0NoUlZ1a0E2UHdZN3ltTFJSUnlSQ3dWVlVfNTBsaXg3Zm9RcmdRR2lmVmhKY05fNWMzOHVMbWRSLXl4QU9FZmNWVnF0QTF0MU15amhfTVdMOThWbm1sVTJqU3NFb1F4VlM3aV9rUXUyeXBHa2JtbWZxTTRBQnVqcEV1eUxoQQ?oc=5)**
