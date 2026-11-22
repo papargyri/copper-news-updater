@@ -31980,5 +31980,72 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-22": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 10,
+        "articles": [
+            {
+                "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy - Business Insider",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOElkaGNZcUQ5TUdHaWZXWFFmSkxneEh4dE9oQks4aW9pWlJJUVNqQ0lUeVNNM1dhODVCeVgtMld4NF9pcGdUQWNsNHBVSGlMdWhoR0s1WFVheDlVMV93TWJMcVBHeks5TVhEMVlOQ0M4blUwd1czY3FZRHVralV2R0d0TWxvOHpa?oc=5",
+                "source": "Business Insider",
+                "is_premium": false
+            },
+            {
+                "title": "OMR183mn Mazoon Copper Project to begin operations in early 2027 - Times of Oman",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3FDTHQ2c0RMTm1aclJHM1MtbE5pbzVrTWlyX3RXOFpob2REeEk2NE9WWHJqczIwY1BpUUFmcHQxbDhaTUhCRGRRZFZRcHItSFNLcGtIa2ltZkRTQWpHb2IwQWZWRVBvR29wR2tDbkw2NFhJNXZUalN0a1g3aWFQWDR0RzlFZXR1YU9DNVVHQzBYMUZ3c3lxMVBoa09vcnlodjVNLVN3?oc=5",
+                "source": "Times of Oman",
+                "is_premium": false
+            },
+            {
+                "title": "Ground View Pakistan: The smelter before the mine - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55TUZ5alBzeUk3Z1N4TkhpQmV4ZFdENkhyZGFVYU9NSzZTenRxZ0xDNGFUNnQtODR3emtPNjdNNEtWVjJsRzN2dUlFaUVsdlpXQkwtNkZHeHpySnhVVlRlX29FbWJXU0JETUJsNVZ1ZnF3elNNcjhRYjFoNnI?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "US copper booked for China as tariff bet unwinds - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1V2VF84aElBRUI1ZFc3V0Y0eWtoZW94NVk4d1J5VUctek9OR3B6OHhsYkVFZmFXbEhVRm9XOEpmRVFDRlVseWNFSnZaWURVcWx1WWNUWGRfRzBuQTREYnlsWnBYU193WHhJWVVtOUZiYi1ucXRldDlPeWYxQklLTVU4dXVYT1VWOENjSlhxdm5qa19rRkE1ZHhtQQ?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Bill Gates Visit Fuels Row Over Who Should Own Chile\u2019s Copper - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSnc0SU1POWhsRGl2WW5HSjVnam1aMVFsRTVNV1lxbzNvd0lEaHdfc1dmaEhmSEdSTnJldVFOWmNLQjdjSVBoSlFQdHk1NmUyYUZFajkxanJENndnTUZtaDcwdlNEY1c3NmdOMGh3Nll2ZDlRVUI0Z29JbmxZY3RHeFlxZzd6MEV0cHhTQmdMc2NQc1YzcU1xQ29IZ2M5NE1wbGtveU1aVk9VQ0t1RU9vaTNBZFZ2Nk9VcHdv?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Copper falls into bear market on AI growth fears - MarketWatch",
+                "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZGE1bGw2dWlLMmZSTENCM3NOWmozSWsyM0ZBLW8tejRka1V0Zm9CT2NtU2VYWHJxVHF4TDlvZGtOd1pwQ0p0UmJRSWxYQnlVMmxXVWF1RXpJS0dqVDQ1NXduWlJJTElUOTdncVVpNUdSM0RWUGxHXy1xbGR6ODRvOGctV0FqR01HdG5QTlpudmFoSVRzWmpQVzJhSnpzZ0RfOTc2YllKaVp3a1VrRXpEekJqVTQza2hlRUctd3JOdERVYm1SRkhuSTRhQmd0Z19aUnF4RDlsaU0tVjVSN2IzU1hQM0lOX1lEb01jc0psMkNpeVl4RDBWM3RWSml5WkE1YUJMRlc2VFZ6MEswSkZIc1FJNmY?oc=5",
+                "source": "MarketWatch",
+                "is_premium": false
+            },
+            {
+                "title": "Two Chinese copper smelters blend concentrate overseas to boost supply, sources say - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFdtWTRWSEpEMXBfMURlMHFCNUMwSC1vNTRaRGh2ZGVlUjAxRzFZemV1U3VJOHV2Rk5kb2oycURvRThlNDhDaGFkOGxYNmZoMDFTUFpEM2ctM3FKWmc4Q1A3U292UnZNX21wZm12Q3QwYUpkWVA5Wjl0T1hTQ19SSFp4czVVaUk3VGNFUW5SMU8za2I5WjdNMVFvekJ0cE16NzlzMEctRVdSR1A0T3VJ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Chile threatens Codelco mine permit over dust violations - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM25oTWNMdjgxc2U2WmxrV1J0VFh0eE45bTdzSlE3cVBzdnNPelVMVktoZktnbFdDSVBSODViNWR0SWxDUjVyMnJpaFdZT0RtSmZzVlBoM2lQZURxdHlpX1VkcFF4LXJsUV92ZDRQU2pUZm5YZ2VTdFFxUnVwb3Y3LUZXdUFsMzg?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Resolution copper mining project, US \u2013 update - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2p3cU85dnd2UjFOcHE2RHpsd29QbnBnVjVQbVpLTjRvQ0Fwb1NpVmY1X0U5bmktbHpDMzQxWGZIbU5lUkZHdzlCY3gwUU5zOVB6ZXhaak5FaElTUnl1MDlzOHFjSEJYVUhnX1NIUXNBN1JEMmhhT0FWZW1hVVZkb2Z1S3J4d0wxY1JmSF9VYzR5cERl?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Court ruling clouds US seabed auction off American Samoa - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVlI3VE9HakxPek42alJOZlp0TGhKYW1fb3hZenZpM3p4M3UySWVRMk4zSnVkUnViaUN5WlRROFRFUThGdnpUQURDTDdPOV9PTXRxUlNXZm1tZmNJdHZ3bXFPbW1tMG5xMlJUU2phcVZWNGozaFhsTUtkMENuclliT1VMNjRtdlU?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
