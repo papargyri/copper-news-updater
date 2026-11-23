@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-23 17:13)
+
+- **[Copper Wavers Near $12,000 a Ton After Meltdown on AI Jitters - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDRPNUZyZ3dRZ2xoMmdwRjR0SUJJRWxvRnJOSks5NEVnaVRyMm8tZUlNMzhrYktnOXRxYVFDdWQ3RVF2dnRaS2I0S0FWWEp6T3RDSjhvZzh4dFBHbVNXT0I4eXhtVDkzTVlwVGRIS3FiWlppNDFxSG93VDZyZWR2VndDb29uOG9tNUR0cUJBVHU4ekRNbE9fYkM0d045ZVlsdU9NSWFsTlk4U1hxd0x6SA?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-23 12:32*
+- **[Copper Slump Tests Kast’s Push to Rein In Chile’s Fiscal Deficit - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFdvZnJHVjQtbUk5TkZjcHFJOC1leEtMUGg4RGxJNjU2dW12ZGlHVTBYNlN5ckU5Y2czeHNSMExIa2VOS0NmUDNUVHRvWFN4OTAxT24wemJVc01ZYkxncE9zckVIbmFsMTUyQzFnaGRvRS1wUXhWVnNGa0lwQVd1WXZfMzNyTlF2SjJCU25mRlZ1TjJ5U0psUnBCWi0yeThrZExscGVyM3RNSnVUSi14eWdOeVNLUQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-23 11:00*
+- **[From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3NoNGQ0d1dOQXpBRXU4RFEtcHJIRFROQlJ6bkd0dEdiXzBSWjVtZ0IyZ3FOTVF2R1htSzJPM05jNFB3MHlRak9VajdGNFAyZGVXZ2xTNm5GMVltbkJQSHJNQW9KaG4xZkFpS1p3YTluMDVxQUFtOGwwTlVGaUF6MEV5YTdzcjBScllCeGd6R01saEpZWmZCNjBLb0x5Nzg1dTVic3l4dF9PV0RjeHdMQWRsTTY?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-22 11:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-22 13:57)
 
 - **[Bill Gates Visit Fuels Row Over Who Should Own Chile’s Copper - Bloomberg.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSnc0SU1POWhsRGl2WW5HSjVnam1aMVFsRTVNV1lxbzNvd0lEaHdfc1dmaEhmSEdSTnJldVFOWmNLQjdjSVBoSlFQdHk1NmUyYUZFajkxanJENndnTUZtaDcwdlNEY1c3NmdOMGh3Nll2ZDlRVUI0Z29JbmxZY3RHeFlxZzd6MEV0cHhTQmdMc2NQc1YzcU1xQ29IZ2M5NE1wbGtveU1aVk9VQ0t1RU9vaTNBZFZ2Nk9VcHdv?oc=5)**
