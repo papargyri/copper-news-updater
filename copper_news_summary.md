@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-24 16:54)
+
+- **[Codelco Offers Lower Copper Premiums to Revive Sales to China - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZlhoZ0JZbXJ2dmlDeUVTY0JiR3FZb2kzMjVPMXh5Q1FzcHdxaXdod0g3ekZGbG0zeVBLVUFrVFBHLUNPOVJTS0o2b2REbDg1cWpLZ19KdzJSaUtlWmRkTXV6c1Fja3hxSXFKNlVrYUFGWUplcmU2aU93XzE5bEFRalAyZFZwMzlVdmNsNnk1QzJHSnlzMm9XTkJIb2tVLW1CSEFnWTNTc2dzVnA3NHZfYXlR?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-24 14:31*
+- **[EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjVXaWxRMzZOZGdsLWo3S2MzZnk3YXc0RjRVcGFIZzBVc25Vb2VtVklsSllVSnk1X0htN0JIcWNNbld5YUtnSFVWTUw1dzQ5dmhvNHFsay1ldzB1YlpCWEZnVjc0NTR4T3paMWowV1JidnNWQXZMLU8tNUFzRFFZcEI3aGlhNjdXQnctOEN3dHVMUWNyekxtYWVBd0FlRkZjUzNYenN5MkNDclVGTk1JT1N0c2tiTXc?oc=5)**
+  - *Source: Reuters | Date: 2026-11-24 09:52*
+- **[Watch Copper Rally Fades as Demand Worries Deepen - Bloomberg](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjlkbFdDQnN2U1d0UlZIRDlZUEQtS0R6SGNVS1R6T3pVdU5BckxKTVNKaVVGbVFydzJvZ1NLWG5iTmZWQUxaS0xSdmF6bUQwQ09FQmY5dUdGOEQzRThnLWhmSkF4TExzZm92RjNpdFI4aXpyRmN1YU5vUHFqUWZiU3JObzdwZUxiNGJMM2k0ZklGa09iV1ZZWS1KSVpEOWM?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-24 00:00*
+- **[Watch Jeff Currie Sees a Liquidity Crisis Behind Copper Selloff - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxONkJLYWpubDNfNTlVRzBnM0JMTGN3enZhYm9neGp2TjFOaVF4M3dTQ09lWkprckxYM0k5ZEpJdG91QWlvbzZmd1BZOVdqbkJ3TzhFRnFTbjcxeVpud3prelBFd1dRU1pGbnNLZmJFNU55dkU2SlNKTUNnR1A4QlMyRFpDUGw3NFNOZHdEQTl2aVJPbW90N3QzdGR3WVFteXhHOHNBLXYwb0JnQTR2UVI0?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-23 00:00*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-23 17:13)
 
 - **[Copper Wavers Near $12,000 a Ton After Meltdown on AI Jitters - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDRPNUZyZ3dRZ2xoMmdwRjR0SUJJRWxvRnJOSks5NEVnaVRyMm8tZUlNMzhrYktnOXRxYVFDdWQ3RVF2dnRaS2I0S0FWWEp6T3RDSjhvZzh4dFBHbVNXT0I4eXhtVDkzTVlwVGRIS3FiWlppNDFxSG93VDZyZWR2VndDb29uOG9tNUR0cUJBVHU4ekRNbE9fYkM0d045ZVlsdU9NSWFsTlk4U1hxd0x6SA?oc=5)**
