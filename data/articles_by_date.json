@@ -32439,5 +32439,138 @@
                 "is_premium": true
             }
         ]
+    },
+    "2026-11-25": {
+        "price_usd": null,
+        "premium_count": 4,
+        "global_count": 21,
+        "articles": [
+            {
+                "title": "COMMENTARY: AI metals meltdown masks acute physical squeeze - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXJEb3VoRDhjR1lQNmwyYjR1YVFHX2lLRGxkdE54LVBreE85ZDJWRGFlS0dtYXM4bEszWFpuQkNhc1hHVkI5NmlKVW5HMTVwM1lUTTMxbEJWckRIOTU3Mkp5S0Z3bG9NV3FSVkpDZnpzWTRLWUxxVVMtQWFOYVM2aHQ5NHVMMlNGNGI3VU9ITFg4c3B3RkNRXzdHZENMcFhWR19JTDdjc1lGa3hyQmhKVEozak9hdjA?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "BHP Group (ASX:BHP) Copper Plans Face A Valuation Test As Shares Look Pricey - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRklrUlhZUGJDdXJkWjFpM1JkY2huN09FaE9qREs2cW4wVFVwNkJYcUcwdXAtVTlFcmZ2NkZoTWYtTDdubWp4TjVLRllNY2hpQjZyQ25UVnU4U2k5ZmFycG1NV1dIejRPVUxHbXZYaEl1MHRfS0ZrODA4WVc1dEdmeWRwS2o3TUh3eXBKalFDcXBWbG8?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "COPPER LAKE ENGAGES VELOCITY TRADE CAPITAL FOR MARKET-MAKING SERVICES - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObk5nNy1KQXM2T0Z5cjRBZFY1djBHcDhIWk1ZbDQya0t5Q3BKS3Y4cS1CNTFhaFpUR3dqVnZHcTBIcEJVSnlBYmtaZUFGdGgwTTFXa0s4d3lJREYtZ0lNYnhjcE0wSVhDdnprVml3UHZmSVZOcWNINFVlc01Vb09nSGU4Nmg5QnpVTll3UlY3Y1F6dXhXbVh1N190Nm5ZeGk4?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "COPPER LAKE ENGAGES VELOCITY TRADE CAPITAL FOR MARKET-MAKING SERVICES - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNTRKaDJDNTVWQmlDSGJxMHV2elJqMmxVZy1ITE5mU2dVU1FpX2N2MEpvN1ZUNU1oRkM1QlFwRFFMUnlBSFVhRmpwazNqT1dYNVVCOGw0VHlLNW9WNl9KQV9QelNPMFQ5Ry03ZXptWEhuczRlZF8wLTVvWWlyTXdRWmNZY2VDS21YbUx5YTI3RS1sWmVGUGc?oc=5",
+                "source": "Financial Times",
+                "is_premium": true
+            },
+            {
+                "title": "AI fears trigger plunge in copper prices - The Telegraph",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEtPTkd6S3VfZGtCMW54aFZDelUya1l4djU0aWh6cDRJUm5tLTNXNWx4OWNkbUpvbmVGVGZpVnlGa0paOW5NLWJuU2pkeDAxd05XMk1OUVg4c2RFVmw4allvUW1fTWdtV0xlNlBaTzEtWHdjSnZaTk9fTG5XRHd2dS1mY202MWFuRHg0aWNSRWI4U1d0VEMtTFZWU3hXSmo5eTJ0WmpWVHRhSy1E?oc=5",
+                "source": "The Telegraph",
+                "is_premium": false
+            },
+            {
+                "title": "AIC Mines plans 30,000m drilling blitz at Mt Cuthbert - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVMxXzVzZEU5STdHeWYtaTVYTnNQN3FLRDg4YlZjajY0ZTBkZENVTjhBNm5acDhaZmR6a0RjVE01aFRaRFZkTTRfRmdXU3p2b0JYZTltU1lBRzNrN1RWOFQ4TG80Q0twR0Z0V3Z0RG01enZyX1dnbS1KbTgwWUN2dw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Austral closes Hammer deal to boost Queensland copper footprint - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnVveG1pRlNSMURVUGR5VmFvU2ZZZjhaZDlMcmk3d2RVQWtjTkNNSVFCdmJwSHJabFpFTnhBWUgtOGJkTFJOSHh4ZmpqNWdEXzk5RHdXYURlQ2FYX2VUbjlaOFNNeFFiVTl0eDgya0pSZF92Nm9WR3M2d016NFBlSzc2RzZwMkRpNnJCdzZhTQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "QMines drills copper-gold below the old workings at Mt Chalmers - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcDNJOVNERS1iUE9nMmpzel9pbWdldUZZTXppeEpicXJSbnFmR1RtVVZCQnNIc1NFajBkV2RzSFpINVNidGxGT2ZJNzRxVmluNUdlS05TekJad1BNdE94SGxXZ1VhMlNoZmRxVE9sZmNaWWhPNjRmTW4wNHdyNW85WlR2T1VROTBVSnVaV0hMRQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Marimaca gets Sprott\u2019s backing for Chile copper project - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTy1jVzJveWMxamNtWUVzUjNlLVRiRE1Eb19pa1NyV0g2ZUhFWmI4LWs3M2dFWXMzZlVuQ3lKQXdjaEEtdHE5U0NsRDlHaU1YMllFSWFqWmd2ay1CaFhnaDh2bS00MG1BeGVSb0xsRVlkSmlWSi1SOWp0bFlSRDJlakRiUzA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "LME tightens rules in response to aluminium squeeze - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbG9raWhIZ0tYanZoSU1tU2RNRW5KVHVISzhia1BKUUtpeE41X2xmMlM2bk1HZzk4YXRXTkswOVd2TzFvbGhUT3hZcldMWDVpQ3FZNjlFLVl5bzlfWmpIRlN2TVMwcHpsRVlGT3VaSnhyUVRuZ0VOQm9mbHNuNHhVQks2c1kyUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper sinks to 52-week low despite market rebound - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hNkF6a1JPYTFjaENUYVkzU1dTWjNsVTI5NUdVSTBQRUl1bGk2cFJLRnBXMG01azktcFR2SEFBZ1VIZzJVRlMzVTR6c0I3Q0hZc0trYS1GQWkyanQtdURYNzRWcWVvSEUxQUR4OWt4SnJudEtoXzN5UlVrMTc4dw?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "First Quantum reports fatality at Zambia copper mine - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXpQM25uWldkdE5vZEFGVU9DRWstQjZkT0NBTDlScUVkSzR3NUR0RXNubVlyXzItTlYxWk1WTUtJYUE0TGtrTWgzZ1M5dWJXQlcwU1QxTG9yUU1KQWdyY0xHeU05Mkhra3pBWUZUdENIVENQMGZVRzA5LXhadzRVMQ?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Silver miners struggle to close persistent supply gap - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY1BMTlhPRlY2TW5vWWh2X1d2VlZnSVhXVjlNX0pvNXdtWXF6QmhldDVrV2hQM1RwOUlZc29zbk9RME8zU2xYMjVuZmNPd3hFVDdYLUhpUS1RZTY2bVFNTGh1SXVNMFo4dHFkZ0tjQ1ExRklYVWw4SHF0bGhMeUthQ3FoWQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Public market insider buying at Pecoy Copper (PCU) - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcWFlZ3hnN2JYLUhnWlRyZlE2dlJnUVE2YUxnMVVWU2JPQlQyU0c2cTFNRm9XN0dsemh4NENPTmpMNExTem1OSFFPUVBkWXhvcHFNZUVkdUdleUZzbjNKcWY5S1pMSnhoOFZWYm5jdG5fc1N3TzZCLWVjdkFSWXA3dTRmSkhBeUF4S2MtbUlFb2xtTUVUcXhEYS1lVEhWVHlOcDV6T1UyYVl2a2RPc1NEVWp5N08zMERLOUxQOFlqb1FWNzJvZWI1bFN5TVk?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmkwMElFUWtfQlhMcVNNY010SXlpbm12cW1IT3BEWExiOTkyMWU5Ulk2T0tva1lkMnd5R2d5LXFJbW9jNDFMOS0tOVZmdG9rYnFrWGhybmNfaHVOaGRIYzRuMEJ3S2lQa0R1YWl1R2JvRTI4b2k4YkdFWjV2QnF4bnl3VlUzSkdySHZJVmtMU2x0bk9vNmUxS2JPb3RPZjl5OHNEa1BkOHNaM3JDdklPVDU0MWI?oc=5",
+                "source": "Bloomberg",
+                "is_premium": true
+            },
+            {
+                "title": "Congo mining forum announces $965 million in sector financing - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUQ0Rm0yaWVkRU9oQV9Cc2I1WnZIdzZQN2xMVnJYenFia2xPOUw4eW5kMVdtaXlHOGdlWGt2X19TUzZ4Si1VYzZscmxzTnhnRm9ZdUFUdE50Tkp3SzZfMDU0Wnk2UGFFZ3o1VjdlaTRza3Z0ZFhrbnlFbUxjTTBqdDZGZEdaUG1BU0UydzRkMVFyUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Urges the Government to Take Ownership Stake in the Nussir Copper Mine - High North News",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTlpc2RwczRSM2JxQmJCM0RNMFFwQ3M1M0hOa3ZjWTM3cU5VYUZBTlhJcGhYQ1o4aTk2cEVXaUhwVWk0WDZ2MHBCN0V3OTNzMXVrc0hONnVzdkc4TnVXOWF6NkkwdTlmZ3AzY2hsdzNaZkVwc0pXSWVxYnZJM19MQnVyZlpTVEdXOFVhemVHSXRIcXBfb1JOMndmSHVYQ1ExSEZoQktNY2IzaHdoUkZzWjBoelJzSzQ?oc=5",
+                "source": "High North News",
+                "is_premium": false
+            },
+            {
+                "title": "Copper smelters face worsening squeeze as negotiations stall - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajlXSGV5U29uZnNoUGJkTENEVTZIWmc3bmVRaEo5emQ5YjFhWmRIb0RRME5xZU04MU5oaDBOeXItYkhpUWQ0NzQ2dzIzUWhWd2VLQURZY3dqZ09OU0k1VkJsa3pzc1dobElUeTRGUmk5elBqdU5hcFVNb2JSOVZRdWhOb0NHY1l0UV9DS2x5OU1lYmpaWVJJblJVSU5paXRLUmVZR3dNODluVUNZ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Smelters Face Worsening Squeeze As Negotiations Stall - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRW9WVTFNeVRWcjdUM0c2dWNfRTV3RjFjLWJNcEpNWTZtaURFTlZad1ZuS1hJWHZXZDRoWHF4dGt6TXBXcno2d1pLUDljRGRPT0dRNUhXalNFTldXOGMxSWthaG9Ea2ljUG9mZXd5UzVyRk9iWXowdlBQWTNEcUZYWjNtaW9DWDRVNGhmRUpHV21laWJUNk00UkZEbUJYQ0J0U3MwQ3hKMjc1RWlVZ3ktTQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "China\u2019s electric truck boom lifts demand for lithium - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORzduZ2NqVWdfa1VxWFVNcGlNM0hLVUhiS3RHcTB6MFNUdjRQTU9NdHVIVlNoV3FUVnpYakc4dWhwVWpPRjB3NTIza09PWGZySkZDRU9GMGNwVUJ1ZW1VUFRIT2NNNVVOa0dkVnhiejBJYi1samwtV2JGTW16ZVVWYktSalhxUQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper rout threatens Chile\u2019s budget recovery hopes - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzg0SVp2eW13dThVU3dIWi1LQnJqUFpsa1VSdUVleHl0cGtVcXpwSDJta200UlRXT1o4NFhhcWdOTXhRaUx0MlJ5RmZuRll1RTlCUTk1aHBYdG1ZeHl6WnkxM2VzSDhvVDlQNjVpa2F3MVBibGJVanhGWlpjTmFCX1M4cDNXYVUxWG52aGhWaWFqeTNSVHk4?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }

@@ -7,6 +7,20 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-25 16:42)
+
+- **[COMMENTARY: AI metals meltdown masks acute physical squeeze - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXJEb3VoRDhjR1lQNmwyYjR1YVFHX2lLRGxkdE54LVBreE85ZDJWRGFlS0dtYXM4bEszWFpuQkNhc1hHVkI5NmlKVW5HMTVwM1lUTTMxbEJWckRIOTU3Mkp5S0Z3bG9NV3FSVkpDZnpzWTRLWUxxVVMtQWFOYVM2aHQ5NHVMMlNGNGI3VU9ITFg4c3B3RkNRXzdHZENMcFhWR19JTDdjc1lGa3hyQmhKVEozak9hdjA?oc=5)**
+  - *Source: Reuters | Date: 2026-11-25 14:26*
+- **[COPPER LAKE ENGAGES VELOCITY TRADE CAPITAL FOR MARKET-MAKING SERVICES - Financial Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNTRKaDJDNTVWQmlDSGJxMHV2elJqMmxVZy1ITE5mU2dVU1FpX2N2MEpvN1ZUNU1oRkM1QlFwRFFMUnlBSFVhRmpwazNqT1dYNVVCOGw0VHlLNW9WNl9KQV9QelNPMFQ5Ry03ZXptWEhuczRlZF8wLTVvWWlyTXdRWmNZY2VDS21YbUx5YTI3RS1sWmVGUGc?oc=5)**
+  - *Source: Financial Times | Date: 2026-11-25 13:00*
+- **[Copper Resumes Decline as Investors Look Beyond Drama at Nvidia - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxORmkwMElFUWtfQlhMcVNNY010SXlpbm12cW1IT3BEWExiOTkyMWU5Ulk2T0tva1lkMnd5R2d5LXFJbW9jNDFMOS0tOVZmdG9rYnFrWGhybmNfaHVOaGRIYzRuMEJ3S2lQa0R1YWl1R2JvRTI4b2k4YkdFWjV2QnF4bnl3VlUzSkdySHZJVmtMU2x0bk9vNmUxS2JPb3RPZjl5OHNEa1BkOHNaM3JDdklPVDU0MWI?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-24 21:20*
+- **[Copper Smelters Face Worsening Squeeze As Negotiations Stall - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRW9WVTFNeVRWcjdUM0c2dWNfRTV3RjFjLWJNcEpNWTZtaURFTlZad1ZuS1hJWHZXZDRoWHF4dGt6TXBXcno2d1pLUDljRGRPT0dRNUhXalNFTldXOGMxSWthaG9Ea2ljUG9mZXd5UzVyRk9iWXowdlBQWTNEcUZYWjNtaW9DWDRVNGhmRUpHV21laWJUNk00UkZEbUJYQ0J0U3MwQ3hKMjc1RWlVZ3ktTQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-24 01:29*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-24 16:54)
 
 - **[Codelco Offers Lower Copper Premiums to Revive Sales to China - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZlhoZ0JZbXJ2dmlDeUVTY0JiR3FZb2kzMjVPMXh5Q1FzcHdxaXdod0g3ekZGbG0zeVBLVUFrVFBHLUNPOVJTS0o2b2REbDg1cWpLZ19KdzJSaUtlWmRkTXV6c1Fja3hxSXFKNlVrYUFGWUplcmU2aU93XzE5bEFRalAyZFZwMzlVdmNsNnk1QzJHSnlzMm9XTkJIb2tVLW1CSEFnWTNTc2dzVnA3NHZfYXlR?oc=5)**
