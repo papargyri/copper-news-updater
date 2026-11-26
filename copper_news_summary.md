@@ -7,6 +7,28 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-26 16:17)
+
+- **[Congo Pitches $15 Billion Infrastructure Deals as Mining Booms - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMEEtdEtQOTE0N2NwenNORml5MzEyUGc1LTdXc0h5di1CX2tKWWtWbVdEVE94NTB1bl9nTEhrc2p0SVdaUklpTlNIMWQyV1hqZ1pNdzlRenZCQmlZR3Z4eDM3NHJmQVRRZkJUX1NCMWtRR1hjQ2VwcU0ycVdESFZtaURBNnpmdU5ZTnc5V2pkaDZuUGN0SVR0ZW5DVHFLa2pYMEc5TlVvV2ZPckhudi1nWWFn?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-26 12:28*
+- **[Congo Closes on Top Copper Supplier Chile as Exports Soar Again - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDhULTVaMkhMdkEyVG04ZmVLemw0QlJNLTAxczdvRlF0Zy04Q3p4VlhSal9IdnBmODMtU1dWMmx6bEprUUV1ZVdpS0lSa1c0VHpRY29TcHhyWmk2aGdWWjNSVGRyV2lYbVhIZktFS19oODJaXzF3ajg5c215VDNZaldaWHBtaVBPcHdyRFNBN3JtWFNKRTBxQ2NlOUZtRjYxX3p5d2lua00ySFQ3R2xpMTl1V1Y?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-26 12:24*
+- **[China’s Copper Crunch Hides a Fragile Demand Outlook - Bloomberg](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-26 12:15*
+- **[Copper Rebounds From Lowest This Year as Volatility Hits Metals - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUxKOHFyMkk4cTdvQ3FOVU9scWhqTUVPdm0yVXhyY2ZCYjY4dUtQcHlaMldIT3NmNlc2THhWV0xJblQyWlBGM1dWbUpNVHRWYXdvR2pabnNuenZMdkZBb1JHZjhWU2ZsQTBnTk90eHVhRUE2NHlOOUhxcU9XX1RqQS1idGU1dHJ6TllxUy1HeGZiYnp5ZWlIa1lrNHhzellTT19sOFNWNHZuNDhJQjk5UzdXSUw?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-26 11:45*
+- **[TSX futures flat as copper, silver rebound offset oil slip - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHZaRlo1ZDVoeGx6WTAzbnVNcHBJZHY2TFF1dk41aGdQYUdJR0hLTUEwR2ZHN2Z0ZlAydE5XUmVTc2twUW9IeXkxX1ZRdTEwSGx3VkxmRklONGtuNEpaZ1pmNF9oc1VXbVJQaFF2SVJadS1wMEgtT2tYRlduNi12WEs5bWFkcmhNaDdBcWM3czBFQWM4SzhUamItanY2dHBQbnIySmFTZHM?oc=5)**
+  - *Source: Reuters | Date: 2026-11-26 11:24*
+- **[Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEFPMjRtRGNYTHFHT2tCdjF2SHBMU3Awb3l5Y1EzajhoTmx3bGtZbldfZVdRZzNPYnBocUhiY0laOFRGUFhZb1dWR1NudER3dnU2R3Q3TnU5MFU2bVI4YTh2ZkgtTHZrakNBZUp5dWFOM1NSeTI0TlVZV3pUcEdWbGN6ZWg4ajduRjJoRjBaOVJZLXpYckJIVnE3eTRfTDVUaUtSd29aWEpTRGdEUmQ5bURYMA?oc=5)**
+  - *Source: Bloomberg | Date: 2026-11-25 18:59*
+- **[Watch Commodity Markets: Copper Nears Bear Market as AI Doubts Fuel Rout - Bloomberg.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEZuN20zZFZ0aVBUMmZMU1ZOZWhLbmpXeUF6anQ4NnNLWnhiTlZzZjVSUi16UVA1WmNOeHZfUk5jeV9VS2xWRDYzVnM1ZVZtQUVHQUlxOWNvN1pRMEYxY1lZTC1qdnZhUTc0QzU3WWlCLV91SUkwUU5wVVE4RUMtUUdqeGxLcWJKclEzNG9mMHlIbTlGcE1Jc0RWNVUyTE5QMUE2NQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-25 00:00*
+- **[Copper shows how AI is messing with markets - The Economist](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkNJR0dsTmd6dEd5S0RHa01YZVpFV3EzcXA5d1V0MGJFOWJRSVpQeVZncWVTRmJ1VjBSTFRCeEgybFMzS3JZcHhVZUo3NFVxTUxfV2NvNnEwR1ZIQXI3dXc1eWs1Y0Z0VGpETE9OTkM4T2Z6b2pURGhYWF9ud1pTMGhtRjFaR0NjMXNoV01kOVlYazg3bVJ2N3V3aXdtbTZUbUtoLQ?oc=5)**
+  - *Source: The Economist | Date: 2026-11-24 18:12*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-25 16:42)
 
 - **[COMMENTARY: AI metals meltdown masks acute physical squeeze - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXJEb3VoRDhjR1lQNmwyYjR1YVFHX2lLRGxkdE54LVBreE85ZDJWRGFlS0dtYXM4bEszWFpuQkNhc1hHVkI5NmlKVW5HMTVwM1lUTTMxbEJWckRIOTU3Mkp5S0Z3bG9NV3FSVkpDZnpzWTRLWUxxVVMtQWFOYVM2aHQ5NHVMMlNGNGI3VU9ITFg4c3B3RkNRXzdHZENMcFhWR19JTDdjc1lGa3hyQmhKVEozak9hdjA?oc=5)**
