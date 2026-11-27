@@ -32741,5 +32741,42 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-27": {
+        "price_usd": null,
+        "premium_count": 1,
+        "global_count": 5,
+        "articles": [
+            {
+                "title": "Copper Price Volatility Clouds Peru\u2019s El Ni\u00f1o Relief Spending - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2MxMUdyYzNYbVYwQ0E2YmhUTWEwTktRRGF0T0c1ZnFwQ3dMaDBuX1NwbkRDRUxFUE13RE50d2x5elpBcUkyUXFudlN5MmdfSFlJcVBvRGk1QThzN04wX1lpeTJOSjRjTXg1MEFoOWdvOGVxeVhWckZiRnlmUmpYUEs3SFAtVFdKSkQzckxDSmgzQXJRY1dmM3gxVFNHZEpnYVVUY281S09BbExlbjBEaDl3?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "FTSE 100 Advances as Mining Shares Rally on Strong Recovery in Gold, Silver and Copper Prices - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdkVNdDEzZVZ6RU9yekR0SUVUUjVjUlN6azlVN2JrMjJoWDNXeVdqLTlDaWlqOWdVWTRHb05reXowQTBRdk80dGhPS2ZVd2hmeUlvTlhhTjUyQUxvNnpmQkphYlp0UmlUUlhoN2tXRkVFRFNkR2gzUUNqMDloSE9OdGc2QXJtVEE?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "'The phone is my elderly mum's lifeline, but cable thefts have left her isolated' - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NeFcyb2hTbXhsUC1mc1A3N2g1bXdfYXdEN2dDc0tpUTNXc2Z0WDROeFZvT0ZHeVNRUXI5c2JudHlLQ3d5Qlg3X2w4NEVEb183Z0lvWDVNSFlmZEU?oc=5",
+                "source": "BBC",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price bounces as AI equities recover, zinc jumps by most since January - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlg3MHB2X2Y0OWZpWGpZTWtlNjNZRzFpb3lGVmZMUXFqV1dmUjFJbS1OZVFucEt3cElicU9QbjV0ZzNmcXFoOHlkLWxXc21fOHRtWURyam12XzlueXFUYm5JcjhzdHJxMnVxb0pLeHY3N3ptVWJGYTA5NTZDVG5DR1VDU1lxcGphSXl4ampuQmNsVDRqZ21YbXdkUXBkUUpTd1dBWlJNcw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Marimaca gets Sprott\u2019s backing for Chile copper project - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXN5c014YjRlTTNqNDYzQ1AxTTFQLWJQTENQc1FTeU8zWjBFMWlIT3JYNDl6bVZfLXBaQ2lXOWRpNVZwcld2TWZoblNiRWdfMmRhWjgwUTF4c09oYjhxemdCOXNRZGVyMzY5VVJKU2V5M2NqUnMyMEQzUS1ncWJPbVJicFZZM3lVUnhRLWZ0R2U2dDRjdWM1SVpsVzJIV1h0VHlF?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            }
+        ]
     }
 }
