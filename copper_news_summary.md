@@ -7,6 +7,18 @@ The copper market has been characterized by a **"Triple Threat"** of demand coll
 | Theme | Description |
 | :---
 
+## 🔄 Latest Updates (as of 2026-11-28 14:58)
+
+- **[Copper Rebounds From 11-Month Low on Return of Risk Appetite - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdE1lblpyRTA2Rmk2R09KS202SkM5cmQzS2RpWUJJV05XOXowUGp3MzVRa3haZ3MxNy0zSFdOYU16UE1wRTZDN0QzR092dXN6OFlqMS1wZWdpSWNhNHB2RDUwZS1KNmJySTA0Q3Z6N1E2MndJRFp4d3dZdEF3S0s5Q1BSLUp5bXB1VklYbEtFVUttUW16b3FobTR4cU5vaC1xd1pLNlpYMXlQMHlQTUpNMQ?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-27 19:00*
+- **[Codelco Loses Commercial Boss to Trafigura in Latest Shakeup - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2VCUVlFLWtQeHlya2p6YXU4aVhqMFQ1LUptdWJiNEdkOHh0Wlhtd3g1VEw4aXNHbVRGQ1RKcHlfNm9zOWxlNjZnb1NnOHh4NkVmMTJ1RmFOVXhsU29sV0ZZRDNaem1UakN0SjNGTjlTYVVpNUhUSWpkUFpGbElFZHRDcmt6SFdJYm1UYjN6cHNxN2FjaTNyU3Q0dTFMcDlmd0dRY0RXU0QtQWE5WkRTXw?oc=5)**
+  - *Source: Bloomberg.com | Date: 2026-11-27 12:15*
+- **[TSX futures rise on strength in gold, copper - Reuters](https://news.google.com/rss/articles/CBMikgFBVV95cUxNaE0taklTTUQwOHhHZmlyRWRya2xyVm1DVUUyNkZYN0hXMEpQMGpSMmhWdG9uOTNzU2JFMDFXbDRrZDJKWkVncmtHRU93eC1sZW1Rd0hJQkg3RU01a2RwMHJ4YVFYVTcyQVhXcElLSnRsemJXR0pIQWp6Rll4V1dpbmZEVU1PLUFHcmZQbGxuTlJTdw?oc=5)**
+  - *Source: Reuters | Date: 2026-11-27 10:57*
+
+---
+
+
 ## 🔄 Latest Updates (as of 2026-11-27 16:01)
 
 - **[Copper Price Volatility Clouds Peru’s El Niño Relief Spending - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2MxMUdyYzNYbVYwQ0E2YmhUTWEwTktRRGF0T0c1ZnFwQ3dMaDBuX1NwbkRDRUxFUE13RE50d2x5elpBcUkyUXFudlN5MmdfSFlJcVBvRGk1QThzN04wX1lpeTJOSjRjTXg1MEFoOWdvOGVxeVhWckZiRnlmUmpYUEs3SFAtVFdKSkQzckxDSmgzQXJRY1dmM3gxVFNHZEpnYVVUY281S09BbExlbjBEaDl3?oc=5)**

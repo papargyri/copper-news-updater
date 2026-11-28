@@ -32778,5 +32778,222 @@
                 "is_premium": false
             }
         ]
+    },
+    "2026-11-28": {
+        "price_usd": null,
+        "premium_count": 3,
+        "global_count": 35,
+        "articles": [
+            {
+                "title": "A Perfect Storm for Copper: Why Copper Giant Believes the Best Is Yet to Come - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUHhYVV9UNlZ1TURhVkFweDEwN3B0RDdMUHlPbUF4RkUwRW01ck1fcGhvYk5KUktXYTJxNXlrUHpiYk8xYWFJYlhpQ25kUXo4cGhHbi0zR1dCOWxqRXdJLVA5NHNmQ1JOb050eXN6NnhsOHh0LTI1UGEtZU9OSlFmRHdETkwxQzR0M2lFRjRCdWs5RFBaTUNfVXdxTVNGbUwwZjZoa1p4NWZkcy1wZVBJSTZWdXNoc1hVSzJVQzRBMlhuZmhrYVFhNlNWSThvYVhsY0pwSVc2eDJDTTdaSDU4UnhPZjJYaW55cU91dVIwZ2JYcEpf?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper is flashing an AI warning sign, but China's supply crunch may be telling a different story - Business Insider",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVQwS3FVYk5SUWF5R1kxWFV5MVlKT29aOUtkYnJTRXlQYXVPdDdQZzRmbkpkeXhTZXJ2bWJnc3p6b2E2Vi1qWDhrRXlmbElMY0lHUnZSbDFiMnBpSng1ZklzVnhnNTh4a0I4dXQ1Z0xuY0lJSlBfcGZMT0ZwMldmVWh3VmZ1TlE?oc=5",
+                "source": "Business Insider",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco Copper Output Falls as Accounting Scandal and Asset Write-Downs Deepen Crisis - Latin Times",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0ZQMzRER1l2OTdnUXFvcmVNekNsZ2Z4VzJHSzItNVRKeHhQdmg5N2IyMlhlVTJ6SU5QNXZwa2NVV1FrQmpaVFQ0N0Jlb1JuLWdTWEdxVERSVG8yQ2p4bnpicUo3dkJMRFBTbkVfaDdQR2VpeHZwa0U3MDVvMlBwQTNJc0xxd2x1?oc=5",
+                "source": "Latin Times",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Explorer Clears Last Community Hurdle for Peru Drill Permit - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY0VBQURGa0RST2pEbFMzQmdZWVgxZVQtU3pLYkhlTDRRX1hTU3BEaG5EbXo1cmxuclNESkFUM3pnajQzbzNoa21XMFVzMTd6eFhwSUE3R09MVFZIQmxGNDVFWWZsbEJ3Nk04amU3SGZkdVRJOXJVZWRwODZjY0RFMVVvRVhQeGQyQU9yWndmeks2UGV5anlzeV9CbjJjU0lONkR4N2p1Tk5WRUo2T2lFNFJTeVdpcnZnXzh3bzlHX2FrYlQ3TTBPNklIaUd0WVF2c3hleXRFS2RRaVZUZ3VwbzF0RndVcVl4cG9GMmx3?oc=5",
+                "source": "The Globe and Mail",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price sweeps higher as China offers stock market support - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkZRTGF4LWt6Vll0RmNtOURiMXpKNUt4aklKQkVnVk1SRWVmQ3NERjhYbC00dnQ3WHVkVGFwdFhIWXRfazg1R1g3c0d3bGtndk8xVzV6Q0UwTkd4ZHl6T0dMRE8wSUhMeWZrMTNnUEhDWkFrcXVyWERZcGZGMkpGTkgzUlpIQ0N6VHNVYl90MA?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Barrick gives mine managers more say on targets - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdmVnQ0w3M0RYM1oyTnpSQW00dUJhVmJBNHhqMUJaZFJBNUR5cjJTS3RoZ0RXVFJLOUY5Zlp5SUd6SlVMVENua1h3UFY3UkRtNWl4SDc3OExmaExwNjJabkt2ZTc3R3Y0ZEVLUThRNzdpOGtVcElLbGV0dw?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper price jumps most since January as short sellers retreat - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZjaFhudjR3WW5WQmNWV2dUZzQyWXEyNjFnQ1VYZFJzRkhfUmlhb2pHX2NCU0h0Z1dPdkpiYWJfLWR6TWNBa1dBNXY4aUNJYnRfOWUycmdvS2szeFdqTkxsRXlWNWVxRVE2a1J6NEdMRWlzaFVlVVZLaG5HX0RwWkFqVmkwYjZuMzlCLXQ5WQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "How an aluminum squeeze brought the LME to the brink of crisis again - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVZXdnF2X05WdUVkVUQ1SmVjLVNjLVlHNDZtTXVtelZOZUQ5WFZWT0dpTjBKNFNCaTJ0V29fSzNHdUYwaXN2M1E1UEhmOS01RUpiSk91aURPZGttdUhpRGREWHVqSm5ncjZKTWhBMk12WTZ5SnFJenZnaldxZUZnNlo3VTVRelpZQURSVXRUV3ROeTRNOThSNjZ3aUs?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Rebounds From 11-Month Low on Return of Risk Appetite - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdE1lblpyRTA2Rmk2R09KS202SkM5cmQzS2RpWUJJV05XOXowUGp3MzVRa3haZ3MxNy0zSFdOYU16UE1wRTZDN0QzR092dXN6OFlqMS1wZWdpSWNhNHB2RDUwZS1KNmJySTA0Q3Z6N1E2MndJRFp4d3dZdEF3S0s5Q1BSLUp5bXB1VklYbEtFVUttUW16b3FobTR4cU5vaC1xd1pLNlpYMXlQMHlQTUpNMQ?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Codelco swings to $1.4 billion nine-month loss after asset writedowns - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVBNYUpYcHg4WndvS0xGUWVqaXN4RHhicHR6SEVLYXp1ckcwZjF4elFkLVppMDZ6WGkzV01MdGlkXzRRUDNfa29OZ1dkT0wzYlFBVzJOSzByT29JRjA5VERtSTd4a3lCc0R5UGM3WXMyWjlvRnFFLW9VYkhkMG9nbVd3TTk3amFTMFNOQmxuRU5zUE5mOS1PWS1PMDA?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper halts Brazil mine after water overflows - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BMTFUdHhsODNMUVRRVlJYVVItZ1VXVmRmUTN5aGZsMW9vYTZTN243MWxKVk53MllUbFhISGYxUUVPRlh3d1c0THlrdk0taGFrRldYV2RUVXE3T2tYT1BPR3czR0x4UFh3TnJpVVhnXzlZTEpTM3V6d0Q0c1V2WjQ?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "ERO Copper shares fall as Tucum\u00e3 suspension halts production - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUFQTU94cFFRdzgyUms4cG9qMENXSk03NlVhTTVvZlA4RlZUV25oWEtibjM5VWUzMXYzbWZWOTB1eXotdHgxN3ZraTZPRlUycWRRNkZSMWUwQVBPR01zalc1Vy1ya0FQYmpLTTZfRldfbUtNMXVLNnhUdFV2ay1XYzF1OU5CREJXNDlxR0s0UWNWRnM2ZXVCcDdsT2xOeUU?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper halts Brazil mine after water overflows - The Northern Miner",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSktVYmEzM3V3M0tJUVI2ZVhEMzNtOGVRMWNwS0xuRkxDMnQ1M0NKSW9FaElFLTk0R2hrNEg5Y1dTcEMtQ251bkJKR2FleVN1RFdyelFZMm5OMFdtOGRCMjdsNFpEWnJwaHBicG1RZnREZTcyQ0F1a21uMXdPcjlMTkVGekk1TTR1SFBVSUhkeE1VWEVzeDVPa0p6NFYwUQ?oc=5",
+                "source": "The Northern Miner",
+                "is_premium": false
+            },
+            {
+                "title": "Trafigura poaches Codelco commercial executive in fresh shakeup - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZDR0bllRX2xwa1ptYkQtckRiLUpCWGFuaGJaRzJUQW1JNEJKSWd2bDJuWWpEaDg4bDNnODNHdHc3QXJpcmZqNnJjMmF0WHd5X21tN1dzNWNTQVVodTJjS0NsVy1PZUhITjFOQkFtQ3ZfM3pmdmxvNUQwazduMl9ucjEtRmowSzRTNnVod1Noa1Q?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Ivanhoe Mines backs AI for Angola copper exploration - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjdVRXNveGJ6djRYR2VaZ3FWNm5qRG15WElYSjB4RlhQWDc3TWhvbk5BRGlOZGplWEdwNDZ3N0pyeVM4NzN2TkUwYm9MSl8tN1ZiVVVJZl8xMC1MVVo0c2s5TW5FQ3QxckZqMG5xSEdZYkp0YVk2SGlDSm9jU05DQg?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Why Southern Copper\u2019s Risks Could Look Smaller Inside ETFs - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDJoR0ZfQnlxOGNxQ1JOWlNDV3lSaldyLXo0T3pNem10dTZ2cWstNENpRjB5QzRQTHlEektnYURPRGplSk1PSVBWQzVod3pPbmpWR1JHNUNzaWhCSlFjYnVXZS1IM1BTQTRLOTVMZnc2NTMxWTNXR0tNaXBFbmhqMnNBTk03NnZSaTdXMVl6M2ZjM2RZZUQtbzVMRnE?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Aterian signs exclusivity deal for Moroccan copper projects - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmpOTGMxMjdNRU5NcXY2NnZrTVludzdSS3piUEVvODlWUUxzd1ZHM2lfeEdFVnBMWGNBdXNZZXhNZzgyekJ1cElWcmdGZUlwbjFSMHdBMmVWb1cxcndMekRpei1zSW5Ua0FWTG5SNllkbEF3dmMtcTh1SDBHU3psbXN4X1RSWlV6a1E?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Road paves way to Ben Nevis drilling - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UUUhNQzVJeTltY1NLNVBoUlotTEZ6OWQ4VGJxN1A0N0JnQTZGeld6dllid1lwUWRWeDlsWTRzalZ6Q0VXX2dRWWdtWnNKQTdmNkNiejNGTEljTnh6WUw3NV82d1ZnRHFfQzJ2SUFIM3lCTE1R?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Copper Supply Constraints Are About Price and Policy, Not AI - Discovery Alert",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEN2b21nTVEtY29hbmZtMWJiNTc2Rk00M3VYdWFwQ1JlNk5jQWtzUlpQcjlTVUZ4VElhRlpTdGVockdtZDdoYmxwTmZhMldPeUMtY1UtWjd2V3ZscXhKMkRveUc1MW5YYlJuajhuVm9TUzMtS2s5QXdMUU96ZDg0YnM4NFUxRXJOMGU5WXhWR0Nzb2s?oc=5",
+                "source": "Discovery Alert",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper temporarily suspends mining and processing at Tucum\u00e3 - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGYwejRSM1VqdVlMMFdpRy1GNVJXR3ktUU9hNFZKSHU3bDdNZ0lZVVF6UXBOTjVfOFlMRm1mSnB5UWp2d19BS3NTSjlZSWV2Z0UyX3hZSmNZNWJFcWIyT2R6dGlGeEQtcHRFbHZqRDhUakxQYXZPX0lOX09PUXYyZWtPc3Y3VndaRzRrYw?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "Codelco Loses Commercial Boss to Trafigura in Latest Shakeup - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2VCUVlFLWtQeHlya2p6YXU4aVhqMFQ1LUptdWJiNEdkOHh0Wlhtd3g1VEw4aXNHbVRGQ1RKcHlfNm9zOWxlNjZnb1NnOHh4NkVmMTJ1RmFOVXhsU29sV0ZZRDNaem1UakN0SjNGTjlTYVVpNUhUSWpkUFpGbElFZHRDcmt6SFdJYm1UYjN6cHNxN2FjaTNyU3Q0dTFMcDlmd0dRY0RXU0QtQWE5WkRTXw?oc=5",
+                "source": "Bloomberg.com",
+                "is_premium": true
+            },
+            {
+                "title": "Chinese tin, copper miner pilots remote underground tech - Mining Magazine",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEhqNzlSMElGS2xwQ0xuVWZLajBQVGxXUEh3d3hMc1ZDdVBZVEF3VXU0UlloVUFhNHJZSFQ2RTFYVllSWVdmd0Rpc0RrcXdPN2MyNUNuYVNRMWxzSXdFS1dZc2RPLWxSOWpLN1RuUDVabXNxbHF0Z1h2cGhDMWZQNWRCQm1GZGxqQTE4cHRwTHRmekZMZFR1RVliUTdRSG5QRW80X0VWM0JIOS1SNnlLcTc5VlNKa2ZHZktB?oc=5",
+                "source": "Mining Magazine",
+                "is_premium": false
+            },
+            {
+                "title": "TSX futures rise on strength in gold, copper - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaE0taklTTUQwOHhHZmlyRWRya2xyVm1DVUUyNkZYN0hXMEpQMGpSMmhWdG9uOTNzU2JFMDFXbDRrZDJKWkVncmtHRU93eC1sZW1Rd0hJQkg3RU01a2RwMHJ4YVFYVTcyQVhXcElLSnRsemJXR0pIQWp6Rll4V1dpbmZEVU1PLUFHcmZQbGxuTlJTdw?oc=5",
+                "source": "Reuters",
+                "is_premium": true
+            },
+            {
+                "title": "Congo closes in on Chile\u2019s long-held copper crown - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDVTeExsN0prVTNIem1XUkFnN3RZd2dOUXJHS0Uxc1hpcllGUF9MT0VLYV9sMnhWUW5paFowdFR4bkhIQzFabW9JU3VCZ3JfWnpaVmpHZl9iRUNMd254dEVPbTdDeWZwQVZ5MFRIMDU5RWF0NnM1SHliN0I2T1ZscWxxOWN3ZlE?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            },
+            {
+                "title": "Consolidated Copper Corp to host cycling challenge at historic Namibian mine - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOal9TVVVQcmNwLXE3TXllckxpMk12a1lqQWctdVktSXRtdWczZFczOE50SGRvclpNUnAwRFRqYlcxTjJZbVNMZFBERWlJR3ZTcjFBTUFIT0NodVBfQU1wNC1PLUlxcWJrbzBodWVRU2V0Qmg2OEJhUWFtQ1BscjBxNFdtMHkyOVdFZWxpVlBwTFhxRVdaZ2dGSGx4STBUc2FJMVJpclB4QWNiTzktaGJRVGhyaFdJVWdDUVVIU0pQLTh6Zw?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "FTSE 100 miners rally for second straight day as copper and gold recover - Yahoo Finance UK",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFI2WjRrQklEUWNRR3QwRlJRbDhIdzU4YmxpbkZqUjV2bnI2dEIzanpkbHp4cVJGc0pVUndLRU9DdFJWNGJNVFVvbV9LVjNfSVBTN004akxrdTAwLW56V2hOZDEzTkpFTDUtTXR2MTJ4OFhMZ0tFTzdMVEp1anRwZjFFSQ?oc=5",
+                "source": "Yahoo Finance UK",
+                "is_premium": false
+            },
+            {
+                "title": "Ero Copper suspends Tucum\u00e3 copper mine to resolve rainfall-induced issues - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFlmcEdCTVBnOWFHaS1sVkNMV1NKY3hrS1RSQktUbkJuc0s1U3pTQjdCaWJfelFjaEozQUdCV1FWZ1VFRVhiXzJKalVXRjJRcGhGdzBGM0ptY3hOemNtazdlOHkxRi1PYW1QVkI1amdFUE1hTUJOaGxTMEl3OWwtaWtNUDcyMDUwaWxCN2RfYklZTFhXTW5IYWg3NzlRZDkxS2tVeDFRRDc4UXMzZTEtYWR1RVhWRW92SG5kWQ?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "BHP\u2019s deposit that can turn SA into world\u2019s greatest mining province - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMUdPUkdJWk1lOVJmb3lvdGhnc1VKekhXNGM4TGh4WG5Id3FpVXlmeXFJcU40QnYwOEpnWEJTOEZLQU9LcGJ0ZzFSUVNvUXRiVFlYUWZkaXRXX1EyNXhxcXVPTWFsWjZLS2VodUJ5MmxUM0h3d29RejU4cFhFT3pFMzNoY1RMbHZUX2JSMmZlWm1OaTZ3TEJjbTltckk3TFk2MW4zM01JMWRQUGRETVBTR0VLaVRnSkJjSkN4UUJndU5sOHFod0ZLeFZtdWlrYjV6MW1scVJITl9sMGVhSldtdVZFM0F0Sml1R0p1NDMwSWxIRmptNlJibUdTdVNwaXBGb2c?oc=5",
+                "source": "The Australian",
+                "is_premium": false
+            },
+            {
+                "title": "Gold grade from world\u2019s deepest mine up 10% to 11.55g/t - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkxJZFFyNzFyemQ2NGZ6NjhvRDhUaU9TcVNBLWtXbXB0QU9EQWtBenZKSjlrUlBPR1hTVTNPNlpHR21nRmFka2tBbnR3SHgxS2M2emdneVU4a3dIUllUb01XX1FkY2JhQXd3LUpxTTZSQ1FVY2FON0J2ZmVfTDByY1o0TEduRWpwYjdqbW5VeHdOVVZKMFVwWlpMU3V1dWRp?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Copper and iron ore rise as markets digest US tariff plans - Mining.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEV4TUUtWkJNLUN1ZzJzZTkzbWZvWXhLNU1EM3FUUVFoZE5oc3I0elNkU2x0WTU5UWRMWkhrWDEtc28zMFFyZGttMkNSRHBldlhyOW0xbWpHTVpDNnlIcW1mVC1UalU0M2IxTDZVWUxhdHJhYmpMR05pMG9UX3JMX2NXUG9Ybll1?oc=5",
+                "source": "Mining.com.au",
+                "is_premium": false
+            },
+            {
+                "title": "Will Southern Copper Deliver Further Adjusted EBITDA Growth? - Yahoo Finance",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3VCNlpvZjlsTTktbWdmc1pwbGdzMVlsN0xXY1ZDeW1pYUk1b0cxd3BabS1SdWtyX1Z4a0dqbWxCTmVUWDRtc0UxSmhMM1BjVW5HSE02SExBZ0dpOUhvTHFOSWZyNzJHMmxFN1NIODE4aWdBaEtkRFM4VzJTRXlmREUwV0hEX1pYZVJpdEpPWkdvYm5lUnAtNmZyWWtraWRMOXlkelBqRlA?oc=5",
+                "source": "Yahoo Finance",
+                "is_premium": false
+            },
+            {
+                "title": "GeoIntelX, Ivanhoe announce innovative breakthrough in support of extensive Angolan copper exploration - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRnZZQmJKMTVEYWVQbS15bUYzMjN5NGI0SWlXMExxckt0WF9UMDJ0VlFEckl3T0NkRjljT2ZoR0w5bGp2eWdUSEwzSUNONnhNRTZvRVljeUFoQk9jcWNXWW5RTGJLeW9RbHNyTm52dVYwZEFpSldaTjhEQWc4ak1ZeDdOVlpmZjYzRjBPNEZnZDF0bXFFX1dJdTdCeFpOYVpGQWZ3NmducktsTURQT0ExUUNZNEZUeWxZbExGY1VKa201dmNlSkRadVFsSDl0a2JVZE5xWGF0cU10YVdGZGFrbmJoNA?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Commodities: Oil Extends Rally As Copper Rebounds - Seeking Alpha",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTm9HUHYzTVdOWnhvbDBwUDUteDNjWkRpekdJcE9xa1d6RzdTQjUxWGJ6THRZay1zcnZJeUplVUI4d0prYk1DZ0NjNEdzcXBvQWd2ek5wX3hwbFI5NGUxNGkwcmxMbmhDa01rVmJSQjBseE15VzJiLWFoVG51aGV2ZzlYSTREdS02X3Z2V1l4SElFeVhGaHJUMmdnUFppMGlza19NN1RLU0xaR0J3amlqYjlJc0kyX3I3?oc=5",
+                "source": "Seeking Alpha",
+                "is_premium": false
+            },
+            {
+                "title": "Aterian signs due diligence, exclusivity agreement for Morocco copper projects - Mining Weekly",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDhUQ0JIQUhQVkhSRWljNWl6N01kYko5R19CM1FER0RQSkRZTm9VZW5YM0pwX0dhT1hrUUdIZXBDZE5jNjJuVDhXbnZFemRwNnEzd2hWNXJiYXZkQ2Z0aURDdzRfRjF0WEJVX0J3TWZBRXZJdjYza1FoZFYwajNocDR4LUFJOUJ3MW9oSGVvbnpRVHo5SUNoenZ1aFN5dXBIRjd4WTJNU1ZIUEFWWkJZNURLQ1lwR3Y1SkI0V05wZUxtOWs?oc=5",
+                "source": "Mining Weekly",
+                "is_premium": false
+            },
+            {
+                "title": "Can price floors fund rare earth projects beyond China? - Mining.com",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBIOVFyVVVJM2tmQXZGM1VsckNpTjFuRmlGWlV1eUhnNkNBRkxOdTgxa004MC00eVdKdEdxZF9zRDRpczZ3YlExbk9maFJDYkpHb0VpSU5OdVFCcTdEUjVPTjBPOGNWQlVaVElWaUZMR3pUd1FWMDVSOWs1TUw2dWJWTk4?oc=5",
+                "source": "Mining.com",
+                "is_premium": false
+            }
+        ]
     }
 }
